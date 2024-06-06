@@ -8,6 +8,8 @@ from langchain.chat_models import ChatOpenAI
 from langchain.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
 import os
+from dotenv import load_dotenv
+load_dotenv()
 VALID_API_KEYS = {os.getenv("FLASK_API_KEY")}
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 app = Flask(__name__)
@@ -32,7 +34,7 @@ def chat_scale_ai(query):
         chat_hist_dict = {}
 
     PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    loaded_db = Chroma(persist_directory='./chromadb', embedding_function=OpenAIEmbeddings(model="text-embedding-ada-002"))
+    loaded_db = Chroma(persist_directory='./chromadb', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
     llm = ChatOpenAI(model_name='gpt-4', temperature=0.1)
     question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
     doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
@@ -72,4 +74,4 @@ def ask():
     return jsonify({"answer": answer})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
