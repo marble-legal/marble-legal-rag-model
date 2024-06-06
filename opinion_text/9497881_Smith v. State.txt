@@ -1,0 +1,626 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                         S24A0236. SMITH v. THE STATE.
+
+
+        PINSON, Justice.
+
+       Truman Harry Smith shot and killed Johnny Crawford while
+
+the two were hanging out with friends. At trial, Smith claimed he
+
+killed Crawford in self-defense. But the jury rejected that defense
+
+and convicted Smith of felony murder and other charges. On appeal,
+
+Smith contends that the trial court should have allowed him to tes-
+
+tify that he suffered from post-traumatic stress disorder (rather
+
+than allowing him only to describe his symptoms), and that the trial
+
+court should not have allowed the State to impeach him with his
+
+prior charge for impersonating another under Article 134 of the Uni-
+
+form Code of Military Justice. But the rule of evidence that Smith
+
+claims should have allowed him to testify that he had post-traumatic
+
+stress disorder—a hearsay exception for statements for the purpose
+ of medical diagnosis—does not apply to medical diagnoses them-
+
+selves, and any error in allowing the State to ask about Smith’s mil-
+
+itary charge was harmless. So we affirm Smith’s convictions and
+
+sentence.
+
+      1. Smith was convicted of felony murder and other crimes in
+
+connection with the shooting death of Crawford.1 The evidence at
+
+trial showed the following. 2
+
+
+
+      1 The shooting happened on September 15, 2016. On August 16, 2021, a
+
+Dekalb County grand jury indicted Smith for malice murder, felony murder
+predicated on aggravated assault, aggravated assault, and possession of a fire-
+arm during the commission of a felony. Smith was tried by a jury from August
+16 to 20, 2021. The jury did not reach a verdict on the malice murder count,
+but it found Smith guilty of the remaining counts. Smith was sentenced to life
+in prison for felony murder and a consecutive five-year prison term for posses-
+sion of a firearm during the commission of a felony, for a total sentence of life
+plus five years. The aggravated assault count merged into the felony murder
+count for sentencing, and the trial court dead-docketed the malice murder
+count. Through new counsel, Smith filed a timely motion for new trial, which
+he amended twice. On July 17, 2023, the trial court denied the motion for new
+trial, as amended. Because the dead-docketed malice murder count rendered
+the judgment non-final, see Seals v. State, 
+311 Ga. 739
+ (
+860 SE2d 419
+) (2021),
+the trial court also granted a certificate of immediate review, and we subse-
+quently granted Smith’s application for interlocutory appeal. Smith filed a
+timely notice of appeal. The case was docketed to the term of court beginning
+in December 2023 and submitted for a decision on the briefs.
+       2 In light of the harmless-error analysis we undertake in Division 3 of
+
+this opinion, “we review the record de novo, and we weigh the evidence as we
+would expect reasonable jurors to have done so as opposed to viewing it all in
+the light most favorable to the jury’s verdict.” See Moore v. State, 
+315 Ga. 263
+,
+264 (1) n.2 (
+882 SE2d 227
+) (2022) (citation and punctuation omitted).
+                                       2
+      On the night of the shooting, Smith, Crawford, and two other
+
+men, Dulles Smith (Smith’s cousin) and Randy Castillo, met up at
+
+Castillo’s home. Dulles and Castillo had known each other for years,
+
+and both of them also knew Smith and Crawford, but the evidence
+
+conflicted as to whether Smith and Crawford met for the first time
+
+that night (as Smith said) or had known each other before (as Dulles
+
+and Castillo said). At Castillo’s house, the four of them sat in the
+
+back of Crawford’s truck drinking beer and tequila and smoking ma-
+
+rijuana. At first the group was relaxed, laughing and joking. But at
+
+some point Smith pulled out a handgun and pointed it at Crawford.
+
+Castillo and Dulles asked Smith what he was doing. Smith replied,
+
+“Man, my fault. I’m tripping, man,” and said he was going to put
+
+away the gun. Smith went over to Dulles’s car, then returned to the
+
+back of the truck, where he resumed talking with the group.
+
+     Some time after that, Smith pulled out his gun again and shot
+
+Crawford in the face. The evidence conflicted as to whether this hap-
+
+pened right when Smith rejoined the group (as Smith said), or some-
+
+
+
+                                 3
+ what later after he temporarily reconciled with—and even em-
+
+braced—Crawford (as Dulles and Castillo said). Dulles saw the
+
+shooting. Castillo, who had just gotten up to go inside, did not see it,
+
+but when he looked back he saw Crawford “falling” into the tailgate
+
+of his truck and knew Smith was the shooter because he was the
+
+only one with a gun when the shot was fired. Neither Dulles nor
+
+Castillo recalled any argument between Smith and Crawford before
+
+the shooting.
+
+     Dulles immediately drove Smith back to Dulles’s house, where
+
+Smith got in his own car and left. Dulles then returned to the scene
+
+of the shooting. Castillo, meanwhile, had rushed inside and called
+
+911. When investigators arrived, Dulles told them that Smith was
+
+the shooter. Five days later, Smith was pulled over for speeding in
+
+Missouri. The Missouri officer ran Smith’s driver’s license, learned
+
+that a warrant for his arrest had been issued in Georgia, and placed
+
+him under arrest.
+
+     Smith testified in his own defense. He admitted he shot Craw-
+
+ford, but he said he did so because he feared for his life. Smith said
+
+                                   4
+ the first time he pulled out his gun was in response to Crawford’s
+
+threat to rob him like he had robbed “other country mother****ers.”
+
+Smith showed Crawford his gun at that point as part of a “de-esca-
+
+lation” technique he had learned in the military: “shout, show,
+
+shove, shoot.” The situation de-escalated, and Smith put away the
+
+gun and walked away to calm down. But after Smith came back to
+
+the group, Crawford said, “[Y]ou’re not the only mother****er with
+
+a gun,” and reached behind him. Smith knew Crawford had a gun
+
+and that he was a “Blood gangbanger.” He shot Crawford to “elimi-
+
+nate[ ] the threat.” Smith then fled the scene because he feared
+
+“more Bloods were coming out.” Later, he left the state to see a friend
+
+in Las Vegas. When he was arrested in Missouri, he was on his way
+
+back to Georgia to “take care of business.”
+
+     2. Smith contends that the trial court erred by not allowing him
+
+to tell the jury that he suffered from post-traumatic stress disorder
+
+(PTSD) and instead allowing him only to describe his symptoms.
+
+Smith had indicated before trial and in his opening argument that
+
+his defense would rely at least in part on the effects of PTSD on his
+
+                                  5
+ mental state, but because he did not introduce a medical expert or
+
+other evidence to establish the diagnosis, the State objected to Smith
+
+testifying about PTSD. The State argued that Smith was not a med-
+
+ical expert and could not testify about a medical condition. But
+
+Smith’s counsel argued that Smith had been diagnosed with PTSD
+
+by two physicians, “and so he should be allowed to testify that he
+
+has PTSD based on that diagnosis.” The trial court agreed with the
+
+State and ruled that Smith, as a lay witness, could not testify about
+
+a “clinical medical diagnosis,” but that he could describe his symp-
+
+toms. Smith then testified that he had served in combat in Iraq,
+
+where, among other things, he was trained to “identify the threat
+
+and eliminate the threat.” Since his return home, he remained “hy-
+
+pervigilant.” He had trouble concentrating, was sensitive to loud
+
+noises, avoided having his back to doorways or having people behind
+
+him, and had nightmares from which he “would wake up yelling,
+
+gasping for air.” He also told the jury that he was prescribed antide-
+
+pressants and pills to control his nightmares, but they did not help,
+
+so he self-medicated with marijuana.
+
+                                  6
+      Because Smith made the substance of his proposed testimony
+
+known to the trial court and received a definitive ruling on the rec-
+
+ord, the issue is preserved for ordinary appellate review. See OCGA
+
+§ 24-1-103 (a); McGarity v. State, 
+311 Ga. 158
+, 162 (2) (
+856 SE2d
+
+241
+) (2021) (“to preserve an objection to the exclusion of evidence the
+
+proponent must either make an offer of proof or otherwise ensure
+
+that the reason for offering the evidence in question is apparent to
+
+the trial court” (cleaned up)).
+
+     On appeal, Smith contends that his PTSD diagnosis is a hear-
+
+say statement and that it is admissible under an exception to the
+
+general rule of hearsay. Hearsay is a “statement, other than one
+
+made by the declarant while testifying at the trial or hearing, offered
+
+in evidence to prove the truth of the matter asserted.” OCGA § 24-
+
+8-801 (c). Hearsay is generally not admissible, see OCGA § 24-8-802,
+
+but it may be admitted if it falls under any of several statutory ex-
+
+ceptions. See id. One of those exceptions applies to out-of-court state-
+
+ments “made for purposes of medical diagnosis or treatment and de-
+
+
+
+                                   7
+ scribing medical history, or past or present symptoms, pain, or sen-
+
+sations, or the inception or general character of the cause or external
+
+source thereof insofar as reasonably pertinent to diagnosis or treat-
+
+ment.” OCGA § 24-8-803 (4) (“Rule 803 (4)”). In Smith’s view, his
+
+PTSD diagnosis fits that exception, and the trial court was wrong to
+
+exclude it.
+
+     The trial court did not err by excluding Smith’s hearsay state-
+
+ment that he had PTSD, because the hearsay exception of Rule 803
+
+(4) does not apply to medical diagnoses. Instead, the rule applies to
+
+out-of-court statements that patients make to medical professionals
+
+to help the patients get a diagnosis or treatment. The rule refers to
+
+statements “describing medical history, . . . symptoms, pain, or sen-
+
+sations, or the inception or general character of the cause or external
+
+source thereof.” OCGA § 24-8-803 (4). Those are things a patient
+
+would tell a doctor—some of which are uniquely within the patient’s
+
+knowledge, like his “pain” and “sensations”—when he is seeking
+
+treatment for a complaint or ailment. Such statements are admissi-
+
+ble despite being hearsay because the patient has an incentive to tell
+
+                                  8
+ the truth under those circumstances. See State v. Almanza, 
+304 Ga.
+
+553
+, 561-562 (3) (
+820 SE2d 1
+) (2018) (“[S]tatements made to a pro-
+
+vider for the purpose of diagnosis or treatment may be admissible
+
+because the self-interested motivation of the declarant in wanting
+
+effective diagnosis or treatment . . . makes it more likely that the
+
+statements made for that purpose are true.”) (citing White v. Illinois,
+
+502 U.S. 346
+, 356 (112 SCt 736, 116 LE2d 848) (1992)). And when
+
+we apply Rule 803 (4), we ask whether the statement in question
+
+enjoys the “guarantee of trustworthiness” that comes from a pa-
+
+tient’s desire to get the right treatment when he describes his symp-
+
+toms to a medical professional. See Smith v. State, 
+309 Ga. 240
+, 245
+
+(2) (b) (
+845 SE2d 598
+) (2020) (quoting Almanza, 
+304 Ga. at 559
+ (3))
+
+(a statement may be admissible under Rule 803 (4) if (1) the “declar-
+
+ant’s motive in making the statement is consistent with the pur-
+
+poses of treatment” and (2) the statement is of a type “reasonably
+
+relied upon by a physician in treatment or diagnosis” (emphasis
+
+added)). All of which is to say that the language of Rule 803 (4), the
+
+justification behind it, and our case law applying it all confirm that
+
+                                  9
+ it generally applies to statements made by patients to medical pro-
+
+fessionals, not to the resulting diagnoses.
+
+     Smith points out that we expect doctors to be honest with their
+
+patients, just as we expect patients to be honest with their doctors,
+
+so Smith repeating a diagnosis he was given by a doctor should have
+
+the same hallmarks of reliability that allow other types of hearsay
+
+to be admitted at trial. But the justification for Rule 803 (4)—the
+
+“guarantee of trustworthiness” that attaches to a patient’s factual
+
+description of his symptoms—does not apply in the same way to a
+
+diagnosis, because a doctor’s diagnosis is generally considered an
+
+expert opinion, not a factual assertion. See, e.g., OCGA § 24-7-701
+
+(a) (3) (a witness may not give an opinion that is “based on scientific,
+
+technical, or other specialized knowledge” unless she is qualified as
+
+an expert); OCGA § 24-7-704 (b) (restricting an “expert witness tes-
+
+tifying with respect to the mental state or condition of an accused in
+
+a criminal proceeding” from opining on whether the defendant had
+
+the required mental state to be guilty of the charged offense); Mid-
+
+dlebrooks v. State, 
+315 Ga. 671
+, 689-690 (2) (b) (
+884 SE2d 318
+) (2023)
+
+                                  10
+ (discussing various mental health experts’ opinion testimony about
+
+the defendant’s diagnosis); Adams v. State, 
+275 Ga. 867
+, 870 (
+572
+
+SE2d 545
+) (2002) (Carley, J., concurring) (“[s]ince paranoia and
+
+schizophrenia are medical terms relating to mental disorders, only
+
+a qualified expert such as a psychiatrist, psychologist, or medical
+
+doctor would be competent to diagnose and define such a mental dis-
+
+order” (citation and punctuation omitted)).3 Expert opinions are just
+
+that—opinions—and are subject to different standards of reliability
+
+and trustworthiness that govern their admission. See generally
+
+OCGA § 24-7-702 (discussing qualifications for experts and expert
+
+opinions). We have never, so far as we can tell, applied Rule 803 (4)
+
+to determine whether an expert opinion was admissible. 4
+
+
+      3 To be clear, while a diagnosis is generally an expert opinion, doctors
+
+and other medical professionals can also provide fact or lay testimony. See
+McKelvin v. State, 
+305 Ga. 39
+, 42-43 (2) (b) (
+823 SE2d 729
+) (2019) (distinguish-
+ing between a doctor testifying about his drug-testing decisions and offering
+his opinion on whether the defendant could have been on substances that were
+not tested for, which would be expert testimony, and the doctor merely report-
+ing the results of the drug tests that were performed, which could be lay testi-
+mony).
+      4 To the extent that a patient’s past diagnosis is a fact that could be es-
+
+tablished by a lay witness—a question we do not decide here—Smith did not
+seek to introduce his diagnosis that way. He offered no authenticated medical
+
+                                       11
+       In sum, Rule 803 (4) has consistently been applied to allow the
+
+introduction of statements made to medical professionals, not med-
+
+ical diagnoses, and Smith cites no authority (nor are we aware of
+
+any) supporting the introduction of a medical diagnosis under that
+
+rule. The trial court therefore did not err by preventing Smith from
+
+testifying that he had PTSD.
+
+      3. Smith also contends that the trial court erred by allowing
+
+the State to impeach Smith with his prior charge under the Uniform
+
+Code of Military Justice (UCMJ). We review a trial court’s eviden-
+
+tiary rulings for abuse of discretion. See Eubanks v. State, 
+317 Ga.
+
+563
+, 584 (6) (
+894 SE2d 27
+) (2023).
+
+      Smith had called a character witness, Jerry Mike, Smith’s for-
+
+mer sergeant from the military, who testified that he would believe
+
+Smith if Smith testified under oath. On cross-examination, the State
+
+asked whether Mike’s opinion would change “if [he] learned that
+
+
+
+record or other proof of a past diagnosis. See OCGA § 24-7-701 (a) (defining the
+limited circumstances in which a lay witness can provide testimony “in the
+form of opinions or inferences”). Instead, he sought to testify that doctors had
+told him he had PTSD. And as discussed above, he argues that the hearsay
+exception of Rule 803 (4) allowed him to do so.
+                                      12
+ Truman Smith has been charged in the military with fraudulent use
+
+of another’s identity to avoid arrest or detection under Article 134 of
+
+the Uniform[ ] Code of Military Justice.” Smith objected that he had
+
+never been convicted of that charge, so it was not properly admitted
+
+as impeachment evidence. See OCGA § 24-6-609 (allowing for a
+
+criminal defendant to be impeached with prior convictions under
+
+certain circumstances). But the State argued that the question fell
+
+under OCGA § 24-6-608 (b), which allows a party to impeach a wit-
+
+ness with “[s]pecific instances of the conduct of [the] witness” if the
+
+conduct is “probative of truthfulness or untruthfulness.” The trial
+
+court overruled the objection based on OCGA § 24-6-608 (b), and
+
+Mike then testified that the UCMJ charge would not change his
+
+opinion of Smith’s truthfulness.
+
+     When a witness has testified about the truthful character of a
+
+second witness, as Mike did for Smith, the first witness (here, Mike)
+
+can be cross-examined about specific instances of the second wit-
+
+ness’s conduct (here, Smith’s conduct) that are probative of the sec-
+
+ond witness’s character for truthfulness. See OCGA § 24-6-608 (b)
+
+                                   13
+ (2). But Smith points out on appeal that his UCMJ charge for fraud-
+
+ulent use of another’s identity did not contain any information about
+
+Smith’s conduct that led to the charge, only that he was administra-
+
+tively discharged from the military as a result. In Smith’s view, that
+
+means the UCMJ charge is not a “specific instance[ ]” of conduct un-
+
+der OCGA § 24-6-608 (b) (2).
+
+     Assuming without deciding that Smith is right that it was an
+
+abuse of discretion to allow the State to ask Mike about the UCMJ
+
+charge, the error was harmless. A non-constitutional evidentiary er-
+
+ror is harmless if it is “highly probable that the error did not con-
+
+tribute to the verdict.” Talley v. State, 
+314 Ga. 153
+, 160 (2) (
+875 SE2d
+
+789
+) (2022). That test is satisfied here. At trial it was undisputed
+
+that Smith fatally shot Crawford, so the only question was whether
+
+he did so in self-defense. Both third-party eyewitnesses, Dulles and
+
+Castillo, testified that they did not recall any argument between
+
+Smith and Crawford and that Smith shot Crawford suddenly and
+
+without provocation. The only evidence to counter Dulles’s and Cas-
+
+tillo’s accounts was Smith’s self-serving testimony that Crawford
+
+                                  14
+ had threatened him and appeared to be reaching for a gun. Com-
+
+pared with that mix of evidence, the fact that Smith had been
+
+charged with the non-violent offense of impersonating another was
+
+highly unlikely to have swayed the jury against him. Indeed, Mike
+
+even testified that the UCMJ charge would not affect his opinion of
+
+Smith’s truthfulness, which the jury could have viewed as mitigat-
+
+ing against any prejudice the revelation of the UCMJ charge may
+
+have caused. Because the UCMJ charge was highly unlikely to have
+
+made a difference given the evidence as a whole, any error in allow-
+
+ing the State to ask about it was harmless. See Johnson v. State, 
+316
+
+Ga. 672
+, 683-684 (4) (c) (
+889 SE2d 914
+) (2023) (harmless error to
+
+admit single pre-autopsy photo of victim given strong evidence of
+
+defendant’s guilt and the fact that the photo was less graphic, and
+
+thus less likely to sway the jury, than other evidence); Young v.
+
+State, 
+309 Ga. 529
+, 536-538 (3) (
+847 SE2d 347
+) (2020) (harmless er-
+
+ror to admit photo of defendant holding a gun where evidence of de-
+
+fendant’s guilt was strong and the evidentiary value of the photo
+
+was “marginal”).
+
+                                 15
+ Judgment affirmed. All the Justices concur.
+
+
+
+
+                           16
+ 

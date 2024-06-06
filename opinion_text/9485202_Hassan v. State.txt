@@ -1,0 +1,701 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: March 19, 2024
+
+
+                        S24A0026. HASSAN v. THE STATE.
+
+
+       ELLINGTON, Justice.
+
+       A Fulton County jury found Muhammad Hassan guilty of
+
+participation in street gang activity, murder, six counts of
+
+aggravated assault, and firearms charges in connection with a drive-
+
+by shooting that resulted in the death of Amira Cameron.1 Hassan
+
+
+       1 The shooting occurred on October 4, 2015. On March 18, 2016, a Fulton
+
+County grand jury returned an indictment charging Hassan and Jamaris
+Zinnerman with participation in criminal street gang activity through
+commission of the offenses of murder and aggravated assault with a deadly
+weapon (Count 1); malice murder (Count 2); felony murder predicated on
+aggravated assault with a deadly weapon (Count 3); aggravated assault with
+a deadly weapon against Amira Cameron (Count 5); and possession of a
+firearm during the commission of a felony (Count 13). The grand jury also
+indicted Hassan and Zinnerman with aggravated assault with a deadly
+weapon against Myles Cameron (Count 6), Jeremecia Perry (Count 7), Jamario
+Calloway (Count 8), Aquantis Hillman (Count 9), Dujuan Terry (Count 10),
+Terrene Ja’Quan Perry (Count 11), and Josiah Wade (Count 12), and
+possession of a firearm during the commission of a felony (Count 13). The grand
+jury indicted Hassan individually with possession of a firearm by a first
+offender probationer (Count 14) and an additional count of felony murder of
+Amira Cameron (Count 4) predicated on the weapons charge. Hassan and
+ contends that the trial court committed plain error by allowing
+
+hearsay evidence regarding a prior drive-by shooting. In addition,
+
+Hassan contends that the trial court committed plain error in failing
+
+to instruct the jury about the State’s “heightened burden of proof
+
+under OCGA § 24-14-6,” which requires the exclusion of every
+
+reasonable hypothesis other than guilt when the case against the
+
+accused rests entirely on circumstantial evidence. For the reasons
+
+explained below, we affirm.
+
+      Pertinent to Hassan’s arguments on appeal, the evidence
+
+presented at trial showed the following. At approximately 8:20 p.m.
+
+on October 4, 2015, a gold- or champagne-colored Chevrolet Malibu
+
+entered the parking lot of the Oakley Shoals Apartments in Fulton
+
+
+
+Zinnerman were tried jointly in May 2019. The jury found Hassan guilty on
+Counts 1 through 7, 9 through 11, 13, and 14; the State entered nolle prosequi
+on Counts 8 and 12. The jury also found Zinnerman guilty of Counts 1 through
+3, 5 through 7, 9 through 11, and 13. On May 28, 2019, the trial court sentenced
+Hassan to serve life in prison plus 25 years in prison. The trial court
+determined that Count 5 merged for purposes of sentencing. The trial court
+also declared that Counts 3 and 4 were vacated as a matter of law. Hassan filed
+a timely motion for a new trial, which he amended on July 15, 2021, June 1,
+2022, and March 27, 2023. After a hearing on March 29, 2023, the trial court
+denied Hassan’s motion for a new trial on April 7, 2023. Hassan filed a timely
+notice of appeal, and the case was docketed in this Court to the term beginning
+in December 2023 and submitted for a decision on the briefs.
+                                       2
+ County. Quin Vann, a resident of the complex, testified that she
+
+heard gunfire outside of her apartment that night. She ran out to
+
+see what had happened and saw a champagne-colored Chevy Malibu
+
+with all its windows down drive past and then exit the parking lot.
+
+Vann called 911 to report the shooting at 8:21 p.m.
+
+     When the Malibu entered the parking lot, several teenagers
+
+who were friends and acquaintances from around the neighborhood
+
+were standing near the entrance. The group included Aquantis
+
+Hillman, Amira Cameron, Myles Cameron, Ja’Quan Perry,
+
+Jeremecia Perry, Dujuan Terry, and others. Five members of the
+
+group testified at Hassan’s trial.
+
+     Myles Cameron testified that there were four or five people in
+
+the Malibu, all of whom appeared to be staring at his group through
+
+the passenger-side windows as the car drove slowly by. Terry and
+
+Hillman also testified that they saw four or five people in the car,
+
+and all of them had their heads turned in the group’s direction as
+
+they drove by. Uneasy, the group of teens crossed to the other side
+
+of the street. Myles Cameron testified that Terry retrieved a “.38
+
+                                     3
+ revolver” from Perry’s bookbag and held it at his side, although
+
+Terry testified that he did not have a gun and Perry testified that
+
+she did not have a bookbag or a gun with her that night. Myles
+
+Cameron, Perry, and Hillman testified that the driver of the Malibu
+
+turned around at the far end of the parking lot, turned off the
+
+headlights, and drove back towards the group. Hillman testified that
+
+the Malibu’s windows were open and at least two occupants of the
+
+car were holding guns out of the front and rear passenger-side
+
+windows. The car’s occupants then started shooting in the teenagers’
+
+direction. Myles Cameron’s 15-year-old sister, Amira Cameron,
+
+received a fatal gunshot wound to the right side of her head;
+
+everyone else in the group escaped injury.
+
+     At the time of the shooting, Jamaris Zinnerman, a member of
+
+the Smash Krew Billy Gang (“SKBG”), was under court supervision
+
+and wore an ankle monitor that included a GPS transmitter.
+
+Records from that transmitter showed that at 8:19 p.m. Zinnerman’s
+
+monitor was at the entrance of the Oakley Shoals Apartments and
+
+then was in the parking lot where the shooting occurred at 8:20 p.m.
+
+                                 4
+ The transmitter records showed that the monitor was on a nearby
+
+parkway leaving the scene at 8:22 p.m.; was at South Fulton
+
+Hospital on Cleveland Avenue at 8:34 p.m.; left that hospital at 9:40
+
+p.m.; and arrived at Atlanta Medical Center at 9:56 p.m.
+
+     Hassan testified that he drove his mother’s Malibu to the
+
+Oakley Shoals Apartments on the night of the shooting and that
+
+Zinnerman rode in the rear passenger seat. Hassan testified that
+
+three “acquaintances,” who had been at a party that he had attended
+
+that night and had asked him for a ride home, were also in the car;
+
+one passenger asked to be dropped off at the Oakley Shoals
+
+Apartments. Hassan testified that before beginning the drive, he
+
+asked his passengers whether anyone was carrying a gun, because
+
+“[b]efore [he] even let anybody in [his] car [he would] make sure”
+
+they did not have a gun. Hassan admitted that he passed a group of
+
+people who were standing right in front of the entrance to the
+
+complex and testified that they were “looking crazy” at the
+
+occupants of the car and some seemed to be “clutching,” which he
+
+defined as reaching for weapons. Hassan testified that, based on
+
+                                 5
+ that behavior, he decided not to stop to drop off his passenger and
+
+instead turned around, and again passed the group, which had
+
+crossed the street. Then, Hassan heard gunshots and sped away. He
+
+testified that he was certain that no one was shooting out of his car.
+
+In particular, Hassan testified that he did not have a gun that night
+
+and that he did not shoot anyone. He testified that, after they left
+
+the Oakley Shoals Apartments, Zinnerman told him he had been
+
+shot. Hassan saw that Zinnerman was bleeding. Hassan drove to the
+
+nearest hospital and carried Zinnerman inside. Hassan denied being
+
+a gang member at the time of trial but admitted he had previously
+
+been in a Bloods gang, the Nine Trey Bloods, from age 14 until some
+
+unspecified point in 2015. Hassan testified that Zinnerman had been
+
+in the Nine Trey Bloods gang and had tattoos that represented the
+
+Nine Trey Bloods. Hassan testified that SKBG is not part of the
+
+Bloods.
+
+     A .38-caliber bullet was removed from Amira Cameron’s brain,
+
+and a .38-caliber bullet was removed from Zinnerman’s body during
+
+surgery. Another .38-caliber bullet was found in the Malibu. An
+
+                                  6
+ expert firearms and tool mark examiner testified that the bullet
+
+found in the Malibu and the bullet removed from Zinnerman’s body
+
+were fired by the same gun, but the bullet that fatally wounded
+
+Amira Cameron was fired by a different gun. DNA testing of blood
+
+that had soaked into the Malibu’s rear seat cushion matched
+
+Zinnerman’s DNA profile.
+
+     In addition to Hillman’s testimony about the October 4, 2015
+
+shooting, Hillman testified that he was a member of the Crips gang,
+
+a rival of the Bloods gang, and that a person being a “Billy” means
+
+he is a Blood. Hillman testified that, days before the shooting at the
+
+Oakley Shoals Apartments, members of the Billy Bloods yelled an
+
+insult that referred to the rivalry between the Bloods and the Crips
+
+and then shot at him. Hillman testified that, in gang culture, one
+
+member’s having a problem with someone means that the entire
+
+gang has a problem with that person, regardless of whether the
+
+other members know that person.
+
+     An assistant district attorney testified as a criminal street
+
+gang expert about the Bloods criminal gang, which has west-coast-
+
+                                  7
+ affiliated and east-coast-affiliated subsets, and explained that the
+
+Smash Krew Billy Gang is a branch of the Nine Trey Billy Bad-ass
+
+Bloods, one of the east-coast-affiliated Bloods groups that are
+
+predominant in Georgia. The assistant district attorney testified
+
+that there is a rivalry and widespread hostility between Bloods
+
+gangs and Crips gangs. In particular, at the time of the shooting at
+
+the Oakley Shoals Apartments there was hostility locally between
+
+the Crips and SKBG members, who blamed the Crips for the
+
+unsolved drive-by shooting death of SKBG member Carlton Ramey
+
+earlier in 2015. The assistant district attorney testified that, “even
+
+to this day,” at the time of Hassan’s trial in May 2019, “members of
+
+the Smash Krew Billy Gang post[ ] pictures of Carlton Ramey or [his
+
+nickname] ‘Cash’ [on social media] as an homage to him because he
+
+was killed.” The assistant district attorney testified that, around the
+
+time of the shooting at the Oakley Shoals Apartments, Zinnerman
+
+identified himself as a member of SKBG through photos and
+
+captions he posted on social media. A detective testified that Hassan
+
+has a five-pointed star tattooed on the right side of his face, which is
+
+                                   8
+ a common marker of the Bloods, and he had a red bandana in his
+
+pocket when he was arrested, which members of the Bloods
+
+commonly wear or carry as “a flag of identification” with the gang.
+
+The detective testified that Hillman, a self-identified Crips gang
+
+member, was a person of interest in Ramey’s death.
+
+     In closing argument, the State did not argue that there was
+
+any evidence that Hassan fired a weapon that night. The State
+
+argued that Hassan was guilty of the murder and the aggravated
+
+assaults either as a party to the crime of the actual shooters, by
+
+being the driver in the drive-by shooting, or as having participated
+
+in a conspiracy to commit the crimes.
+
+     1. Hassan contends that all of the evidence about Ramey’s
+
+murder constituted inadmissible hearsay and that the superior
+
+court plainly erred by allowing the evidence. Hassan argues that the
+
+State’s proposed nexus between his alleged participation in a gang
+
+and the offenses arising out of the drive-by shooting at the Oakley
+
+Shoals Apartments was that the occupants of his car shot at the
+
+group that included Hillman because they blamed Hillman’s gang,
+
+                                 9
+ the Crips, for the murder of Ramey, a fellow member of the shooters’
+
+gang, SKBG. See Overstreet v. State, 
+312 Ga. 565
+, 574 (1) (b) (
+864
+
+SE2d 14
+) (2021) (To establish participation in criminal street gang
+
+activity in violation of OCGA § 16-15-4, the State must show “some
+
+nexus” between the alleged predicate acts and an intent to further
+
+the interests of the gang.). Hassan argues that the State “offered no
+
+first-hand witness to that other shooting” and that all of the State’s
+
+evidence about the Ramey murder was elicited during the testimony
+
+of the assistant district attorney, who testified as a gang expert, and
+
+the detective. Hassan argues that neither witness “was a percipient
+
+witness to the drive-by shooting [of Ramey] that they testified about.
+
+Both learned about the incident through their investigations, which
+
+inevitably comprised the statements of others.” Hassan concedes
+
+that he did not object to the evidence at trial on the basis that it
+
+constituted inadmissible hearsay, but he argues that admitting the
+
+evidence constituted plain error.
+
+     A trial court’s ruling that admits evidence is ordinarily
+
+reviewable only where “a timely objection or motion to strike
+
+                                    10
+ appears of record, stating the specific ground of objection, if the
+
+specific ground was not apparent from the context[.]” OGGA § 24-1-
+
+103 (a) (1). See Middlebrooks v. State, 
+315 Ga. 671
+, 687 (2) (a) (
+884
+
+SE2d 318
+) (2023). Without preservation of error as provided in
+
+OCGA § 24-1-103, an appellate court reviews an evidentiary ruling
+
+only for plain error pursuant to OCGA § 24-1-103 (d), which provides
+
+that “nothing in [that] Code section shall preclude a court from
+
+taking notice of plain errors affecting substantial rights although
+
+such errors were not brought to the attention of the court.” See
+
+Middlebrooks, 315 Ga. at 687 (2) (a).
+
+     To establish plain error, [the appellant] must point to an
+     error that was not affirmatively waived, and that error
+     must have been clear and not open to reasonable dispute,
+     must have affected [the appellant’s] substantial rights,
+     and must have seriously affected the fairness, integrity or
+     public reputation of judicial proceedings.
+
+Id. (citation and punctuation omitted). If the appellant fails to meet
+
+one element of the plain error test, his claim fails. See Allen v. State,
+
+310 Ga. 411
+, 416 (3) (
+851 SE2d 541
+) (2020). “Satisfying all four
+
+prongs of [the plain-error] standard is difficult, as it should be.”
+
+
+                                   11
+ Williams v. State, 
+315 Ga. 490
+, 495 (2) (
+883 SE2d 733
+) (2023)
+
+(citation and punctuation omitted). In this case, Hassan failed to
+
+meet the second prong, showing an error that was clear and not open
+
+to reasonable dispute, because it is not clear that the testimony he
+
+challenges was hearsay.
+
+     “Hearsay is an out-of-court statement that a party offers into
+
+evidence to prove the truth of the matter asserted therein, and such
+
+a statement generally is inadmissible at trial.” See OCGA §§ 24-8-
+
+801 (c); 24-8-802; see also Smith v. State, 
+309 Ga. 240
+, 245 (2) (b)
+
+(
+845 SE2d 598
+) (2020). In his appellate brief, Hassan characterizes
+
+as inadmissible hearsay portions of the testimony of the assistant
+
+district attorney in which the witness testified that he was “familiar
+
+with” the Ramey murder, that Ramey had been a SKBG member,
+
+and that there were persons of interest in the investigation but not
+
+yet any indictment. As to the other witness, the detective, Hassan
+
+characterizes as inadmissible hearsay portions of the detective’s
+
+testimony in which he testified that Ramey had been a SKBG
+
+member, that Ramey was killed in a drive-by shooting prior to the
+
+                                 12
+ shooting at the Oakland Shoals Apartments, that Hillman identifies
+
+himself as a member of the Crips, and that Hillman is a person of
+
+interest in the Ramey murder investigation. The detective testified
+
+that he “spoke with the detective that was working on [the Ramey
+
+case] at the time,” but he did not testify about any statement made
+
+by that other detective or by any other person.
+
+     Neither witness expressly repeated the out-of-court statements
+
+of any other person. Although the detective testified that he was
+
+“familiar” with the Ramey investigation and referred to speaking
+
+with another detective who worked on that investigation, the
+
+detective did not specify what that other detective told him or how
+
+he developed familiarity with the investigation. Given that, it was
+
+not so obvious that the evidence was hearsay such that the trial
+
+court should have intervened sua sponte to exclude the testimony.
+
+Because Hassan has not shown that allowing the testimony at issue
+
+was a clear error that was not open to reasonable dispute, his claim
+
+of plain error fails. See Carter v. State, 
+317 Ga. 689
+, 694 (2) (
+895
+
+SE2d 295
+) (2023); Stafford v. State, 
+312 Ga. 811
+, 820 (3) (b) (865
+
+                                 13
+SE2d 116
+) (2021); Strother v. State, 
+305 Ga. 838
+, 848 (4) (d) (
+828
+
+SE2d 327
+) (2019).
+
+     2. Hassan contends that the trial court erred in failing to
+
+instruct the jury regarding the State’s “heightened burden of proof”
+
+under OCGA § 24-14-6, which provides: “To warrant a conviction on
+
+circumstantial evidence, the proved facts shall not only be consistent
+
+with the hypothesis of guilt, but shall exclude every other reasonable
+
+hypothesis save that of the guilt of the accused.” Again, Hassan
+
+concedes that he did not object at trial to the instruction regarding
+
+convictions based on circumstantial evidence but argues that the
+
+instruction as given constituted plain error. See OCGA § 17-8-58 (b).
+
+     The plain error standard with regard to jury instructions, like
+
+the standard regarding evidentiary rulings discussed in Division 1,
+
+supra, has four requirements: an error that has not been
+
+affirmatively waived by the appellant, that is “clear or obvious,
+
+rather than subject to reasonable dispute,” that affected the
+
+appellant’s “substantial rights,” and that merits a remedy, in the
+
+discretion of the appellate court, on the basis that “the error
+
+                                 14
+ seriously affects the fairness, integrity or public reputation of
+
+judicial proceedings.” Beard v. State, 
+317 Ga. 842
+, 844 (2) (
+893 SE2d
+
+893
+) (2023) (citation and punctuation omitted). “An error is plain if
+
+it is clear or obvious under current law. An error cannot be plain
+
+where there is no controlling authority on point.” Hill v. State, 
+310
+
+Ga. 180
+, 194 (11) (a) (
+850 SE2d 110
+) (2020) (citations and
+
+punctuation omitted). And the appellate court “need not analyze all
+
+of the elements of the plain error test when the appellant fails to
+
+establish one of them.” 
+Id.
+
+
+     Regarding evidence, the trial court instructed the jury:
+
+          Now, your oath requires that you will decide this
+     case based on the evidence. Evidence is the means by
+     which any fact that is put in issue is established or
+     disproved.
+          Evidence includes all of the testimony of the
+     witnesses, any exhibits admitted during the trial and
+     stipulations of the attorneys; that is, any fact to which the
+     attorneys have agreed with the approval by the Court.
+          Evidence does not include the indictment, the plea
+     of not guilty, the opening and closing remarks of the
+     attorneys or questions asked by the attorneys. Evidence
+     may be direct, circumstantial or both.
+          In considering the evidence you may use reasoning
+     and common sense to make deductions and reach
+
+
+                                  15
+      conclusions. You should not be concerned about whether
+     the evidence is direct or circumstantial.
+           Direct evidence is the testimony of a person who
+     asserts that he or she has actual knowledge of a fact such
+     as by personally observing or otherwise witnessing that
+     fact.
+           Circumstantial evidence is proof of a set of facts and
+     circumstances that tend to prove or disprove another fact
+     by inference; that is, by consistency with such fact or
+     elimination of other facts. There’s no legal difference in
+     the weight you may give to either direct or circumstantial
+     evidence.
+           You would be authorized to convict only if the
+     evidence, whether direct or circumstantial or both,
+     excludes all reasonable theories of innocence and proves
+     the guilt of the accused beyond a reasonable doubt.
+
+     In Hill, we considered a plain-error challenge to jury
+
+instructions “regarding the level of proof required for conviction”
+
+and held that the appellant failed to show that giving the
+
+instructions at issue constituted clear or obvious error where the
+
+instructions at issue had been upheld by this Court and the
+
+appellant cited no controlling authority for the proposition that the
+
+instructions were erroneous. See Hill, 310 Ga. at 194-195 (11) (a).
+
+This Court has upheld a jury instruction that, like the evidence
+
+instruction in this case, informed the jurors that they “would be
+
+
+                                 16
+ authorized to convict only if the evidence, whether direct,
+
+circumstantial, or both, excludes all reasonable theories of innocence
+
+and proves the guilt of the accused beyond a reasonable doubt.”
+
+Eubanks v. State, 
+317 Ga. 563
+, 580 (3) (a) (
+894 SE2d 27
+) (2023). See
+
+Georgia Suggested Pattern Jury Instructions, Vol. II: Criminal
+
+Cases (4th ed. 2007, updated Jan. 2023) § 1.30.20. Noting that,
+
+“[w]hen a requested jury instruction adds no essential point of law
+
+to the existing instructions, it is not error for the trial court to
+
+decline to give it[,]” we held that the instructions at issue “effectively
+
+conveyed the point that the State was required to disprove
+
+reasonable hypotheses of [the appellant’s] innocence.” Eubanks, 317
+
+Ga. at 580 (3) (a). Because the instructions at issue in this case have
+
+been upheld by this Court and Hassan has cited no controlling
+
+authority for the proposition that the instructions were erroneous,
+
+Hassan cannot show plain error. See id.; Hill, 310 Ga. at 194-195
+
+(11) (a).
+
+      We note that Hassan contends that this Court can consider the
+
+harmful effect of the alleged evidentiary error discussed in Division
+
+                                   17
+ 1 and the alleged instructional error discussed in Division 2 “in the
+
+aggregate.” Because Hassan has not established clear error in either
+
+instance, we do not reach the issue of whether failing to exclude sua
+
+sponte the alleged hearsay or failing to give a jury instruction in
+
+language identical to OCGA § 24-14-6 affected Hassan’s substantial
+
+rights, either individually or in the aggregate.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                  18
+ 

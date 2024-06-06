@@ -1,0 +1,256 @@
+                               SECOND DIVISION
+                                 MILLER, P. J.,
+                              MARKLE and LAND, JJ.
+
+                    NOTICE: Motions for reconsideration must be
+                    physically received in our clerk’s office within ten
+                    days of the date of decision to be deemed timely filed.
+                               https://www.gaappeals.us/rules
+
+
+
+                                                                       May 13, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0272. RUTLEDGE v. THE STATE.
+
+      MARKLE, Judge.
+
+      Following a jury trial, Ty Rutledge was convicted of simple battery. He appeals
+
+from the trial court’s denial of his motion for new trial, contending that the trial court
+
+erred by denying his motion for immunity under OCGA § 16-3-24.2. Finding no error,
+
+we affirm.
+
+      “When reviewing the denial of an immunity motion, an appellate court must
+
+view the evidence in the light most favorable to the trial court’s ruling, and accept the
+
+trial court’s findings of fact and credibility determinations if there is any evidence to
+
+support them.” (Citation and punctuation omitted.) Jennings v. State, 
+363 Ga. App.
+
+170
+, 176 (2) (
+869 SE2d 93
+) (2022).
+         So viewed, the record shows that Rutledge was charged with simple battery
+
+following an altercation with his granddaughter’s boyfriend.1 Rutledge filed a motion
+
+for immunity pursuant to OCGA § 16-3-24.2, claiming he was justified in the use of
+
+force to defend his home under OCGA § 16-3-23 and his property under OCGA § 16-
+
+3-24.
+
+        The evidence presented at the subsequent pre-trial hearing showed that, at the
+
+time of the incident, Rutledge’s 18-year-old granddaughter, T. R., was living in the
+
+home shared by Rutledge and T. R.’s aunt. T. R. testified that she had told Rutledge
+
+and her aunt that she had decided to move in with her uncle, and she began packing.
+
+She invited her boyfriend and another male onto the property to help carry her
+
+belongings to her uncle’s car, which was parked on the road above. She stated that she
+
+left her belongings on the porch or on the grass outside the home, and that she did not
+
+see either man enter the home. As she was handing off a bundle of clothes to her
+
+boyfriend; Rutledge came outside and told her boyfriend to get off the property. He
+
+then slapped her boyfriend in the face, at which point, her boyfriend ran back to the
+
+
+
+
+        1
+            Rutledge was acquitted of a related charge for falsely reporting a crime.
+                                              2
+ car. T. R. further recounted that her boyfriend had not acted aggressively toward her
+
+grandfather.
+
+      The aunt testified that she and Rutledge were startled when they saw two men
+
+rapidly approaching the house. She yelled at them to get off the property multiple
+
+times. She admitted that T. R. had told her and Rutledge she was moving out, and that
+
+her friends were helping her. She also testified that the boyfriend had tried to enter the
+
+house and shoved Rutledge with his shoulder when trying to move past him. She did
+
+not see Rutledge slap the boyfriend, but she had seen the boyfriend run off the
+
+property, shouting that Rutledge had hit him.
+
+      Rutledge did not testify at the hearing. He and the State played
+
+contemporaneous video recordings, but they do not show the altercation at issue.
+
+      The trial court denied the motion for immunity, finding that the evidence raised
+
+a question of fact for the jury.2 A jury ultimately convicted Rutledge of simple battery.3
+
+      2
+         We are not persuaded by Rutledge’s contention that the trial court
+impermissibly conflated its duty to determine the issue of immunity with the jury’s
+duty to determine whether a justification defense is successful. See Pate v. State, 
+364
+Ga. App. 107
+, 108 (2) (
+874 SE2d 132
+) (2022) (Trial courts determine whether a
+defendant is entitled to immunity prior to trial; however, a defendant’s justification
+defense is left to a jury to decide, and the State bears the burden of disproving the
+defense beyond a reasonable doubt.). The transcript reflects that the trial court
+pronounced its decision that immunity was not warranted in this case, and further
+                                            3
+ He filed a motion for new trial, challenging the trial court’s decision on his immunity
+
+motion. Following a hearing, the trial court denied the motion, and this appeal
+
+followed.
+
+      In a single enumeration of error, Rutledge claims the trial court erred by
+
+denying his motion for immunity under OCGA §§ 16-3-23; 16-3-23.1; 16-3-24; and 16-
+
+3-24.2. Having reviewed the transcripts of the pretrial hearing and the video
+
+recordings, we conclude the trial court did not err.4
+
+
+
+
+instructed that it would not “prevent [Rutledge] from raising a defense of
+justification” at trial. As such, the trial court correctly construed the applicable law,
+and Rutledge mischaracterizes its ruling in his appellate brief.
+      3
+        Rutledge renewed his motion for immunity after the close of evidence, and the
+trial court again denied it.
+      4
+        In his appellate briefs, Rutledge improperly references trial testimony, which
+we do not consider in deciding the issue on appeal. See Sifuentes v. State, 
+293 Ga. 441
+,
+444 (2), n. 3 (
+746 SE2d 127
+) (2013) (reviewing the transcript from the motion hearing,
+and noting, “the court’s ruling [on a defendant’s immunity motion] must be based
+solely on the evidence presented at a pretrial hearing”). However, in reviewing a trial
+court’s denial of a motion for immunity, “we may consider facts that definitively can
+be ascertained exclusively by reference to evidence that is uncontradicted and presents
+no questions of credibility, such as facts indisputably discernible from a
+videotape.”(Citation and punctuation omitted.) Allen v. State, 
+317 Ga. 1
+, 5 (1) (
+890
+SE2d 700
+) (2023). Here, the relevant recordings were consistent with the trial court’s
+conclusion.
+                                           4
+       OCGA § 16-3-23 provides that “[a] person is justified in threatening or using
+
+force against another when and to the extent that he or she reasonably believes that
+
+such threat or force is necessary to prevent or terminate such other’s unlawful entry
+
+into . . . a habitation.”5 Similarly, OCGA § 16-3-24 provides, in pertinent part, that
+
+“[a] person is justified in threatening or using force against another when and to the
+
+extent that he reasonably believes that such threat or force is necessary to prevent or
+
+terminate such other’s trespass on or other tortious or criminal interference with real
+
+property other than a habitation” that is lawfully within his or an immediate family
+
+member’s possession. OCGA § 16-3-23.1 provides that a person justified in using
+
+force under certain Code sections, including the two mentioned above, has no duty
+
+to retreat, but may stand his ground. And, OCGA § 16-3-24.2 authorizes the immunity
+
+from prosecution of any person who uses force in accordance with the above three
+
+Code sections. A defendant claiming immunity under these statutes bears the burden
+
+of proof by a preponderance of the evidence. Pate v. State, 
+364 Ga. App. 107
+, 108 (2)
+
+(
+874 SE2d 132
+) (2022).
+
+
+
+
+      5
+        OCGA § 16-3-24.1 defines “habitation” as “any dwelling, motor vehicle, or
+place of business.”
+                                           5
+       Rutledge’s arguments center on whether T. R. was authorized to invite her
+
+boyfriend onto the property and, thus, whether the boyfriend was trespassing. But,
+
+even assuming that the boyfriend was trespassing, Rutledge failed to meet his burden
+
+to show he reasonably believed force was necessary to protect his home and property.
+
+See OCGA §§ 16-3-23; 16-3-24. As recounted above, T. R.’s testimony directly
+
+conflicted with her aunt’s. And, in denying immunity, the trial court impliedly
+
+credited T. R.’s testimony that her boyfriend was not acting aggressively, but instead
+
+had his hands full with her clothes, when Rutledge struck him. See Blazer v. State, 
+266
+
+Ga. App. 743
+, 744, 745 (2) (
+598 SE2d 338
+) (2004) (affirming trial court’s denial of an
+
+immunity motion where there was conflicting evidence of a battery, noting: “The
+
+differences between the two versions are critical.”); Pate, 364 Ga. App. at 108 (2), 111
+
+(3) (We defer to the trial court’s credibility determinations on a motion for
+
+immunity.).
+
+
+
+
+                                           6
+       There was thus some evidence that Rutledge was not justified in using force in
+
+this instance, and we affirm the trial court’s denial of the motion for immunity. See
+
+Pate, 364 Ga. App. at 111 (3); Jennings, 363 Ga. App. at 176 (2); Blazer, 
+266 Ga. App.
+
+at 745
+ (2).
+
+
+
+      Judgment affirmed. Miller, P. J., and Land, J., concur.
+
+
+
+
+                                          7
+ 

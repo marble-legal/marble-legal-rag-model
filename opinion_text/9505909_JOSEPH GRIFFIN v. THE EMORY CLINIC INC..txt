@@ -1,0 +1,428 @@
+                                FIRST DIVISION
+                                BARNES, P. J.,
+                             GOBEIL and PIPKIN, JJ.
+
+                    NOTICE: Motions for reconsideration must be
+                    physically received in our clerk’s office within ten
+                    days of the date of decision to be deemed timely filed.
+                               https://www.gaappeals.us/rules
+
+
+
+                                                                       May 21, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0073. GRIFFIN v. THE EMORY CLINIC INC. et al.
+
+      GOBEIL, Judge.
+
+      Joseph Griffin filed suit against The Emory Clinic, Inc. (“Emory”), David R.
+
+Propp, M.D., and his medical assistant, Anna Smith (collectively, the “Defendants”),
+
+alleging negligence based on injuries he suffered from a fall during a medical visit. The
+
+trial court granted the Defendants’ motion to dismiss, on the basis that Griffin failed
+
+to file an expert affidavit in compliance with OCGA § 9-11-9.1 (a), even though his
+
+complaint alleged professional malpractice. Griffin now appeals, arguing in
+
+interrelated enumerations of error that the trial court erred in granting the motion to
+
+dismiss because Smith is not a licensed medical professional for whom an expert
+ affidavit under OCGA § 9-11-9.1 (a) is required. For the reasons that follow, we affirm
+
+in part and reverse in part.
+
+             A motion to dismiss for failure to state a claim upon which relief
+      may be granted should not be sustained unless (1) the allegations of the
+      complaint disclose with certainty that the claimant would not be entitled
+      to relief under any state of provable facts asserted in support thereof; and
+      (2) the movant establishes that the claimant could not possibly introduce
+      evidence within the framework of the complaint sufficient to warrant a
+      grant of the relief sought. If, within the framework of the complaint,
+      evidence may be introduced which will sustain a grant of the relief sought
+      by the claimant, the complaint is sufficient and a motion to dismiss
+      should be denied. In deciding a motion to dismiss, all pleadings are to be
+      construed most favorably to the party who filed them, and all doubts
+      regarding such pleadings must be resolved in the filing party’s favor. On
+      appeal, a trial court’s ruling on a motion to dismiss for failure to state a
+      claim for which relief may be granted is reviewed de novo.
+
+
+Eastside Recovery, LLC v. Calhoun, 
+368 Ga. App. 385
+, 386 (
+890 SE2d 135
+) (2023)
+
+(citation and punctuation omitted).
+
+      So viewed, the record shows that since 2005, Griffin has been wheelchair-bound
+
+and is non-weight-bearing at the baseline. On September 3, 2020, Griffin visited
+
+Emory for a regular medical examination with Dr. Propp, his long-term physician.
+
+Before being seen by Dr. Propp, Griffin was taken by Smith, Dr. Propp’s medical
+
+                                           2
+ assistant, to get weighed. Griffin was instructed by Smith to get out of his wheelchair
+
+without assistance and to climb onto a weighing machine. While trying to get onto the
+
+machine, Griffin fell and suffered injuries, including a femur fracture in his right leg.
+
+      On August 22, 2022, Griffin filed the instant complaint, alleging that the
+
+Defendants were negligent in causing his injuries because they “knew or ought to have
+
+known that [Griffin,] based on his medical condition and age[,] should have been
+
+weighed with a machine that fits his condition and[/]or aided while climbing and
+
+standing on a weighing machine for his weight to be taken.” Griffin did not attach an
+
+expert affidavit, pursuant to OCGA § 9-11-9.1 (a), to his complaint. The Defendants
+
+filed an answer, and also moved to dismiss the complaint due to Griffin’s failure to file
+
+an expert affidavit in support of his professional malpractice claim.
+
+      At oral argument, Griffin, through counsel, admitted that his fall was not the
+
+result of tripping or slipping. Rather, he alleged that he fell “because based on [his]
+
+condition, he shouldn’t have been told to rise from his wheelchair when [the
+
+Defendants knew] that he can’t do that.” The trial court granted the motion to
+
+dismiss, concluding that Griffin was required to file an expert affidavit as his claim
+
+sounded in professional negligence based on his contention that “because [the]
+
+
+                                            3
+ Defendants knew of his medical condition and medical limitations, they should not
+
+have instructed him to stand unassisted.” The instant appeal followed.
+
+      Griffin argues that the trial court erred in granting the Defendants’ motion to
+
+dismiss for failure to include an expert affidavit because Smith, the medical assistant
+
+whose alleged negligence caused his injuries, is not a licensed professional for whom
+
+an expert affidavit under OCGA § 9-11-9.1 is required. In a related claim of error, he
+
+asserts that the trial court failed to consider Smith’s classification as a non-licensed
+
+medical professional before dismissing the complaint. At this stage of the proceeding,
+
+we agree.
+
+      As an initial matter, the Defendants highlight in their appellate brief that Griffin
+
+failed to raise his argument about Smith’s status as a non-licensed medical
+
+professional in the trial court.
+
+      Nevertheless, OCGA § 9-11-9.1 imposes an initial pleading requirement
+      on the plaintiff in a malpractice action, and in reviewing the grant of a
+      motion to dismiss for failure to state a claim, it is the duty of the
+      appellate court to construe the pleadings in the light most favorable to
+      the appellant with all doubts resolved in appellant’s favor.
+
+
+
+
+                                           4
+ Procter v. Gwinnett Pulmonary Group, P.C., 
+312 Ga. App. 486
+, 487 (1) (
+718 SE2d 860
+)
+
+(2011) (citations and punctuation omitted). And a motion to dismiss based upon the
+
+lack of an expert affidavit “is one for failure to state a claim under OCGA § 9-11-12
+
+(b) (6).” Zephaniah v. Ga. Clinic, P.C., 
+350 Ga. App. 408
+, 410 (
+829 SE2d 448
+) (2019)
+
+(citation and punctuation omitted); Holloway v. Northside Hosp., 
+230 Ga. App. 371
+,
+
+371-372 (
+496 SE2d 510
+) (1998) (dismissing claim where the plaintiffs alleged the
+
+nurses “should have known that she was subject to falling” because the claim
+
+amounted to professional negligence and the plaintiffs’ failure to attach a professional
+
+affidavit mandated dismissal). As a result, “it was incumbent upon the Defendants to
+
+establish before the trial court that [Griffin] failed to state a claim, and our reversal is
+
+based upon our application of the correct standard of review of [Griffin’s] complaint.”
+
+Procter, 
+312 Ga. App. at 487
+ (1) (footnote omitted). See also Ford v. Ford, 
+349 Ga. App.
+
+45
+, 47 (2) (a) (
+825 SE2d 449
+) (2019) (“Where a defendant obtains the dismissal of an
+
+action for failure to state a claim without demonstrating the statutory prerequisites for
+
+that dismissal, the plaintiff may assert that failure on appeal using a specific argument
+
+not made to the trial court.”) (physical precedent only).
+
+
+
+
+                                             5
+        In his complaint, Griffin did not list out separate claims or allegations against
+
+each defendant. Rather, he generally alleged that the “Defendants knew or ought to
+
+have known that [Griffin,] based on his medical condition and age[,] should have been
+
+weighed with a machine that fits his condition and[/]or aided while climbing and
+
+standing on a weighing machine for his weight to be taken.” The Defendants highlight
+
+that Griffin’s complaint against the Defendants “in its entirety sounds in professional
+
+negligence,” and therefore, he was required to file an expert affidavit.
+
+       However, in his complaint, Griffin asserted that Smith, a medical assistant,
+
+performed negligent acts — namely, requiring Griffin to climb onto the weighing scale
+
+unassisted despite his known physical limitations — which resulted in his fall and
+
+subsequent injuries. OCGA § 9-11-9.1 (a) requires the contemporaneous filing of an
+
+expert affidavit only in professional malpractice claims asserted against certain
+
+professionals, and “medical assistant” does not fall into any of the categories of
+
+professionals enumerated within the Code section.1 See Pattman v. Mann, 
+307 Ga.
+
+1
+
+         See OCGA § 9-11-9.1 (g) (listing architects, attorneys at law, audiologists,
+certified public accountants, chiropractors, clinical social workers, dentists, dietitians,
+land surveyors, marriage and family therapists, medical doctors, nurses, occupational
+therapists, optometrists, osteopathic physicians, pharmacists, physical therapists,
+physicians’ assistants, podiatrists, professional counselors, professional engineers,
+psychologists, radiological technicians, respiratory therapists, speech-language
+                                            6
+App. 413
+, 417 n.13 (
+701 SE2d 232
+) (2010) (noting that the “affidavit requirement does
+
+not apply to any acts committed by [the lab technologist], who is not recognized as a
+
+‘professional’ under Georgia law”); Sembler Atlanta Dev. I, LLC v. URS/Dames &
+
+Moore, Inc., 
+268 Ga. App. 7
+, 9 (
+601 SE2d 397
+) (2004) (explaining that, by its specific
+
+terms, OCGA § 9-11-9.1 (a) limits the expert affidavit requirement to professional
+
+malpractice suits against members of one of the enumerated professions or the
+
+employer of same when the employer’s liability is predicated on the professional
+
+negligence of such employee).
+
+      Thus, construing the allegations of the complaint in the light most favorable to
+
+Griffin, as we must on a motion to dismiss, his complaint could be read to state a claim
+
+for ordinary negligence against Smith, a medical assistant. And medical assistant does
+
+not fall within any of the categories of professionals enumerated in OCGA § 9-11-9.1
+
+(g). Consequently, he was not required to file an expert affidavit in order to state a
+
+claim against Smith. See Procter, 
+312 Ga. App. at 488
+ (1) (reversing dismissal of action
+
+on the basis that plaintiff was not required, under OCGA § 9-11-9.1 (a), to file an
+
+
+pathologists, or veterinarians); see also Gillis v. Goodgame, 
+262 Ga. 117
+, 118 (
+414 SE2d
+197
+) (1992) (“the affidavit requirements of [OCGA] § 9-11-9.1 apply only to those
+professions recognized under Georgia law,” including the predecessor statute to
+OCGA § 9-11-9.1).
+                                           7
+ expert affidavit in support of negligence claim against a medical defendant whom she
+
+characterized as a “technician,” given that “technician” did not fall within any of the
+
+categories of professionals enumerated in OCGA § 9-11-9.1 (g)).
+
+      The Defendants maintain that, even if Griffin did not need to provide an expert
+
+affidavit as to Smith, Griffin’s complaint does not allege that either Emory or Dr.
+
+Propp are liable for Smith’s negligence in causing Griffin’s injuries under a theory of
+
+respondeat superior or vicarious liability. However, in his complaint, Griffin alleged
+
+that Smith is Dr. Propp’s medical assistant and was acting under Dr. Propp’s
+
+“negligent instruction.”2 Importantly, “[a] complaint is not required to set forth a
+
+cause of action, but need only set forth a claim for relief. If, within the framework of
+
+the complaint, evidence may be introduced which will sustain a grant of relief to the
+
+plaintiff, the complaint is sufficient.” Sulejman v. Marinello, 
+217 Ga. App. 319
+, 320 (2)
+
+(
+457 SE2d 251
+) (1995) (citation and punctuation omitted). See Depository Trust and
+
+Clearing Corp. v. Jones, 
+348 Ga. App. 474
+, 477 (1) (
+823 SE2d 558
+) (2019) (“the
+
+objective of the Civil Practice Act is to avoid technicalities and to require only a short
+
+and plain statement of the claim that will give the defendant fair notice of what the
+
+      2
+        In their appellate brief, the Defendants describe that Smith was “acting at the
+direction of Dr. Propp and Emory.”
+                                            8
+ claim is and a general indication of the type of litigation involved; the discovery
+
+process bears the burden of filling in details”) (citation, punctuation and emphasis
+
+omitted). Additionally, “[t]here are instances in which actions performed by a
+
+professional are nevertheless not professional acts constituting professional
+
+malpractice, but, rather, are acts of simple negligence which would not require proof
+
+by expert evidence.” Brown v. Tift County Hosp. Auth., 
+280 Ga. App. 847
+, 850 (
+635
+
+SE2d 184
+) (2006) (citation and punctuation omitted).
+
+      Where the professional’s alleged negligence requires the exercise of
+      professional skill and judgment to comply with a standard of conduct
+      within the professional’s area of expertise, the action states professional
+      negligence. But where the allegations of negligence do not involve
+      professional skill and judgment, the action states ordinary negligence.
+      Whether a complaint alleges ordinary or professional negligence is a
+      question of law for the court.
+
+
+Health Mgmt. Assoc., Inc. v. Bazemore, 
+286 Ga. App. 285
+, 287 (
+648 SE2d 749
+) (2007)
+
+(citations and punctuation omitted). See, e.g., Hillhaven Rehabilitation & Convalescent
+
+Ctr. v. Patterson, 
+195 Ga. App. 70
+, 71-72 (2) (
+392 SE2d 557
+) (1990) (failure to assist
+
+patient in getting in and out of bed in weakened condition, if true, constituted ordinary
+
+negligence); Candler Gen. Hosp. v. McNorrill, 
+182 Ga. App. 107
+, 110 (2) (
+354 SE2d
+
+
+9
+
+ 872) (1987) (“[T]he safe movement of appellee from the stretcher or casting table to
+
+the wheelchair was merely an act of relative physical strength and dexterity rather than
+
+an act requiring the exercise of expert medical judgment.”). Accordingly, we reverse
+
+the trial court’s dismissal of Griffin’s claims against Smith and any derivative claims
+
+against Emory and/or Dr. Propp alleging ordinary negligence for failure to file an
+
+expert affidavit under OCGA § 9-11-9.1. See Procter, 
+312 Ga. App. at 488
+ (1).
+
+       To the extent Griffin’s complaint alleges a claim for professional negligence
+
+against Dr. Propp, a licenced health care professional under OCGA § 9-11-9.1 (g), or
+
+against Emory as vicariously liable for professional negligence, the trial court properly
+
+granted the Defendants’ motion to dismiss due to Griffin’s failure to file an expert
+
+affidavit as required by OCGA § 9-11-9.1 (a). See Bazemore, 
+286 Ga. App. at 286
+
+
+(When a plaintiff files a lawsuit against a licensed health-care facility “based on a claim
+
+that the facility is vicariously liable for the professional malpractice of a health care
+
+professional licensed by the State of Georgia and listed in [OCGA § 9-11-9.1 (g)], the
+
+plaintiff is required to file an expert affidavit with the complaint in accordance with
+
+the requirements of OCGA § 9-11-9.1 (a).”).
+
+
+
+
+                                            10
+       Judgment affirmed in part and reversed in part. Barnes, P. J., and Pipkin, J.,
+
+concur.
+
+
+
+
+                                        11
+ 

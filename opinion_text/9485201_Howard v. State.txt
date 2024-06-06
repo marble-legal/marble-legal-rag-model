@@ -1,0 +1,945 @@
+ NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+ Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+ opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+ prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+ official text of the opinion.
+
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: March 19, 2024
+
+
+                       S24A0105. HOWARD v. THE STATE.
+
+
+        PETERSON, Presiding Justice.
+
+        Marquavious Howard appeals his felony murder conviction for
+
+the 2017 shooting death of Jacorbin King. 1 Howard argues that (1)
+
+
+        1 The victim’s first name was spelled “Jakorbin” in the indictment but
+
+“Jacorbin” in the trial transcript and the District Attorney’s brief on appeal.
+King was shot and killed on the morning of April 30, 2017. On January 30,
+2018, a Muscogee County grand jury returned an indictment charging Howard
+with malice murder (Count 1), felony murder predicated on aggravated assault
+(Count 2), aggravated assault (Count 3), and possession of a firearm during the
+commission of a felony (Count 4). Four others — Jylonda Jones, Samuel Jones,
+Tyler Teal, and Tramal Williams — were also charged with Counts 1-3, and
+Samuel Jones, Tyler Teal, and Tramal Williams were charged with other
+crimes, as well. Tramal Williams testified at Howard’s trial that he expected
+his case to be transferred to juvenile court, while Howard’s other three co-
+defendants pleaded guilty to charges less than murder. At a trial held in May
+2018, a jury found Howard not guilty of malice murder or the firearm count,
+but guilty of felony murder and aggravated assault. The trial court sentenced
+Howard to life with the possibility of parole for felony murder; the aggravated
+assault count merged. Howard filed a timely motion for new trial that was
+amended by appellate counsel. Following a hearing, the trial court denied the
+motion in an order entered on May 23, 2022. Howard filed a notice of appeal
+on June 22, 2022. Because the record transmitted to this Court was incomplete,
+the appeal was stricken from the docket on April 19, 2023. Upon transmission
+ the evidence was insufficient to sustain his convictions, (2) his trial
+
+counsel was ineffective for failing to file a motion to suppress
+
+evidence of a photo identification, and (3) the trial court erred in
+
+excusing a juror for cause. We conclude that (1) the evidence was
+
+sufficient, (2) Howard has not shown that counsel performed
+
+deficiently in failing to move to suppress evidence of the photo
+
+identification, and (3) Howard’s juror claim fails because he has not
+
+shown that the selected jury was biased or incompetent. We
+
+therefore affirm.
+
+     The evidence at trial showed as follows. On the night of April
+
+29, 2017, a group of teenagers, including Tramal Williams
+
+(“Tramal”), Samuel Jones (“Sam”), and Tyler Teal, went to King’s
+
+Muscogee County apartment, planning to steal marijuana. Teal
+
+carried a BB gun, and Sam carried his father’s firearm. At the
+
+apartment, Tramal grabbed the marijuana and began to run out,
+
+causing a fight that spilled out into the hallway. During the scuffle,
+
+
+
+of a more complete record, the case was redocketed to this Court’s term
+beginning in December 2023 and submitted for consideration on the briefs.
+                                   2
+ Sam fell down a stairwell and lost some belongings, including his
+
+father’s gun.
+
+     Agitated about losing the items, Sam began making phone
+
+calls, asking for another gun and threatening to kill someone. Sam
+
+called his older sister, Jylonda Jones (“Jylonda”), who lived in
+
+Hoover, Alabama, and asked for her help; she agreed to come pick
+
+him up and asked her 21-year-old boyfriend, Howard, to accompany
+
+her on the approximately two-and-a-half-hour drive. On the
+
+morning of April 30, 2017, Jylonda and Howard picked up Tramal,
+
+Sam, and Teal in a white Toyota Camry and drove to King’s
+
+apartment. Everyone went inside except for Jylonda. The group
+
+initially came back to the car after being unable to find Sam’s
+
+belongings, but then went back in a few minutes later after Howard
+
+noted a bedroom door had been locked. After the group reentered the
+
+apartment, King emerged from behind the locked bedroom door, a
+
+struggle ensued, and Howard shot King multiple times.
+
+     Tramal testified that he saw Howard with a firearm magazine
+
+on the morning of the shooting. Tramal testified that King “barged
+
+                                3
+ out into” Howard when King came out of the bedroom, then Tramal
+
+heard gunshots as he ran out of the apartment building.
+
+     Sam testified that he saw Howard with a handgun just before
+
+the group entered King’s apartment for the last time. Sam testified
+
+that Teal became entangled with King when King “bust out of the
+
+[bed]room[,]” and King made contact with Howard’s person, with
+
+King “go[ing] for [Howard’s] mouth area.” Sam testified that he
+
+pulled Teal off of King, then heard shots as he and Teal ran out of
+
+the apartment.
+
+     Teal testified that he heard one shot while he was trying to
+
+break up a fight between Howard and King, then ran away. Teal
+
+testified that Howard was the only other member of their group who
+
+was in the apartment when the victim was shot. Teal testified that
+
+he did not see Howard with a gun but saw him clutching his pants
+
+in such a manner that he could have been holding one.
+
+     Jylonda testified that she knew Howard to have a weapon
+
+generally. Sam, Teal, and Tramal all testified that none of the three
+
+of them had a firearm in the apartment on the morning of the
+
+                                 4
+ shooting.
+
+     A neighbor who heard the shooting, Rodrell Williams, saw the
+
+group entering and leaving the apartment building. The neighbor
+
+said a person matching Howard’s description was carrying a
+
+weapon, and was accompanied by three others who looked like “little
+
+kids.” Rodrell’s wife called 911 around 7:00 a.m. and testified that
+
+she heard gunshots while she was on that call.
+
+     Surveillance video capturing the area adjacent to King’s
+
+apartment building showed the arrival of a white sedan on the
+
+morning of April 30, 2017, then a group of four young men twice
+
+walking away from, then running back toward, the car. In their trial
+
+testimony, Jylonda, Sam, and Tramal identified Howard on the
+
+surveillance video as being part of the group.
+
+     A jail bunkmate of Howard, Merrick Redding, testified that
+
+Howard confessed to shooting King. According to Redding, Howard
+
+told him that he rode to Columbus with his girlfriend to retrieve her
+
+brother, then went to King’s apartment to retrieve a gun, shoe, and
+
+glasses that had been lost in a botched robbery, and that when King
+
+                                  5
+ burst through a locked door, Howard shot him multiple times with
+
+a .40-caliber, FN-brand pistol. Redding reported that Howard told
+
+him that King and Teal had tussled, and King hit Howard in the
+
+mouth. According to Redding, Howard first shot King in the side,
+
+then fired more shots as King was falling, then finally, because
+
+Howard was upset about being hit in the mouth, Howard shot King
+
+in the head, firing a total of four to six shots.
+
+     A firearms expert testified that the shell casings recovered
+
+from the scene were consistent with having been fired by, among
+
+other possible types of guns, a .40-caliber FN handgun and had all
+
+been ejected from the same firearm. The expert also testified that
+
+bullets recovered from the scene, as well as two bullets recovered
+
+from King’s body, were consistent with having been fired by a .40-
+
+caliber FN handgun and had all been fired from the same firearm.
+
+The autopsy of King revealed four gunshot wounds, one in the head
+
+and three in the abdomen or torso, with at least one indicating a
+
+bullet entered the left side of the victim. The medical examiner
+
+testified that the distance between King and the gun when it was
+
+                                    6
+ discharged could not be determined.
+
+     1.     Howard first argues that the evidence was insufficient to
+
+support his felony murder conviction. We disagree.
+
+     When evaluating the legal sufficiency of evidence, we view the
+
+evidence in the light most favorable to the verdicts and inquire
+
+whether a rational trier of fact could have found the defendant guilty
+
+beyond a reasonable doubt. See Jackson v. Virginia, 
+443 U.S. 307
+,
+
+319 (99 SCt 2781, 61 LE2d 560) (1979). “Under this review, we must
+
+put aside any questions about conflicting evidence, the credibility of
+
+witnesses, or the weight of the evidence, leaving the resolution of
+
+such things to the discretion of the trier of fact.” Mims v. State, 
+304
+
+Ga. 851
+, 853 (1) (a) (
+823 SE2d 325
+) (2019) (citation and punctuation
+
+omitted).
+
+     To support Howard’s conviction for felony murder, the evidence
+
+presented at trial had to show that he caused King’s death while in
+
+the commission of an aggravated assault with a deadly weapon. See
+
+OCGA § 16-5-1 (c). The relevant portion of Georgia’s aggravated
+
+assault statute requires the prosecution to show that a defendant
+
+                                  7
+ committed assault “[w]ith a deadly weapon or with any object,
+
+device, or instrument which, when used offensively against a person,
+
+is likely to or actually does result in serious bodily injury[.]” OCGA
+
+§ 16-5-21 (a) (2). The crime of assault in Georgia requires that the
+
+defendant “[a]ttempt[ed] to commit a violent injury to the person of
+
+another; or . . . [c]ommit[ted] an act which place[d] another in
+
+reasonable apprehension of immediately receiving a violent injury.”
+
+OCGA § 16-5-20 (a). A jury may find a defendant guilty beyond a
+
+reasonable doubt if the evidence shows either that he directly
+
+committed the crime or that he was a “party thereto.” OCGA § 16-2-
+
+20 (a). And a jury may infer a defendant’s criminal intent, and
+
+thereby find him guilty as a party to a crime, “from his presence,
+
+companionship, and conduct before, during, and after the offense.”
+
+Willis v. State, 
+315 Ga. 19
+, 24 (2) (
+880 SE2d 158
+) (2022) (citation and
+
+punctuation omitted).
+
+     Howard appears to argue that the evidence (1) was insufficient
+
+to show that he directly committed felony murder, because the
+
+evidence did not show that he shot King, and (2) was insufficient to
+
+                                  8
+ support his conviction on a party-to-the-crime theory, given a lack of
+
+evidence that the group that entered King’s apartment the morning
+
+of the shooting planned anything other than retrieving a weapon.
+
+Howard does not challenge the evidence showing that he was in
+
+King’s apartment when King was shot, instead arguing that the
+
+evidence was “insufficient to prove anything other than Howard was
+
+merely present at the scene[.]”But there was ample evidence
+
+showing that he was the person who shot Howard. Tramal, Sam,
+
+and Teal all testified that none of the three had a firearm, and they
+
+all testified that they either saw Howard with a gun or that he
+
+appeared to have one. This testimony was supported by the
+
+testimony of King’s neighbor that he saw someone matching
+
+Howard’s description carrying a gun. Teal also testified that Howard
+
+was the only other member of their group who was in the apartment
+
+when he heard King being shot. Moreover, Howard admitted to a jail
+
+bunkmate that he shot King in the head and torso with a .40-caliber
+
+FN pistol. And that account by the jail bunkmate was corroborated
+
+by ballistics evidence consistent with King having been shot with a
+
+                                  9
+ .40-caliber FN handgun and autopsy findings that King was shot in
+
+the head and torso.
+
+     Howard also appears to suggest that the evidence was
+
+insufficient to show that he shot King because the jury necessarily
+
+found that he was not the shooter when the jury found him not guilty
+
+of the firearm possession count. But an acquittal on one count is not
+
+itself a basis to challenge the sufficiency of the evidence as to
+
+another count. See Kolokouris v. State, 
+271 Ga. 597
+, 598 (2) (
+523
+
+SE2d 311
+) (1999); see also McElrath v. State, 
+308 Ga. 104
+, 108-109
+
+(2) (a) (
+839 SE2d 573
+) (2020) (noting abolition of rule that
+
+inconsistent verdicts warrant reversal).
+
+     Although Howard suggests that the evidence was insufficient
+
+to show that he had the requisite intent to be guilty of the crime of
+
+conviction, “[f]elony murder requires only that the defendant
+
+possessed the requisite criminal intent to commit the underlying
+
+felony — in this case, aggravated assault, which also does not
+
+require intent to kill.” Mathews v. State, 
+314 Ga. 360
+, 365 (1) (
+877
+
+SE2d 188
+) (2022) (citation and punctuation omitted)). And the jury
+
+                                 10
+ could infer that Howard himself had the intent to injure King
+
+violently when he shot at him multiple times, including in the head.
+
+Howard has not shown that the evidence was insufficient to sustain
+
+his conviction.
+
+     2.   Howard next argues that trial counsel was ineffective for
+
+failing to file a motion to suppress evidence of a photo identification
+
+of him by Tramal that Howard argues was based on an
+
+impermissibly suggestive process. We disagree.
+
+     As memorialized in a video recording that is part of the record,
+
+Tramal was shown a group of individual photos during an interview
+
+by investigators. He indicated, with some uncertainty, that one of
+
+the photos looked like Sam’s sister’s boyfriend, whom he knew as
+
+“Quay” and had not met prior to the morning of the shooting. Later
+
+in the interview, Tramal was shown what appeared to be a one-page
+
+photo array of six headshots, and definitively selected one of the
+
+photos as “Quay,” stating affirmatively that he was sure it was him.
+
+A detective who interviewed Tramal and was present for the photo
+
+array presentations explained in his trial testimony that the initial
+
+                                  11
+ group of photos was taken from photos posted on Facebook, whereas
+
+the second array included a driver’s license photo of Howard.
+
+     During Tramal’s trial testimony, both the individual photos
+
+(State’s Exhibit 71) and the one-page photo array (State’s Exhibit
+
+72) were admitted without objection. But when the State attempted
+
+to publish to the jury the individual photos that comprised Exhibit
+
+71 after their admission, Howard’s trial counsel moved for a mistrial
+
+on the basis that, although he thought at the time they were
+
+admitted that the photos had been provided in discovery, counsel in
+
+fact had “never seen these pictures before[,]” and a photo of Howard
+
+placed Howard’s character in question because the photo showed
+
+him making gang signs and holding cash, which counsel said
+
+suggested Howard was a drug dealer. The prosecutor represented
+
+that the photos had been provided in discovery and shown to defense
+
+counsel just prior to Tramal identifying them for admission. The
+
+prosecutor said that although the photo of Howard showed him with
+
+“large amounts of money in his hand[,]” it did not show him making
+
+gang signs, and that the purpose of the photo was to demonstrate
+
+                                 12
+ how Howard was identified during the interview. The trial court
+
+denied the motion for a mistrial but indicated “that particular
+
+exhibit” — specifically referencing “71C” — would not go out with
+
+the jury, which defense counsel agreed “satisf[ied his] concern.”
+
+     Tramal later testified without objection that he picked Howard
+
+out of the photo array that was admitted as Exhibit 72. The detective
+
+who interviewed Tramal also testified about Tramal picking
+
+Howard’s photo out of an array as Jylonda’s boyfriend. The detective
+
+acknowledged in his testimony that in viewing the original array,
+
+Tramal said that he was not sure of his identification of Howard; the
+
+detective noted that a hat Howard was wearing in the picture left a
+
+shadow on his face. The State played portions of the video recorded
+
+interview of Tramal for the jury, although the transcript is not
+
+precise as to which portions.
+
+     Tramal also identified Howard in court as Jylonda’s boyfriend,
+
+the person he knew as “Quay.” In his trial testimony, Tramal also
+
+identified Howard on the video surveillance footage from outside of
+
+King’s apartment. Tramal described riding in the car with Howard
+
+                                 13
+ both before and after the shooting, saying the ride to King’s
+
+residence took at least 30 minutes. The video appears to show that
+
+the sun had begun to rise before the group arrived at the apartment
+
+building.
+
+      Howard argues that trial counsel was ineffective when counsel
+
+“failed to file a motion to suppress the photo lineup” because the
+
+identification procedure used by the detective when interrogating
+
+Tramal was impermissibly suggestive.2 To prove his claim of
+
+ineffective assistance of counsel, Howard must show that counsel’s
+
+performance was deficient and that counsel’s deficient performance
+
+
+
+      2  To the extent that Howard made below separate arguments that
+counsel was ineffective for failing to review any particular photo prior to trial
+or failing to object promptly to their admission into evidence, he has abandoned
+those arguments on appeal. Although he mentions those arguments in his brief
+to this Court, he enumerates as error on appeal only that counsel was
+ineffective for failing to “file a motion to suppress the photo lineup.” This is
+insufficient to raise any such additional claims of ineffective assistance of
+counsel for our review. See Mims v. State, 
+310 Ga. 853
+, 854 n.2 (
+854 SE2d 742
+)
+(2021) (“An appealing party may not use its brief to expand its enumeration of
+errors by arguing the incorrectness of a trial court ruling not mentioned in the
+enumeration of errors.” (citation and punctuation omitted)). Moreover, because
+he makes no substantive argument or citation of authority regarding trial
+counsel’s alleged deficiencies in this regard, we would not address such claims
+of ineffectiveness even if they were contained in his enumerations of error. See
+former Supreme Court Rule 22; Session v. State, 
+316 Ga. 179
+, 185 (2) (
+887 SE2d
+317
+) (2023).
+                                       14
+ prejudiced Howard’s defense. See Strickland v. Washington, 
+466
+
+U.S. 668
+, 687 (104 SCt 2052, 80 LE2d 674) (1984). “If [a defendant]
+
+fails to establish one of these two prongs, we need not examine the
+
+other.” Payne v. State, 
+314 Ga. 322
+, 328 (3) (
+877 SE2d 202
+) (2022)
+
+(citation and punctuation omitted). “To show deficient performance,
+
+the defendant must demonstrate that counsel performed counsel’s
+
+duties in an objectively unreasonable way, considering all of the
+
+circumstances and in the light of prevailing professional norms.” Id.
+
+at 328-329 (3) (citation omitted). “To establish prejudice, [a
+
+defendant] must show that there is a reasonable probability that,
+
+but for counsel’s unprofessional error, the result of the proceeding
+
+would have been different.” Id. at 329 (3) (citation and punctuation
+
+omitted). “In reviewing a ruling on a claim of ineffective assistance
+
+of counsel, we defer to the trial court’s findings of fact unless they
+
+are clearly erroneous, but we apply the law to the facts de novo.” Id.
+
+(citation and punctuation omitted).
+
+     When a defendant claims that his counsel was ineffective for
+
+failing to file a motion to suppress evidence, he cannot show that his
+
+                                 15
+ counsel performed deficiently unless he can show that the motion
+
+would have been granted. See Armour v. State, 
+290 Ga. 553
+, 554-555
+
+(2) (a) (
+722 SE2d 751
+) (2012) (appellant failed to establish deficient
+
+performance where he failed to show that an objection to certain
+
+eyewitness identifications of him during photo arrays would have
+
+been sustained). A motion to suppress an out-of-court identification
+
+by a witness as impermissibly suggestive in violation of due process
+
+— the motion that Howard contends his counsel should have filed —
+
+requires a showing that the identification was “so impermissibly
+
+suggestive that it could result in a substantial likelihood of
+
+misidentification[.]” Lewis v. State, 
+314 Ga. 654
+, 662 (3) (b) (
+878
+
+SE2d 467
+) (2022) (citation and punctuation omitted). We employ a
+
+two-step process to determine whether identification evidence meets
+
+that test. See 
+id.
+ “First, we decide whether the identification
+
+procedure used was impermissibly suggestive.” 
+Id.
+ (citation and
+
+punctuation omitted). “Second, if a trial court properly concludes
+
+that the State employed an impermissibly suggestive pre-trial
+
+identification procedure, the issue becomes whether, considering the
+
+                                 16
+ totality of the circumstances, there was a substantial likelihood of
+
+irreparable   misidentification.”    
+Id.
+   (citation   and    punctuation
+
+omitted). “If, however, a trial court properly determines that the
+
+identification procedure is not unduly suggestive, it is not necessary
+
+to consider whether there was a substantial likelihood of irreparable
+
+misidentification.” 
+Id.
+ (citation and punctuation omitted).
+
+     Here, whether or not the photo identification procedure used
+
+with Tramal was impermissibly suggestive, we conclude that
+
+Howard has not shown that there was a substantial likelihood of
+
+irreparable misidentification, such that a motion to suppress the
+
+photo identification evidence would have succeeded. See Newton v.
+
+State, 
+308 Ga. 863
+, 863, 867 (2) (
+843 SE2d 857
+) (2020) (concluding
+
+that, even assuming photo array was impermissibly suggestive,
+
+defendant had not shown a substantial likelihood of irreparable
+
+misidentification, and thus trial court did not err in denying motion
+
+to   suppress).   In   evaluating    the    likelihood   of   irreparable
+
+misidentification, a court considers whether, under the totality of
+
+the circumstances, the identification is reliable. See id. at 867 (2).
+
+                                    17
+ Factors to consider include (1) a witness’s opportunity to view the
+
+accused at the time of the crime; (2) the witness’s degree of attention;
+
+(3) the accuracy of the witness’s prior description of the accused; (4)
+
+the witness’s level of certainty at the confrontation; and (5) the
+
+length of time between the crime and the confrontation. See id.
+
+     Here, Howard argues that because Tramal had not met him
+
+prior to the day of the shooting, the likelihood of misidentification
+
+was higher. But Howard does not grapple with the evidence showing
+
+that Tramal had a significant opportunity to view him before and
+
+after the shooting. As noted above, Howard and Tramal rode
+
+together in a car both before and after the shooting, a journey that
+
+was at least 30 minutes each way. As demonstrated by the
+
+surveillance video, Tramal would have had the opportunity to view
+
+Howard in daylight at least by the time that they arrived at King’s
+
+apartment. Tramal and Howard also went into King’s apartment
+
+twice together. And Tramal expressed certainty in identifying
+
+Howard in the second, one-page photo array. The extensive
+
+opportunities for Tramal to view Howard, as well as the certainty
+
+                                  18
+ with which he ultimately identified Howard, greatly lessened the
+
+likelihood that any suggestiveness in the initial photo array
+
+influenced the reliability of Tramal’s subsequent identifications of
+
+Howard. See Curry v. State, 
+305 Ga. 73
+, 77 (2) (
+823 SE2d 758
+) (2019)
+
+(despite   trial   court’s   conclusion   that   State   employed    an
+
+impermissibly suggestive pretrial identification procedure with
+
+bystander witnesses, no abuse of discretion in overruling objection
+
+to identification evidence, given factors such as witnesses’ “adequate
+
+opportunity in full daylight” to view the defendant and high level of
+
+certainty of identifications at the time of trial); Wright v. State, 
+294
+
+Ga. 798
+, 800, 802-803 (2) (
+756 SE2d 513
+) (2014) (rejecting argument
+
+that in-court identification should have been excluded for
+
+substantial likelihood of irreparable misidentification, even though
+
+witness had not seen the shooter prior to the night of the shooting
+
+and was unable to select defendant definitively from photo array,
+
+where witness had sufficient opportunity to observe shooter, gave
+
+fairly accurate description of gunman, and testified that he was 95
+
+percent certain of his identification). And although Tramal was
+
+                                   19
+ hesitant about identifying Howard in the initial photo array, the
+
+uncontested evidence is that Howard was wearing a hat that cast a
+
+shadow on his face in this photo, both explaining Tramal’s hesitance
+
+about identifying him from that photo and making it less likely that
+
+the viewing of this photo influenced Tramal’s subsequent, more
+
+certain identifications of Howard. Having failed to show that an
+
+objection to Tramal’s identification of Howard would have been
+
+successful, Howard has failed to establish deficient performance by
+
+his trial counsel for not filing a motion to suppress, so Howard’s
+
+claim fails on the first prong of the ineffective assistance test. See
+
+Pearson v. State, 
+311 Ga. 26
+, 29-31 (2) (
+855 SE2d 606
+) (2021) (no
+
+deficient performance in failing to secure ruling on motion to
+
+suppress identifications where totality of the circumstances did not
+
+show that the trial court would have found a substantial likelihood
+
+of misidentification); see also Walker v. State, 
+295 Ga. 688
+, 692-693
+
+(3) (
+763 SE2d 704
+) (2014) (equating the admissibility of in-court
+
+identification with whether suggestive out-of-court identification
+
+leads to a substantial likelihood of irreparable misidentification).
+
+                                  20
+      3.    Finally, Howard argues that the trial court erred in
+
+striking a prospective juror for cause. We conclude that Howard has
+
+not shown reversible error.
+
+     During voir dire, in response to the State’s question of whether
+
+any member of the panel “may have some moral or religious or
+
+philosophical beliefs that would prevent you from sitting in
+
+judgment of another person,” Juror No. 18 said she did not “feel
+
+comfortable judging” and did not “feel comfortable making the
+
+judgment on someone else’s situation.” She added, “I just feel like I
+
+pray that — for everyone and I just think that God is going to make
+
+everybody better. But it doesn’t always happen that way, but I still
+
+pray for them.” During follow up questioning, Juror No. 18 stated
+
+that she would follow the trial court’s instructions, “listen to all the
+
+evidence[,] and follow what the [j]udge told [her] to do[,]” and she
+
+told the prosecutor that if she “fe[lt] “that [the] evidence [was] strong
+
+enough, then it would have to be a guilty verdict.” But she also
+
+expressed concern about “holding the young man’s life in [her]
+
+hands[,]” noting she had five grandsons. And when the prosecutor
+
+                                   21
+ pressed her on whether she could “set aside” her “moral belief” and
+
+thoughts about her grandsons and “decide this case without all of
+
+that influencing [her,]” Juror No. 18 responded, “I don’t think I could
+
+do that. I really don’t.” The State moved to strike Juror No. 18 for
+
+cause. Howard’s counsel responded that the prospective juror should
+
+not be struck, noting her statements that she would follow
+
+instructions and vote guilty if the evidence were strong enough. The
+
+State argued in turn that “her initial response and her final response
+
+clearly indicates that she has so much compassion and cannot set
+
+aside her moral convictions[.]”The trial court granted the State’s
+
+motion to strike, saying, “I’m kind of falling back on primacy and
+
+recency on this one.” Howard did not further object to the striking of
+
+the juror.3
+
+
+
+      3 The Attorney General argues that this claim is not preserved. But the
+
+cases that the Attorney General cites do not address whether a defendant
+needs to restate an objection to excusing a juror for cause once the court has
+ruled. See Hill v. State, 
+310 Ga. 180
+, 186-187 (3) (a) (
+850 SE2d 110
+) (2020);
+Passmore v. State, 
+274 Ga. 200
+, 202 (5) (
+552 SE2d 816
+) (2001). And our
+precedent indicates that a defendant does not need to restate such an objection.
+See Humphreys v. State, 
+287 Ga. 63
+, 69 (4) (
+694 SE2d 316
+) (2010), disapproved
+on other grounds by Willis v. State, 
+304 Ga. 686
+, 706-707 (11) (a) n.3 (
+820 SE2d
+640
+) (2018).
+                                      22
+      Whether or not the trial court abused its discretion in striking
+
+Juror No. 18, Howard’s claim provides no grounds for reversal. “It is
+
+well settled that a defendant does not have a right in a particular
+
+juror but rather only has a right to a legal and impartial jury[.]”
+
+Saylor v. State, 
+316 Ga. 225
+, 232-233 (3) (
+887 SE2d 329
+) (2023). The
+
+erroneous dismissal for cause of a prospective juror for a reason that
+
+is not constitutionally impermissible does not require reversal “if
+
+there is no showing that a competent and unbiased jury was not
+
+selected.” Id. at 233 (3). Howard does not argue that the jury that
+
+was selected was biased or incompetent. Accordingly, his claim fails.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                 23
+ 

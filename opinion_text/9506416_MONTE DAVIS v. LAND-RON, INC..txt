@@ -1,0 +1,320 @@
+Court of Appeals
+of the State of Georgia
+
+                                        ATLANTA,____________________
+                                                 May 22, 2024
+
+The Court of Appeals hereby passes the following order:
+
+A24A0179. MONTE DAVIS v. LAND-RON, INC. et al.
+
+      In 2018, Monte Davis filed this negligence action naming multiple entities as
+defendants, including Land-Ron, Inc. and Intercontinental Hotels Group Resources,
+Inc. (“IHG”). Davis subsequently filed a motion seeking to substitute HH TRS FP
+Portfolio, LLC as a defendant in place of IHG. On October 10, 2019, the trial court
+entered an order dropping IHG from the case, but denying the addition of HH TRS
+FP Portfolio, LLC as a party defendant. Davis then filed a “motion to add HHC TRS
+FP Portfolio, LLC” as a party-defendant. The trial court entered an order denying
+that motion on December 10, 2019. To contest those adverse rulings, Davis filed a
+notice of appeal on July 6, 2023.1 As explained below, because Davis’s notice of appeal
+was not filed within 30 days of any appealable decision or judgment, this Court lacks
+jurisdiction.
+
+
+      1
+       In his notice of appeal, Davis states that “[he] files his Notice of Appeal from
+the Order Denying Motion To Substitute Parties, which was entered on October 10,
+2019 and the Order Denying Motion To Add a Party Defendant, which was entered
+on December 10, 2019.” Similarly, in his appellate brief, Davis contends in the
+“ENUMERATION OF ERRORS” section:
+      1. The Trial Court erred in entering the Order, which erroneously denied
+      the . . . Motion to Substitute Proper Party Defendant; and
+      2. The Trial Court erred in entering the . . . Order, which erroneously
+      denied the Appellant’s . . . Motion to Add HHC TRS FP Portfolio, LLC
+      (“HHC”) as a Party Defendant.
+                                           1
+        “The proper and timely filing of a notice of appeal is an absolute requirement
+to confer appellate jurisdiction on an appellate court.” (Citation and punctuation
+omitted.) Perlman v. Perlman, 
+318 Ga. App. 731
+, 739 (4) (
+734 SE2d 560
+) (2012). As
+a general rule, to obtain a direct appeal, “[a] notice of appeal shall be filed within 30
+days after entry of the appealable decision or judgment complained of[.]” OCGA §
+5-6-38 (a). Here, the notice of appeal was filed more than three years after the
+complained of orders were entered.
+
+
+       Davis nevertheless posits that “this Court has appellate jurisdiction over this
+matter pursuant to OCGA § 5-6-34 (a) (1).” He cites that (defendant) Land-Ron, Inc.
+meanwhile moved for summary judgment; that the trial court denied that motion; and
+that this Court concluded in an unpublished decision that Land-Ron, Inc. was entitled
+to summary judgment and thus reversed the trial court’s judgment. See Land-Ron,
+Inc. v. Davis, ___ Ga. App. __ (Case No. A23A0319) (June 9, 2023) (hereinafter
+“Land-Ron I”). Davis asserts that, after this Court issued the remittitur,2 the
+remittitur was filed in the trial court’s clerk’s office on July 3, 2023, and that he filed
+his notice of appeal on July 6, 2023.
+
+
+       Even accepting, for the sake of argument, Davis’s assertion that his notice of
+appeal was filed three days after the filing of the remittitur in the trial court, the notice
+of appeal failed to perfect jurisdiction of this appeal. The statutory provision upon
+which Davis relies authorizes direct appeals only from “final judgments, that is to say,
+
+
+       2
+        This Court’s records in Land-Ron I confirm that the remittitur was issued on
+June 27, 2023. See generally Young v. Jones, 
+140 Ga. App. 66
+, 68 (
+230 SE2d 32
+)
+(1976) (on motion for rehearing) (reciting that “this court will take judicial notice of
+its own records, and will of its own motion, or at the suggestion of counsel, inspect the
+records of this court in a former appeal of the same case”) (citation and punctuation
+omitted).
+                                             2
+ where the case is no longer pending in the court below[.]” (Emphasis supplied)
+OCGA § 5-6-34 (a) (1). Thus, even presuming that Land-Ron, Inc. was the sole
+remaining defendant when this Court was deciding Land-Ron I, Davis has cited no
+authority supporting his premise that, after an appellate court reverses a trial court’s
+judgment, a direct appeal may lie from the mere filing of the remittitur by the trial
+court’s clerk’s office. And we find none.
+
+
+      Rather, we are bound by Supreme Court of Georgia’s precedent explaining that
+
+
+      [t]he trial court . . . was re-invested with jurisdiction when the Court of
+      Appeals reversed [the denial of the motion for summary] judgment and
+      caused its remittitur to be transmitted to and filed in the clerk’s office of
+      the trial court. . . . The filing of a remittitur . . . served no function except
+      to notify officially the trial court that its judgment[ ] had been reversed
+      and that the case[ ] [was] being sent back to that court for further action.
+
+
+(Emphasis supplied.) Hagan v. Robert & Co. Assoc., 
+222 Ga. 469
+, 471 (1) (
+150 SE2d
+663
+) (1966); see Holton v. Lankford, 
+189 Ga. 506
+, 512 (1) (
+6 SE2d 304
+) (1939) (“The
+judgment of reversal, without more, operated only to vacate the orders and the decree
+as therein stated, and to reinvest the trial court with jurisdiction, on the filing of the
+remittitur in the office of the clerk of the trial court. It did just this, and nothing
+more.”).
+
+
+      As the Supreme Court of Georgia has explained further,
+
+
+
+
+                                             3
+       [OCGA § 5-6-103] declares that a decision of this court shall be certified
+      under the seal of this court to the court below and shall be respected, and
+      in good faith carried into full effect, by the court below. When the
+      remittitur from this [C]ourt on the case’s former appearance here
+      reached the trial court, the only action under our decision and judgment
+      that the court below could take was to make the judgment of this court
+      the judgment of the trial court and to enter an order [in accordance
+      therewith].
+
+
+(Citations and punctuation omitted.) Summer-Minter & Assocs. v. Giordano, 
+231 Ga.
+601
+, 607 (
+203 SE2d 173
+) (1973) (citing former Code § 6-1804, which contained the
+material language of OCGA § 5-6-10).4 See generally Shepherd v. Shepherd, 
+243 Ga.
+
+3
+
+         See generally OCGA § 5-6-10 (“The decision of the appellate court and any
+direction awarded in the case shall be certified by the clerk to the court below, under
+the seal of the court. The decision and direction shall be respected and carried into full
+effect in good faith by the court below. The remittitur shall contain nothing more,
+except the costs paid in the appellate court.”).
+      4
+        Such principles are also set out in Giordano v. Stubbs, 
+356 F. Supp. 1041
+, 1044
+(N.D. Ga. 1973) (“Under Georgia law the decision of an appellate court must be
+respected and in good faith carried into full effect by the court from which the appeal
+was taken, 
+Ga. Code Ann. § 6-1804
+ (1964), and generally the lower court fulfills this
+obligation by promptly entering an order making the judgment of the appellate court
+its judgment upon receipt of the remittitur. Such an order is known as a judgment on
+the remittitur. If the appellate court has reversed a lower court’s denial of a motion
+dispositive of a case – such as a motion to dismiss (demurrer) or a motion for summary
+judgment – the entry by the lower court of a judgment on the remittitur constitutes a
+final judgment and terminates the case, whereas generally in all other situations the
+case continues in the lower court until final judgment.”) (citations omitted). And a
+“judgment on [the] remittitur” is expressly recognized by Georgia’s cases such as
+Nance v. State, 
+274 Ga. 311
+, 311 (
+553 SE2d 794
+) (2001), Yeomans v. Galbreath, 
+259 Ga.
+261
+, 261 (
+378 SE2d 864
+) (1989), United Cerebral Palsy v. Dept. of Behaviorial Health,
+                                            4
+ 253, 254-255 (
+253 SE2d 696
+) (1979) (explaining that when appellate court reversed the
+trial court’s decision, the only action that the trial court had authority to take was to
+enter an order to make the judgment of the appellate court the order of the trial court).
+
+
+       As the Supreme Court of Georgia has held, “The legal effect of the reversal of
+a judgment on appeal is to nullify the judgment below and place the parties in the same
+position in which they were before judgment.” (Citation and punctuation omitted.)
+Franklyn Gesner Fine Paintings v. Ketcham, 
+259 Ga. 3
+, 4 (6) (a) (
+375 SE2d 848
+) (1989).
+Here, Davis has failed to cite – or even assert – that after the (presumed) filing of the
+remittitur in the trial court, the trial court entered a final judgment in the case.5 See
+OCGA § 5-6-31 (“The filing with the clerk of a judgment, signed by the judge,
+constitutes the entry of a judgment within the meaning of this article.”).
+
+
+       Given the lack of any appealable judgment having been entered within the
+pertinent 30 day period before Davis filed his notice of appeal,6 jurisdiction of this case
+
+
+353 Ga. App. 387
+, 393 (
+837 SE2d 533
+) (2020), and Wilann Properties I, LLC v. Ga.
+Power Co., 
+330 Ga. App. 311
+, 311 (
+765 SE2d 463
+) (2014).
+       5
+        See generally Massey v. Massey, 
+294 Ga. 163
+, 166 (3) (
+751 SE2d 330
+) (2013)
+(“[A]n appellate court maintains jurisdiction over a case until it has issued the
+remittitur and the remittitur has been received and filed in the clerk’s office of the
+court below. Only then does the trial court regain jurisdiction to take further action
+with respect to the judgment appealed.”) (citations and punctuation omitted);
+Chambers v. State, 
+262 Ga. 200
+, 201-202 (2) (
+415 SE2d 643
+) (1992) (“[W]here the
+appellate court has issued the remittitur and it has been received and filed in the
+clerk’s office of the court below, the trial court then has jurisdiction to take further
+action in the case.”).
+       6
+         Our conclusion accords with other precedents requiring that a notice of appeal
+be filed during the 30 day period following a written final judgment. See, e.g., Seals v.
+State, 
+311 Ga. 739
+, 739 (
+860 SE2d 419
+) (2021) (“[D]ead-docketing a count leaves that
+                                             5
+ in this Court did not vest.7
+
+
+count undecided and, thus, leaves the entire case pending in the court below. Such a
+case cannot be appealed as a final judgment under OCGA § 5-6-34 (a) (1)[.]”)
+(punctuation omitted); Curry v. State, 
+248 Ga. 183
+, 185 (4) (
+281 SE2d 604
+) (1981)
+(“An oral declaration as to what the sentence shall be is not the sentence of the court;
+the sentence signed by the judge is.”); Bass v. State, 
+284 Ga. App. 331
+, 332 (
+643 SE2d
+851
+) (2007) (although the trial court announced at the sentencing hearing that certain
+counts would be merged with others, as to each guilty verdict, “the trial court did not
+either (a) enter a written sentence, or (b) enter a written notation that the count
+merged into another”; the “case thus was not ripe for appeal at that time even though
+the trial court did enter a written judgment of conviction and sentence on other
+counts”) (citation and punctuation omitted).
+      7
+        There is no merit in Davis’s argument that the jurisdictional issue is controlled
+by cases such as Gillen v. Bostick, 
+234 Ga. 308
+, 310-311 (1) (
+215 SE2d 676
+) (1975),
+Coleman v. JP Morgan Chase Bank, N. A., 
+347 Ga. App. 118
+, 118, n. 1 (
+817 SE2d 567
+)
+(2018), and Mitchell v. Cancer CarePoint, 
+299 Ga. App. 881
+, 882, n. 1 (
+683 SE2d 923
+)
+(2009). Those cases recognize that a prematurely filed notice of appeal may ripen
+upon the subsequent filing of an appealable judgment; they do not provide further that
+an interlocutory order “ripens” into a final judgment, upon the filing of a remittitur,
+followed by a notice of appeal. Indeed, as noted above, this Court reversed the trial
+court’s judgment in Land-Ron I, rendering the legal effect of “nullif[ing] the judgment
+below and plac[ing] the parties in the same position in which they were before
+judgment.” (Citation and punctuation omitted.) Franklyn Gesner Fine Paintings, 
+259
+Ga. at 4
+ (6) (a).
+       What is more, it is pursuant to OCGA § 5-6-34 (d) that “all judgments, rulings,
+or orders rendered in the case which are raised on appeal and which may affect the
+proceedings below shall be reviewed and determined by the appellate court, without
+regard to the appealability of the judgment, ruling, or order standing alone and without
+regard to whether the judgment, ruling, or order appealed from was final or was
+appealable by some other express provision of law contained in this Code section, or
+elsewhere[.]” (Emphasis supplied.) But that provision may be invoked only where an
+“appeal is taken from an order or judgment pursuant to OCGA § 5-6-34 (a), (b), or (c).”
+(Emphasis supplied). At this juncture, Davis has not satisfied that predicate; nor has
+he made any claim that OCGA § 5-6-34 (d) provides a jurisdictional basis for this
+                                           6
+    Consequently, this appeal is hereby DISMISSED.8
+
+                                          Court of Appeals of the State of Georgia
+                                            Clerk’s Office, Atlanta,____________________
+                                                                        05/22/2024
+                                                     I certify that the above is a true extract from
+                                          the minutes of the Court of Appeals of Georgia.
+                                                    Witness my signature and the seal of said court
+                                          hereto affixed the day and year last above written.
+
+
+                                                                                            , Clerk.
+
+
+
+
+Court to reach the complained of orders.
+       8
+         The appellate record does not contain a copy of the remittitur as filed in the
+court below. Davis has thus submitted to this Court a motion to supplement the
+appellate record therewith. Such supplementation, however, would serve no purpose.
+        As we have explained above, even accepting arguendo that the remittitur was
+duly filed in the trial court as asserted by Davis, jurisdiction did not perfect for lack of
+a final judgment thereafter entered by the trial court. Therefore, Davis’s motion to
+supplement is hereby DISMISSED AS MOOT.
+                                             7
+ 

@@ -1,0 +1,1000 @@
+                                THIRD DIVISION
+                                 DOYLE, P. J.,
+                            HODGES and WATKINS, JJ.
+
+                     NOTICE: Motions for reconsideration must be
+                     physically received in our clerk’s office within ten
+                     days of the date of decision to be deemed timely filed.
+                                https://www.gaappeals.us/rules
+
+
+
+                                                                        May 23, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0174. WARD v. THE STATE.
+
+       HODGES, Judge.
+
+       Following a jury trial, Gregory Lamar Ward was convicted as a recidivist of
+
+felony-level family violence battery (OCGA § 16-5-23.1 (a), (f) (2)). The trial court
+
+denied his motion for a new trial, and he filed the instant appeal. In it, he argues that:
+
+(1) the trial court failed to exercise its discretion in considering the general grounds
+
+(OCGA §§ 5-5-20, 5-5-21); (2) the evidence was insufficient to sustain his conviction;
+
+(3) the trial court erred in admitting his 2018 conviction for family violence battery
+
+under OCGA § 24-4-404 (b) (“Rule 404 (b)”)); (4) the trial court gave an erroneous
+
+Rule 404 (b) jury instruction; and (5) the trial court also erred in admitting certain out-
+ of-court statements for impeachment purposes.1 For the reasons that follow, we
+
+affirm.
+
+      Viewed in the light most favorable to the verdict,2 the evidence adduced at trial
+
+shows that on the night of September 27, 2020, witness Angela Withers heard her
+
+apartment complex neighbor, Rebecca Simpson, screaming for her sister, who also
+
+lived nearby. Withers did not see what was going on because she was indoors, while
+
+Simpson was outside. Because Simpson sounded “scared[,]” Withers called 911.
+
+Officer Bobby Elswick with the Dalton Police Department responded to the scene. He
+
+found Simpson in the doorway of her apartment, in the rain, “hysterical” and
+
+“crying.” She was holding a bloody, wet rag to her mouth and had visible cuts inside
+
+her lips, with visible swelling on the right side.
+
+      Elswick testified that, at the scene, Simpson told him Ward “struck her in the
+
+face four times.” A witness told the officer that Ward “ran across the street towards
+
+
+
+
+      1
+        Morgan County v. Gay, 
+352 Ga. App. 555
+, 559 (1) (a), n. 4 (
+834 SE2d 576
+)
+(2019) (“For convenience of discussion, we have taken the enumerated errors out of
+the order in which appellant has listed them . . . .”) (citation and punctuation
+omitted).
+      2
+          Percell v. State, 
+346 Ga. App. 219
+ (1) (
+816 SE2d 344
+) (2018).
+                                            2
+ a warehouse.” Elswick and another officer found Ward “hiding” in the trailer of a
+
+semi-truck, filled with carpet rolls, that was backed up to a loading dock.
+
+      Simpson testified at trial, however, that she accidentally slipped and fell on the
+
+rain-slick tiled floor of her entryway and could not get up because she has a bone
+
+disease and a bad knee. She and Ward had been arguing inside her apartment. They
+
+had been in a romantic relationship for about a month and a half. Simpson and Ward
+
+were both “[v]ery” intoxicated, and Simpson was yelling at Ward because he had left
+
+her somewhere and she was “jealous” that he had been with another woman. She was
+
+attempting to leave and when Ward “grabbed” her to prevent her from going, she
+
+“slipped.” When Ward tried to pick her up, she could not raise her knee. She testified
+
+that Ward’s forearm hit her lip, causing her tooth to cut into it, and she crawled
+
+outside and walked to her sister’s home. By this time, Ward “had done left.”
+
+      At trial, Simpson denied telling the officer that Ward hit her, instead testifying
+
+that she only “said it felt like I had been beat in the face a thousand times” or “felt
+
+like I’d been hit about four or five times.” She then testified, contrary to her earlier
+
+testimony, that she did not tell the officer Ward tried to pick her up, but only that she
+
+had slipped, and Ward’s arm “caught [her] lip[,]” accidentally injuring her. Elswick
+
+
+                                           3
+ testified, by contrast, that Simpson did not tell him it only “fe[lt] like” she was hit in
+
+the face four times. He testified that on the night of the injuries, Simpson said nothing
+
+to him about an accidental injury or a slip-and-fall. Elswick did not have a body-cam,
+
+so there is no footage of his interaction with Simpson.
+
+      At trial, Simpson testified that she was still in touch with Ward, he had
+
+expressed affection for her since the injuries, she loved him and wanted a favorable
+
+result for him in court, and he had apologized to her for what happened on the date
+
+she was injured.
+
+      1. Ward’s motion for new trial relied in part upon OCGA §§ 5-5-20 and 5-5-21,
+
+invoking the trial court’s discretion as the thirteenth juror to set the verdict aside as
+
+contrary to the principles of justice and equity, because of the conflicting testimony
+
+from Simpson and Elswick regarding whether Simpson’s injuries were the result of
+
+an accident or Ward’s intentional actions. On appeal, Ward contends the record
+
+shows no evidence that the trial court exercised its discretion in denying his motion
+
+for new trial. We find no error.
+
+             Even when the evidence is legally sufficient to sustain a
+      conviction, a trial judge may grant a new trial if the verdict of the jury is
+      “contrary to . . . the principles of justice and equity,” OCGA § 5–5–20,
+
+
+                                            4
+        or if the verdict is “decidedly and strongly against the weight of the
+       evidence.” OCGA § 5–5–21. When properly raised in a timely motion,
+       these grounds for a new trial — commonly known as the “general
+       grounds”— require the trial judge to exercise a broad discretion to sit as
+       a thirteenth juror. In exercising that discretion, the trial judge must
+       consider some of the things that she cannot when assessing the legal
+       sufficiency of the evidence, including any conflicts in the evidence, the
+       credibility of witnesses, and the weight of the evidence. Although the
+       discretion of a trial judge to award a new trial on the general grounds is
+       not boundless — it is, after all, a discretion that should be exercised with
+       caution and invoked only in exceptional cases in which the evidence
+       preponderates heavily against the verdict — it nevertheless is, generally
+       speaking, a substantial discretion.
+
+
+(Citations and punctuation omitted.) Allen v. State, 
+296 Ga. 738
+, 740 (2) (
+770 SE2d
+
+625
+) (2015).
+
+
+
+       Although Ward argues that the record contains no evidence showing the trial
+
+court exercised its discretion, this is incorrect. At the hearing on Ward’s motion for
+
+new trial, Ward’s attorney asked the trial court to sit as the thirteenth juror to consider
+
+conflicting witness testimony. In its order, the trial court stated that, “[h]aving
+
+reviewed the [d]efendant’s [m]otion, the record in this case, and having heard the
+
+
+                                             5
+ arguments of counsel, the [c]ourt hereby DENIES the [d]efendant’s [m]otion for
+
+[n]ew [t]rial.” The trial court’s order in Allen, supra, was remarkably similar. It said:
+
+“After considering the record in this case, the Defendant’s amended motions for new
+
+trial, the State’s response in opposition at the hearing in this case, and the arguments
+
+by both the defendant and State on the issues contained therein, the Defendant’s
+
+motion for new trial is hereby DENIED.” 
+296 Ga. at 740-741
+ (2). In assessing this
+
+order, the Supreme Court found:
+
+      Nothing in this order indicates that the trial court failed to perform its
+      duty to exercise its discretion and weigh the evidence in its consideration
+      of the general grounds. The court did not state the incorrect standard in
+      its order, and nothing in the record indicates that the court was unaware
+      of its responsibility.
+
+
+(Citations and punctuation omitted.) Allen, 
+296 Ga. at 741
+ (1); accord Drennon v.
+
+State, 
+314 Ga. 854
+, 860 (2) (
+880 SE2d 139
+) (2022) (explaining that when a trial court
+
+evaluates the general grounds as the “thirteenth juror,” we presume that the court
+
+understood the nature of its discretion and exercised it, unless the record shows
+
+otherwise, even if the court did not explicitly mention its discretion with respect to the
+
+general grounds). In addition, after hearing the evidence and arguments of counsel,
+
+
+
+                                            6
+ the trial court in the instant case said it would “take it under advisement” before
+
+returning a decision. See Leggett v. State, 
+331 Ga. App. 343
+, 345 (2) (
+771 SE2d 50
+)
+
+(2015) (finding, where trial court clearly indicated it would not rule on motion for new
+
+trial until it had reviewed the transcript, then entered an order noting it had “heard
+
+the evidence and argument of counsel[,]” that the appellate court “will not presume
+
+the trial court committed error where that fact does not affirmatively appear”)
+
+(citation and punctuation omitted). “Under these circumstances, [Ward] has not
+
+shown that the trial court erred in denying his motion on the general grounds
+
+alleged.” Caviston v. State, 
+315 Ga. 279
+, 284 (1) (
+882 SE2d 221
+) (2022).
+
+      2. Ward argues that the evidence was insufficient to sustain his conviction for
+
+family violence battery because the State failed to prove that Ward and Simpson were
+
+household members and also failed to prove Ward’s intent. We disagree.
+
+             In considering the sufficiency of the evidence supporting a
+      criminal conviction, the relevant question is whether, after viewing the
+      evidence in the light most favorable to the prosecution, any rational trier
+      of fact could have found the essential elements of the crime beyond a
+      reasonable doubt. It is the function of the jury, not the reviewing court,
+      to resolve conflicts in the testimony, to weigh the evidence, and to draw
+      reasonable inferences from the evidence. As long as there is some
+      competent evidence, even though contradicted, to support each fact
+
+                                           7
+       necessary to make out the [S]tate’s case, the jury’s verdict will be
+      upheld.
+
+
+(Citations and punctuation omitted; emphasis in original.) Percell v. State, 
+346 Ga.
+
+App. 219
+, 219-220 (1) (
+816 SE2d 344
+) (2018).
+
+      OCGA § 16-5-23.1 provides, in pertinent part, that:
+
+      (a) A person commits the offense of battery when he or she intentionally
+      causes substantial physical harm or visible bodily harm to another.
+
+
+      (b) As used in this Code section, the term “visible bodily harm” means
+      bodily harm capable of being perceived by a person other than the victim
+      and may include, but is not limited to, substantially blackened eyes,
+      substantially swollen lips or other facial or body parts, or substantial
+      bruises to body parts. . . .
+
+
+      [. . .]
+
+      (f) (1) As used in this subsection, the term “household member” means
+      past or present spouses . . . or other persons living or formerly living in
+      the same household.
+
+
+      (2) If the offense of battery is committed between household members,
+      it shall constitute the offense of family violence battery . . . .
+
+
+
+
+                                            8
+       Ward concedes in judicio that Simpson sustained visible bodily harm. He
+
+argues, however, that the evidence was insufficient to show that Simpson and Ward
+
+were living or formerly living in the same household. Although Simpson initially
+
+testified that she and Ward did not live together, when the State asked, “did you share
+
+a residence, that’s what I’m asking[,]” Simpson responded, “Yes.” She also testified
+
+that although Ward had a separate residence, “he stayed mostly at my house.”
+
+Although Ward “emphasizes that [Simpson] gave conflicting and self-contradictory
+
+testimony[,] . . . [s]uch conflicts and contradictions are matters of credibility for the
+
+jury to resolve; so long as some competent evidence supports the facts necessary for
+
+the State’s case, the jury’s verdict stands.” Davis v. State, 
+244 Ga. App. 708
+, 710 (1)
+
+(
+536 SE2d 596
+) (2000). The jury was authorized to find that Simpson and Ward were
+
+members of the same household.
+
+      Ward also argues that insufficient evidence showed his intention to injure
+
+Simpson, given the lack of eyewitnesses and her testimony that she slipped and fell,
+
+accidentally injuring her lip when it hit Ward’s forearm. As noted above, however, the
+
+evidence showed Simpson and Ward were arguing, he attempted to stop her from
+
+leaving the apartment, she told the police officer Ward hit her four or five times, and
+
+
+                                           9
+ Ward fled the scene and hid in a trailer. From this and other evidence discussed above
+
+— in particular the evidence of the multiplicity of times Ward hit Simpson; the
+
+resulting visible, bloody injury; and the fact that Ward apologized to her afterwards
+
+— the jury was authorized to infer that he intentionally caused Simpson’s visible
+
+bodily injury. See Adams v. State, 
+280 Ga. App. 779
+, 781 (
+634 SE2d 868
+) (2006)
+
+(“Intent, of course, may be inferred from circumstances.”); see generally Collins v.
+
+State, 
+283 Ga. App. 188
+, 190-191 (1) (a) (
+641 SE2d 208
+) (2007) (finding that intent
+
+may be inferred because “the incident occurred during a heated argument” and
+
+because of the perpetrator’s “subsequent flight[,]” as well as from other acts evidence
+
+admitted to prove intent).
+
+      3. Ward argues that the trial court erred in admitting his 2018 conviction from
+
+his guilty plea to family violence battery against his then-wife under OCGA § 24-4-
+
+404 (b). He contends that the prior conviction was not relevant to an issue other than
+
+propensity, in particular because the State introduced the prior conviction without
+
+testimony or a proffer showing his intent or motive. He also argues that any probative
+
+value was outweighed by prejudicial effect. We disagree.
+
+
+
+
+                                          10
+       As an initial matter, this enumeration of error was not preserved for our review.
+
+Although Ward’s counsel did say at trial, “I would object to the 404 (b) evidence
+
+being introduced[,]” he gave no basis for the objection. “In order to preserve an
+
+objection for appellate review, the specific ground of the objection must be made at
+
+the time the challenged evidence is offered. Therefore, we review this enumeration
+
+for plain error only.” (Citation and punctuation omitted.) Lopez v. State, 
+355 Ga. App.
+
+319
+, 322 (2) (
+844 SE2d 195
+) (2020). To show plain error,
+
+      first, there must be an error or defect — some sort of deviation from a
+      legal rule — that has not been intentionally relinquished or abandoned,
+      i.e., affirmatively waived, by the appellant. Second, the legal error must
+      be clear or obvious, rather than subject to reasonable dispute. Third, the
+      error must have affected the appellant’s substantial rights, which in the
+      ordinary case means he must demonstrate that it affected the outcome
+      of the trial court proceedings. Fourth and finally, if the above three
+      prongs are satisfied, the appellate court has the discretion to remedy the
+      error — discretion which ought to be exercised only if the error seriously
+      affects the fairness, integrity or public reputation of judicial proceedings.
+
+
+(Citation and punctuation omitted.) 
+Id.
+
+
+      The State gave notice of its intention to introduce the conviction to show intent
+
+because it expected Simpson to testify, as she did, that her injury resulted from an
+
+
+                                           11
+ accident rather than Ward’s intent to injure her. The State also argued to the trial
+
+court its need to introduce the conviction to show Ward’s motive to control his
+
+intimate partners through violence. The trial court ruled that the prior conviction
+
+could be introduced to show intent and motive. At trial, the State presented a certified
+
+copy of a conviction showing Ward had pled guilty to family violence against his then-
+
+wife. Ward now contends the State did not need the conviction to show motive or
+
+intent, that it impermissibly showed his bad character or criminal propensity, and that
+
+it was more prejudicial than probative.
+
+      OCGA § 24-4-404 (b) provides, in pertinent part:
+
+      Evidence of other crimes, wrongs, or acts shall not be admissible to prove
+      the character of a person in order to show action in conformity
+      therewith. It may, however, be admissible for other purposes, including,
+      but not limited to, proof of motive, opportunity, intent, preparation,
+      plan, knowledge, identity, or absence of mistake or accident.
+
+
+      Under the three-part test for admissibility adopted by our Supreme Court, the
+
+moving party must show that (1) the other acts evidence is relevant to an issue other
+
+than the defendant’s character; (2) the probative value is not substantially outweighed
+
+by undue prejudice under OCGA § 24-4-403 (“Rule 403”); and (3) there is sufficient
+
+
+
+                                          12
+ proof that a jury could find by a preponderance of evidence that the defendant
+
+committed the other crimes. Jones v. State, 
+301 Ga. 544
+, 545 (
+802 SE2d 234
+) (2017);
+
+Olds v. State, 
+299 Ga. 65
+, 69-70 (2) (
+786 SE2d 633
+) (2016); Bradshaw v. State, 
+296 Ga.
+
+650
+, 656 (3) (
+769 SE2d 892
+) (2015).
+
+      The threshold inquiry under the three-part test as set out above “is whether the
+
+evidence is probative of a material issue other than character.” Thompson v. State, 
+302
+
+Ga. 533
+, 539 (III) (A) (
+807 SE2d 899
+) (2017). The trial court in the instant case
+
+admitted the evidence to show intent and motive, which are among the list of
+
+commonly recognized permissible purposes set out in OCGA § 24-4-404 (b). As to
+
+intent, “a defendant puts his intent in issue when he pleads not guilty unless he takes
+
+affirmative steps to withdraw intent as an element to be proved by the State.” State
+
+v. Jones, 
+297 Ga. 156
+, 161 (2), n. 4 (
+773 SE2d 170
+) (2015). Here, Ward pleaded not
+
+guilty. Additionally, given Simpson’s testimony that her injuries resulted from Ward’s
+
+arm accidentally hitting her mouth, it is clear that the State’s burden of proving intent
+
+was not relieved. Because the prior crime and the offense for which Ward was on trial
+
+are identical, the intent required to prove the crimes was necessarily the same. See
+
+Burgess v. State, 
+349 Ga. App. 635
+, 640-641 (3) (
+824 SE2d 99
+) (2019) (finding that
+
+
+                                           13
+ State satisfied first prong of the three-part test, even though it only introduced the
+
+prior accusation and conviction without offering testimony or a factual proffer where
+
+intent required for prior and current offenses was identical), overruled in part on other
+
+grounds by Hill v. State, 
+360 Ga. App. 143
+, 146, n. 4 (
+860 SE2d 893
+) (2021). The first
+
+prong of the Rule 404 (b) test was satisfied. We find no error, plain or otherwise.
+
+      We turn now to the second prong, the Rule 403 balancing test, under which the
+
+trial court may exclude even relevant evidence if its probative value is “substantially
+
+outweighed by the danger of unfair prejudice, confusion of the issues, or misleading
+
+the jury or by considerations of undue delay, waste of time, or needless presentation
+
+of cumulative evidence.” OCGA § 24-4-403. The application of the Rule 403 test is
+
+a matter committed principally to the discretion of the trial courts, and “calls for a
+
+common sense assessment of all the circumstances surrounding the extrinsic offense,
+
+including prosecutorial need, overall similarity between the extrinsic act and the
+
+charged offense, as well as temporal remoteness.” (Citation and punctuation omitted.)
+
+Bradshaw, 296 Ga. at 657-58 (3). “The major function of Rule 403 is to exclude matter
+
+of scant or cumulative probative force, dragged in by the heels for the sake of its
+
+prejudicial effect.” (Citation and punctuation omitted.) Olds, 
+299 Ga. at 70
+ (2), n. 7.
+
+
+                                           14
+ The exclusion of relevant evidence for this reason “is an extraordinary remedy which
+
+should be used only sparingly, since it permits the trial court to exclude concededly
+
+probative evidence.” (Citation and punctuation omitted.) Harvey v. State, 
+344 Ga.
+
+App. 761
+, 769-770 (2) (a) (ii) (
+811 SE2d 479
+) (2018). For this reason, “we look at the
+
+evidence in a light most favorable to its admission, maximizing its probative value and
+
+minimizing its undue prejudicial impact.” (Citation and punctuation omitted.) Anglin
+
+v. State, 
+302 Ga. 333
+, 337 (3) (
+806 SE2d 573
+) (2017).
+
+      Ward asserts that the State presented no evidence other than the certified prior
+
+conviction itself, which does not provide details of similarity between the crimes and
+
+which he contends was prejudicial because it “provoke[d] an emotional response from
+
+the jury[.]” In order to show a defendant acted with the criminal intent required by
+
+OCGA § 16-5-23.1 (a), the probative value of the prior crimes evidence depends in
+
+part on the similarity of the offenses, regardless of whether there are differences in the
+
+manner in which the crimes were committed. Burgess, 349 Ga. App. at 642 (3). Here,
+
+as Ward has pointed out, the State submitted only a certified copy of his guilty plea
+
+and conviction. As a result, “evidence that an accused committed an intentional act
+
+generally is relevant to show — the evidence, in other words, has some tendency to
+
+
+                                           15
+ make more or less probable — that the same defendant committed a similar act with
+
+the same sort of intent . . . .” (Emphasis omitted.) Olds, 
+299 Ga. at 72
+ (2). When, as
+
+in the instant case, “the prior and current crimes are identical and the State introduces
+
+defendant’s prior conviction demonstrating that he was previously convicted of an
+
+identical crime requiring the State to prove he acted with an identical specific criminal
+
+intent, the similarity in the manner of commission of the crimes may be of lesser
+
+importance.” Burgess, 349 Ga. App. at 642 (3). Here, in both instances, the State was
+
+required to prove Ward intended to injure an intimate partner. In the prior crime, that
+
+partner was his spouse. In the instant case, it was Simpson, with whom he shared a
+
+residence. Given Ward’s not-guilty plea and Simpson’s testimony that Ward injured
+
+her accidentally, the evidence of the prior crime was highly relevant to the issue of
+
+Ward’s intent to injure Simpson, making its probative value greater than its possible
+
+prejudicial effect. “Generally speaking, the greater the tendency to make the existence
+
+of a fact more or less probable, the greater the probative value.” Olds, 
+299 Ga. at 72
+
+
+(2). Further, “because the defendant had unlawful intent in the extrinsic offense, it
+
+is less likely that he had lawful intent in the present offense.” (Citation and
+
+punctuation omitted.) Kirby v. State, 
+304 Ga. 472
+, 480-481 (4) (a) (
+819 SE2d 468
+)
+
+
+                                           16
+ (2018). As discussed above, the prior guilty plea was important to the State’s case,
+
+thus enhancing its probative value, because while there was evidence from the police
+
+officer that Simpson told him Ward hit her multiple times, this evidence was
+
+contradicted by Simpson’s own testimony, and there was no eyewitness evidence.
+
+“Further, because the specific details of the prior crime were not disclosed, the
+
+potential for confusion concerning which crime [Ward] was on trial for was
+
+minimized.” Burgess, 349 Ga. App. at 643 (3).3
+
+      We find no error, plain or otherwise, in the trial court’s admission of Ward’s
+
+prior guilty plea and conviction for family violence battery.4
+
+      4. Ward argues that the trial court committed plain error in its jury instruction
+
+on the admissibility of other acts evidence under Rule 404 (b). We disagree.
+
+
+
+      3
+         Ward does not challenge the third prong of the Rule 403 balancing test, that
+is, whether there was sufficient proof for the jury to find by a preponderance of the
+evidence that Ward committed the other crime. See generally Harvey, 344 Ga. App.
+at 771 (2) (a) (iii), n. 39 (noting that a conviction, even when based upon a guilty plea,
+is sufficient proof that defendant committed the other act).
+      4
+        “Because the evidence of [Ward’s prior guilty plea and conviction] was
+relevant to prove intent, we need not decide whether it was also relevant for other
+purposes, as the trial court found.” Rooks v. State, 
+317 Ga. 743
+, 757 (4) (a) (ii), n. 14
+(
+893 SE2d 899
+) (2023); accord Naples v. State, 
+308 Ga. 43
+, 52 (2) (e), n. 9 (
+838 SE2d
+780
+) (2020).
+                                            17
+        Ward asserts that the trial court, sua sponte, charged the jury prior to trial on
+
+similar transaction evidence under Georgia’s former Evidence Code, which was
+
+replaced by the current Evidence Code in 2013, then following the close of evidence,
+
+charged the jury under the current Evidence Code on the conditional admissibility of
+
+other acts evidence.5 He also argues that because the jury deadlocked before returning
+
+a verdict, and sent a note asking the court to “please redefine the limitations
+
+concerning the 2018 conviction of Mr. Ward[,]” this means “[i]t is possible that the
+
+jury convicted Ward on the erroneous belief that he committed this crime because he
+
+has been convicted of it before.” After receiving the jury’s note, the trial court re-
+
+charged the jury using the language of its final charge. On appeal, Ward posits that
+
+neither instruction limited the jury’s consideration to the non-character issues of
+
+intent and motive.
+
+       Pertinently, Ward’s trial attorney raised no objections to the now-disputed jury
+
+charges at trial, but did raise the issue at the motion for new trial hearing and in a post-
+
+hearing amended motion for new trial. We review such assertions for plain error. See
+
+State v. Kelly, 
+290 Ga. 29
+, 31-32 (1), and 33 (2) (a) (
+718 SE2d 232
+) (2011) (providing
+
+       5
+        See Georgia Suggested Pattern Jury Instructions, Vol. II: Criminal Cases, §
+1.34.50.
+                                            18
+ for review of jury instruction under plain error standard and setting forth plain error
+
+test); Lopez, 355 Ga. App. at 322 (2) (setting forth plain error test).The court’s pre-
+
+trial charge, in pertinent part, instructed the jury that:
+
+             Sometimes evidence is admitted for a limited purpose. Such
+      evidence may be considered by the jury for the sole issue or purpose for that
+      which the evidence is limited and not for any other purpose. The law provides
+      that other alleged acts of this defendant that are sufficiently similar or
+      connected and therefore purportedly related to the offenses for which
+      the defendant is on trial may be considered for the limited purpose of
+      showing, if it does, motive or intent in the crimes charged in the case now on
+      trial. Such evidence, if any, may not be considered by you for any other
+      purpose.
+
+
+             The defendant is on trial for the offense charged in this bill of
+      indictment only and not for any other acts[.] . . . Remember to keep in mind
+      the limited use and consideration of the evidence of other acts of the
+      defendant.
+
+
+(Emphasis supplied.) The jury charge after the close of evidence was, in pertinent
+
+part, as follows:
+
+             Sometimes evidence is admitted conditionally[.] . . . In order to
+      prove their case of family violence battery, the State may present evidence
+      of other offenses for the purpose of showing defendant’s motive or intent. To
+      do so, the State has offered evidence of another offense allegedly
+
+                                           19
+       committed by the accused. You are permitted to consider that evidence
+      for its bearing on any matter to which it is relevant but only insofar as it
+      may relate to that issue and not for any other purpose.
+
+
+             The defendant is on trial for the offenses charged in this plea and
+      indictment only and not for any other acts. Before you may consider any
+      other alleged acts, you must first determine whether the accused
+      committed any other alleged acts. If so, you must then determine
+      whether that act sheds any light on the issue for which it was admitted
+      and the crimes charged in the indictment of this trial. Such evidence is at
+      most supporting evidence of some issues and may not by itself be the basis of
+      conviction for the case on trial.
+
+
+(Emphasis supplied.) These jury instructions are not identical to the Georgia
+
+Suggested Pattern Jury Instructions in effect at the time of trial because, Ward
+
+contends, that pattern instruction included language not in the trial court’s charge:
+
+“‘You may not infer from such evidence that the defendant is of a character that
+
+would commit such crimes.’ Georgia Suggested Pattern Jury Instructions, Vol. II:
+
+Criminal Cases § 1.34.10 (4th ed. 2007, updated July 2021).”
+
+      This does not end our inquiry, however. It is not necessarily error to fail to give
+
+an instruction in the exact language requested or, as in this case, the exact language of
+
+the current pattern charge. See generally Tensar Earth Technologies v. City of Atlanta,
+
+                                           20
+ 267 Ga. App. 45
+, 54-55 (7) (
+598 SE2d 815
+) (2004). This may be true even if a court
+
+uses language from a pattern charge that has since been replaced. See generally
+
+Hampton v. State, 
+272 Ga. 284
+, 287 (7) (
+527 SE2d 872
+) (2000) (finding that “although
+
+it may be the better practice for trial courts to instruct the jury on this point in
+
+accordance with the current language of the Suggested Pattern Jury Instructions . . .
+
+it is not error to charge the jury as was done here”) (citation omitted). The crucial
+
+question here is whether the “language in question was and is consistent with
+
+Georgia’s pattern jury instructions . . . .” Taylor v. State, 
+306 Ga. 277
+, 286-287 (3) (c)
+
+(
+830 SE2d 290
+) (2019).
+
+
+
+      Thus, to Ward’s point, although the jury charges per se did not include
+
+language telling the jury it could not consider Ward’s prior guilty plea and conviction
+
+as evidence of his character, the instructions clearly charged the jury that it could only
+
+consider the prior conviction in assessing Ward’s intent and motive in the crime for
+
+which he was on trial.6 As such, the charge necessarily excluded the jury’s
+
+      6
+        Further, just prior to formally announcing that it was charging the jury and in
+response to an objection near the end of closing arguments, the trial court instructed
+that the prior conviction could only be used “to show intent or motive, but not to
+show character.”
+                                           21
+ consideration of the other acts for all purposes — including character — except
+
+motive and intent. The trial court also clearly instructed the jury that the evidence of
+
+Ward’s prior conviction “may not by itself be the basis of conviction for the case on
+
+trial.” As a result, and having examined the charge as a whole, see Taylor, 
+306 Ga. at
+
+286
+ (3) (b), “[t]he language in question was and is consistent with Georgia’s pattern
+
+jury instructions[.]” 
+Id. at 287
+ (3) (c). Thus, “the charge of the trial court did not
+
+involve a clear departure from a settled legal rule, and the charge was not, therefore,
+
+plain error.” McKibbins v. State, 
+293 Ga. 843
+, 854 (7) (
+750 SE2d 314
+) (2013) (finding
+
+no plain error where, inter alia, appellant pointed to no decision in which the appellate
+
+courts had found error of the type appellant was asserting).
+
+      5. Finally, Ward contends that the trial court abused its discretion in admitting
+
+for impeachment purposes Simpson’s out-of-court statement to her daughter, Jessica
+
+Holcombe, in which Simpson said she and Ward had “the big fight, the bad fight” and
+
+that Ward “pushed” her to the floor. Ward argues that the State failed to lay a proper
+
+foundation for the statement under OCGA § 24-6-613.7 We find no plain error.
+
+      7
+        Ward also argues that because of statements in the State’s closing argument,
+the jury was allowed to consider the evidence not just for impeachment purposes, but
+as substantive evidence. Ward points to no objection he made in the trial court to the
+State’s closing argument, nor does he provide record citations to that closing
+                                           22
+        In the trial court, Ward objected to Holcombe’s testimony on the basis of
+
+hearsay. The trial court allowed the testimony for impeachment purposes. In the
+
+context presented here, a prior out-of-court statement is not considered hearsay as
+
+long as the declarant is available to testify and is subject to cross examination about it.
+
+See OCGA §§ 24-6-613,8 24-8-801 (d) (1) (A).9 As Ward contends, however, Simpson
+
+testified before Holcombe, and Simpson was never recalled to the stand to explain
+
+what she told Holcombe.
+
+       As an initial matter, although Ward argues that the trial court erred because no
+
+proper foundation was laid for Holcombe’s testimony, Ward never objected below on
+
+
+
+
+argument or citations to legal authority supporting this particular contention. Ward
+has abandoned this portion of his enumeration of error. See Court of Appeals Rule 25
+(d) (1).
+       8
+        OCGA § 24-6-613 (b) provides that “extrinsic evidence of a prior inconsistent
+statement by a witness shall not be admissible unless the witness is first afforded an
+opportunity to explain or deny the prior inconsistent statement and the opposite party
+is afforded an opportunity to interrogate the witness on the prior inconsistent
+statement or the interests of justice otherwise require.”
+       9
+        OCGA § 24-8-801 (d) (1) (A) provides that “[a]n out-of-court statement shall
+not be hearsay if the declarant testifies at the trial or hearing, is subject to
+cross-examination concerning the statement, and the statement is admissible as a prior
+inconsistent statement or a prior consistent statement under Code Section 24-6-613
+or is otherwise admissible under this chapter.”
+                                            23
+ the basis of a lack of foundation. As stated previously, “[i]n order to preserve an
+
+objection for appellate review, the specific ground of the objection must be made at
+
+the time the challenged evidence is offered. Therefore, we review this enumeration
+
+for plain error only.” (Citation and punctuation omitted.) Lopez, 355 Ga. App. at 322
+
+(2) (setting forth steps of plain error analysis); see also Hurt v. State, 
+298 Ga. 51
+, 53-54
+
+(2) (
+779 SE2d 313
+) (2015) (finding that hearsay objection did not preserve for appellate
+
+review contention that State failed to lay a proper foundation).
+
+       It is true that the State failed to lay a proper foundation for impeachment
+
+testimony. But Simpson’s statement to Holcombe was merely cumulative of other
+
+unobjected-to evidence regarding how her injuries occurred. As noted above, the
+
+police officer testified that Simpson told him Ward injured her by hitting her four or
+
+five times. In addition, Holcombe testified that she observed bruising on her mother
+
+leading her to believe, based on her mother’s statements and history of abuse with
+
+other partners, that this “was a physical altercation.” The prior inconsistent
+
+statement with which Ward takes issue was cumulative of this other evidence. See
+
+Fraser v. State, 
+329 Ga. App. 1
+, 2 (
+763 SE2d 359
+) (2014). Under these circumstances,
+
+
+
+
+                                            24
+ we cannot say that any alleged trial court error “likely” contributed to the verdict. See
+
+Lopez, 355 Ga. App. at 323 (2). We find no plain error.
+
+      Judgment affirmed. Doyle, P. J., and Watkins, J., concur.
+
+
+
+
+                                           25
+ 

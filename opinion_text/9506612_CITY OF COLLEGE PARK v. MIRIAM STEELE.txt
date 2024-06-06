@@ -1,0 +1,293 @@
+                                FOURTH DIVISION
+                                  DILLARD, P. J.,
+                              BROWN and PADGETT, JJ.
+
+                    NOTICE: Motions for reconsideration must be physically
+                    received in our clerk’s office within ten days of the date of
+                    decision to be deemed timely filed.
+                                   https://www.gaappeals.us/rules
+
+
+
+                                                                             May 23, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0143. CITY OF COLLEGE PARK et al. v. STEELE.
+
+      BROWN, Judge.
+
+      In this appeal arising from a granted application for interlocutory review, the
+
+City of College Park (“the City”) appeals from the trial court’s order denying its
+
+motion to dismiss for lack of subject matter jurisdiction due to an insufficient ante
+
+litem notice. For the reasons explained below, we reverse.
+
+      “We review the denial of a motion to dismiss de novo and, in so doing, construe
+
+the pleadings in a light most favorable to the plaintiff, with any doubts resolved in the
+
+plaintiff’s favor.” City of Lafayette v. Chandler, 
+354 Ga. App. 259
+, 260 (
+840 SE2d 638
+)
+
+(2020). Here, the pleadings show that in August 2021, a City garbage truck operated
+
+by a City employee backed into a vehicle occupied by Miriam Steele, injuring her.
+ Four months after the accident, Steele served an ante litem notice on the City,
+
+notifying it of her intent to sue. The ante litem notice provided, in relevant part:
+
+      Amount of Loss Claimed: Miriam Steele has claims for her medical
+      expenses of approximately $100,000.00 and a claim for her pain and
+      suffering, mental and emotional suffering[,] and any other non-economic
+      damages recoverable under all applicable laws in the amount of
+      $20,000.00.
+
+
+The City filed a motion to dismiss Steele’s complaint, arguing that the ante litem
+
+notice was deficient because it failed to include the specific amount of monetary
+
+damages being sought. The trial court denied the motion, concluding that the ante
+
+litem notice stated Steele’s “willingness to accept $120,000 as compensation for her
+
+claims.” In its view, Steele’s ante litem notice satisfied OCGA § 36-33-5 (e), which
+
+provides: “The description of the extent of the injury required in subsection (b) of this
+
+Code section shall include the specific amount of monetary damages being sought
+
+from the municipal corporation. The amount of monetary damages set forth in such
+
+claim shall constitute an offer of compromise. . . .”
+
+
+
+
+                                           2
+       The City asserts that the trial court erred in denying its motion to dismiss
+
+because Steele’s ante litem notice does not state “the specific amount of monetary
+
+damages being sought” from the City. We agree.
+
+      A person seeking damages against a municipal corporation must give ante litem
+
+notice, including the “time, place, and extent of the injury, as nearly as practicable,
+
+and the negligence which caused the injury.” OCGA § 36-33-5 (b). “Satisfaction of
+
+this notice requirement is a condition precedent to bringing suit against a municipal
+
+corporation. . . .” (Citation and punctuation omitted.) Atlanta Taxicab Co. Owners
+
+Assoc. v. City of Atlanta, 
+281 Ga. 342
+, 350 (5) (
+638 SE2d 307
+) (2006). “[T]he ante
+
+litem notice provision of OCGA § 36-33-5 is in derogation of common law, which did
+
+not require pre-suit notice[.] [I]t must [therefore] be strictly construed and not
+
+extended beyond its plain and explicit terms.” West v. City of Albany, 
+300 Ga. 743
+, 745
+
+(
+797 SE2d 809
+) (2017).
+
+      In 2014, OCGA § 36-33-5 was amended to add subsection (e), see Ga. L. 2014,
+
+p. 125, § 1, requiring the claimant to “include the specific amount of monetary
+
+damages being sought” for the first time. Before the enactment of subsection (e), the
+
+Georgia Supreme Court applied a “substantial compliance” standard to subsection
+
+
+                                          3
+ (b) because “[t]he act recognizes, by the use of the words ‘as nearly as practicable,’
+
+that absolute exactness need not be had.” (Citation and punctuation omitted.) Atlanta
+
+Taxicab, 281 Ga. at 352 (5). See also Owens v. City of Greenville, 
+290 Ga. 557
+, 561-562
+
+(4) (
+722 SE2d 755
+) (2012) (considering whether ante litem notice substantially
+
+complied with OCGA § 36-33-5 (b)). Neither this Court nor our Supreme Court has
+
+expressly addressed whether the former substantial compliance standard should be
+
+applied to subsection (e). See, e.g., City of Alpharetta v. Francis, 
+366 Ga. App. 454
+, 456
+
+(1), n.2 (
+883 SE2d 400
+) (2023). We have, however, addressed whether substantial
+
+compliance will satisfy the requirements of subsection (f), which the General
+
+Assembly also added to OCGA § 36-33-5 in 2014. See City of Albany v. GA HY
+
+Imports, 
+348 Ga. App. 885
+, 889-891 (1) (
+825 SE2d 385
+) (2019).
+
+      In City of Albany, we addressed the 2014 requirement that a claim submitted
+
+under OCGA § 36-33-5 “shall be served upon the mayor or the chairperson of the city
+
+council or city commission, as the case may be, by delivering the claim to such official
+
+personally or by certified mail or statutory overnight delivery.” OCGA § 36-33-5 (f).
+
+We concluded that
+
+      [i]f substantial compliance with subsection (f) was all that is required
+      (i.e., service of notice on other individuals or entities associated with the
+
+                                            4
+       municipal corporation other than those specified in subsection (f) would
+      be sufficient), then there was no purpose in enacting subsection (f), at
+      least not with the use of the directive “shall,” which is a mandatory
+      command. In other words, to hold, as [the appellee] urges, that service
+      of the ante litem notice on individuals or entities not specified in
+      subsection (f) meets the requirements of the statute (although consistent
+      with our “substantial compliance” jurisprudence interpreting the prior
+      version of the statute), would render subsection (f) meaningless and
+      mere surplusage. We “cannot by construction add to, take from, or vary
+      the meaning of unambiguous words in a statute.” Accordingly, we hold
+      that strict compliance with OCGA § 36-33-5 (f) is required.
+
+
+(Citations and punctuation omitted.) City of Albany, 348 Ga. App. at 891 (1).
+
+      Like subsection (f), subsection (e) also includes use of the directive “shall”
+
+with regard to the requirement that the description of the extent of the injury required
+
+in subsection (b) “include the specific amount of monetary damages being sought
+
+from the municipal corporation.” OCGA § 36-33-5 (e). It appears, therefore, from this
+
+reasoning that substantial compliance with subsection (e) will not suffice, just as it was
+
+not adequate for subsection (f) in City of Albany.
+
+      Nonetheless, even if substantial compliance were all that is required, “a notice
+
+does not substantially comply with subsection (e) unless a specific amount is given
+
+that would constitute an offer that could be accepted by the municipality.” Harrell v.
+                                            5
+   City of Griffin, 
+346 Ga. App. 635
+, 638 (1) (
+816 SE2d 738
+) (2018). For example, in
+
+  Davis v. City of Valdosta, 
+357 Ga. App. 900
+ (
+852 SE2d 859
+) (2020), this Court found
+
+  that an ante litem notice similar to the one at issue here failed to comply with OCGA
+
+  § 36-33-5 (e)’s specificity requirement. The notice in Davis “claim[ed] damages” for
+
+  medical bills “in [the] amount of $30,000.00” and general damages “in an amount
+
+  not less than $20,000.00.” Id. at 900. We explained that the notice merely indicated
+
+  that the value of the claim was some unknown number above $50,000 without
+
+  indicating the amount being sought, and concluded that “[a]n unknown number above
+
+  $50,000 is too indefinite to constitute a binding offer of settlement.” (Citation and
+
+  punctuation omitted). Id. at 901-902.
+
+          Here, Steele’s notice stated that she has medical claims “of approximately
+
+  $100,000.00” and non-economic damages “in the amount of $20,000.000.”
+
+  (Emphasis supplied.) By definition, an approximate amount does not set forth “the
+
+  specific amount”1 and also fails to provide “[t]he amount of monetary damages set
+
+  forth in such claim [that] shall constitute an offer of compromise.” OCGA § 36-33-5
+
+  (e). See also Tanks v. Nesmith, 
+359 Ga. App. 596
+, 600 (
+859 SE2d 559
+) (2021) (rejecting
+
+      1
+      Indeed, as the trial court noted in its order, Merriam-Webster Dictionary defines
+“‘approximate’” as “nearly correct or exact: close in value or amount but not precise.”
+                                            6
+ Tanks’ contention that “Amount of Loss Claim: $75,000.00, [and] Grady Memorial
+
+Hospital bill in excess of $10,000” was an offer to settle her claim for $75,000 because
+
+the notice added an unspecified amount in excess of $10,000 and made no statement
+
+with regard to the total amount sought); Davis, 357 Ga. App. at 901. Cf. Durham v.
+
+McLaughlin, 
+286 Ga. App. 166
+ (
+648 SE2d 495
+) (2007) (“Under Georgia law, an
+
+agreement alleged to be in settlement and compromise of a pending lawsuit must meet
+
+the same requisites of formation and enforceability as any other contract.”) (citation
+
+and punctuation omitted); Edwards v. Central Ga. HHS, 
+253 Ga. App. 304
+, 306 (2)
+
+(
+558 SE2d 815
+) (2002) (offer letter could not be enforced that did not “specify the
+
+exact amount or a set formula for determining the exact amount of the bonus”).
+
+Compare Chandler, 354 Ga. App. at 259, 261-262 (notice providing that the plaintiff
+
+“incurred well over $100,000.00 in medical expenses to date” but noting that the
+
+plaintiff will “seek to recover $1,000,000.00” provided a specific amount of monetary
+
+damages sought). Accordingly, Steele’s ante litem notice failed to comply with OCGA
+
+§ 36-33-5 (e), and the trial court erred in denying the City’s motion to dismiss.
+
+      Judgment reversed. Dillard, P. J., and Padgett, J., concur.
+
+
+
+
+                                           7
+ 

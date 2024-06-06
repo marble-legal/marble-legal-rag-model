@@ -1,0 +1,1930 @@
+           SUPREME COURT OF GEORGIA
+           Case No. S23A1063
+
+
+                                                       March 14, 2024
+
+     The Honorable Supreme Court met pursuant to adjournment.
+
+The following order was passed:
+
+                 ANDRE PUGH v. THE STATE.
+
+
+     Upon consideration, the Court has revised the deadline for
+motions for reconsideration in this matter. It is ordered that a
+motion for reconsideration, if any, including motions submitted via
+the Court’s electronic filing system, must be received in the
+Clerk’s Office by 12:00 p.m. on Friday, March 22, 2024.
+
+
+
+                      SUPREME COURT OF THE STATE OF GEORGIA
+                                   Clerk’s Office, Atlanta
+
+                             I certify that the above is a true extract from the
+                      minutes of the Supreme Court of Georgia.
+                             Witness my signature and the seal of said court hereto
+                      affixed the day and year last above written.
+
+
+
+
+                                                          , Clerk
+ NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: March 14, 2024
+
+
+                          S23A1063. PUGH v. THE STATE.
+
+
+        BETHEL, Justice.
+
+       Andre Pugh was convicted of the malice murder of his wife
+
+Tiffany Jackson-Pugh and possession of a firearm during the
+
+commission of a felony. 1 In this appeal, Pugh contends that the trial
+
+court erred by denying his motion to suppress evidence obtained
+
+pursuant to a search warrant for his cell phone records, that trial
+
+
+
+       1 The crimes occurred on November 23, 2014. On February 16, 2016, a
+
+Fulton County grand jury indicted Pugh and co-indictee Adrian Earl Harley
+for malice murder (Count 1), felony murder (Count 2), aggravated assault
+(Count 3), conspiracy to commit murder (Count 4), and possession of a firearm
+during the commission of a felony (Count 5). Pugh was tried alone before a jury
+from September 24 to October 5, 2018, and was found guilty of all counts. The
+trial court sentenced Pugh to serve life in prison without the possibility of
+parole on Count 1 and five years on Count 5, to run consecutively to Count 1.
+The remaining counts were vacated or merged. On October 23, 2018, Pugh,
+through new counsel, filed a timely motion for new trial, which he amended on
+December 18, 2020. Following a hearing, the trial court denied the motion, as
+amended, on April 18, 2023. Pugh thereafter filed a timely notice of appeal.
+The case was docketed to this Court’s August 2023 term and submitted for a
+decision on the briefs.
+                                                      1
+ counsel was ineffective for failing to raise a particularity challenge
+
+to the same search warrant, and that motion-for-new-trial counsel
+
+was ineffective in various respects. Concluding that these claims are
+
+meritless, we affirm.
+
+     1. The evidence presented at Pugh’s trial showed the following.
+
+Around 6:00 a.m. on November 23, 2014, Tiffany was shot and killed
+
+while asleep in her bed at the Pughs’ East Point residence. At 6:05
+
+a.m., Pugh called his boss to report that someone had broken into
+
+his home. Pugh’s boss drove to Pugh’s home, and when he arrived,
+
+Pugh indicated that he had not been inside the residence but had
+
+noticed a suspected intrusion upon his return from overnight
+
+employment. At approximately 6:15 a.m., Pugh called 911 and
+
+informed the operator that he was at the residence, the garage door
+
+was open, and a downstairs window was broken. He told the
+
+operator that Tiffany had been murdered but again claimed that he
+
+had not been inside the home.
+
+     When responding officers arrived, Pugh was outside the home,
+
+waving his arms, and exclaiming, “My kids are in there. She’s not
+
+                                  2
+ picking up the phone.” Pugh stated that he received a call from ADT,
+
+his alarm-service provider, alerting of a break-in at the residence.
+
+Pugh further noted that the garage door and a rear window were
+
+open. Pugh also called a neighbor early that morning while “it was
+
+still dark” to report that someone broke into the house, that “they
+
+hurt Tiffany,” and that Pugh thought Tiffany was dead.2
+
+      Upon entering the house, officers found Tiffany in bed in the
+
+main-level bedroom; she was bleeding from a gunshot wound to her
+
+left eye, which was “obviously swollen and oozing,” and had no
+
+pulse. 3 Her crying toddler was sitting on her chest; two older
+
+children were asleep in an upstairs bedroom. Officers found the
+
+basement door and storm door unlocked, a basement window open
+
+with its screen cut, and the gate to the backyard open; during a
+
+sweep of the house, they found nothing else of interest.
+
+
+
+      2 A precise timeline for this conversation was not clearly established at
+
+trial. But, immediately following the call, the neighbor dressed and walked
+from two doors down to the Pugh residence where he found police already on
+the scene.
+       3 A subsequent autopsy revealed that Tiffany was shot twice, once in the
+
+left eye and once near the left breast; the gunshot wound to the head was
+determined to be the cause of her death.
+                                      3
+      That morning, Pugh, whom law enforcement did not yet
+
+consider a suspect in Tiffany’s murder, provided a statement to
+
+police, a video-recording of which was played at trial. According to
+
+Pugh, he left work around 5:15 a.m., and, sometime between 5:30
+
+a.m. and 5:50 a.m. while driving home, he missed a call from ADT.
+
+Pugh returned the call and requested that ADT turn off the alarm
+
+so as not to disturb his children. Pugh stated that, upon arriving at
+
+home, he went inside to find the alarm still armed. When he turned
+
+on a light in Tiffany’s bedroom, he “just saw a body,” but he claimed
+
+that he did not notice any blood and that she appeared to be
+
+sleeping. He also claimed that he did not try to wake Tiffany because
+
+he was “scared.” Pugh then went downstairs and found broken glass.
+
+Pugh stated that he told responding officers that he could not find
+
+his son and that his wife was not moving. When asked why he left
+
+his children inside the home despite signs of an apparent break-in,
+
+Pugh responded that he did not want to wake the older children and
+
+that he was unable to find his son.
+
+     During the interview, Pugh expressly stated that he had only
+
+                                 4
+ one cell phone; the next day, however, investigators learned that
+
+Pugh in fact had a second cell phone. Thereafter, officers secured
+
+search warrants to obtain the records for both phone numbers from
+
+Sprint, the cell-service provider, as well as for a tower dump of phone
+
+numbers used on the Sprint cell phone tower near Pugh’s residence
+
+around the time of the crime. By cross-referencing phone numbers
+
+appearing in the tower dump with those in Pugh’s contact list,
+
+investigators identified co-indictee Adrian Harley as a person of
+
+interest.4 Data from Pugh’s and Harley’s cell phones showed that
+
+both phones were near the residence just before the murder and that
+
+several calls were exchanged between the phones.
+
+     Investigators also obtained security footage from Pugh’s and a
+
+neighbor’s5 residences around the time of the murder, which
+
+investigators determined occurred at approximately 5:58 a.m. The
+
+footage showed two vehicles on the street and in the cul-de-sac near
+
+
+     4 At the time of the crimes, Pugh worked as a disc jockey at Club Onyx,
+
+an adult entertainment club. Harley, Pugh’s long-time friend, was employed
+as his assistant.
+      5 The neighbor testified that he lived two houses down from the Pugh
+
+residence.
+                                    5
+ Pugh’s residence shortly before the murder. One vehicle, which had
+
+a non-operative driver-side parking light, first passed the neighbor’s
+
+residence at 4:50 a.m., corresponding to Harley’s phone records
+
+placing him in Pugh’s neighborhood at 4:49 a.m. That same vehicle
+
+pulled into the cul-de-sac about ten minutes before the murder,
+
+where it remained parked for several minutes. At 5:57 a.m., the
+
+vehicle’s headlights flashed, and a second vehicle pulled alongside
+
+it. At 5:58 a.m., the vehicle with the non-operative parking light
+
+moved forward and stopped in front of Pugh’s house for two or three
+
+minutes; the other vehicle drove away. Security footage showed that,
+
+soon thereafter, a light came on in the rear of the residence. Also at
+
+5:58 a.m., Pugh received a phone call from ADT. Investigators later
+
+determined that the vehicle with the non-operative parking light
+
+matched the appearance of Harley’s vehicle, which also had a non-
+
+operative driver-side parking light.
+
+     At trial, the State presented evidence undermining Pugh’s
+
+various stories about his actions on the morning of Tiffany’s murder.
+
+Records from ADT showed that ADT called Pugh at 5:58 a.m. and
+
+                                  6
+ that Pugh returned the call at 6:03 a.m., contradicting Pugh’s claim
+
+that the call regarding the triggered alarm came between 5:30 a.m.
+
+and 5:50 a.m. Surveillance footage showed that, upon parking and
+
+exiting his vehicle in front of the home, Pugh in fact did not enter
+
+the home in the manner he described and instead waited for the
+
+police outside, despite his fairly detailed statement to the contrary.
+
+     The State also presented significant evidence of Pugh and
+
+Tiffany’s marital difficulties and impending divorce. In September
+
+2014, Tiffany consulted a divorce attorney, made plans to move out
+
+of the marital residence on December 1, and intended to file for
+
+divorce. According to Pugh’s boss, Pugh was angry with Tiffany for
+
+wanting a divorce. Text messages between Pugh and Tiffany
+
+reflected discord in the relationship. Five days before the crimes,
+
+Pugh texted Tiffany, “I won’t let you leave me now or never.” Tiffany
+
+responded that she took the statement “as a threat.” In other text
+
+messages found on Pugh’s phone, Pugh engaged in sexually explicit
+
+conversations with multiple women, exchanged sexually explicit
+
+photographs with other women, and stated that he cheated on
+
+                                  7
+ Tiffany every time she was out of town. In addition, a co-worker of
+
+Tiffany’s with whom she had a romantic relationship in the weeks
+
+before her death testified regarding Pugh’s suspicions about that
+
+relationship. Pugh’s boss testified that Pugh placed a second phone
+
+in Tiffany’s vehicle to use as a GPS tracker because Pugh had been
+
+“speculating” that Tiffany “was possibly cheating” and that Pugh
+
+had previously sent Harley to the marital residence to lock Tiffany
+
+out of the home.
+
+     Evidence of Pugh’s financial motive for the murder was also a
+
+prominent focus of the State’s case, with text messages showing that
+
+Pugh would be unable to maintain the marital home following the
+
+divorce. Within 36 hours after Tiffany’s murder, Pugh reported to
+
+his boss that he went to the social security office to “find out how
+
+much — what he can get for the passing of his wife” and that, “based
+
+upon what social security told him, he was going to be able to
+
+maintain paying his mortgage.” And a family friend testified that,
+
+before Tiffany’s funeral, Pugh sought her help in contacting
+
+Tiffany’s employer’s benefits provider. Finally, the State presented
+
+                                 8
+ testimony regarding Pugh’s unusual conduct and demeanor in the
+
+wake of Tiffany’s murder, particularly his general lack of emotion
+
+and apparently contrived expressions of grief.
+
+     2. On appeal, Pugh challenges the trial court’s denial of his
+
+motion to suppress evidence obtained pursuant to a search warrant
+
+for his cell phone records. As he did below, Pugh argues that the
+
+warrant application failed to establish probable cause to believe that
+
+he had committed a crime or that evidence of such crime would be
+
+found in the phone records. He also asserts for the first time on
+
+appeal that the warrant authorized the seizure of items for which
+
+there was no probable cause and, thus, was overbroad. And in a
+
+related claim, Pugh contends that trial counsel was ineffective for
+
+failing to challenge the warrant on particularity grounds.
+
+     (a) The search warrant at issue was obtained by Sergeant Allyn
+
+Glover on November 24, 2014, the day after the crimes. The affidavit
+
+submitted in support of the search warrant application identified
+
+the place to be searched as “Records of Sprint Phone Number
+
+
+
+                                  9
+ [Ending] -7281,”6 indicated that the search warrant was sought in
+
+connection with the offense of murder, and recited the following
+
+factual basis:
+
+     On November 23rd 2014 at approximately 0616 hours,
+     East Point Police was dispatched to 3782 Lake Haven
+     Way, East Point, Fulton County, GA in reference to a
+     trouble unknown call. Prior to their arrival, East Point
+     Police Communications advised that they had previously
+     received an alarm call from that location at 0558 hours,
+     but the alarm was cancelled shortly thereafter.
+     Communications advised that the resident, Mr. Andre
+     Pugh would be standing by in front of the residence and
+     that he noted damage to a rear window. Upon officers
+     arrival, they were met by Mr. Pugh, who was waving his
+     arms in the middle of the street continually stating “my
+     kids are in there! She’s not picking up the phone”.
+
+     Officers entered the residence and located a female victim
+     laying on the bed, on her back, partially covered up by a
+     blanket with an apparent gunshot wound to the left eye.
+     A small child was seen straddling the deceased victim.
+
+     Mr. Pugh stated that he was not at the residence during
+     the incident and came home as a result of being notified
+     by ADT of his house alarm going off. Mr. Pugh later stated
+     that he missed a phone call from ADT and then returned
+     their call. Upon arrival to the residence, Mr. Pugh advised
+     that he looked in on his wife and saw her in the bedroom,
+     though he didn’t see any blood (though the victim had
+
+     6 Though Pugh complains that the affidavit mentions neither the -7281
+
+phone number nor Sprint, he overlooks the enlarged, bold heading which reads
+“Records of Sprint Phone Number [Ending] -7281.”
+                                    10
+      visible blood coming from her head). He then looked in on
+     his kids and then went downstairs to see the broken glass
+     and then went outside the residence to make phone calls;
+     thus, leaving his wife and two children inside the
+     residence. It is believed that this phone would contain
+     evidence in reference to this crime to include but not
+     limited to GPS data, call logs, texts, etc.
+
+The affidavit also detailed Sergeant Glover’s experience in law
+
+enforcement.
+
+     The search warrant itself identified the place to be searched as
+
+“Records of Sprint Phone Number [Ending] -7281” and authorized
+
+the seizure of the following categories of items:
+
+     [1] Subscriber information, credit information, account
+     comments, billing records from November 6th 2014
+     through present (or up to time phone may have been
+     turned off),
+     [2] Detailed inbound and outbound call lists from and to
+     above dates to include call origination and termination
+     location,
+     [3] Cell site tracking reference above dates,
+     [4] Physical address of cell sites and RF coverage map,
+     [5] All incoming and outgoing text messages detail and
+     text message content for above dates,
+     [6] Subscriber information on any cellular numbers that
+     the above number dialed or received calls from that
+     belong to Sprint
+     [7] All stored communications or files, including voice
+     mail, email, digital images, buddy lists, and any other
+     files associated with user accounts identified with account
+
+                                  11
+ listed.
+[8] Any other records or accounts, including archived
+records related or associated to the above referenced
+names, user names, or accounts and any data field name
+definitions that describe these records,
+[9] Any GPS location history available.
+[10] Any other information pertaining to this phone
+number.
+[11] Address books and calendars;
+[12] Audio and video clips related to the above-described
+criminal activity and further described in this affidavit in
+support of the search warrant, for the above-described
+item(s);
+[13] Call histories and call logs related to the above-
+described criminal activity and further described in this
+affidavit in support of the search warrant, for the above-
+described item(s);
+[14] Photographs and associated metadata related to the
+above-described criminal activity and further described in
+this affidavit in support of the search warrant, for the
+above-described item(s);
+[15] E-mail messages and attachments, whether read or
+unread and related to the above-described criminal
+activity and further described in this affidavit in support
+of the search warrant, for the above-described item(s);
+[16] Internet World Wide Web (WWW) browser files
+including, but not limited to, browser history, browser
+cache, stored cookies; browser favorites, auto-complete
+form history and stored passwords;
+[17] Global position system (GPS) data including, but not
+limited to coordinates, way points and tracks for the
+previous 5 days;
+[18] Documents and other text based files related to the
+above described criminal activity and further described in
+this affidavit in support of the search warrant, for the
+
+                            12
+       above described item(s);
+
+      which is being possessed in Violation of O.C.G.A. 16-5-1
+      Murder[.]
+
+      Pugh filed a pre-trial motion to suppress, which summarily
+
+asserted that the search warrants 7 were “insufficient on their face
+
+and there was not probable cause for their search.” Pugh sought
+
+suppression of “all the records searched and seized, and all
+
+information derived therefrom.” At a hearing, Pugh argued that the
+
+affidavit lacked probable cause because “[t]he facts therein do not do
+
+anything besides give rise to speculation o[r] conjecture about Mr.
+
+Pugh’s involvement in the death of his wife.” Pugh contended that
+
+“[a]ll [investigating officers] knew at that time is Pugh’s wife was
+
+
+
+      7 The motion also addressed a second search warrant obtained by
+Sergeant Glover for “Records of Sprint Phone Number [Ending] -2985.” While
+Pugh’s brief references the search warrants for both phone numbers, his
+arguments on appeal concern only the search warrant for the -7281 phone
+number. Under these circumstances, Pugh has abandoned any claim
+concerning the validity of the search warrant for the -2985 phone number. See
+former Supreme Court Rule 22 (“Any enumerated error not supported by
+argument or citation of authority in the brief shall be deemed abandoned.”
+(applicable to Pugh’s brief based on its filing date)). See also Moon v. State, 
+312
+Ga. 31
+, 57 (4) n.12 (
+860 SE2d 519
+) (2021) (deeming abandoned under former
+Rule 22 unsupported argument that search warrant was invalid). We note that
+Pugh concedes that “nothing of evidentiary value was discovered” in the
+records for the -2985 phone number.
+                                        13
+ dead. She was shot; that’s it. Pugh was outside. They didn’t like the
+
+way he was reacting, but that’s it. They had nothing else.” The trial
+
+court denied the motion, and later entered a written order finding
+
+that the issuing magistrate “had a substantial . . . basis” for finding
+
+that “probable cause existed for each search warrant.” Against this
+
+procedural backdrop, we turn to Pugh’s claims on appeal.8
+
+      (b) Pugh first contends that the affidavit for the search warrant
+
+failed to establish probable cause to support the issuance of the
+
+warrant and that the trial court therefore erred by denying his
+
+motion to suppress. We disagree.
+
+
+
+      8 We note that, in the trial court, the State argued that a good-faith
+
+exception to the exclusionary rule should apply to preclude suppression of the
+evidence seized pursuant to the warrant, though the State also acknowledged
+that “Georgia has historically not recognized the good-faith exception.” See
+Gary v. State, 
+262 Ga. 573
+ (
+422 SE2d 426
+) (1992) (construing OCGA § 17-5-30
+to hold that Georgia does not recognize the good-faith exception to the
+exclusionary rule established in United States v. Leon, 
+468 U. S. 897
+ (104 SCt
+3405, 82 LE2d 677) (1984)). The State has not reasserted this argument on
+appeal, nor has it asked this Court to overrule Gary. Cf. State v. Ledbetter, ___
+Ga. ___ (___ SE2d ____) (
+2024 Ga. LEXIS 58
+, 
+2024 WL 923930
+) (Case Nos.
+S23A0900, S23X0901, decided Mar. 5, 2024) (Peterson, P. J., concurring
+specially, joined by Boggs, C. J., and LaGrua, J.) (criticizing Gary’s holding and
+urging this Court to overrule Gary); id. at *40-41 (Bethel, J., concurring, joined
+by Warren, McMillian, and Pinson, JJ.) (agreeing with “the concerns raised in
+Presiding Justice Peterson’s special concurrence” and opining that “the ‘mess’
+[arising from Gary] the Presiding Justice describes is due to be cleaned up”).
+                                       14
+      The Fourth Amendment to the United States Constitution
+
+demands that “no Warrants shall issue, but upon probable cause.”
+
+There must be probable cause to believe both “that a crime is being
+
+committed or has been committed” and “that contraband or evidence
+
+of a crime will be found in a particular place.” State v. Britton, 
+316
+
+Ga. 283
+, 286 (
+888 SE2d 157
+) (2023) (citations and punctuation
+
+omitted). Whether there is probable cause to issue a search warrant
+
+is a question directed in the first instance to the magistrate. And in
+
+assessing whether probable cause exists, the magistrate simply
+
+must make “a practical, common-sense decision,” based on “all the
+
+circumstances set forth in the affidavit before him,” whether there
+
+is “a fair probability” that the particular place to be searched
+
+contains the items to be seized — that is, evidence of a crime.
+
+Copeland v. State, 
+314 Ga. 44
+, 49 (3) (
+875 SE2d 636
+) (2022) (citation
+
+and punctuation omitted).
+
+     Probable cause is “not a high bar,” District of Columbia v.
+
+Wesby, 
+583 U. S. 48
+, 57 (III) (A) (138 SCt 577, 199 LE2d 453) (2018)
+
+(citation and punctuation omitted); it requires merely a fair
+
+                                 15
+ probability — “less than a certainty but more than a mere suspicion
+
+of possibility — which by no means is to be equated with proof by
+
+even so much as a preponderance of the evidence,” Copeland, 314
+
+Ga. at 49 (3) (citation and punctuation omitted). Thus, our duty as a
+
+reviewing court is to determine “whether the magistrate had a
+
+substantial basis for concluding that probable cause existed to issue
+
+the search warrant.” Glenn v. State, 
+302 Ga. 276
+, 281 (III) (
+806 SE2d
+
+564
+) (2017). And we bear in mind that a magistrate’s decision to
+
+issue a search warrant upon a finding of probable cause is afforded
+
+“substantial deference,” and “[e]ven doubtful cases should be
+
+resolved in favor of upholding a magistrate’s determination that a
+
+warrant is proper.” 
+Id.
+ (citation and punctuation omitted).
+
+     Pugh says the facts in the affidavit are lacking and fail to show
+
+that evidence of a crime would be found in his phone records. In
+
+Pugh’s view, the facts in the affidavit do not tie the phone records to
+
+the investigation of Tiffany’s murder and do not connect the -7281
+
+phone number to Pugh or to the phone he possessed at the time of
+
+the murder. Pugh is correct that the affidavit does not expressly tie
+
+                                  16
+ the phone records to the murder investigation or connect the target
+
+phone number to Pugh, but that does not necessarily defeat a finding
+
+of probable cause. We judge the affidavit supporting a search
+
+warrant “on the adequacy of what it does contain, not on what it
+
+lacks, or on what a critic might say should have been added.” United
+
+States v. Allen, 211 F3d 970, 975 (III) (6th Cir. 2000). Thus, in
+
+assessing probable cause, we take reasonable inferences into
+
+account. See Britton, 316 Ga. at 286 (1). Considering the totality of
+
+the circumstances outlined in the affidavit, the magistrate was
+
+authorized to make “certain common-sense conclusions about
+
+human behavior,” Illinois v. Gates, 
+462 U. S. 213
+, 231 (III) (103 SCt
+
+2317, 76 LE2d 527) (1982), and infer that Pugh was somehow
+
+involved in Tiffany’s murder, that evidence of his location and
+
+communications in the time surrounding the murder might be found
+
+in his cell phone records, and that the target phone number belonged
+
+to Pugh. See State v. Ledbetter, ___ Ga. ___ (2) (___ SE2d ____) (
+2024
+
+WL 923930
+, 
+2024 Ga. LEXIS 58
+) (Case Nos. S23A0900, S23X0901,
+
+decided Mar. 5, 2024); Taylor v. State, 
+303 Ga. 57
+, 61 (2) (
+810 SE2d
+
+17
+
+ 113) (2018).
+
+     Here, the affidavit provided facts about Tiffany and her
+
+connection to Pugh, including that she and Pugh were married, that
+
+they had children, and that the family resided together. The
+
+affidavit also described Pugh’s conduct and his interactions with
+
+police, including what could be viewed as the very unusual decision,
+
+made under the purported belief that an intruder had broken into
+
+his home, to leave his sleeping wife and children in the home while
+
+he waited outside. As detailed in the affidavit, Pugh’s behavior was
+
+flatly inconsistent with his frantic cries to the first responding
+
+officers about his kids being in the home and Tiffany not answering
+
+her phone. Further, Pugh’s own account of returning home and his
+
+claim that he did not notice Tiffany bleeding was contradicted by
+
+physical evidence at the scene. And while a window of the residence
+
+was damaged, the fact that the sounding alarm was quickly
+
+deactivated indicated that whoever entered the residence, and
+
+presumably killed Tiffany, had knowledge of the alarm code. Taken
+
+together, Pugh’s implausible behavior, his relationship with the
+
+                                18
+ victim and connection to the residence where the crime occurred, the
+
+inconsistency between his statement and the evidence at the scene,
+
+and evidence suggesting that the crime was committed by someone
+
+familiar with the residence’s alarm code showed a fair probability
+
+that Pugh was involved in Tiffany’s murder. See Wesby, 583 U. S. at
+
+59 (III) (A) (“Based on the vagueness and implausibility of the
+
+[suspects’] stories, the officers could have reasonably inferred that
+
+they were lying and that their lies suggested a guilty mind.”); United
+
+States v. Ameling, 328 F3d 443, 449 (8th Cir. 2003) (A suspect’s
+
+“apparently false statements and inconsistent stories,” in the
+
+totality of the circumstances, can provide probable cause that he was
+
+“involved in criminal conduct.”).
+
+     Not only did the affidavit support the inference that Pugh had
+
+some involvement in Tiffany’s murder, it also offered a substantial
+
+basis for the magistrate to conclude that a fair probability existed
+
+that Pugh’s cell phone records would contain evidence of the crime.
+
+The facts in the affidavit indicated that Pugh was using his cell
+
+phone around the time of the murder—he reported missing the
+
+                                    19
+ initial call from ADT, he indicated to police that he had attempted
+
+to call Tiffany but that she failed to answer, and he said he made
+
+phone calls while waiting on police to respond to the residence. From
+
+these facts, the magistrate could reasonably infer that Pugh’s cell
+
+phone records would contain information about his communications
+
+and whereabouts around the time of the crime, which, logically,
+
+could provide evidence of his involvement in Tiffany’s murder.
+
+Indeed, Sergeant Glover averred as much; after detailing his
+
+experience and training and Pugh’s conduct at the scene, including
+
+making several phone calls, he indicated his belief that “this phone”
+
+would contain evidence related to the crime,9 including “but not
+
+
+
+      9 Pugh takes issue with this statement, arguing that “[m]ere belief or
+
+suspicion is never enough to support a search warrant.” But the affidavit at
+issue here is not remotely comparable to the bare-bones affidavits entirely
+devoid of facts that were found insufficient in the cases upon which Pugh relies.
+Specifically, Pugh points to Nathanson v. United States, 
+290 U. S. 41
+, 44, 47
+(54 SCt 11, 78 LE 159) (1933) (holding insufficient affidavit which stated only
+that the affiant “has cause to suspect and does believe” that “[c]ertain liquors
+of foreign origin” illegally brought into the United States were located at a
+particular premises); Smoot v. State, 
+160 Ga. 744
+, 746-747 (
+128 SE 909
+) (1925)
+(“The affidavit is based only upon the statements of the affiant that ‘he has
+reason to believe that a quantity of intoxicating liquor is in the dwelling-house
+of [appellant], and verily believes upon probable cause that the intoxicating
+liquor is kept in violation of the laws of the State of Georgia.’ . . . [I]t
+
+                                       20
+ limited to GPS data, call logs, texts, etc.” See United States v. Floyd,
+
+740 F3d 22, 35 (II) (B) (3) (1st Cir. 2014) (“[A] law enforcement
+
+officer’s training and experience may yield insights that support a
+
+probable cause determination.”).
+
+      Though Pugh complains that the -7281 phone number was not
+
+explicitly connected to him or to the phone he possessed at the time
+
+of the murder, this argument fails. As we recently explained in
+
+rejecting a similar claim in Ledbetter, at *27 (2) (a) (i), the absence
+
+of an express connection, “by itself, is not a fatal flaw” and, as with
+
+other questions of probable cause, requires the reviewing court to
+
+consider “all the circumstances” presented in the affidavit to
+
+determine whether the magistrate could have inferred the necessary
+
+
+
+is apparent from the affidavit that no fact which would have afforded the basis
+for a legal conclusion of probable cause was before the court[.]” (punctuation
+omitted)); and Johnson v. State, 
+111 Ga. App. 298
+, 305 (1) (c) (1965) (“Certainly,
+since no facts of any kind were stated in the affidavit, it was deficient in this
+respect. . . . Does the recital in the warrant, ‘evidence having been submitted
+to me to show probable cause,’ meet the requirement? . . . Obviously not.”).
+Pugh’s complaint that Sergeant Glover believed evidence would be found on
+“this phone,” rather than phone records, is also unavailing, as such
+“hypertechnical” assessments have no place in the test for probable cause. See
+Gates, 
+462 U. S. at 236
+ (III) (“[C]ourts should not invalidate warrants by
+interpreting affidavits in a hypertechnical, rather than a commonsense,
+manner.” (citations and punctuation omitted)).
+                                       21
+ link. Here, as in Ledbetter, the affidavit indicated that law
+
+enforcement had an opportunity to learn Pugh’s phone number by
+
+noting that Pugh made multiple statements to police regarding his
+
+phone use around the time of the crime. See Ledbetter, at *36-37 (b)
+
+(i). Pugh’s was the only name mentioned in the affidavit, he was the
+
+focus of the affidavit’s narrative, and only one phone number was
+
+referenced in the affidavit. See Taylor, 303 Ga. at 61 (2) (rejecting
+
+argument that warrant was not supported by probable cause for
+
+failure to expressly state that address to be searched was appellant’s
+
+address because, in light of other information in the affidavit, “the
+
+magistrate, making a practical and common-sense decision, was
+
+entitled to infer that there was a ‘fair probability’ that [appellant]
+
+lived at” the target address); United States v. Hunter, 863 F3d 679,
+
+682 (I) (7th Cir. 1996) (although affidavit did not explicitly state that
+
+address to be searched was appellant’s residence, “that is the only
+
+logical conclusion supported by a common-sense reading of the
+
+affidavit,” which “referred four times to [appellant’s] residence” and
+
+“made no reference to any other place connected to [appellant]”).
+
+                                   22
+ Moreover, “[t]here was nothing in the affidavit . . . to lead the
+
+magistrate to believe that the . . . phone number[ ] [was] associated
+
+with” anyone other than Pugh. Ledbetter, at *29 (2) (a). While it
+
+would have been helpful to include the fact that Pugh used the -7281
+
+phone number, see Ledbetter, at *31 and n.24 (2) (a) (i) (noting that
+
+“argument on this point would have been more easily resolved if the
+
+drafter of the warrant had taken the small, but important, extra
+
+step of expressly linking” the target phone number to the user and
+
+“encourag[ing] law enforcement to provide such information on the
+
+face of the warrant application or affidavit”), we conclude, in light of
+
+all the circumstances, that the affidavit nevertheless provided the
+
+issuing magistrate with sufficient information from which the
+
+magistrate could reasonably infer that the -7281 phone number
+
+belonged to Pugh. For all these reasons, we conclude that the
+
+magistrate had a substantial basis for finding that probable cause
+
+existed to issue the search warrant, and this claim fails.
+
+     (c) Pugh next asserts, for the first time on appeal, that the
+
+affidavit failed to establish probable cause to search for and seize
+
+                                  23
+ certain categories of evidence specified in the search warrant.
+
+Because Pugh did not challenge the warrant on this basis in the trial
+
+court, we review only for plain error. See Williams v. State, 
+315 Ga.
+
+490
+, 494-495 (2) (
+883 SE2d 733
+) (2023) (applying plain-error review
+
+to particularity challenge to search warrant where appellant did not
+
+move to suppress evidence procured by the warrant on that basis in
+
+the trial court). To establish plain error, Pugh must demonstrate
+
+that the alleged error was not “affirmatively waived”; was “clear or
+
+obvious, rather than subject to reasonable dispute”; “affected his
+
+substantial rights,” meaning that “it affected the outcome of the trial
+
+court proceedings”; and “seriously affects the fairness, integrity[,] or
+
+public reputation of judicial proceedings.” Hampton v. State, 
+302 Ga.
+
+166
+, 167 (2) (
+805 SE2d 902
+) (2017) (citation and punctuation
+
+omitted). “Satisfying all four prongs of this standard is difficult, as
+
+it should be.” 
+Id. at 168
+ (2) (citation and punctuation omitted).
+
+     Pugh contends that the scope of the items to be seized under
+
+the warrant “exceed[ed] the facts justifying” the warrant’s issuance.
+
+The thrust of Pugh’s argument, as we understand it, is not that the
+
+                                  24
+ warrant was an unconstitutional general warrant but that it
+
+contained some overly broad provisions that authorized the seizure
+
+of items for which there was no probable cause.
+
+     The Fourth Amendment, besides requiring probable cause to
+
+issue a search warrant, requires “probable cause to seize the
+
+particular things named in the warrant.” United States v. Sanjar,
+
+876 F3d 725, 735 (II) (5th Cir. 2017); see Reaves v. State, 
+284 Ga.
+
+236
+, 237 (1) (b) (
+664 SE2d 207
+) (2008) (“[W]hether probable cause
+
+has been shown for the search for and seizure of the specific items”
+
+described in the warrant is “separate from the question” of whether
+
+there is probable cause “to believe that a certain crime has been
+
+committed and that there is a fair probability that ‘evidence’ of that
+
+crime will be located at the place specified[.]”). If those requirements
+
+are not met, an issue of overbreadth may arise. See Ninety-Two
+
+Thousand Four-Hundred Twenty-Two Dollars & Fifty-Seven Cents,
+
+307 F3d at 148-149 (IV) (A). A warrant suffering from overbreadth
+
+“describes in both specific and inclusive generic terms what is to be
+
+seized, but it authorizes the seizure of items as to which there is no
+
+                                  25
+ probable cause.” Id. at 149 (IV) (A) (citation and punctuation
+
+omitted); see also United States v. Wilson, 897 F2d 1034, 1039 (10th
+
+Cir. 1990) (The “breadth of a warrant must be justified by the
+
+breadth of the probable cause[.]” (citation and punctuation
+
+omitted)).
+
+     Critically, the inclusion of overly broad provisions does not
+
+necessarily doom the warrant in its entirety. See United States v.
+
+Cotto, 995 F3d 786, 798 (II) (B) (2) (10th Cir. 2021) (“[E]ven if the
+
+warrant at issue here is overbroad, suppression of evidence should
+
+be a last resort, not a first impulse.” (citation and punctuation
+
+omitted)). In such cases, the warrant “can be cured by redaction, that
+
+is, by striking from the warrant those severable phrases and clauses
+
+that are invalid for lack of probable cause or generality and
+
+preserving those severable phrases and clauses that satisfy the
+
+Fourth Amendment.” Ninety-Two Thousand Four-Hundred Twenty-
+
+Two Dollars & Fifty-Seven Cents, 307 F3d at 149 (IV) (A).
+
+     With these principles in mind, we return our focus to Pugh’s
+
+arguments on appeal. As an initial matter, Pugh does not argue that
+
+                                 26
+ a warrant containing some overly broad provisions is necessarily
+
+wholly invalid. Nor does it appear that Pugh’s overbreadth challenge
+
+concerns records of his communications and location, and, in fact, he
+
+appears to concede that there was probable cause to seize such
+
+records. Instead, without identifying the specific provisions of the
+
+warrant with which he takes issue,10 he complains that the items to
+
+be seized included “internet browser history, photographs and
+
+videos, documents and text-based files, unread emails, and much,
+
+much more,” for which he says probable cause was lacking.
+
+Assuming without deciding that Pugh is correct that the warrant
+
+was overbroad in the respects he contends, his claim nonetheless
+
+fails on the third prong of plain error review because he has not
+
+
+
+      10 Pugh also notes that the affidavit referenced only “GPS data, call logs,
+
+and texts, etc.,” while the warrant authorized the search for and seizure of a
+wider array of items. To the extent Pugh asserts that probable cause to search
+for and seize an item is established only if that item is specifically identified in
+the supporting affidavit, he is incorrect. See Groh v. Ramirez, 
+540 U. S. 551
+,
+557 (II) (124 SCt 1284, 157 LE2d 1068) (2004) (“The Fourth Amendment, by
+its terms, requires particularity in the warrant, not in the supporting
+documents.”); United States v. Barajas, 710 F3d 1102, 1109 (B) (1) (10th Cir.
+2013) (rejecting argument “that [the] probable cause determination [for seizure
+of cell phone GPS data] hinges on the government’s failure to specifically
+request GPS data” in the supporting affidavit).
+                                        27
+ shown harm from the inclusion of the allegedly overbroad portions
+
+of the warrant. See Hampton, 
+302 Ga. at 168
+ (2) (To prevail on the
+
+third step of the plain error analysis, an “appellant has the burden
+
+to make an affirmative showing that the error probably did affect
+
+the outcome below.” (citation and punctuation omitted)).
+
+     Specifically, Pugh has not shown that any evidence admitted
+
+against him at trial was seized solely pursuant to the allegedly
+
+overbroad portions of the warrant as opposed to the requests for
+
+communication and location records that we have already
+
+concluded—and that he has conceded—were supported by probable
+
+cause. Indeed, as far as we can tell—and Pugh does not argue
+
+otherwise—the only evidence obtained pursuant to the warrant that
+
+was later admitted at trial were records of Pugh’s phone calls and
+
+text messages, as well as cell-site location information. 11 See Cotto,
+
+995 F3d at 800 (II) (B) (2) (where warrant contained both valid
+
+provisions and overly broad provision but no evidence was seized
+
+
+
+     11 Pugh does not argue that the seizure of this evidence led to the
+discovery of other evidence that was admitted against him at trial.
+                                  28
+ pursuant to overly broad provision, none of the evidence obtained
+
+during the search should have been suppressed); United States v.
+
+Timley, 443 F3d 615, 623 (I) (8th Cir. 2006) (although warrant may
+
+have been overbroad in certain respects, any failure to suppress
+
+seized evidence was harmless because warrant was sufficient “as to
+
+items seized that formed the basis for the criminal charges”); United
+
+States v. Blakeney, 942 F2d 1001, 1027 (I) (6th Cir. 1991) (where
+
+evidence “seized pursuant to the overbroad portion of the search
+
+warrant was not introduced into evidence,” appellant “was not
+
+prejudiced by the defect in the warrant”). Further, although Pugh
+
+bears the burden of showing harm in the context of plain error
+
+review, see Hampton, 
+302 Ga. at 168
+ (2), it is not readily apparent
+
+to us, based on a comprehensive review of the record, what harm
+
+Pugh suffered as a result of this assumed error. For all these
+
+reasons, we conclude that this claim fails.
+
+     (d) In his final enumeration of error concerning the search
+
+warrant, Pugh contends that the warrant was insufficiently
+
+particularized such that it constituted a general warrant and that
+
+                                 29
+ trial counsel was ineffective for failing to raise this claim below. For
+
+the reasons explained below, we cannot agree.
+
+     The Fourth Amendment requires a warrant to “particularly”
+
+describe “the place to be searched, and the persons or things to be
+
+seized.” The particularity requirement guards against the “specific
+
+evil” of the “general warrant,” which was “abhorred by the colonists”
+
+and permitted “a general, exploratory rummaging in a person’s
+
+belongings.” Coolidge v. New Hampshire, 
+403 U. S. 443
+, 467 (II) (C)
+
+(91 SCt 2022, 29 LE2d 564) (1971) (punctuation omitted). Pugh
+
+raises his particularity challenge through the lens of ineffective
+
+assistance of counsel. To succeed on this claim, Pugh bears the
+
+burden of showing both that trial counsel’s performance was
+
+deficient and that he suffered prejudice as a result. See Strickland
+
+v. Washington, 
+466 U. S. 668
+, 687 (III) (104 SCt 2052, 80 LE2d 674)
+
+(1984). To establish deficient performance, Pugh must show that his
+
+trial counsel performed his duties in an objectively unreasonable
+
+way. See 
+id. at 687-690
+ (III) (B). To “eliminate the distorting effects
+
+of hindsight,” we must consider Pugh’s claim in light of “counsel’s
+
+                                  30
+ perspective at the time” and “indulge a strong presumption” that
+
+counsel’s performance was reasonable. 
+Id. at 689
+ (III) (B). Pugh
+
+“bears the burden of overcoming this presumption” by “show[ing]
+
+that no reasonable lawyer would have done what his lawyer did, or
+
+would have failed to do what his lawyer did not.” Hurston v. State,
+
+310 Ga. 818
+, 825 (3) (
+854 SE2d 745
+) (2021) (citation and punctuation
+
+omitted). To establish prejudice, Pugh must show a reasonable
+
+probability that, but for counsel’s deficient performance, the result
+
+at trial would have been different. See id. at 694 (III) (B).
+
+     In addition, “[w]here, as here, an appellant claims that trial
+
+counsel was deficient for failing to file a motion to suppress, the
+
+appellant must make a strong showing that the damaging evidence
+
+would have been suppressed had counsel made the motion.” Tabor
+
+v. State, 
+315 Ga. 240
+, 249 (3) (b) (
+882 SE2d 329
+) (citation and
+
+punctuation omitted). See also Evans v. State, 
+306 Ga. 403
+, 509 (2)
+
+(a) (
+831 SE2d 818
+) (2019) (“[T]rial counsel cannot be deficient for
+
+failing to file a meritless motion[.]”). In determining whether an
+
+appellant has carried his burden of making this showing, we ask
+
+                                  31
+ whether a motion to suppress on the specific basis proposed by the
+
+appellant would “clearly have succeeded” had his trial counsel raised
+
+it. Ward v. State, 
+313 Ga. 265
+, 275 (4) (b) (
+869 SE2d 470
+) (2022); see
+
+also Reese v. State, 
+317 Ga. 189
+, 201-202 (4) (
+891 SE2d 835
+) (2023).
+
+Also relevant to our analysis is whether appellant’s argument was
+
+supported by binding appellate precedent at the time of trial. See
+
+Hurston, 310 Ga. at 829 (3) (b); Esprit v. State, 
+305 Ga. 429
+, 438 (
+826
+
+SE2d 7
+) (2019) (“A criminal defense attorney does not perform
+
+deficiently when he fails to advance a legal theory that would
+
+require an extension of existing precedents and the adoption of an
+
+unproven theory of law.” (citation and punctuation omitted)). We
+
+conclude that Pugh has failed to make the required strong showing.
+
+     The substantive predicate of Pugh’s claim appears to be that
+
+the warrant at issue here is analogous to the warrant we recently
+
+concluded was an invalid general warrant in State v. Wilson, 
+315
+
+Ga. 613
+ (
+884 SE2d 298
+) (2023) (decided Feb. 21, 2023). In that case,
+
+we addressed a particularity challenge to a warrant that authorized
+
+a “forensic examination” of a cell phone for “any and all stored
+
+                                  32
+ electronic information, including but not limited to” various
+
+categories of electronic data. Id. at 613-614. Noting the warrant’s
+
+“complete absence of limiting language,” we agreed with the trial
+
+court that the warrant “authorized an impermissible general search
+
+of [the appellant’s] cell phones” and, thus, affirmed the trial court’s
+
+ruling suppressing evidence obtained pursuant to the warrant. Id.
+
+at 615-616. Pugh sees similarities between the warrant we held
+
+invalid in Wilson and the warrant at issue in this case, which he
+
+characterizes as “an illegal general warrant.” Pugh says that, like in
+
+Wilson, the warrant in this case “essentially” permitted “an
+
+unlimited general search of information and records relating to the
+
+[target] phone number” and “authorize[d] the broadest possible
+
+search of the phone records for the most general categories of data
+
+imaginable.”12 Pugh’s claim thus turns on our decision in Wilson and
+
+his assertion that the warrant in this case is as obviously general in
+
+nature as the warrant in Wilson.
+
+
+
+     12 Pugh does not argue that officers in fact conducted an unconstitutional
+
+general search.
+                                     33
+      As an initial matter, however, Wilson was decided more than
+
+four years after Pugh’s 2018 trial, so his trial counsel would not have
+
+been able to rely on Wilson in challenging the warrant’s compliance
+
+with the particularity requirement. See Hurston, 310 Ga. at 829 (3)
+
+(b). Although Wilson does not represent a change in the law on
+
+particularity, see Wilson, 315 Ga. at 616 (noting that “well-
+
+established legal precedent supports our conclusion that the trial
+
+court properly suppressed the cell phone evidence”), it is the first
+
+decision in which this Court applied the particularity requirement
+
+to invalidate a warrant that authorized a search of the entirety of
+
+electronic data contained on a cell phone and, thus, reflects an
+
+extension of existing precedent. And as we have explained before,
+
+     when addressing a claim of ineffectiveness of counsel, the
+     reasonableness of counsel’s conduct is examined from
+     counsel’s perspective at the time of trial. Thus, a new
+     decision does not apply in a manner that would require
+     counsel to argue beyond existing precedent and anticipate
+     the substance of the opinion before it was issued.
+
+Walker v. State, 
+306 Ga. 579
+, 583 (2) (b) (
+832 SE2d 420
+) (2019)
+
+(citations and punctuation omitted). Trial counsel therefore cannot
+
+
+                                  34
+ “be deemed ineffective for failing to argue precedent that was not in
+
+existence at the time of [the] trial.” 
+Id.
+
+
+      Moreover, Pugh has not clearly shown, through his nearly
+
+singular reliance on Wilson,13 that a motion to suppress on the basis
+
+argued would have succeeded and, thus, has failed to make the
+
+required “strong showing that the damaging evidence would have
+
+been suppressed.” Reese, 317 Ga. at 201 (4) (a). Whereas the warrant
+
+we considered in Wilson was, on its face, a general warrant—it
+
+expressly authorized the seizure, without limitation, of “any and all
+
+stored electronic information,” Wilson, 315 Ga. at 613—the warrant
+
+here appears to be of a different character. Indeed, this warrant “did
+
+not simply provide an unbounded description authorizing the search
+
+and seizure of any and all data on the cell phone,” Perez v. State, 
+316
+
+Ga. 433
+, 447 (3) (
+888 SE2d 526
+) (2023), but, rather, identified 18
+
+separate categories of items, many of which appear to be sufficiently
+
+
+
+
+      13 In support of his claim of ineffective assistance, Pugh cites only Wilson
+
+and one other decision of this Court, both of which were issued after his trial.
+He also cites a decision of the District of Columbia Court of Appeals, which also
+was issued after his trial and, of course, is not binding on this Court.
+                                       35
+ particularized, while others appear significantly broader in scope.
+
+Further, unlike the warrant in Wilson and its “complete absence of
+
+limiting language,” Wilson, 315 Ga. at 615, certain categories of the
+
+warrant in this case are limited by time or by reference to the
+
+specific crime under investigation, and additional categories appear
+
+to be directed not toward facilitating a limitless search of Pugh’s cell
+
+phone but to obtaining business-type records from Sprint. In sum,
+
+taken as a whole, the warrant in this case is not as easily read as
+
+the warrant in Wilson as authorizing the seizure of all data without
+
+limitation on the target cell phone.
+
+     To be sure, certain portions of this warrant paint a broad stroke
+
+and raise questions about the sort of particularity required in
+
+warrants for the seizure of data contained on cell phones and of
+
+records held by cell-service providers. But it does not appear to us
+
+that Wilson alone can resolve these questions, and Pugh otherwise
+
+makes no effort to grapple with them. Nor does Pugh cite, and we
+
+have not found, any United States Supreme Court or Georgia
+
+appellate precedent that clearly held, at the time of Pugh’s trial, that
+
+                                  36
+ a search warrant authorizing the seizure of a wide range of data
+
+from a defendant’s cell phone and cell-service provider amounts to a
+
+general warrant under these circumstances. See Hourin v. State,
+
+301 Ga. 835
+, 844 (3) (b) (
+804 SE2d 388
+) (2017) (“In evaluating the
+
+particularity of a warrant’s description, we must determine whether
+
+the description is sufficient to enable a prudent officer executing the
+
+warrant to locate it definitely and with reasonable certainty. The
+
+degree of the description’s specificity is flexible and will vary with
+
+the circumstances involved.” (emphasis supplied; citations and
+
+punctuation omitted)). In short, whether this warrant constitutes a
+
+general warrant presents a difficult question, and it is not apparent
+
+to us that there is an obvious answer. We thus conclude that a
+
+motion to suppress “on the ground now proposed” by Pugh “would
+
+not clearly have succeeded,” and his trial counsel was not deficient
+
+“in failing to make such a motion.” Ward, 313 Ga. at 275 (4) (b); see
+
+also Reese, 317 Ga. at 201-202 (4) (a) (in the context of a different
+
+legal question that presented a similarly difficult legal analysis on
+
+the merits, identifying no deficient performance where appellant
+
+                                  37
+ failed to “clearly show” that a motion to suppress based on his
+
+proposed argument would have been successful). Compare Bryant v.
+
+State, 
+301 Ga. 617
+, 620 (2) (
+800 SE2d 537
+) (2017) (concluding that
+
+trial counsel was deficient for failing to raise particularity challenge
+
+to search warrant that “did not describe the items to be seized at all”
+
+(emphasis in original; citation and punctuation omitted)).
+
+      3. Finally, Pugh asserts that motion-for-new-trial counsel was
+
+constitutionally ineffective by failing to raise four claims of trial
+
+counsel’s ineffectiveness. But these claims, which “simply recast his
+
+trial-counsel    ineffectiveness      claims     as    motion-for-new-trial
+
+ineffectiveness claims,” are procedurally barred.14 See Robinson v.
+
+State, 
+306 Ga. 614
+, 616 (2) (b) (
+832 SE2d 411
+) (2019). This Court has
+
+      consistently held that a defendant cannot resuscitate a
+      specific claim of ineffective assistance of trial counsel that
+      was not raised at the motion for new trial stage by
+      recasting the claim on appeal as one of ineffective
+
+      14 In one claim, Pugh ostensibly challenges the manner in which motion-
+
+for-new-trial counsel pursued a “properly raised” claim of trial counsel
+ineffectiveness concerning the motion to suppress cell phone records, but the
+crux of Pugh’s argument on appeal is that motion-for-new-trial counsel should
+have raised an additional or alternative claim of trial counsel ineffectiveness
+with respect to the motion to suppress. Accordingly, this, like Pugh’s other
+claims of motion-for-new-trial ineffectiveness, is simply another attempt at
+improper bootstrapping.
+                                      38
+       assistance of motion-for-new-trial counsel for failing to
+      raise the specific claim of trial counsel’s ineffectiveness.
+
+Id. at 617 (2) (b) (citation and punctuation omitted). See also Elkins
+
+v. State, 
+306 Ga. 351
+, 362 (4) (b) (
+830 SE2d 217
+) (2019); King v. State,
+
+304 Ga. 349
+, 351 (
+818 SE2d 612
+) (2018). Accordingly, these claims,
+
+like the others, fail. 15
+
+      Judgment affirmed. All the Justices concur.
+
+
+
+
+      15 If Pugh “wishes to pursue a claim that his post-conviction counsel was
+
+ineffective[,] he must do so through a petition for a writ of habeas corpus.”
+Robinson, 
+306 Ga. at 617
+ (2) (b) n.5 (citation and punctuation omitted).
+                                      39
+      PINSON, J., concurring.
+
+     I concur fully in the Court’s opinion. Relevant to Division 2 (d)
+
+of that opinion, I want to flag one important point about the Fourth
+
+Amendment’s particularity requirement as applied to search
+
+warrants for cell phones, because it’s going to come up again and
+
+again.
+
+     In State v. Wilson, 
+315 Ga. 613
+ (
+884 SE2d 298
+) (2023), we held
+
+that the search warrant for cell phones in that case violated the
+
+Fourth Amendment’s requirement that a warrant “particularly”
+
+describe “the place to be searched, and the persons or things to be
+
+seized.” U.S. Const. amend. IV. The problem with that warrant was
+
+not merely that it allowed police to search the entire contents of the
+
+cell phones. The problem was that the warrant allowed police to
+
+search the phones, seize every bit of data on them, and use anything
+
+they found against the defendant without regard for whether any of
+
+that data was evidence of the crime the defendant was accused of
+
+committing. See Wilson, 315 Ga. at 615-616; id. at 624 (Pinson, J.,
+
+concurring). In other words, the warrant on its face authorized the
+
+                                 40
+ long forbidden “general search[ ]”: the “exploratory rummaging in a
+
+person’s belongings” for unspecified evidence of unspecified crimes.
+
+Coolidge v. New Hampshire, 
+403 U.S. 443
+, 467 (II) (C) (91 SCt 2022,
+
+29 LE2d 564) (1971), holding modified by Horton v. California, 
+496
+
+U.S. 128
+ (110 SCt 2301, 110 LE2d 112) (1990); Marron v. United
+
+States, 
+275 U.S. 192
+, 195 (1) (48 SCt 74, 72 LEd 231) (1927).
+
+     So Wilson’s takeaway was not that a search warrant for a cell
+
+phone necessarily must list each specific kind or category of data the
+
+police may look through when they search the phone’s contents. Just
+
+as specifying the address of a home can be particular enough to allow
+
+police to search rooms, closets, and cabinets throughout the home,
+
+identifying a specific cell phone as the “place to be searched” may
+
+well be particular enough to authorize police to look through the
+
+contents of the phone. See United States v. Ross, 
+456 U.S. 798
+, 820-
+
+821 (IV) (102 SCt 2157, 72 LE2d 572) (1982) (“A lawful search of
+
+fixed premises generally extends to the entire area in which the
+
+object of the search may be found and is not limited by the possibility
+
+that separate acts of entry or opening may be required to complete
+
+                                  41
+ the search.”); Peacock v. State, 
+314 Ga. 709
+, 717 (3) (b) (
+878 SE2d
+
+247
+) (2022) (noting “it is well settled that a search warrant for a
+
+home authorizes searching . . . containers” like “desks, cabinets,
+
+closets, or ‘any other item of personal property’ in which the items
+
+described in the search warrant might be stored” “without
+
+separately identifying them with particularity” (cleaned up)).
+
+Instead, the point to take from Wilson is that a search warrant for a
+
+cell phone also needs to tell the police, with sufficient particularity,
+
+what they can look for in their search of the phone. As we indicated
+
+in Wilson, the warrant must limit the object of the search to evidence
+
+of the crimes that the police have probable cause to believe the
+
+suspect committed. Wilson, 
+315 Ga. 615
+-616; see id. at 617
+
+(Peterson,   P.J.,   concurring)    (explaining    the    particularity
+
+requirement, when met, “means that the warrant allows the officer
+
+to identify the object of the search or seizure ‘definitely and with
+
+reasonable certainty’”); Westbrook v. State, 
+308 Ga. 92
+, 97-98 (3) (a)
+
+& n.5 (
+839 SE2d 620
+) (2020) (holding ineffective claim based on
+
+failure to object to particularity of warrant was meritless because
+
+                                   42
+ search warrant “enable[d] a prudent officer to know to look for
+
+photographs and videos” relating to the murder on the cell phone).
+
+And “evidence of murder” generally is not particular enough,
+
+although what further specificity is required will depend on the
+
+nature of the crimes in question and the circumstances of a
+
+particular case. See, e.g., Groh v. Ramirez, 
+540 U.S. 551
+, 554-555 (I),
+
+557-559 (II) (124 SCt, 157 LE2d 1068) (2004) (warrant was not
+
+sufficiently particular when it authorized a search of defendant’s
+
+house, and was based on probable cause to believe house contained
+
+illegal explosive weapons, but did not identify any items to be
+
+seized); Bryant v. State, 
+301 Ga. 617
+, 619-620 (2) & n.3 (
+800 SE2d
+
+537
+) (2017) (warrant was not sufficiently particular when it
+
+authorized a search of defendant’s house and cars, and stated there
+
+was probable cause to believe he had committed murder, but did not
+
+specifically identify any property, items, articles, or instruments to
+
+be searched for and seized); Dobbins v. State, 
+262 Ga. 161
+, 163-164
+
+(3) (
+415 SE2d 168
+) (1992) (warrant was not sufficiently particular
+
+when it authorized seizure of “certain property and/or materials of
+
+                                  43
+ a pornographic nature, to-wit, movies, pictures and magazines
+
+which are contrary to the laws of the State of Georgia,” because it
+
+did not specify how or why the items were believed to be obscene but
+
+instead left that determination “entirely to the discretion of the
+
+officers executing the warrant”). 16
+
+      In short, under Wilson, a search warrant for a cell phone must
+
+identify with sufficient particularity both the cell phone that may be
+
+searched and the object of that search. Anything less will not hold
+
+up against a Fourth Amendment challenge.
+
+      With this understanding, I join the Court’s opinion.
+
+      I am authorized to state that Justice Warren, Justice Bethel,
+
+and Justice McMillian join in this concurrence.
+
+
+
+
+      16 Of course, another question lurking here is what police can do with
+
+something they find on a cell phone while searching for whatever the warrant
+authorizes them to search for—that is, whether police can seize and use
+nonresponsive data. As I noted in Wilson, we have not answered that question
+yet. Wilson, 315 Ga. at 628-629 & n.12 (Pinson, J., concurring) (citing Orin S.
+Kerr, Executing Warrants for Digital Evidence: The Case for Use Restrictions
+on Nonresponsive Data, 
+48 Tex. Tech L. Rev. 1
+ (2015)).
+                                      44
+      PETERSON, Presiding Justice, concurring specially.
+
+     The majority’s analysis in Division 2 (b) regarding probable
+
+cause supporting the warrant at issue in this appeal represents a
+
+faithful application of Divisions 2 (a) (i) and 2 (b) (i) of our recent
+
+decision in Ledbetter. I did not join that division of Ledbetter,
+
+arguing that we should instead overrule our all-but-already-
+
+overruled precedent of Gary v. State and resolve the issue by
+
+applying the Leon good faith exception. See Ledbetter, __ Ga. at __
+
+(Peterson, P.J., concurring specially). That remains my view, and so
+
+I similarly concur specially in Division 2 (b) today.
+
+     But I write separately today to express an additional concern.
+
+I am unconvinced by the Ledbetter majority’s probable cause
+
+analysis. The probable cause required to support a valid warrant is
+
+probable cause to believe that evidence will be found at the place to
+
+be searched. The “place” to be searched in the warrants at issue in
+
+Ledbetter were phone numbers. There was nothing at all in the
+
+warrant affidavits about whose phones the numbers represented.
+
+                                  45
+ For the reasons the majority pointed out in Ledbetter, I’m not certain
+
+that defeats probable cause. But I’m not certain it doesn’t, either. It
+
+seems to me the only reasonable inference supported by the
+
+Ledbetter majority’s reasoning is that the officers writing the
+
+affidavits subjectively believed the numbers to belong to people
+
+named in the affidavits; without some detail in the affidavits
+
+explaining why they held that belief, I question whether it is
+
+reasonable to take the next step the majority essentially took, that
+
+of presuming from the fact of the officers’ belief that such belief was
+
+itself supported by probable cause. We generally require warrant
+
+affidavits to provide detail from which a neutral magistrate can
+
+determine for themselves whether probable cause exists, rather
+
+than merely defer to the unexplained implicit belief of law
+
+enforcement. Because my concern about the majority’s probable-
+
+cause analysis in Ledbetter applies equally to this case, I do not join
+
+the majority’s application of that analysis here.
+
+     Making matters more difficult, little helpful federal precedent
+
+                                  46
+ exists on this question, because under federal law federal courts
+
+rarely need to decide it because the Leon good faith exception
+
+virtually always applies. And until we finally erase the last traces of
+
+Gary, we’ll have to keep deciding these difficult, fact-bound
+
+questions that federal law has rendered largely irrelevant.
+
+
+
+
+                                  47
+ 

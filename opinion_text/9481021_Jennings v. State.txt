@@ -1,0 +1,1312 @@
+      NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+      Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+      opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+      prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+      official text of the opinion.
+
+
+      In the Supreme Court of Georgia
+
+
+
+                                                 Decided: March 5, 2024
+
+
+                    S24A0095. JENNINGS v. THE STATE.
+
+
+      LAGRUA, Justice.
+
+      Appellant Savanna Jennings was convicted of malice murder
+
+and related charges in connection with the shooting death of her
+
+grandfather, Otha Perrin, Sr.1 On appeal, Jennings contends that:
+
+
+      1 The crimes occurred on January      3, 2018. On January 22, 2018, an
+Elbert County grand jury indicted Jennings, William Peterson, and Dakota
+Street for malice murder (Count 1), possession of a firearm during the
+commission of a felony (Count 2), felony murder (Count 3), two counts of
+aggravated assault (Counts 4 and 5), possession of a firearm during the
+commission of a felony (Count 6), and concealing the death of another (Count
+7). Peterson was also indicted for an additional count of felony murder (Count
+8) and for possessing a firearm as a convicted felon (Count 9).
+      Peterson and Street pleaded guilty prior to trial and testified as
+witnesses for the State. Jennings was tried in August 2019, and the jury found
+her guilty of all counts. She was sentenced to serve life in prison without the
+possibility of parole for malice murder (Count 1), five years in prison
+consecutive for possession of a firearm during the commission of a felony
+(Count 2), and ten years in prison consecutive for concealing the death of
+another (Count 7). Counts 3, 4, 5, and 6 were merged or vacated by operation
+of law. In total, Jennings received a sentence of life in prison without the
+possibility of parole plus 15 years in confinement. Jennings filed a timely
+ (1) the trial court abused its discretion by admitting other-acts
+
+evidence; (2) the trial court abused its discretion by admitting
+
+certain business records; and (3) her trial counsel provided
+
+constitutionally ineffective assistance. For the reasons that follow,
+
+these claims fail, and we affirm Jennings’s convictions.
+
+      The evidence presented at trial showed that William Peterson
+
+shot Perrin, and Jennings was a party to the crime because she
+
+intentionally aided or abetted Peterson in the shooting or she
+
+intentionally advised, encouraged, hired, counseled, or procured
+
+Peterson to commit the crime. See OCGA § 16-2-20 (b) (3) and (4).
+
+      Jennings and her brother lived in Elberton intermittently with
+
+their grandparents since they were young children. In 2015, their
+
+grandmother passed away, and Jennings and her newborn son
+
+moved back in with Perrin the next year. During that same year,
+
+she asked Justin Cain, the father of her son, “Would you tell me how
+
+
+
+motion for new trial, which was amended through new counsel. After holding
+an evidentiary hearing, the trial court denied the motion for new trial on June
+12, 2023. Jennings filed a timely notice of appeal, and her case was docketed
+to this Court’s term beginning in December 2023 and submitted for a decision
+on the briefs.
+
+                                      2
+ to get away with killing someone?” and “Would you tell me how to
+
+get away with killing my granddad?” Cain laughed it off, and they
+
+did not speak about it again.
+
+     Also in 2016, Jennings began dating William Peterson. In
+
+March 2017, Peterson was arrested for and eventually convicted of
+
+false imprisonment regarding an incident with Jennings. After this
+
+incident, Jennings and Peterson did not have any contact with each
+
+other for approximately six months. In September 2017, Jennings
+
+and Peterson reconnected, and Jennings told Peterson that
+
+Jennings’s great-uncle had molested her as a child and Perrin “made
+
+Jennings forgive” her granduncle. Peterson testified that he and
+
+Jennings “talked about . . . killing [Perrin].” But Jennings testified
+
+that she only “discussed wanting [Perrin] dead.” At some point after
+
+this conversation, Jennings moved to East Point, Georgia, but in
+
+December 2017, she moved back in with Perrin. Dakota Street, a
+
+friend of Jennings’s brother, also moved in with Perrin and Jennings
+
+around this time.
+
+     On December 25, 2017, Jennings and Peterson reconnected
+
+
+                                  3
+ again at a Christmas gathering. Peterson testified that Jennings
+
+told him something that “bothered [him]” and he “thought about it
+
+for the next week or so.” Jennings testified that the “something” she
+
+told Peterson was that Perrin “had pulled a gun out on me and my
+
+son while we was in the bed because he thought we was somebody
+
+else in the house there to rob him, and -- Oh, and that he was
+
+touching on me.” Jennings also testified that she told Peterson she
+
+wanted Perrin dead.
+
+     Nine days later, on January 3, 2018—the night of the murder—
+
+Jennings picked up Peterson and drove him to Perrin’s house.
+
+Several witnesses gave differing accounts of what was discussed
+
+that evening. Peterson testified that he told Jennings and Street
+
+that he was going to kill Perrin, but “they thought he [said it in] a
+
+joking way.” In contrast, Street testified that Jennings told him that
+
+she and Peterson “were [going to try] to strangle [Perrin] in his sleep
+
+. . . put a pillow case over him or a pillow over him to make it seem
+
+like he died in his sleep.” During Jennings’s testimony, she said
+
+Peterson made a comment early in the evening that “if [he were] to
+
+
+                                  4
+ kill someone, [a relative’s pond] is where [he] would put them,” but
+
+she denied asking Peterson to kill Perrin or that they talked about
+
+killing Perrin.
+
+     Still   another   account   came   from   Jennings’s   cellmate,
+
+Samantha White, who claimed Jennings told her “pretty much
+
+everything” about the murder. White testified that Jennings told her
+
+that Jennings “hyped [Peterson] up about [Jennings] being molested
+
+as a child” and Peterson was “angry about somebody[] molesting
+
+[Jennings] when she was younger and touching her in inappropriate
+
+ways.” Jennings also told White that “they had joked about it before,
+
+about killing [Perrin], but up until that night . . . she didn’t think
+
+that they meant it.”
+
+     Street testified that on the night of Perrin’s murder he “texted
+
+[Jennings] to see what was going on.” Specifically, Street sent
+
+Jennings a message via Facebook that asked whether Peterson was
+
+“still doing it,” which Street explained meant whether “they were
+
+going to strangle or smother [Perrin] in his sleep.” Jennings
+
+responded, “No texting.”
+
+
+                                  5
+      That evening, Peterson obtained Perrin’s gun from Perrin’s
+
+bedroom. Jennings said she was asleep when this happened but she
+
+remembered waking up at some point, seeing Peterson “playing with
+
+[Perrin’s] gun,” “cuss[ing] him out,” and falling back asleep. Street,
+
+however, testified that when Peterson was checking the gun to make
+
+sure it was loaded, they were in Jennings’s bedroom, and she was
+
+present and “on her phone.”
+
+      Peterson went into Perrin’s bedroom and shot him “until the
+
+gun was empty.” Jennings testified that she was awoken by the
+
+sound of four or five gunshots, but she said that when Peterson came
+
+into her room and told her that he shot Perrin, she thought he was
+
+joking and she went back to sleep. Peterson, likewise, testified that
+
+Jennings had “no clue” he was going to shoot Perrin.
+
+     After the shooting, Peterson took the gun apart and burned the
+
+stock of the gun in a barrel in Perrin’s backyard before wrapping
+
+Perrin’s body in his mattress cover. Jennings testified that she woke
+
+up and saw Peterson wrapping Perrin’s body, at which point she
+
+realized the murder had occurred. Jennings testified that she did
+
+
+                                  6
+ not call 911 because Peterson threatened her. Instead, she drove
+
+Peterson to his relative’s property on Wahatchee Creek Road, where
+
+he hid the rest of the gun underneath a house on the property.
+
+Jennings then drove Peterson to work. A short time later, Peterson
+
+called Jennings and asked to be picked up. Jennings picked up
+
+Peterson from work and brought him back to Perrin’s house, where
+
+they both spent the night.
+
+     The next day, Peterson dragged Perrin’s body outside and
+
+placed it in the trunk of Perrin’s car. Peterson and Street drove to
+
+the property on Wahatchee Creek Road, and Peterson dumped
+
+Perrin’s body into a pond on the property. Peterson then told
+
+Jennings and Street “to come up with a plan.” Jennings decided to
+
+fabricate a story that Perrin left the house for a car transmission
+
+and did not come back. Peterson spent the night at Perrin’s house,
+
+and Jennings drove him home the next day. Several days later,
+
+Peterson told a cousin, “Me and [Jennings] killed her grandpa.”
+
+     Approximately four days after Perrin’s murder, on January 7,
+
+Jennings and Street went to the Elbert County Sheriff’s Office (the
+
+
+                                 7
+ “ECSO”) and reported Perrin missing, stating that he went “to get a
+
+transmission, and he never came back.” A deputy told them to
+
+return the next morning if Perrin did not come home that night.
+
+     The next morning, Jennings and Street went to the ECSO and
+
+gave written statements, stating that Perrin left home on January
+
+4 to look for a transmission and had not come back. But later that
+
+same day, both Jennings and Street admitted that Peterson shot
+
+Perrin on the evening of January 3.
+
+     Street offered to show police where Perrin’s body was located,
+
+and he directed police to the property on Wahatchee Creek Road,
+
+where Perrin’s body was retrieved from a pond. After Perrin’s body
+
+was recovered, Lieutenant Adam Moss obtained a search warrant
+
+and searched Perrin’s house, where a .22-caliber projectile was
+
+recovered from underneath Perrin’s bed.
+
+     Later that day, Peterson was arrested for Perrin’s murder.
+
+Peterson initially told police that Jennings or Street killed Perrin,
+
+but he later admitted that he killed Perrin and said that Jennings
+
+offered him a red truck in exchange for killing Perrin.
+
+
+                                  8
+      The next day, Jennings was arrested. After she was advised of
+
+her Miranda2 rights, she directed police to the abandoned house on
+
+Wahatchee Creek Road where Peterson hid Perrin’s gun. From
+
+underneath the side of the house, police recovered a .22-caliber rifle,
+
+missing its wooden stock. While on the property, Jennings stated
+
+that Peterson hid the gun the night Perrin was killed, but Peterson
+
+did not dispose of Perrin’s body on the property until the next day.
+
+     Lieutenant Moss recovered a cell phone belonging to Jennings
+
+from Perrin’s car. Jennings’s phone did not contain a contact for
+
+Peterson, and the phone’s messages and call log contained no
+
+mention of Peterson.
+
+     While Jennings was in jail awaiting trial, she befriended Carlie
+
+Minervino, another inmate. Minervino testified that Jennings said
+
+she was in jail because “she had her granddaddy killed.” 3 Because
+
+Minervino was going to be released soon, Jennings asked Minervino
+
+to buy a phone once she was released, download an app, and create
+
+
+
+     2 Miranda v. Arizona, 
+384 U.S. 436
+ (86 SCt 1602, 16 LE2d 694) (1966).
+     3 Jennings denied she told Minervino that she planned to kill Perrin.
+
+
+
+                                     9
+ fake text messages between Jennings and Peterson. Jennings wrote
+
+the messages to be created on a piece of paper and gave them to
+
+Minervino, who stored the paper in a Bible. Minervino, however, left
+
+the Bible (and the fabricated messages) behind when she was
+
+released from jail. After Minervino was released, Jennings
+
+repeatedly called her from jail to ask if she had created the
+
+fabricated messages. Jennings’s jail phone calls were monitored by
+
+Lieutenant Moss, who got a search warrant for the Bible and found
+
+the messages. The messages generally portrayed two conversations
+
+between Jennings and Peterson, one on the evening of the murder
+
+and one a few days later, in which Peterson took responsibility for
+
+killing Perrin and Jennings expressed shock and anger that he had
+
+done so.
+
+     At trial, White, Jennings’s cellmate, testified that Jennings
+
+would “go back and forth” on why she wanted Perrin dead, offering
+
+reasons that included Perrin “had touched” Jennings when she was
+
+younger, Perrin “was strict on her,” and she needed money and was
+
+either a beneficiary of Perrin’s life insurance policy or she would
+
+
+                                10
+ obtain half of everything Perrin owned. Jennings testified she
+
+“didn’t know [she] was a beneficiary [of Perrin’s life insurance
+
+policy]” prior to Perrin’s death, claiming she learned that she was a
+
+beneficiary in the discovery provided by the State. Jennings also
+
+testified that she would often write checks for Perrin, with his
+
+consent, “[l]ike if he was driving or something, he would tell [her] to
+
+write to the check for him.” She further testified that sometimes
+
+Perrin would gift her money and have her write the check to herself.4
+
+     1. Jennings contends that the trial court abused its discretion
+
+under OCGA § 24-4-404 (b) (“Rule 404 (b)”) in admitting other-acts
+
+evidence in the form of Perrin’s bank records, implying that
+
+Jennings stole from Perrin. We conclude, however, that this
+
+evidence was intrinsic, and we see no abuse of discretion in its
+
+admission. See Heade v. State, 
+312 Ga. 19
+, 24 (3) (
+860 SE2d 509
+)
+
+(2021) (“Because the evidence was intrinsic, it was outside the reach
+
+of Rule 404 (b).” (citation and punctuation omitted)).
+
+
+     4 The State introduced Perrin’s bank records, evidencing that 14 checks
+
+were made out to Jennings from Perrin’s checking account in an amount
+totaling over $7,000.
+
+                                    11
+      “‘Intrinsic evidence’ is defined as evidence that (1) pertains to
+
+an uncharged offense arising from the same transaction or series of
+
+transactions as the charged offense; (2) is necessary to complete the
+
+story of the crime; or (3) is inextricably intertwined with the
+
+evidence regarding the charged offense.” Abbott v. State, 
+311 Ga.
+
+478
+, 482 (2) (
+858 SE2d 696
+) (2021) (citation and punctuation
+
+omitted).
+
+     [E]vidence pertaining to the chain of events explaining
+     the context, motive, and set-up of the crime is properly
+     admitted if it is linked in time and circumstances with the
+     charged crime, or forms an integral and natural part of an
+     account of the crime, or is necessary to complete the story
+     of the crime for the jury[.] . . . And this sort of intrinsic
+     evidence remains admissible even if it incidentally places
+     the defendant’s character at issue.
+
+Heade, 312 Ga. at 25 (3) (citation and punctuation omitted;
+
+emphasis supplied). “In assessing whether evidence is necessary in
+
+this context, we have noted that ‘necessary’ is not used in a strictly
+
+literal sense, but rather, refers to what evidence is reasonably
+
+necessary for the State to complete the story of the crime.” Abbott,
+
+311 Ga. at 483 (2) (citation and some punctuation omitted).
+
+
+
+                                  12
+ Additionally, “there is no bright-line rule regarding how close in
+
+time evidence must be to the charged offenses . . . for that evidence
+
+to be admitted properly as intrinsic evidence.” Harris v. State, 
+310
+
+Ga. 372
+, 381 (2) (b) (
+850 SE2d 77
+) (2020).
+
+     In this case, the evidence showed that Perrin’s checking-
+
+account balance dwindled from an average monthly balance of
+
+approximately $20,000 in March 21 through July 17, 2017, to $88.05
+
+in late December 2017, through a combination of cash withdrawals
+
+and drawn checks. From July through October, 14 checks were made
+
+out to Jennings from Perrin’s checking account in an amount
+
+totaling over $7,000. 5 Jennings testified that Perrin gifted her
+
+money and allowed Jennings to write checks out of Perrin’s checking
+
+account to herself. The State, however, argued that Jennings stole
+
+the money from Perrin without his knowledge or consent.
+
+     Jennings argues that the bank records did not advance the
+
+“proffered motive” that Jennings had Perrin killed because she was
+
+
+     5 There were also multiple checks made out to another person; the State
+
+acknowledged in closing argument that “Jennings wasn’t the only person who
+was taking advantage of Otha Perrin.”
+
+                                    13
+ the beneficiary of a life insurance policy. But Jennings fails to
+
+acknowledge that the State argued Jennings’s “financial motive
+
+[was] Otha Perrin’s empty bank account[] and the insurance policy.”
+
+During closing argument, the State argued that the bank records
+
+showed that Jennings relied on Perrin financially (whether Perrin
+
+was gifting Jennings money or Jennings was stealing from him) 6 and
+
+that Perrin “had almost no money left in his bank account” prior to
+
+his murder. The State then referenced Jennings’s testimony that she
+
+was the beneficiary of Perrin’s life insurance policy and argued the
+
+dual financial motives of the “empty bank account[] and the
+
+insurance policy.” White testified that Jennings “would go back and
+
+forth” on why she wanted Perrin dead, but she “talked about the
+
+money, the life insurance policies, that everything would be hers and
+
+her brother’s.” The jury would have been authorized to infer that
+
+once Perrin’s checking account was depleted in December 2017,
+
+Jennings convinced Peterson to kill Perrin in early January 2018 so
+
+
+
+     6 The State argued both that Jennings “was taking advantage of” Perrin
+
+and that he was “generous” and “helped her out.”
+
+                                    14
+ that she could obtain the proceeds of Perrin’s insurance policy and
+
+also his personal and real property. In fact, Jennings admitted that
+
+she started driving Perrin’s Cadillac, as opposed to her own car,
+
+after he was killed. Thus, Perrin’s bank records were admissible as
+
+intrinsic evidence because the records were necessary to complete
+
+the story of the crimes and helped explain Jennings’s financial
+
+motive. See Abbott, 311 Ga. at 483 (2) (concluding that the trial court
+
+did not abuse its discretion in classifying evidence that the
+
+defendant stole from the victim in the weeks leading up to her
+
+murder as intrinsic because it “formed part of the chronology of [the
+
+defendant’s] crimes leading to the murders, offering insight into his
+
+motive”). See also McKelvey v. State, 
+311 Ga. 34
+, 40 (3) (
+855 SE2d
+
+598
+) (2021) (evidence of prior crime was properly admitted as
+
+intrinsic evidence where it pertained to chain of events leading to
+
+charged crimes and helped explain the defendant’s motive).
+
+     Jennings also contends that any probative value of the bank
+
+records was substantially outweighed by their prejudice and thus
+
+the records should have been excluded under OCGA § 24-4-403
+
+
+                                  15
+ (“Rule 403”). See State v. Harris, 
+316 Ga. 272
+, 278 (3) (
+888 SE2d 50
+)
+
+(2023) (“Intrinsic evidence must also satisfy Rule 403.” (citation and
+
+punctuation omitted)). Under Rule 403,
+
+     [r]elevant evidence may be excluded if its probative value
+     is substantially outweighed by the danger of unfair
+     prejudice, confusion of the issues, or misleading the jury
+     or by considerations of undue delay, waste of time, or
+     needless presentation of cumulative evidence.
+
+     Id. at 278 (3). “[A]ll inculpatory evidence is inherently
+
+prejudicial; it is only when unfair prejudice substantially outweighs
+
+probative value that the rule permits exclusion.” Middlebrooks v.
+
+State, 
+310 Ga. 748
+, 751 (
+854 SE2d 503
+) (2021) (citation and
+
+punctuation omitted; emphasis in original).
+
+     Here, the bank records were not unfairly prejudicial. The
+
+records themselves did not show that Jennings was stealing from
+
+Perrin. But see Carter v. State, 
+317 Ga. 689
+, 694 (2) (
+895 SE2d 295
+)
+
+(2023) (“The prejudicial effect of evidence is unfair if it has the
+
+capacity to lure the factfinder into declaring guilt on a ground
+
+different from proof specific to the offense charged, or an undue
+
+tendency to suggest decision on an improper basis, commonly,
+
+
+                                 16
+ though not necessarily, an emotional one.” (citation and punctuation
+
+omitted)). In light of the high probative value of the bank records,
+
+evidencing Jennings’s financial motive, we conclude that the
+
+probative value of Perrin’s bank records was not substantially
+
+outweighed by the danger of unfair prejudice. See Abbott, 311 Ga. at
+
+483 (2) (where the defendant’s stealing from the victim “formed part
+
+of the chronology of [the defendant’s] crimes leading to the murders,
+
+offering insight into his motive,” probative value of that evidence
+
+was not substantially outweighed by danger of unfair prejudice).
+
+Accordingly, this claim fails.
+
+     2. Jennings contends that the trial court abused its discretion
+
+by admitting certain Facebook messages between Jennings and
+
+Street. Jennings argues the messages should have been excluded
+
+because they did not fall within the statutory hearsay exception for
+
+business records under OCGA § 24-8-803 (6) and because Facebook’s
+
+declaration did not meet the standard for self-authenticating
+
+business records under OCGA § 24-9-902 (11). The messages at issue
+
+showed Street sending Jennings a message on the night of the
+
+
+                                 17
+ murder that said, “He still doing it,” and Jennings immediately
+
+responding, “No texting.” Street explained in his testimony that his
+
+message “He still doing it” was intended to ask Jennings whether
+
+Peterson was still planning to kill Perrin that night, as they had
+
+previously discussed.
+
+     Jennings failed to object on these grounds at trial, so we review
+
+the admission of these records for plain error only. 7 See Stafford v.
+
+State, 
+312 Ga. 811
+, 820 (3) (b) (
+865 SE2d 116
+) (2021) (“Because [the
+
+defendant] did not make a specific objection at trial to the admission
+
+of the statements on the grounds now asserted in his appeal, we
+
+review these claims only for plain error.” (citation and punctuation
+
+omitted)).
+
+     “To show plain error, an appellant must show that (1) the
+
+alleged error was not affirmatively waived, (2) it was obvious beyond
+
+reasonable dispute, and (3) it affected the appellant’s substantial
+
+
+     7 Prior to trial, Jennings objected to the presentation of the Facebook
+
+records only on the basis that presenting the business records without a
+witness violated her substantive due process rights under the United States
+and Georgia Constitutions. She made no objection concerning OCGA §§ 24-8-
+803 (6) or 24-9-902.
+
+                                    18
+ rights, which ordinarily means showing that it affected the outcome
+
+of the trial.” Jackson v. State, 
+317 Ga. 95
+, 106 (
+891 SE2d 866
+) (2023)
+
+(citation and punctuation omitted). “This Court does not have to
+
+analyze all elements of the plain-error test where an appellant fails
+
+to establish one of them.” Rutland v. State, 
+315 Ga. 521
+, 524 (
+883
+
+SE2d 730
+) (2023). Pretermitting whether the trial court erred in
+
+admitting the Facebook records, we conclude that Jennings has
+
+failed to satisfy the third prong of the plain-error analysis, requiring
+
+her “to make an affirmative showing that the error probably did
+
+affect the outcome below.” Ruthenberg v. State, 
+317 Ga. 227
+, 231 (2)
+
+(
+892 SE2d 728
+) (2023).
+
+     The other evidence introduced at trial included Jennings
+
+testifying that she had twice “discussed wanting [Perrin] dead” to
+
+Peterson. She further testified that Peterson told her that “if
+
+somebody ever F’d with [her], then he would kill them” and that
+
+Jennings told Peterson that Perrin “was touching on [her].” She also
+
+admitted that when she told Peterson that she wanted Perrin to die,
+
+Peterson responded, “I got you.” A week later, she picked Peterson
+
+
+                                  19
+ up from his home and brought him to Perrin’s house, and Peterson
+
+killed Perrin that evening. Peterson testified that he did not know
+
+why he killed Perrin, but he admitted that he told police that
+
+Jennings “offered” him a “red truck” to kill Perrin.
+
+     Jennings testified that, after Peterson killed Perrin, she drove
+
+Peterson to the abandoned house where he disposed of the gun and
+
+then drove him to work. Approximately three days after Perrin was
+
+killed, Peterson told his cousin, “Me and [Jennings] killed her
+
+grandpa. We shot him, like, seven times.”
+
+     After Jennings was arrested, she shared a cell with White, who
+
+testified that Jennings told her that Jennings “hyped [Peterson] up
+
+about being molested as a child” before Peterson shot Perrin. White
+
+also stated that Jennings explained that she, Peterson, and Street
+
+wrapped up Perrin’s body and dumped it in a pond. Additionally,
+
+Jennings attempted to convince another inmate at the jail to
+
+manufacture messages between Jennings and Peterson to make it
+
+appear as though she did not want Perrin dead.
+
+     Given the other strong evidence at trial, Jennings cannot show
+
+
+                                 20
+ that the introduction of the Facebook messages (Exhibits 70 and 71)
+
+between her and Street likely affected the outcome of the trial court
+
+proceedings, particularly since Street testified about the content of
+
+the messages. Thus, Jennings cannot satisfy the third prong of the
+
+plain-error test, and this claim fails. See Williams v. State, 
+316 Ga.
+
+304
+, 314 (4) (
+888 SE2d 60
+) (2023) (any error in admitting hearsay
+
+was harmless given the strength of the evidence identifying and
+
+inculpating the defendant and the cumulative nature of the hearsay
+
+testimony).
+
+     3.    Jennings     contends    that    her    counsel      provided
+
+constitutionally ineffective assistance by (a) failing to preserve her
+
+objection to Perrin’s bank records, (b) failing to preserve her
+
+objection to the Facebook records, and (c) failing to (i) preserve an
+
+objection to the exclusion of her domestic-violence expert and (ii)
+
+failing to timely disclose her expert.
+
+     To prevail on claims of ineffective assistance of counsel,
+
+Jennings      must   demonstrate   both    that   her   trial   counsel’s
+
+performance was professionally deficient and that she was
+
+
+                                   21
+ prejudiced by this deficient performance. See Bates v. State, 
+313 Ga.
+
+57
+, 62 (2) (
+867 SE2d 140
+) (2022) (citing Strickland v. Washington,
+
+466 U.S. 668
+, 687 (III) (104 SCt 2052, 80 LE2d 674) (1984)). To
+
+establish deficient performance, Jennings must show that trial
+
+counsel performed her duties in an objectively unreasonable way,
+
+considering all the circumstances and in the light of prevailing
+
+professional norms. See 
+id.
+ Establishing deficient performance
+
+     is no easy showing, as the law recognizes a strong
+     presumption that counsel performed reasonably, and [the
+     appellant] bears the burden of overcoming this
+     presumption. To carry this burden, he must show that no
+     reasonable lawyer would have done what his lawyer did,
+     or would have failed to do what his lawyer did not. In
+     particular, decisions regarding trial tactics and strategy
+     may form the basis for an ineffectiveness claim only if
+     they were so patently unreasonable that no competent
+     attorney would have followed such a course.
+
+Park v. State, 
+314 Ga. 733
+, 740-741 (
+879 SE2d 400
+) (2022) (citation
+
+and punctuation omitted). To establish prejudice, Jennings must
+
+prove that there is a reasonable probability that, but for her trial
+
+counsel’s deficiency, the result of the trial would have been different.
+
+See Bates, 313 Ga. at 62 (2). “A reasonable probability is a
+
+
+
+                                  22
+ probability sufficient to undermine confidence in the outcome.” Id.
+
+(citation and punctuation omitted). “And, this burden is a heavy
+
+one.” Id. at 62-63 (2) (citation and punctuation omitted). “If an
+
+appellant fails to meet his or her burden of proving either prong of
+
+the Strickland test, the reviewing court does not have to examine
+
+the other prong.” Taylor v. State, 
+315 Ga. 630
+, 647 (5) (b) (
+884 SE2d
+
+346
+) (2023) (citation and punctuation omitted).
+
+     (a)   Jennings      contends        that   her   counsel   provided
+
+constitutionally ineffective assistance by failing to preserve her
+
+objection to the admission of Perrin’s bank records. But Jennings
+
+also argues that “[t]rial counsel appears to have preserved objections
+
+to . . . [Perrin’s bank records] . . . so as to receive merits review.” We
+
+agree that counsel preserved her objection to the introduction of
+
+Perrin’s bank records by objecting at trial, and we have reviewed
+
+Jennings’s enumeration of error pertaining to the admission of those
+
+records in Division 1 (a). Thus, we conclude that counsel was not
+
+deficient, and this claim fails. See Salvesen v. State, 
+317 Ga. 314
+,
+
+321 (4) (
+893 SE2d 66
+) (2023) (rejecting ineffective assistance claim
+
+
+                                    23
+ based on purported failure to preserve errors where trial counsel
+
+properly preserved his argument by making a timely objection
+
+below).
+
+     (b) Jennings contends that her trial counsel provided
+
+constitutionally ineffective assistance by failing to preserve her
+
+objection to the Facebook records between Jennings and Street.
+
+Pretermitting whether counsel performed deficiently, 8 we conclude
+
+that Jennings cannot show prejudice. “Again, to prove prejudice, [a
+
+defendant] is required to show that, but for counsel’s unprofessional
+
+errors, the result of the proceeding would have been different.”
+
+Ingram v. State, 
+316 Ga. 196
+, 205 (1) (a) (
+887 SE2d 269
+) (2023)
+
+(citation and punctuation omitted).
+
+     “The prejudice step of the plain-error standard is equivalent to
+
+the prejudice prong for an ineffective assistance of counsel claim.”
+
+Bozzie v. State, 
+302 Ga. 704
+, 711 (4) (b) (
+808 SE2d 671
+) (2017). As
+
+explained in Division 2, there was strong inculpatory evidence
+
+
+
+     8 As explained in Division 2, trial counsel preserved an objection to the
+
+Facebook records, but not on the grounds asserted on appeal.
+
+                                     24
+ admitted at trial and Street testified about the contents of the
+
+Facebook messages. Thus, Jennings cannot show a reasonable
+
+likelihood that the result of her trial would have been different had
+
+counsel preserved an objection to the Facebook records under OCGA
+
+§§ 24-8-803 (6) and 24-9-902 (11). Accordingly, this claim fails. See
+
+Ingram, 316 Ga. at 205-206 (1) (a) (concluding that trial counsel’s
+
+failure to object was harmless in light of the strong evidence of guilt).
+
+     (c)   Jennings     contends     that    her    counsel    provided
+
+constitutionally ineffective assistance by (i) failing to preserve her
+
+objection to the exclusion of her domestic-violence expert and (ii)
+
+failing to timely disclose her expert under OCGA § 17-16-4. We
+
+conclude that Jennings preserved her objection to the exclusion of
+
+her expert and that the claim for failing to timely disclose the expert
+
+fails because Jennings cannot establish prejudice.
+
+     At trial, Jennings called Lieutenant Derek Scott with the
+
+Athens-Clarke County Police Department to testify and asked
+
+whether “as part of [his] training and experience,” he “learned about
+
+what’s known as the cycle of violence.” The State objected, and
+
+
+                                   25
+ Lieutenant Scott was questioned outside the presence of the jury,
+
+testifying that he had no firsthand knowledge of the details of the
+
+case. The State then argued that Jennings was attempting to
+
+present an expert without providing notice under OCGA § 17-16-4
+
+and that, if Lieutenant Scott was not an expert witness, his
+
+testimony was inadmissible “because a lay witness cannot testify to
+
+an opinion unless it relates to facts of the case that they have
+
+firsthand knowledge of.” The trial court ultimately excluded
+
+Lieutenant Scott’s testimony, citing Virger v. State, 
+305 Ga. 281
+ (
+824
+
+SE2d 346
+) (2019), for the proposition that “this [C]ourt has
+
+consistently upheld the exclusion of evidence of a defendant’s
+
+diminished mental condition when offered to support other defenses
+
+or to negate the intent element of a crime.” Jennings’s trial counsel
+
+objected to the trial court’s ruling, and the court permitted counsel
+
+to proffer Lieutenant Scott’s testimony on the record for the limited
+
+purpose of preserving the objection on appeal.
+
+     Regarding the delayed reporting of sexual abuse, Lieutenant
+
+Scott’s proffered testimony was that:
+
+
+                                 26
+      With sex crimes, generally when it’s like kids involved,
+     they don’t want to talk about it because, first of all, they
+     don’t think that anybody’s going to believe them. It’s
+     pretty hard to say that, you know, a father-type figure, a
+     mother-type figure that everybody respects in the family
+     is doing something that’s evil to somebody. So there’s a lot
+     of fear with that, or they have made comments about it,
+     and they’re just rejected. So then they just – They
+     withhold it. There’s many reasons, but a lot of it is just
+     about manipulation and control.
+
+He also said that people sometimes delay reporting sexual abuse
+
+“because they fear that the loss of . . . financial resource[s] would
+
+occur.” Specifically for “a child that’s been raised by [a] grandparent
+
+. . . everything is supplied to them by their parent or grandparent,
+
+so depending on their ages, they don’t see that there’s an outlet.
+
+They don’t see that there’s an opportunity to go anywhere else
+
+because that’s all they know.” After Lieutenant Scott testified, the
+
+trial court reiterated that its ruling was based on Virger, and counsel
+
+maintained her objection.
+
+     In its order denying the motion for new trial, the trial court
+
+found that Jennings called Lieutenant Scott as an expert and that
+
+she failed to provide the State with a summary of his opinion at least
+
+
+
+                                  27
+ five days prior to trial in accordance with OCGA § 17-16-4. The trial
+
+court concluded that Jennings failed to comply with OCGA § 17-16-
+
+4, a different basis entirely from its ruling at trial, and that
+
+Lieutenant Scott’s testimony was properly excluded. The trial court
+
+also concluded that trial counsel preserved any objection relating to
+
+the exclusion of Lieutenant Scott’s testimony.9
+
+     (i) Jennings contends that her trial counsel performed
+
+deficiently by failing to preserve her objection to the exclusion of
+
+Lieutenant Scott’s testimony, but as shown above, Jennings
+
+preserved her objection. Thus, we conclude that counsel did not
+
+perform deficiently. See Salvesen, 317 Ga. at 321 (4).
+
+     (ii) Pretermitting whether Jennings’s trial counsel performed
+
+deficiently by failing to comply with OCGA § 17-16-4 by providing
+
+notice of her expert, we conclude that Jennings has failed to
+
+establish prejudice. To establish prejudice, Jennings must show that
+
+there is “a reasonable probability that the expert’s testimony would
+
+
+     9 In its order, the trial court “[f]ound that . . . trial counsel did preserve
+
+all of the foregoing errors,” but did not make any specific findings regarding
+the exclusion of Lieutenant Scott’s testimony.
+
+                                       28
+ have made a difference [at] trial.” See Parker v. State, 
+305 Ga. 136
+,
+
+141 (4) (a) (
+823 SE2d 313
+) (2019).
+
+     Jennings argues Lieutenant Scott’s testimony was admissible
+
+because it “would have been offered to explain why . . . Jennings
+
+might have delayed [the] reporting [of] sexual abuse [by Perrin],
+
+which went to her credibility on the stand.” But even assuming that
+
+Lieutenant Scott’s testimony was admissible on this point (and that
+
+the jury believed that Jennings delayed reporting Perrin’s sexual
+
+abuse), Lieutenant Scott’s testimony would not have been helpful to
+
+Jennings since it provided her with a strong motive to want Perrin
+
+dead, i.e., Perrin had molested her. This sexual-abuse motive,
+
+although not the motive advanced by the State, was weaved
+
+throughout the evidence introduced at trial through Jennings’s
+
+testimony that Perrin “was touching on her,” Peterson’s testimony
+
+that Jennings told him that she had been molested, and White’s
+
+testimony that Jennings said she “hyped [Peterson] up about
+
+[Jennings] being molested as a child,” impliedly to get Peterson to
+
+shoot Perrin. Because Lieutenant Scott’s testimony would have
+
+
+                                 29
+ supported the theory that Jennings convinced Peterson to kill Perrin
+
+because he had molested her, Jennings cannot show that there is a
+
+reasonable probability that Lieutenant Scott’s testimony would
+
+have made a difference in the outcome of her trial. See Richardson-
+
+Bethea v. State, 
+301 Ga. 859
+, 865 (2) (
+804 SE2d 372
+) (2017)
+
+(explaining that the standard is “whether there is a reasonable
+
+probability that the result of the trial would have been different had
+
+trial counsel presented the proffered evidence,” not whether an
+
+expert’s proffered testimony “might conceivably have created some
+
+doubt in the mind of a juror”) (emphasis in original). Accordingly,
+
+this claim fails.
+
+     4. Finally, Jennings contends that the combined prejudicial
+
+effect of trial court errors and trial counsel’s deficiencies affected the
+
+outcome of the trial. See State v. Lane, 
+308 Ga. 10
+, 17 (1) (
+838 SE2d
+
+808
+) (2020). To establish cumulative prejudice that warrants a new
+
+trial, Jennings must show that “at least two errors were committed
+
+in the course of the trial; and considered together along with the
+
+entire record, the multiple errors so infected the jury’s deliberation
+
+
+                                   30
+ that they denied [the defendant] a fundamentally fair trial.” Talley
+
+v. State, 
+314 Ga. 153
+, 166 (4) (
+875 SE2d 789
+) (2022).
+
+     For the purposes of this analysis, we are assuming trial court
+
+error in Division 2 (admission of the Facebook records), and we have
+
+assumed the deficient performance of counsel in Divisions 3 (b)
+
+(failure to preserve a certain objection to the admission of the
+
+Facebook records) and 3 (c) (ii) (failure to provide notice of the
+
+domestic-violence expert). As discussed above, the evidence against
+
+Jennings was strong, and the admission of the Facebook records and
+
+the exclusion of the domestic-violence expert were unlikely to have
+
+affected the outcome of the trial because Street testified that he sent
+
+the Facebook messages to Jennings (and explained the messages’
+
+meaning) and the expert’s proffered testimony supported a motive
+
+for Jennings wanting to kill Perrin. We note that Perrin’s bank
+
+records also supported a motive for Jennings wanting Perrin dead,
+
+and this motive was unrelated to any sexual misconduct by Perrin.
+
+Accordingly, assuming we can combine the assumed evidentiary
+
+error with trial counsel’s assumed deficiencies, we conclude that the
+
+
+                                  31
+ combined prejudicial effect did not deprive Jennings of her right to
+
+a fundamentally fair trial. See Lofton v. State, 
+309 Ga. 349
+, 367 (7)
+
+(
+846 SE2d 57
+) (2020) (concluding that the “cumulative prejudicial
+
+effect of the actual and assumed evidentiary errors and counsel’s
+
+deficiencies is not sufficient to outweigh the strength of the properly
+
+admitted evidence of [the defendant’s] guilt”).
+
+     Judgment affirmed. All Justices concur.
+
+
+
+
+                                  32
+ 

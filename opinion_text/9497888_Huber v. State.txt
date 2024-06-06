@@ -1,0 +1,985 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                         S24A0170. HUBER v. THE STATE.
+
+
+        MCMILLIAN, Justice.
+
+        Appellant Andrew Thomas Huber was convicted of felony
+
+murder predicated on aggravated assault in relation to the shooting
+
+death of Daniel Raburn.1 On appeal, Huber argues that the evidence
+
+
+
+        1Raburn died on July 3, 2020. On May 28, 2021, a Laurens County
+grand jury indicted Huber, as a party to the crimes, for malice murder (Count
+1), felony murder predicated on aggravated assault (Count 2), and three counts
+of aggravated assault against Raburn (Counts 3-5). Huber’s accomplices
+Thomas Wayne Harper and Brandilee Nicole Woodard-Brady were separately
+indicted on the same charges. Prior to Huber’s trial, Harper was tried and
+convicted of voluntary manslaughter and aggravated assault, and Woodard-
+Brady entered a guilty plea to voluntary manslaughter. At a trial from October
+4 through 7, 2022, a jury found Huber not guilty of malice murder but guilty
+of all the remaining counts against him. The trial court sentenced Huber to
+life in prison without the possibility of parole for felony murder; the aggravated
+assault counts were merged for sentencing purposes.
+        Huber filed a timely motion for new trial on October 28, 2022, which was
+thrice amended by new counsel on May 8, May 31, and June 9, 2023. Following
+a hearing on May 30, 2023, the trial court denied Huber’s motion for new trial,
+as amended, on August 3, 2023. Huber filed a timely notice of appeal on
+August 24, 2023, and the case was docketed to the term of this Court beginning
+in December 2023 and thereafter submitted for a decision on the briefs.
+ was insufficient to support his felony murder conviction, his trial
+
+counsel rendered ineffective assistance on various grounds, and the
+
+trial court committed plain error in instructing the jury on simple
+
+assault and voluntary manslaughter. For the reasons that follow,
+
+we affirm.
+
+     Viewed in the light most favorable to the jury’s verdict, the
+
+evidence at trial showed that Huber had been friends with Brandilee
+
+Woodard-Brady for many years and was temporarily living with her
+
+and her fiancé, Raburn. Raburn and Woodard-Brady’s relationship
+
+was “rocky” and “toxic,” and she had previously gotten a temporary
+
+protective order against him but later had it rescinded. Thomas
+
+Harper was a mutual friend of Huber and Woodard-Brady, and
+
+Harper had also occasionally spent time with Raburn but “didn’t
+
+really know” him. On July 4, 2020, law enforcement officers arrived
+
+at Raburn and Woodard-Brady’s house for a welfare check, where
+
+officers found Raburn’s body lying in the yard with multiple
+
+lacerations and abrasions and a gunshot wound to the head. Police
+
+contacted Woodard-Brady that same day and questioned her at the
+
+                                2
+ police station.
+
+     At the interview, Woodard-Brady told police that she “didn’t
+
+know what had happened.” Detectives later questioned Woodard-
+
+Brady again at her sister’s house, and at that point, she admitted
+
+that she knew Huber and Harper had beat up Raburn but said “they
+
+wasn’t supposed to kill him.” After Woodard-Brady was arrested,
+
+she asked to speak to a detective again, and at that point, she
+
+admitted that she had asked Huber and Harper over to the house to
+
+“beat [Raburn’s] a**.” When police arrested Harper, they found a
+
+gun at his residence, and Harper admitted at trial that he shot
+
+Raburn with it. And when police arrested Huber and processed his
+
+car, they found bloody clothes behind a speaker, and he admitted
+
+that the bloody clothes were the clothes he was wearing when
+
+Raburn was shot. DNA analysis revealed that the blood on Huber’s
+
+clothes belonged to Raburn.
+
+     At trial, Woodard-Brady testified that on July 3, 2020, she and
+
+Raburn got into a verbal altercation at their home and he pushed
+
+her, so she texted Huber, “[b]eat his a**,” after which, Huber and
+
+                                 3
+ Harper came to the house.       According to Woodard-Brady, she
+
+remained in the house, but she saw Huber and Harper pull up,
+
+heard “noises,” and “figured that [Huber and Harper] were beating
+
+[Raburn] up.” She also stated that though she called Huber and
+
+Harper over to beat up Raburn, she “wasn’t expecting them to go to
+
+that extreme.” She testified that after the beating, she went outside
+
+long enough to see Raburn laying on the ground and that “I thought
+
+he had just – that he was either knocked out or passed out, I did not
+
+know that he had been shot and killed.” She testified that after
+
+Huber and Harper left, she also left and went to a friend’s house to
+
+stay the night and that she never checked on Raburn or called 911.
+
+According to her friend, when Woodard-Brady arrived, Woodard-
+
+Brady immediately began drinking tequila from the bottle and
+
+asked her friend to punch her in the face so that she had an alibi.
+
+Woodard-Brady also admitted on direct examination that she had
+
+pleaded guilty to voluntary manslaughter in relation to Raburn’s
+
+death. On cross-examination, Huber’s counsel elicited testimony
+
+from Woodard-Brady that she regularly abused alcohol and drugs,
+
+                                 4
+ and that her “story changed each time” she talked to the police.
+
+     Harper testified that Woodard-Brady never contacted him to
+
+come over and beat up Raburn. According to Harper, when he and
+
+Huber arrived at Raburn and Woodard-Brady’s house, Raburn was
+
+holding a wrench and Huber got out of the car and “exchanged
+
+words” with Raburn before Raburn told Huber to “get that n****r
+
+out of his yard,” which angered Harper, who exited the car. Raburn
+
+then dropped the wrench and “got into an altercation” with Huber,
+
+and the two men fought on the ground before Raburn got up,
+
+“rushed” Harper, and tackled him, causing Harper’s gun to fall out
+
+of his pocket. Harper said that he and Raburn then fought with each
+
+other and “tussled over the gun” before Harper gained control of it
+
+and shot Raburn as Raburn continued to hurl racial slurs at Harper;
+
+Huber then drove Harper away.        Harper further testified that
+
+although Harper shot Raburn, Harper did not cause any other
+
+“lacerations” or “indentations” on Raburn’s head, so Huber must
+
+have caused those injuries.
+
+     Huber also testified at trial. According to Huber, on July 3,
+
+                                 5
+ Woodard-Brady texted him that Raburn was “acting unusual,” so he
+
+told her he would come by and “check on them.” Huber drove Harper
+
+to the house, and they went inside to speak with Woodard-Brady
+
+before Huber walked back outside to talk to Raburn; Huber
+
+described Raburn as “fine.” So, Huber went back inside, where he
+
+saw Woodard-Brady and Harper kissing. Huber and Harper then
+
+left, but later that day, Woodard-Brady called Huber, crying,
+
+causing Huber to drive back to the house with Harper.
+
+     According to Huber, when he and Harper arrived back at the
+
+house, Raburn was sitting in his car drinking a beer, and after he
+
+saw them pull up, he got out of his car while holding a tire iron and
+
+at one point, yelled, “[g]et that n****r out of my yard.” Huber and
+
+Harper got out of Huber’s car, and a verbal altercation began
+
+between Harper and Raburn. Harper asked Raburn why he would
+
+need the tire iron, and Raburn said he didn’t and threw it down.
+
+Huber testified that after he noticed Raburn and Harper were
+
+“getting more heated,” Huber approached Raburn, and Huber and
+
+Raburn began “tussl[ing]” and “rolled around in the grass,” as
+
+                                 6
+ Raburn was “trying to put [Huber] in a headlock.” Huber said that
+
+he and Raburn “broke apart,” Raburn “calmed down a little bit,” and
+
+Huber began to walk away, but as he walked toward his car, Huber
+
+heard a “clink” and “froze” because he thought it might be somebody
+
+getting hit with a bottle and it scared him. Huber testified that
+
+“[a]fter that, out of my peripheral, I could see that Raburn stumbled
+
+for, like, a second and then he turned around and rushed Harper”
+
+and “got Harper on his back.”         According to Huber, “they were
+
+struggling over something in their hands,” and Harper yelled “get
+
+him off of me, get him off of me,” so Huber grabbed Raburn and
+
+pulled him off Harper. Huber testified that he then walked back to
+
+his car, and that was when he heard a gunshot.2 Harper then ran
+
+toward the car and told Huber to “get the F in the car,” so they both
+
+got in, and Huber drove them away. As Huber drove them away,
+
+Harper said “lights out” and told him “the same thing could happen
+
+to [Huber].”   Huber dropped Harper off and did not go back to
+
+Raburn and Woodard-Brady’s house. Neither Huber, Harper, nor
+
+
+     2 Huber testified that Harper “always toted a gun.”
+
+                                     7
+ Woodard-Brady called 911 for help or to report the incident.
+
+     A neighbor who was in her home at the time of the incident
+
+testified that she heard voices arguing, including a man yelling
+
+“b***h, did you call me a n****r,” followed by a loud noise, then a
+
+woman screaming, and finally a car driving away.
+
+     1.   Huber contends that the evidence presented at trial was
+
+insufficient to support his conviction for felony murder predicated
+
+on aggravated assault. We disagree.
+
+      When this Court evaluates the constitutional sufficiency of the
+
+evidence, “we review whether the evidence presented at trial, when
+
+viewed in the light most favorable to the jury’s verdicts, enabled the
+
+jury to find the defendant guilty beyond a reasonable doubt of the
+
+crimes of which [he] was convicted.” Fitts v. State, 
+312 Ga. 134
+, 141
+
+(3) (
+859 SE2d 79
+) (2021) (citing Jackson v. Virginia, 
+443 U.S. 307
+,
+
+319 (III) (B) (99 SCt 2781, 61 LE2d 560) (1979)). “This limited
+
+review leaves to the jury the resolution of conflicts in the evidence,
+
+the weight of the evidence, the credibility of witnesses, and
+
+reasonable inferences to be made from basic facts to ultimate facts.”
+
+                                  8
+ Muse v. State, 
+316 Ga. 639
+, 647 (2) (
+889 SE2d 885
+) (2023) (citation
+
+and punctuation omitted).
+
+     “A person commits the offense of murder when, in the
+
+commission of a felony, he or she causes the death of another human
+
+being irrespective of malice.” OCGA § 16-5-1 (c). “Felony murder
+
+requires only that the defendant possessed the requisite criminal
+
+intent to commit the underlying felony — in this case, aggravated
+
+assault, which also does not require intent to kill.” Mathews v. State,
+
+314 Ga. 360
+, 365 (1) (
+877 SE2d 188
+) (2022) (citation and punctuation
+
+omitted). Under the relevant part of Georgia’s aggravated assault
+
+statute, “[a] person commits the offense of aggravated assault when
+
+he or she assaults: . . . [w]ith a deadly weapon or with any object,
+
+device, or instrument which, when used offensively against a person,
+
+is likely to or actually does result in serious bodily injury.” OCGA §
+
+16-5-21 (a) (2).
+
+       OCGA § 16-2-20 (a) provides that “[e]very person concerned
+
+in the commission of a crime is a party thereto and may be charged
+
+with and convicted of commission of the crime.”          To obtain a
+
+                                  9
+ conviction of a person as a party to the crime, the State must prove
+
+“that he intentionally aided or abetted in the commission of the
+
+crimes or intentionally advised, encouraged, counseled, or procured
+
+someone else to commit the crimes.” Frazier v. State, 
+308 Ga. 450
+,
+
+453 (2) (a) (
+841 SE2d 692
+) (2020). “Conviction as a party to a crime
+
+requires proof of a common criminal intent, which the jury may infer
+
+from the defendant’s presence, companionship, and conduct with
+
+another perpetrator before, during, and after the crimes.” Rooks v.
+
+State, 
+317 Ga. 743
+, 751 (2) (
+893 SE2d 899
+) (2023) (citation and
+
+punctuation omitted).
+
+     Thus, to prove Huber guilty of the charge of felony murder
+
+predicated on aggravated assault, it was not necessary for the State
+
+to prove that he personally hit, kicked, or shot Raburn so long as the
+
+State proved that Huber was a party to the crimes. See Scoggins v.
+
+State, 
+317 Ga. 832
+, 836-39 (1) (a)-(b) (
+896 SE2d 476
+) (2023) (even
+
+where evidence did not conclusively establish which of two
+
+defendants shot victim or had a weapon, evidence of a common
+
+criminal intent, including defendant’s presence, companionship, and
+
+                                 10
+ conduct before and after the fatal shooting supported conviction as
+
+a party to the crime of murder).
+
+     Here, the evidence showed that Woodard-Brady texted Huber
+
+to come “beat [Raburn’s] a**” and that Huber then came to the
+
+house.   Huber also admitted at trial that Woodard-Brady had
+
+requested Huber to come over and that she was crying, that Huber
+
+drove Harper (whom Huber knew to always carry a gun) to the
+
+house, and that Huber and Harper both engaged in a physical fight
+
+with Raburn once they arrived. Moreover, Huber admitted that he
+
+aided Harper during Harper’s fight with Raburn. And after Harper
+
+shot and killed Raburn, Huber drove Harper away and never called
+
+911. Huber’s clothes were also covered with Raburn’s blood despite
+
+Huber’s claim that he was not near Raburn when Harper shot him.
+
+Thus, the evidence supported Huber’s presence and active
+
+participation before, during, and after the crimes.
+
+     We conclude that this evidence, when viewed in the light most
+
+favorable to the jury’s verdict, was sufficient as a matter of
+
+constitutional due process to support Huber’s conviction for felony
+
+                                   11
+ murder predicated on aggravated assault, at least as a party to the
+
+crimes. See, e.g., Harris v. State, 
+312 Ga. 602
+, 604-05 (2) (
+864 SE2d
+
+31
+) (2021) (“even if someone else fired the fatal shot, it is clear that
+
+[a]ppellant and that individual joined in the attack on the victim,”
+
+and the jury was authorized to conclude that appellant was at least
+
+a party to the crime of felony murder predicated on aggravated
+
+assault (citation and punctuation omitted)); Griffin v. State, 
+292 Ga.
+
+321
+, 322 (1) (
+737 SE2d 682
+) (2013) (“Although [appellant] argues his
+
+admission that he hit [victim] was insufficient to convict him of
+
+felony murder based on an aggravated assault, there was evidence
+
+from which the jury was authorized to determine that he either
+
+directly participated in or was a party to a crime of aggravated
+
+assault which caused the death of another.”); Ellis v. State, 
+292 Ga.
+
+276
+, 279 (1) (
+736 SE2d 412
+) (2013) (evidence was sufficient to
+
+support appellant’s conviction as a party to the crime of felony
+
+murder predicated on aggravated assault where “[e]ven if
+
+[appellant] did not have the specific intent that [victim] be killed,
+
+the crimes which he did intend were dangerous ones; by their
+
+                                  12
+ attendant circumstances, they created a foreseeable risk of death.”
+
+(citation and punctuation omitted)). Accordingly, this enumeration
+
+of error fails.
+
+      2.    Huber also contends that his trial counsel rendered
+
+ineffective assistance (a) by failing to request an instruction that in
+
+assessing witness credibility, the jury was authorized to consider
+
+negotiated pleas, leniency, or similar matters, or to request an
+
+instruction on impeachment concerning a witness’s bias or motive;
+
+and (b) by failing, on his cross-examination of Woodard-Brady, to
+
+adduce evidence about the sentence she received in exchange for her
+
+guilty plea to voluntary manslaughter, the maximum sentence she
+
+avoided, and the dismissal of the other counts against her. These
+
+claims fail.
+
+      To succeed on a claim of ineffective assistance of counsel,
+
+Huber must show both that his counsel’s performance was deficient
+
+and that such deficiency prejudiced his defense. See Strickland v.
+
+Washington, 
+466 U.S. 668
+, 687 (III) (104 SCt 2052, 80 LE2d 674)
+
+(1984). To satisfy the deficiency prong, Huber must demonstrate
+
+                                  13
+ that his counsel “performed at trial in an objectively unreasonable
+
+way considering all the circumstances and in the light of prevailing
+
+professional norms.” Bacon v. State, 
+316 Ga. 234
+, 239 (3) (
+887 SE2d
+
+263
+) (2023) (citation and punctuation omitted). In doing so, Huber
+
+must overcome “[a] strong presumption . . . that trial counsel’s
+
+performance was reasonable and that counsel’s decisions and
+
+choices at trial fell within the broad range of professional conduct as
+
+assessed from counsel’s perspective at the time of trial and under
+
+the specific circumstances of the case.” 
+Id.
+ (citation and punctuation
+
+omitted). To establish prejudice, Huber “must prove that there is a
+
+reasonable probability that, but for his trial counsel’s deficiency, the
+
+result of the trial would have been different.” Bates v. State, 
+313 Ga.
+
+57
+, 62 (2) (
+867 SE2d 140
+) (2022). And if Huber fails to make a
+
+sufficient showing on either the deficiency or the prejudice prong,
+
+we need not address the other prong. See Washington v. State, 
+313
+
+Ga. 771
+, 773 (3) (
+873 SE2d 132
+) (2022).
+
+     (a)   Failure to Request Jury Instructions. Huber argues that
+
+his trial counsel rendered ineffective assistance by failing to request
+
+                                  14
+ the pattern jury instruction: “In assessing the credibility of a
+
+witness, you may consider any possible motive in testifying, if
+
+shown. In that regard, you are authorized to consider any possible
+
+pending prosecutions, negotiations pleas, grants of immunity or
+
+lenience, or similar matters.”      Georgia Suggested Pattern Jury
+
+Instructions, Vol. II: Criminal Cases § 1.31.80. Separately, Huber
+
+argues that his trial counsel rendered ineffective assistance by
+
+failing to request a jury charge on impeachment concerning a
+
+witness’s bias or motive.
+
+        But the trial court gave the suggested pattern jury instructions
+
+on credibility of witnesses; witness, attacked; witness, impeached;
+
+prior     statements;   single   witness;   accomplice   corroboration;
+
+presumption of innocence; the State’s burden of proof; mere
+
+presence; and grave suspicion—including that in deciding witness
+
+credibility, “you may consider all of the facts and circumstances of
+
+the case, including the witnesses’ manner of testifying, their means
+
+and opportunity of knowing the facts about which they testify, the
+
+nature of the facts about which they testify, the probability or
+
+                                    15
+ improbability of a testimony, their interest or lack of interest in the
+
+outcome of the case, and their personal creditability [sic] as you
+
+observe it.”    See Suggested Pattern Jury Instruction, Vol. II:
+
+Criminal Cases § 1.31.10.        Because we have held that these
+
+instructions adequately covered the concept set out in Pattern
+
+Instruction § 1.31.80, the failure to request that charge is not
+
+deficient. See Perkins v. State, 
+313 Ga. 885
+, 902 (5) (a) (
+873 SE2d
+
+185
+) (2022) (“[T]he trial court adequately covered [Pattern
+
+Instruction § 1.31.80] in the instructions it gave the jury on witness
+
+credibility and impeachment.”). Similarly, we have held that the
+
+instructions given by the trial court sufficiently covered the concept
+
+of impeachment by showing bias or motive. See Lee v. State, 
+281 Ga.
+
+776
+, 777-78 (3) (
+642 SE2d 835
+) (2007) (trial court’s instruction that
+
+the jury is “the arbiter of each witness’s credibility and that it should
+
+give consideration to each witness’s interest or lack thereof in the
+
+outcome of the case . . . adequately covered the possible motive,
+
+interest, or bias of the State’s witnesses,” and therefore “trial
+
+counsel did not render ineffective assistance by failing to request
+
+                                   16
+ additional instruction”).
+
+     Huber argues on appeal that Lee and its progeny should be
+
+overruled.     But this argument does not support his ineffective
+
+assistance claim since “there is no general duty on the part of
+
+defense counsel to anticipate changes in the law.” Williams v.
+
+Rudolph, 
+298 Ga. 86
+, 89 (
+777 SE2d 472
+) (2015) (citation and
+
+punctuation omitted). Accordingly, Huber has not shown that his
+
+counsel was deficient in this respect, and this claim fails.
+
+     (b)     Cross-Examination    of    Woodard-Brady.         Huber
+
+acknowledges that the jury heard evidence that Woodard-Brady
+
+pleaded guilty to voluntary manslaughter but argues that his trial
+
+counsel rendered ineffective assistance by failing, on his cross-
+
+examination of Woodard-Brady, to adduce evidence about the
+
+sentence she received in exchange for her guilty plea, the maximum
+
+sentence she avoided for murder and three counts of aggravated
+
+assault, and the dismissal of those counts, which Huber contends
+
+was relevant to Woodard-Brady’s bias and motive to testify against
+
+Huber.
+
+                                  17
+      Pretermitting whether counsel was deficient in failing to elicit
+
+the penalties that Woodard-Brady faced before pleading guilty, we
+
+conclude that Huber has not met his burden of demonstrating that
+
+he was prejudiced by the alleged deficiency. The evidence against
+
+Huber was strong. Huber admitted at trial that he went over to
+
+Woodard-Brady’s house on the day of the murder, that Huber and
+
+Harper together fought Raburn, that Harper asked Huber to help
+
+him pull Raburn off him during the fight, and that subsequently
+
+Harper shot Raburn. Even though Huber claimed to have walked
+
+away and been by his car at the time of the shooting, Raburn’s blood
+
+was found on Huber’s clothes. In contrast, although Woodard-Brady
+
+claimed that she asked Huber to come over to beat Raburn, she also
+
+testified that she did not witness the fight or the shooting.
+
+     Also,   counsel   attempted       to   impeach   Woodard-Brady’s
+
+credibility. As recognized by the trial court, the jury heard that
+
+Woodard-Brady pleaded guilty to voluntary manslaughter in
+
+connection with her role in the shooting. Moreover, Woodard-Brady
+
+acknowledged on direct examination that she “lied by omission,” and
+
+                                  18
+ Huber’s trial counsel further cross-examined her on that point by
+
+having her admit on the stand that her “story changed each time”
+
+she talked to the police.     Given the foregoing, Huber has not
+
+established a reasonable probability that but for counsel’s failure to
+
+further impeach Woodard-Brady by eliciting information about the
+
+penalties that Woodard-Brady avoided by pleading guilty, the result
+
+of his trial would have been different. See, e.g., Benton v. Hines, 
+306
+
+Ga. 722
+, 725 (2) (
+832 SE2d 801
+) (2019) (counsel’s failure to elicit
+
+evidence of witness’s maximum possible sentence did not prejudice
+
+defendant where jury heard other details of witness’s plea deal, and
+
+witness’s testimony was corroborated by other evidence, including
+
+defendant’s own incriminating statement); McCoy v. State, 
+303 Ga.
+
+141
+, 143 (2) (
+810 SE2d 487
+) (2018) (“In light of the strong evidence
+
+of guilt, there is no reasonable probability that the outcome of the
+
+trial would have been different had trial counsel utilized alternative
+
+impeachment evidence.”). This claim therefore fails.
+
+     3.   Conceding that his trial counsel did not object to the trial
+
+court’s jury instructions on simple assault (as an element of
+
+                                  19
+ aggravated assault) and voluntary manslaughter, Huber contends
+
+that the trial court plainly erred in its instructions to the jury on
+
+these legal principles. See OCGA § 17-8-58 (b) (“Failure to object in
+
+accordance with subsection (a) of this Code section shall preclude
+
+appellate review of such portion of the jury charge, unless such
+
+portion of the jury charge constitutes plain error which affects
+
+substantial rights of the parties. Such plain error may be considered
+
+on appeal even if it was not brought to the court’s attention as
+
+provided in subsection (a) of this Code section.”). Huber’s claims fail.
+
+     To show plain error, Huber “must demonstrate that the
+
+instructional error was not affirmatively waived, was obvious
+
+beyond reasonable dispute, likely affected the outcome of the
+
+proceedings, and seriously affected the fairness, integrity, or public
+
+reputation of judicial proceedings. Satisfying all four prongs of this
+
+standard is difficult, as it should be.” Rice v. State, 
+311 Ga. 620
+, 623
+
+(1) (
+857 SE2d 230
+) (2021) (citation and punctuation omitted). And
+
+this Court does not have to analyze all elements of the plain-error
+
+test where an appellant fails to establish any one of them. See Lewis
+
+                                  20
+ v. State, 
+311 Ga. 650
+, 665 (4) (
+859 SE2d 1
+) (2021).
+
+     (a)   Simple assault. As part of its instruction on aggravated
+
+assault, the trial court instructed the jury on simple assault, stating:
+
+“To prove assault, the State does not have to prove that the other
+
+person was actually injured. However, the State must prove that
+
+the defendant attempted to cause a violent injury to the person
+
+and/or committed an act that placed the person in reasonable
+
+apprehension or fear of immediately receiving a violent injury.”
+
+Although not entirely clear, Huber seems to argue that based on the
+
+allegations of the indictment, the trial court should have only
+
+instructed the jury on simple assault under OCGA § 16-5-20 (a) (1),
+
+which provides that a person commits the offense of simple assault
+
+when he “[a]ttempts to commit a violent injury to the person of
+
+another,” such that the trial court’s additional charge defining an
+
+assault as an action that places “the person in reasonable
+
+apprehension or fear of immediately receiving a violent injury”
+
+misstated the law.
+
+      However, Huber was charged with aggravated assault by
+
+                                  21
+ attempting to commit a violent injury in Counts 3 and 4 and with
+
+aggravated assault by committing an act which places another in
+
+reasonable apprehension of receiving a violent injury in Count 5,3
+
+so the trial court properly gave the suggested pattern jury
+
+instructions concerning assault based on the allegations and
+
+evidence presented in the case. See OCGA § 16-5-20 (a) (“A person
+
+commits the offense of simple assault when he or she either: (1)
+
+Attempts to commit a violent injury to the person of another; or (2)
+
+Commits an act which places another in reasonable apprehension of
+
+immediately receiving a violent injury.”); Georgia Suggested Pattern
+
+Jury Instruction, Vol. II: Criminal Cases § 2.20.21 (“For aggravated
+
+assault, the State must prove that the Defendant: 1. assaulted
+
+
+     3 Regarding the aggravated assault counts of Huber’s indictment, Count
+
+3 charged him with “mak[ing] an assault upon the person of Daniel Hugh
+Raburn with a firearm, a deadly weapon in the manner used, by intentionally
+shooting said victim in an attempt to commit a violent injury upon said
+person”; Count 4 charged Huber with “mak[ing] an assault upon the person of
+Daniel Hugh Raburn with the hands and feet of said accused, deadly weapons
+in the manner used, by intentionally striking said victim in an attempt to
+commit a violent injury upon said person”; and Count 5 charged Huber with
+“mak[ing] an assault upon the person of Daniel Hugh Raburn with the hands
+and feet of said accused, deadly weapons in the manner used, by placing the
+said victim in reasonable apprehension of receiving a violent injury by
+intentionally striking said victim.”
+                                    22
+ another person 2. (with a deadly weapon) (with an offensive
+
+weapon). To prove assault, the State does not have to prove that the
+
+other person was actually injured. However, the State must prove
+
+that the Defendant (attempted to cause a violent injury to the
+
+person) (committed an act that placed the person in reasonable
+
+apprehension or fear of immediately receiving a violent injury).”).
+
+There was no error, plain or otherwise, and Huber’s argument fails.
+
+     (b)   Voluntary manslaughter.       Huber argues that the jury
+
+charge on voluntary manslaughter was plain error because by
+
+referring only to “the defendant,” the trial court failed to also
+
+instruct the jury that Harper could have been provoked by Raburn’s
+
+words to a sudden, violent, and irresistible passion and if Harper
+
+was so provoked, Huber would have been also because Huber had
+
+been charged as a party to the crimes.
+
+     However, not only did the trial court instruct the jury on
+
+voluntary manslaughter at Huber’s request, it gave the charge
+
+requested by Huber—which was the suggested pattern jury
+
+instruction and which referred to “the defendant,” rather than
+
+                                23
+ “Harper”—verbatim.         See Georgia Suggested Pattern Jury
+
+Instruction, Vol. II: Criminal Cases §§ 2.10.40-42. And when an
+
+appellant has invited an alleged error, it constitutes an affirmative
+
+waiver under plain-error review, thus providing no basis for
+
+reversal. Shank v. State, 
+290 Ga. 844
+, 845 (2) (
+725 SE2d 246
+) (2012);
+
+see also Vasquez v. State, 
+306 Ga. 216
+, 229 (2) (c) (
+830 SE2d 143
+)
+
+(2019) (“An affirmative waiver may occur, for example, when a
+
+defendant . . . explicitly requests a jury instruction that he later
+
+argues on appeal should not have been given.”); Shaw v. State, 
+292
+
+Ga. 871
+, 873 (2) n.3 (
+742 SE2d 707
+) (2013) (under plain error review,
+
+“reversal is not warranted if the error was invited by the appellant”).
+
+Huber’s claim therefore fails at the first prong of the plain error test.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                   24
+ 

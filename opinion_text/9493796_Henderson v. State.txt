@@ -1,0 +1,766 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+                                                    Decided: April 16, 2024
+
+
+                    S24A0092. HENDERSON v. THE STATE.
+
+
+        ELLINGTON, Justice.
+
+        A DeKalb County jury found Gavin Henderson (“Henderson”)
+
+guilty of malice murder, cruelty to children in the first degree, and
+
+possession of a knife during the commission of a felony in connection
+
+with the fatal stabbing of his sister, Kiara Henderson. 1 Henderson
+
+contends the trial court erred in admitting prior-acts evidence,
+
+
+        1On September 11, 2018, a DeKalb County grand jury indicted
+Henderson for malice murder (Count 1); felony murder (Counts 2-3);
+aggravated assault (Count 4); cruelty to children in the first degree (Counts 5
+and 7); and possession of a knife during the commission of a felony (Count 6).
+Following a jury trial that ended on July 9, 2021, the jury found Henderson
+guilty on all counts. On that same date, the court sentenced Henderson to life
+in prison without the possibility of parole for malice murder; 20 years in prison
+for cruelty to children in the first degree (consecutive to Count 1); five years in
+prison for possession of a knife during the commission of a felony (consecutive
+to Count 5); and 20 years in prison for cruelty to children in the first degree
+(consecutive to Count 6). The felony murder counts were vacated by operation
+of law, and the aggravated assault count merged with the malice murder count.
+Henderson filed a motion for a new trial on August 3, 2021, and new counsel
+amended it on June 1, 2023. Following a hearing held on June 21, 2023, the
+trial court denied the motion for a new trial on July 10, 2023. Henderson filed
+a notice of appeal on July 12, 2023. The case was docketed in this Court to the
+term beginning in December 2023 and submitted for a decision on the briefs.
+ failing to charge the jury on the law of voluntary manslaughter, and
+
+committing cumulative errors that require reversal. Because
+
+Henderson’s claims of error are without merit, we affirm the trial
+
+court’s order denying Henderson’s motion for a new trial.
+
+     The evidence adduced at trial shows the following. In June
+
+2018, 27-year-old Henderson lived in the Lacota Apartments in
+
+DeKalb County with his mother, Trayshelle Henderson, and his
+
+three siblings, 21-year-old Ceaira Henderson, 15-year-old Kiara,
+
+and 11-year-old Z. G. On June 18, Trayshelle and Ceaira left for
+
+work, leaving Kiara and Z. G. at home with Henderson. That
+
+afternoon, Henderson went to use the only bathroom in the
+
+apartment, but Kiara was in it. When Kiara did not leave the
+
+bathroom immediately, the siblings argued. Z. G., who was in a
+
+nearby bedroom, heard the argument.
+
+     As Henderson tried to force the bathroom door open, he wedged
+
+a clipboard (to which his cell phone was attached) between the door
+
+and the door frame. Kiara pushed the door closed, which knocked
+
+Henderson’s cell phone to the floor, damaging it. When Kiara left
+
+                                 2
+ the bathroom, the argument with Henderson escalated. Henderson
+
+told the police that, at some point during the argument, he went to
+
+his bedroom to retrieve a knife. Z. G. heard the argument and heard
+
+Kiara threaten to call their mother; Kiara called her sister, Ceaira,
+
+instead and told her that Henderson had hit her. Z. G. then heard
+
+Kiara scream, so she left her room to see what was happening. Z. G.
+
+followed the sound of screaming to the apartment’s front door.
+
+     When Z. G. peered outside to the apartment’s breezeway, she
+
+saw Henderson striking Kiara in the abdomen with a “black metal
+
+thing.” Z. G. yelled for her brother to stop, then she called the police
+
+and her mother. Neighbors also called the police. The neighbors
+
+reported hearing screaming in the breezeway and Kiara knocking
+
+on their doors for help. When officers responded to the apartment
+
+complex, they found Kiara lying on the breezeway floor. Her body
+
+was covered in stab wounds, and she was surrounded by large pools
+
+of blood.
+
+     Officers also received a 911 call from the manager of a
+
+convenience store located about a half mile from the apartment
+
+                                   3
+ complex. The store manager said that Henderson, who had walked
+
+into his store covered in blood and holding a bloody knife, told the
+
+manager to call the police because he had just “killed someone.”
+
+After the manager called the police, Henderson put the knife on the
+
+store’s front counter and began wandering around inside the store.
+
+When Henderson heard the sirens of the approaching police cars, he
+
+walked out of the store with his hands raised, surrendering.
+
+     As he was taken into custody, Henderson told the police to “just
+
+take him straight to county” and that if anyone in jail tried to “mess[]
+
+with him there, he would kill them, too.” Officers retrieved the
+
+bloody knife – an all-black Bowie hunting knife with a 10-inch-long
+
+blade – from the store. Officers took Henderson to the precinct,
+
+where he later waived his Miranda rights and agreed to be
+
+interviewed. When the interviewing detective informed Henderson
+
+that his sister did not survive, he responded: “Thank God.”
+
+Henderson went on to tell the detective that he had “blacked out”
+
+and was “in a trance” during the stabbing; however, he recounted in
+
+detail events leading up to and following the stabbing. He said that
+
+                                   4
+ Kiara threw a glass bottle at him during their argument and that
+
+when Z. G. called his name, he came out of his trance. Photographs
+
+of the scene admitted at trial showed an unbroken bottle on the floor.
+
+     The medical examiner documented 47 major stab wounds
+
+covering Kiara’s entire body, including two to her face and several
+
+on her back. The medical examiner testified that the wound pattern
+
+indicated that Kiara was stabbed with rapid, repetitive motions. The
+
+shape of some of the wounds also indicated that the blade had been
+
+twisted while inside Kiara’s body, either from her movements or her
+
+assailant’s. The medical examiner also observed extensive defensive
+
+wounds to Kiara’s hands and legs. The cause of death was
+
+determined to be multiple stab wounds to the face, torso, and
+
+extremities. The manner of death was homicide.
+
+     The State also presented evidence through the testimony of
+
+Ceaira and her mother that Henderson had violently attacked
+
+Ceaira a few months prior to the attack against Kiara. Ceaira
+
+testified that, after she had apparently offended Henderson by
+
+ignoring him, he argued with her, punched her, threw her to the
+
+                                  5
+ floor, and then left the room briefly. When he returned, he was
+
+holding a black hunting knife. Ceaira went to her bedroom and tried
+
+to call her mother, but Henderson followed her, took her phone, and
+
+put the knife to her face. Henderson then told Ceaira to “call the
+
+police, he was ready to go.” When Ceaira started crying, Henderson
+
+left the apartment.
+
+     Trayshelle returned to the apartment when Ceaira called her
+
+and told her that Henderson had attacked her. When Trayshelle
+
+learned what had happened, she called Henderson back to the
+
+apartment and told him that Ceaira could press charges against
+
+him. Henderson, who was holding the knife he had used to threaten
+
+Ceaira, started “raging.” Trayshelle took the knife from him and told
+
+him he could not be in the house with a weapon. She hid his knife,
+
+as well as the kitchen knives, in her bedroom closet.
+
+     1. Henderson contends that the trial court erred by admitting
+
+evidence of the previous “unrelated altercation” between Henderson
+
+and his sister Ceaira pursuant to OCGA § 24-4-404 (b) (“Rule 404
+
+(b)”). Because evidence that Henderson had assaulted Ceaira with a
+
+                                 6
+ knife following a petty argument two months prior to the charged
+
+offense was admissible for purposes of proving Henderson’s intent,
+
+the trial court did not abuse its discretion in admitting it. 2
+
+      “We review the trial court’s decision to admit evidence
+
+pursuant to Rule 404 (b) for a clear abuse of discretion.” Hood v.
+
+State, 
+309 Ga. 493
+, 499 (2) (
+847 SE2d 172
+) (2020). “Rule 404 (b) is a
+
+rule of inclusion, but it does prohibit the introduction of other acts
+
+evidence when it is offered for the sole purpose of showing a
+
+defendant’s bad character or propensity to commit a crime.” Booth
+
+v. State, 
+301 Ga. 678
+, 682 (3) (
+804 SE2d 104
+) (2017). Therefore, “[i]t
+
+is well established that other acts evidence is not admissible ‘to
+
+prove the character of a person in order to show action in conformity
+
+
+
+      2 Henderson also contends that the trial court abused its discretion in
+
+allowing the prior act evidence to be admitted for the purposes of showing
+absence of mistake or accident. However, before Trayshelle and Ceaira
+testified, the trial court noted that it had not heard anything during the
+pretrial motion-in-limine hearing demonstrating how the proffered evidence
+was relevant for the purposes of showing absence of mistake or accident;
+consequently, it ruled that the evidence would be admitted only for the purpose
+of showing Henderson’s intent. The court gave the jury limiting instructions
+consistent with this ruling prior to both Trayshelle’s and Ceaira’s testimony.
+Thus, Henderson’s arguments on this point are not supported by the record
+and are without merit.
+                                      7
+ therewith,’” but “such evidence is admissible for other purposes,
+
+including ‘proof of motive, opportunity, intent, preparation, plan,
+
+knowledge, identity, or absence of mistake or accident.’” Hood, 309
+
+Ga. at 499 (2) (quoting Rule 404 (b)).
+
+      A party offering evidence pursuant to Rule 404 (b) must
+      demonstrate three things: (1) that the evidence is
+      relevant to an issue in the case other than the defendant’s
+      character; (2) that the evidence’s probative value is not
+      substantially outweighed by its undue prejudice; and (3)
+      that sufficient proof exists for a jury to find by a
+      preponderance of the evidence that the defendant
+      committed the other act.
+
+Id.
+
+      The trial court did not abuse its discretion in admitting the
+
+evidence for the purpose of proving intent. “Because [Henderson]
+
+entered a plea of not guilty, [he] made ‘intent a material issue, and
+
+the State may prove intent by qualifying Rule 404 (b) evidence
+
+absent affirmative steps by the defendant to remove intent as an
+
+issue.” Hood, 309 Ga. at 499-500 (2). “The relevance of other acts
+
+evidence offered to show intent is established when the prior act was
+
+committed with the same state of mind as the charged crime.”
+
+
+                                  8
+ (Citation and punctuation omitted.) Id. at 500 (2). “Where the intent
+
+required for the charged offenses and other acts is the same, and
+
+intent is at issue, the first prong of the Rule 404 (b) test is satisfied.”
+
+Booth, 
+301 Ga. at 683
+ (3).
+
+     In this case, in addition to malice murder, Henderson was
+
+charged in the indictment with committing an aggravated assault
+
+against Kiara by assaulting her and stabbing her with a knife, “an
+
+object which when used offensively against a person did result in
+
+serious bodily injury.” See OCGA § 16-5-21 (a) (2) (“A person
+
+commits the offense of aggravated assault when he . . . assaults . . .
+
+[w]ith a deadly weapon or with any object . . . which, when used
+
+offensively against a person, is likely to or actually does result in
+
+serious bodily injury[.]”).3 Henderson’s prior incident with Ceaira
+
+also involved acts which would constitute an aggravated assault
+
+with a knife, an “object . . . which, when used offensively against a
+
+
+
+
+     3 OCGA § 16-5-20 (a) defines a simple assault as when a person either:
+
+“(1) Attempts to commit a violent injury to the person of another; or (2)
+Commits an act which places another in reasonable apprehension of
+immediately receiving a violent injury.”
+                                    9
+ person, is likely to or actually does result in serious bodily injury.”
+
+Id. The acts as alleged in the aggravated assault count of the
+
+indictment and the acts as testified to by Ceaira concerning the prior
+
+assault against her have in common the same general intent.
+
+Although aggravated assault can be charged in other ways that
+
+make the offense a specific intent crime, the way it was charged here
+
+is a general intent crime, requiring proof only that Henderson had
+
+the intent to (1) assault Kiara (2) with a knife, an object which, when
+
+used offensively against a person, is likely to or does result in serious
+
+bodily injury. See Booth, 
+301 Ga. at 684
+ (3). That Henderson
+
+intentionally assaulted another sister with a knife, a weapon which
+
+is likely to cause serious bodily injury, was relevant to show that he
+
+committed a similar act with the same sort of intent as alleged in
+
+the instant indictment. Because the intent required for the prior act
+
+and the charged offense of aggravated assault is the same, the first
+
+prong of the Rule 404 (b) test was satisfied. 
+Id. at 686
+ (3).
+
+     Having concluded that the other-acts evidence satisfies the
+
+first prong of the Rule 404 (b) test, we turn to the test’s second prong,
+
+                                   10
+ which is controlled by OCGA § 24-4-403 (“Rule 403”).
+
+     Rule 403 provides for the exclusion of relevant evidence
+     where “its probative value is substantially outweighed by
+     the danger of unfair prejudice, confusion of the issues, or
+     misleading the jury or by considerations of undue delay,
+     waste of time, or needless presentation of cumulative
+     evidence.” In other words, other acts evidence should be
+     excluded if it constitutes matter of scant or cumulative
+     probative force, dragged in by the heels for the sake of its
+     prejudicial effect. Factors to be considered in determining
+     the probative value of other act evidence offered to prove
+     intent include its overall similarity to the charged crime,
+     its temporal remoteness, and the prosecutorial need for it.
+
+(Citations and punctuation omitted.) Hood, 309 Ga. at 500-501 (2).
+
+     We recognize that the other-acts evidence was certainly
+
+prejudicial to Henderson, given that he was not charged with any
+
+crimes arising from his assault on Ceaira, which can increase the
+
+prejudicial impact of this evidence. See Hood v. State, 299 Ga. at 105
+
+(noting that the admission of other-acts evidence poses greater
+
+danger where “the extrinsic activity was not the subject of a prior
+
+conviction” because “the jury may feel that the defendant should be
+
+punished for that activity even if he is not guilty of the offense
+
+charged”). “But in a criminal trial, inculpatory evidence is
+
+
+                                 11
+ inherently prejudicial; ‘it is only when unfair prejudice substantially
+
+outweighs probative value that the rule permits exclusion.’”
+
+(Citation omitted; emphasis in original.) Anglin v. State, 
+302 Ga.
+
+333
+, 337 (3) (
+806 SE2d 573
+) (2017). “Rule 403’s exclusionary force is
+
+meant to be applied sparingly – primarily when the other-acts
+
+evidence has scant or cumulative probative force, dragged in by the
+
+heels for the sake of its prejudicial effect.” (Citations and
+
+punctuation omitted.) Hounkpatin v. State, 
+313 Ga. 789
+, 796 (2) (a)
+
+(2022).
+
+     In this case, the prior-acts evidence was not required to be
+
+excluded under Rule 403 because it was not substantially
+
+outweighed by unfair prejudice. The prosecutorial need was
+
+significant because Henderson claimed to have “blacked out” during
+
+the aggravated assault. He also argued that Kiara provoked him by
+
+attacking him with a bottle. Thus, the State needed evidence from
+
+which the jury could infer that his acts were intentional rather than
+
+defensive or committed while “blacked out” or “in a trance.” See
+
+Harrison v. State, 
+310 Ga. 862
+, 868 (3) (
+855 SE2d 546
+) (2021).
+
+                                  12
+ Further, the prior-acts evidence had significant probative value in
+
+showing Henderson’s criminal intent to violently assault his sister
+
+with a deadly weapon. The similarity of the acts against Ceaira to
+
+the charged crimes was strong – Henderson overreacted to petty
+
+arguments with his sisters by assaulting both with a large hunting
+
+knife. Finally, the prior act was not temporally remote. The incident
+
+with Ceaira occurred less than two months prior to the charged
+
+crimes. Given the strong probative value of the evidence in showing
+
+Henderson’s intent and in rebutting any claim of self-defense, we see
+
+no abuse of discretion in the trial court’s ruling that the probative
+
+value of the other-acts evidence was not substantially outweighed
+
+by any unfair prejudice. See Harrison, 310 Ga. at 868 (3). “This is
+
+particularly true given that the trial court instructed the jury, both
+
+prior to [Trayshelle’s and Ceaira’s] testimony and at the close of the
+
+evidence, that this evidence was to be considered only for the limited
+
+purposes for which it was admitted.” Id.
+
+     As to the third and final prong of the Rule 404 (b) test, Ceaira’s
+
+and Trayshelle’s testimony was sufficient to establish by a
+
+                                  13
+ preponderance of the evidence that Henderson did in fact commit
+
+the acts about which they testified. Thus, we see no clear abuse of
+
+discretion in the trial court’s admission of the other-acts evidence.
+
+See Harrison, 310 Ga. at 869 (3). This claim of error therefore fails.
+
+     2. Henderson contends the trial court erred in refusing to
+
+charge the jury on the offense of voluntary manslaughter. Voluntary
+
+manslaughter is the killing of another person under circumstances
+
+that would otherwise be murder when the killer “acts solely as the
+
+result of a sudden, violent, and irresistible passion resulting from
+
+serious provocation sufficient to excite such passion in a reasonable
+
+person[.]” OCGA § 16-5-2 (a). 4 At trial, Henderson submitted a
+
+written request for a jury instruction on voluntary manslaughter.
+
+
+
+     4 OCGA §16-5-2 (a) provides in full:
+
+     A person commits the offense of voluntary manslaughter when he
+     causes the death of another human being under circumstances
+     which would otherwise be murder and if he acts solely as the result
+     of a sudden violent, and irresistible passion resulting from serious
+     provocation sufficient to excite such passion in a reasonable
+     person; however, if there should have been an interval between the
+     provocation and the killing sufficient for the voice of reason and
+     humanity to be heard, of which the jury in all cases shall be the
+     judge, the killing shall be attributed to deliberate revenge and be
+     punished as murder.
+                                     14
+ Following arguments made by the defense and prosecution during
+
+the charge conference, the trial court denied Henderson’s request.
+
+After the jury was charged, Henderson renewed his objection.
+
+Because there was no evidence that would support giving an
+
+instruction on voluntary manslaughter, the trial court did not err in
+
+denying the request.
+
+     “A trial court is required to grant a defendant’s request for a
+
+charge on voluntary manslaughter if there is any evidence, however
+
+slight, supporting the theory of the charge.” O'Neal v. State, 
+316 Ga.
+
+264
+, 267 (1) (a) (
+888 SE2d 42
+) (2023). “It is a question of law for
+
+courts to determine whether the defendant has presented sufficient
+
+evidence to warrant a requested charge.” Hudson v. State, 
+308 Ga.
+
+443
+, 445 (2) (
+841 SE2d 696
+) (2020). Although slight evidence will
+
+support giving the requested charge, “neither fear that someone is
+
+going to pull a weapon nor fighting are the types of provocation that
+
+demand    a   voluntary   manslaughter     charge.”   (Citation   and
+
+punctuation omitted.) 
+Id.
+ Further, “words alone are generally not
+
+sufficient provocation to excite the passion necessary to give rise to
+
+                                 15
+ voluntary manslaughter.” (Citation and punctuation omitted.) 
+Id.
+
+
+Additionally, this Court has held that “the voluntary manslaughter
+
+statute establishes an objective standard; the provocation required
+
+to mitigate malice is that which would arouse a heat of passion in a
+
+reasonable person.” (Citation and punctuation omitted; emphasis in
+
+original.) Watkins v. State, 
+313 Ga. 573
+, 577 (2) (
+872 SE2d 293
+)
+
+(2022).
+
+     Henderson contends that the following evidence is sufficient to
+
+warrant a charge on voluntary manslaughter: 15-year-old Kiara
+
+argued with Henderson about his efforts to oust her from the
+
+bathroom; when Henderson tried to force open the door, Kiara
+
+caused his cell phone case to break; during the argument, Kiara
+
+threw a bottle at him; and, Henderson believed Kiara was going to
+
+the kitchen to get a knife with which to attack him, which is why he
+
+got his own knife. He also contends that the “extreme” and “frenzied”
+
+nature of his conduct in stabbing Kiara 47 times in a public area
+
+suggests that he was “not acting out of conscious deliberation, but
+
+rather out of intense anger or rage, which also would support a
+
+                                 16
+ voluntary manslaughter conviction.”
+
+     Although this evidence may have supported Henderson’s
+
+motive for attacking Kiara, it is not sufficient as a matter of law to
+
+establish the slight evidence required to support giving a charge on
+
+voluntary manslaughter. The evidence does not show a “sudden,
+
+violent, and irresistible passion resulting from serious provocation
+
+sufficient to excite such passion in a reasonable person.” OCGA §16-
+
+5-2 (a). That Henderson and Kiara argued prior to the stabbing
+
+about access to the bathroom is not the type of provocation used to
+
+support voluntary manslaughter under Georgia law. Therefore, this
+
+heated exchange of words, without more, is insufficient provocation
+
+to warrant a jury charge on voluntary manslaughter. See Johnson
+
+v. State, 
+297 Ga. 839
+, 844 (2) (
+778 SE2d 769
+) (2015) (“As a matter of
+
+law, angry statements alone ordinarily do not amount to ‘serious
+
+provocation’ within the meaning of OCGA §16-5-2 (a).” (citation and
+
+punctuation omitted)). Nor was Kiara’s act of knocking a clipboard
+
+and cell phone out of Henderson’s hand the kind of act that would
+
+excite the level of irresistible passion required under the law. See id.
+
+                                  17
+ at 842-844 (2). Further, there is no evidence that Kiara possessed or
+
+used a weapon against Henderson. Even if Kiara threw a bottle at
+
+Henderson and he acted to defend himself, “acting out of fear of
+
+bodily harm is not the same as acting in the heat of passion, and
+
+only evidence of the latter supports a voluntary manslaughter
+
+conviction.” Burke v. State, 
+302 Ga. 786
+, 790-791 (2) (
+809 SE2d 765
+)
+
+(2018).
+
+     Because Henderson has not pointed to any evidence that 15-
+
+year-old Kiara provided any serious provocation that would have
+
+resulted in a reasonable person committing such a deadly act, we
+
+conclude that the trial court properly found that “[t]he argument
+
+between [Henderson] and his teenage sister over the use of the
+
+bathroom . . . was insufficient to generate in a reasonable person a
+
+sudden and irresistible passion to kill.”
+
+     3. Finally, Henderson contends that the trial court’s
+
+cumulative errors were not harmless and require reversal. To
+
+demonstrate cumulative prejudice that warrants a new trial,
+
+Henderson must show that “at least two errors were committed in
+
+                                  18
+ the course of the trial; [and] considered together along with the
+
+entire record, the multiple errors so infected the jury’s deliberation
+
+that they denied [Henderson] a fundamentally fair trial.” (Citation
+
+and punctuation omitted.) State v. Lane, 
+308 Ga. 10
+, 21 (4) (
+838
+
+SE2d 808
+) (2020). Because Henderson has not carried his burden of
+
+showing that at least two errors were committed during the trial,
+
+this claim must fail. See 
+id.
+ We note that, because Henderson has
+
+failed to demonstrate any trial court error, we need not decide what
+
+type of error has been alleged, whether prejudice or harm has been
+
+shown under the standard applicable to that type of error, or how
+
+those standards may interact under a cumulative error review
+
+involving different types of errors. See 
+id.
+
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                  19
+ 

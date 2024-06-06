@@ -1,0 +1,1777 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                          S24A0352. WARD v. THE STATE.
+
+        LAGRUA, Justice.
+
+        Appellant James Graham Ward appeals his convictions for
+
+felony murder and other crimes related to two shootings that
+
+occurred on March 24, 2021—one of which resulted in the death of
+
+Brian Belin. 1 Ward contends on appeal that (1) the trial court erred
+
+
+        1 On August 4, 2021, a Paulding County grand jury indicted Ward for the
+
+following counts: malice murder of Belin (Count 1); felony murder predicated
+on aggravated assault of Belin (Count 2); aggravated assault of Belin (Count
+3); aggravated assault of Shadeja Rutledge (Count 4); aggravated assault of
+Jewell Porter (Count 5); aggravated assault of Russell Jones (Count 6); and
+possession of a firearm during the commission of a felony (Count 7). The grand
+jury also indicted Ward and his co-defendant Annias Brooks—individually and
+as parties concerned in the commission of a crime—for the following counts:
+aggravated assault of Belin (Count 8); aggravated assault of Rutledge (Count
+9); aggravated assault of Porter (Count 10); aggravated assault of Jones (Count
+11); and possession of a firearm during the commission of a felony—
+specifically, the aggravated assault of Rutledge (Count 12). Ward and Brooks
+were jointly tried from March 14 to March 23, 2022. At trial, the jury found
+Ward guilty on Counts 2, 3, 7, 8, and 12 and not guilty on the remaining counts.
+The jury found Brooks not guilty on all counts. The trial court sentenced Ward
+to life in prison without the possibility of parole on the felony murder count
+(Count 2), plus a total of 20 consecutive years to serve for Counts 7, 8, and 12.
+The aggravated assault count (Count 3) merged with the felony murder count
+ in denying his request to charge the jury on voluntary manslaughter
+
+because there was “some evidence” to support such a charge; (2) the
+
+trial court erred in denying his motion for a directed verdict on
+
+Count 8 (aggravated assault) and Count 12 (possession of a firearm
+
+during the commission of a felony) because those counts were not
+
+supported by the evidence and because his convictions on those
+
+counts constituted repugnant verdicts since he was acquitted of the
+
+other aggravated assault charges based on the same conduct; and
+
+(3) his trial counsel rendered ineffective assistance by agreeing to
+
+the trial court’s ruling on the State’s motion in limine and by failing
+
+to file a “reverse 404 (b) motion” under OCGA § 24-4-404 (b) related
+
+to Belin’s propensity to carry firearms because this evidence was
+
+relevant to Ward’s self-defense claim and prejudiced his ability to
+
+
+
+
+(Count 2) for sentencing purposes. Ward filed a timely motion for new trial,
+which he later amended through new counsel on January 9, 2023 and April 17,
+2023. After holding an evidentiary hearing on the motion for new trial, the trial
+court denied the motion on August 21, 2023. Ward filed a timely notice of
+appeal to this Court on September 8, 2023, and the case was docketed to the
+December 2024 term of this Court and submitted for a decision on the briefs.
+                                      2
+ support this defense at trial. Seeing no merit to these claims, we
+
+affirm Ward’s convictions.
+
+     The evidence presented at Ward’s trial, viewed in the light
+
+most favorable to the verdicts, showed that, prior to the shootings
+
+on March 24, 2021, Belin was spending the evening with his
+
+girlfriend, Shadeja Rutledge, and a few friends. Rutledge, who
+
+started dating Belin in 2020, had previously been in an “on-
+
+again/off-again” sexual relationship with Ward, which Ward
+
+described as “friends with benefits.” Several months after Belin and
+
+Rutledge started dating, Belin was incarcerated, and during that
+
+timeframe, Rutledge and Ward saw each other again—but no more
+
+than “once or twice.” When Belin was released from jail, he and
+
+Rutledge resumed their relationship.
+
+     On the evening of March 24, Belin and Rutledge went to the
+
+home of Russell Jones, a “close friend” of Belin’s, who lived with his
+
+parents in the Regency Park subdivision. Belin, Rutledge, and Jones
+
+“decided [they] were going to chill at [Jones’s] house” that night to
+
+                                  3
+ “drink and play music.” The group left the house briefly to purchase
+
+liquor and pick up Rutledge’s friend, Anisa Karim, and then
+
+returned to Jones’s house. They were later joined by Jones’s
+
+girlfriend, Jewell Porter. Around 8:00 p.m., Jones’s parents came
+
+home, and his mother told the group to leave. According to Jones, he
+
+had previously gotten into trouble with his parents because Porter
+
+“was caught spending the night,” and he was not allowed to have
+
+company at the house.
+
+     The group got into Belin’s car. Belin drove to the common area
+
+of the subdivision—an area next to the entrance of the subdivision
+
+where the swimming pool and tennis courts are located—and he
+
+parked the car. Jones was very angry about being forced to leave his
+
+house, and he and Belin got out of the car while Belin tried to calm
+
+Jones down. Belin and Jones talked outside the car for about 10 or
+
+15 minutes, and then, the two men started walking along a paved
+
+path leading from the common area to other homes in the
+
+subdivision. Rutledge, Karim, and Porter stayed in the car, listening
+
+                                 4
+ to music and talking. Rutledge testified that she did not see Belin
+
+and Jones walk away from the car, and according to Porter, she
+
+“los[t] sight” of where the men went.
+
+      As Belin and Jones were walking along the path, Jones heard
+
+“a [woman]’s voice coming from [a] house” adjacent to the common
+
+area, and Jones realized it was Ward’s house.2 Jones testified that
+
+he and Belin did not intentionally walk to Ward’s house; they were
+
+“just walking and talking” when they heard a woman’s voice and
+
+saw several people outside on the deck of the house, “playing music
+
+and stuff.” Jones and Belin approached the fence running along the
+
+backyard of the house, and Belin asked the woman if Ward was
+
+home. She said Ward was not there. Jones testified that “a lot of
+
+people” from the house then came over to the fence and “started
+
+getting rowdy” and “making threats.”
+
+
+
+      2 The record reflects that, on March 24, 2021, Ward’s mother, Stacy
+Mason, rented a house in the Regency Park subdivision, which backs up to the
+tennis courts and swimming pool in the common area. Mason testified that
+several of her children and her husband’s children lived with her in this house,
+including Ward and his co-defendant Brooks.
+                                      5
+      Rutledge, Karim, and Porter—who were still sitting in Belin’s
+
+car—heard “some noise” and “someone screaming,” so they got out
+
+of the car and followed the path until they came upon Belin and
+
+Jones “arguing” and “talking to some dudes over the fence.” Rutledge
+
+testified that she was concerned because Belin was “on probation”
+
+and was “extremely drunk,” so she grabbed his hand and told him to
+
+come back to the car. Belin followed Rutledge towards the common
+
+area, but the rest of the group stayed at the fence. Jones testified
+
+that he was “still arguing” with the people on the other side of the
+
+fence, and Porter was telling him, “[L]et’s go.” Jones testified that
+
+he did not “trust the situation, so he didn’t “want to turn [his] back”
+
+and walk away.
+
+     Ward’s mother, Stacy Mason, testified that she was sitting in
+
+her bedroom talking to Ward on the evening of March 24 when it
+
+“came to [her] attention that something was going on outside of her
+
+house.” Mason testified that Ward “got a phone call” around that
+
+time, and he answered the phone, “shook his head,” and “went out
+
+                                  6
+ of the room.” Ward and Mason went downstairs, at which point
+
+Ward exited “out the front door and [Mason] went out the back door”
+
+onto the deck. Mason testified that “[t]here was a lot of yelling over
+
+[their] fence,” and “it was commotion just all in back of the fence.”
+
+Mason said the people on the other side of the fence were “calling
+
+for” Ward, and she told them to leave.
+
+     Rutledge testified that, when she and Belin got back to the
+
+parking lot in the common area, “a car pull[ed] up, and [Ward]
+
+hop[ped] out.” Ward approached Rutledge and Belin and “ask[ed] is
+
+there a problem,” and she responded, “No. There ain’t no problem.”
+
+Ward then started shooting at Belin. Porter testified that she saw
+
+“someone come running up” to Belin and Rutledge in the parking lot
+
+of the common area and heard “shots go off.” Porter said she could
+
+not identify the person who was shooting, but she saw the person
+
+“pointing at” Belin and saw Belin “go to the ground.” Karim also
+
+testified that, while she was standing by Ward’s backyard, she heard
+
+what she thought were “fireworks,” and when she turned around,
+
+                                  7
+ she saw “someone shoot at someone and then quickly run away.” She
+
+could not see who the shooter was, but she heard Rutledge
+
+screaming and yelling Ward’s name “over and over again.” Ward’s
+
+sister, Amyris Avritte, testified that she was outside their home on
+
+the evening of March 24while an argument was going on at their
+
+backyard fence, and she saw a car pull into the common area and
+
+“heard shots.”3 Mason also testified to seeing a “dark car” pull into
+
+the common area parking lot and to hearing gunshots “over in the
+
+parking lot area.”4
+
+     According to Rutledge, after Ward shot Belin, she ran to grab
+
+her phone out of Belin’s car to call 911, at which point a second round
+
+of shots—which she assumed were intended for her—were fired.
+
+Porter and Jones testified that they also heard a second round of
+
+“shots pointed [their] way,” and Porter realized she had been struck
+
+
+
+
+     3 Avritte testified that she did not see Ward that night.
+     4 According to Mason, Ward did not have a gun on him while he was in
+
+her bedroom that night and, “to [her] knowledge,” did not own a gun.
+                                       8
+ with a bullet.” 5 Karim similarly testified that, moments after the
+
+first shooting, she heard “shots go again,” so she “duck[ed],” “roll[ed]
+
+over,” and hid behind some bushes by the tennis courts.
+
+     Jones testified that, after Porter was struck, he picked her up
+
+to carry her back to the common area, and as he was doing so, he
+
+saw “Ward “hop into” a car, which went “peeling off” away from the
+
+common area and “out [of] the neighborhood.” Rutledge also testified
+
+that she saw Ward “hop back into [a] car” in the common area, and
+
+Karim said she saw “a dark gray or a black van” in the common area
+
+“during the second shooting.”
+
+     Rutledge and Karim called 911,6 while Jones attended to Belin.
+
+Jones “took up [Belin’s] shirt,” saw “bullet wounds and blood
+
+squirting out,” and tried to “do CPR and pump [Belin’s] chest.”
+
+Rutledge and Jones testified that Belin did not have a gun on him
+
+that night and that they did not know him to ever “carry a gun.”
+
+
+     5 Jones testified that a bullet “grazed” Porter’s back.
+     6 Recordings of the 911 calls were played for the jury at trial.   During the
+phone calls, Rutledge and Karim identified Ward as the shooter.
+                                     9
+       Ronnie and Janelle Scogin, who lived in the Regency Park
+
+subdivision, 7 were at home around 8:30 p.m. on March 24 when they
+
+heard “seven or eight bangs” that sounded like “gunshots.” The
+
+Scoginses stepped outside and “could hear young women crying
+
+really, really loud” and screaming for help. Ronnie hurried “towards
+
+the [common] area where [he] heard them crying,” and “as [he] got
+
+to the sidewalk, . . . [he] saw a guy get in a silver SUV and then come
+
+down the road at a high rate of speed.” Ronnie next saw a “black
+
+SUV Ford Explorer with New York plates” drive up “right behind”
+
+the silver SUV, 8 “heard several more shots,” and saw the black SUV
+
+leave the subdivision, followed by the silver SUV “maybe a minute”
+
+later. Ronnie ran back to the house and yelled for Janelle to call 911.
+
+Janelle called 911 and advised the operator that there had been a
+
+shooting and that a black SUV with New York plates involved in
+
+
+
+      7 The Scoginses’ house was located a few houses away from the common
+
+area, between the house where Ward lived and the entrance to the subdivision.
+      8 Mason testified that, during this timeframe, she was renting a silver or
+
+gray Nissan Pathfinder that Brooks was driving on March 24, and Ward was
+renting and driving a black Ford Explorer.
+                                       10
+ that shooting was driving out of the subdivision. The Scoginses had
+
+a motion-sensitive video camera installed on the front of their house,
+
+facing the street, which recorded the events of March 24. The video
+
+footage from the camera, which was played for the jury at trial,
+
+captured the sounds of multiple gunshots and screaming, followed
+
+by images of a black Ford Explorer and a silver Nissan Pathfinder
+
+driving towards the common area, the sound of more gunshots, and
+
+images of a black Ford Explorer and a silver Nissan Pathfinder
+
+driving away from the common area and out of the subdivision on
+
+the night of March 24. The Scoginses shared this video with the law
+
+enforcement officers investigating the case.
+
+        Around 8:30 p.m. on March 24, law enforcement officers with
+
+the Paulding County Sheriff’s Office received a call regarding a
+
+homicide in the common area of the Regency Park subdivision.
+
+Detective Jacob Martin, one of the first responding officers, testified
+
+that:
+
+        [o]nce I arrived on the scene, a female identified as
+        Shadeja Rutledge ran down the hill screaming and saying
+                                  11
+      that her boyfriend had been shot in the head and he is
+     dying. I ran up the hill area at the tennis courts and I
+     observed that there was a male lying on the ground and
+     he was bleeding with shell casings around him and
+     appeared to be lifeless. A male identified as ‘Russell
+     Jones’ was on top of him trying to give CPR. I observed
+     two other females on the side.
+
+     Emergency medical services soon arrived and “attempted to
+
+render aid” to Belin, but he was deceased. The medical examiner
+
+testified that Belin sustained a total of four gunshot wounds—one
+
+in “the anterior upper chest,” one in “the right side of the lower
+
+abdomen,” one in “the left side of the head,” and one in “the left side
+
+of the back”—as well as “shrapnel injuries” in his left hand.
+
+According to the medical examiner, “each one of the gunshot wounds
+
+in and of themselves would have been fatal,” but “the collective of all
+
+of them [was] what led to [Belin’s] death.”
+
+     Detective Gregory Pauch, a crime scene technician, testified
+
+that he collected 9mm shell casings from around Belin’s body, “in
+
+the vicinity of the tennis courts,” and in the roadway. Detective
+
+Pauch testified that some of the 9mm shell casings he discovered
+
+                                  12
+ were aluminum or metal, while others were brass, which led
+
+investigators to believe that two guns might be involved. At trial,
+
+the GBI firearms examiner testified that, after examining the shell
+
+casings recovered during the autopsy and the shell casings collected
+
+from the crime scene area, she was able to establish that all the shell
+
+casings were fired from Smith & Wesson 9mm pistols. However, the
+
+shell casings located inside and around the victim’s body and in the
+
+common area, and the shell casings located in the roadway were
+
+fired from two different firearms. No weapons were found on the
+
+scene, and neither the murder weapon nor any other weapon
+
+involved in the shootings was ever recovered by law enforcement.
+
+     Law enforcement officers learned that Ward was driving a
+
+black Ford Explorer with New York plates on the night of the
+
+shooting. During the early morning hours of March 25, law
+
+enforcement officers located Ward and co-defendant Brooks at the
+
+home of Shayla George, and Ward was arrested and taken into
+
+
+
+                                  13
+ custody.9 While he was in custody, Ward was swabbed for the
+
+presence of gunshot residue (“GSR”). At trial, Kimberly Jewett, a
+
+GBI expert in microanalysis, testified that GSR testing revealed
+
+“four particles characteristic of gunshot primer residue” on Ward’s
+
+hands, which meant that “either he discharged a firearm or he was
+
+in the presence of a discharging firearm or he came into contact with
+
+an item whose surface bears GSR[,] which would be like a recently
+
+discharged firearm.”
+
+     Shortly after Ward’s arrest, law enforcement officers obtained
+
+and executed a search warrant at George’s residence, and during
+
+their search, they located Brooks’s cell phone, as well as a gray or
+
+silver Nissan Pathfinder parked inside the garage. George testified
+
+that Brooks drove the Pathfinder to her house on the night of March
+
+24, and at some point during the night, he moved the vehicle into
+
+
+
+
+     9  At that time, Brooks was not a suspect in the shootings. When
+Detective Dickson later interviewed Brooks about the events of March 24,
+Detective Dickson came to suspect that Brooks was a second shooter and took
+him into custody during the interview.
+                                     14
+ the garage.10 George also testified that Ward arrived at her house
+
+about “an hour and 45 minutes” after Brooks, but she did not know
+
+how Ward got there.
+
+     On the morning of March 25, law enforcement officers located
+
+Ward’s Ford Explorer at a local park. After obtaining a search
+
+warrant for the Ford Explorer and removing its computer system—
+
+from which geolocation data was subsequently downloaded— law
+
+enforcement officers found a black handgun holster in the pocket
+
+behind the driver’s seat, as well as personal items belonging to
+
+Ward, including Ward’s driver’s license. Law enforcement officers
+
+also swabbed the interior and exterior of the Ford Explorer to test
+
+for the presence of GSR, which testing revealed “four particles of
+
+gunshot primer residue” on the driver’s side panel and steering
+
+wheel of the vehicle.
+
+
+
+
+     10 Mason testified that she spoke to Brooks by phone on the night of the
+
+shootings, and she told him to park the Pathfinder in the garage at George’s
+house because it was “linked” to Mason as the renter of the vehicle.
+                                     15
+      On March 30, 2021, law enforcement officers executed a search
+
+warrant at Ward’s residence and located Ward’s cell phone. Law
+
+enforcement officers then obtained search warrants for the cell
+
+phones of Ward, Brooks, and Mason. Detective Tyler Brown, who
+
+was admitted as an expert in geolocation analysis and forensic
+
+analysis of electronic data at trial, testified that he reviewed and
+
+analyzed the cell phone records in this case, as well as the
+
+geolocation data taken from the Ford Explorer. Detective Brown
+
+testified that the recovered data showed that, during certain periods
+
+of time, Ward’s cell phone and the Ford Explorer were “synced up
+
+to” one another. According to Detective Brown, the data recovered
+
+from Ward’s cell phone and the Ford Explorer also demonstrated
+
+that, between approximately 8:20 p.m. and 8:30 p.m. on the night of
+
+the shootings, Ward’s cell phone and the Ford Explorer were
+
+positioned and traveled as follows: (1) the cell phone and vehicle
+
+were first located near Ward’s residence; (2) the car and phone
+
+traveled near the parking lot of the common area by the tennis
+
+                                 16
+ courts, but did not remain in one spot; (3) the car and phone left the
+
+vicinity of the parking lot and common area—traveling out of the
+
+crime scene area and in the direction of the back of the subdivision;
+
+(4) the car and phone traveled near the common area and the
+
+entrance of the subdivision, “paused briefly,” and then traveled in
+
+the direction of the exit of the subdivision; (5) the car and phone
+
+traveled near the area around the park where Ward’s Ford Explorer
+
+was located, after which there was “no more data for the Ford
+
+Explorer”; and (6) the cell phone then traveled near the northern
+
+part of Paulding County. Detective Brown testified that, about 15 to
+
+20 minutes after the shooting, Ward’s cell phone “didn’t
+
+communicate anymore, and it wasn’t used.” Additionally, Detective
+
+Brown noted that ten calls were exchanged between Mason and
+
+Ward between 8:30 and 8:45 p.m. on March 24, and 27 calls were
+
+exchanged between Mason and Brooks during the same timeframe.
+
+     Ward testified in his own defense at trial. According to Ward,
+
+on the evening of March 24, he had just “pull[ed] in the driveway” of
+
+                                 17
+ his house and had “run in” to “grab something out of [his] room” and
+
+then “leave again,” when Avritte—who was outside in the
+
+backyard—called him on the phone. Ward was inside talking to
+
+Mason at the time, and Avritte said, “There’s people out here asking
+
+for you and they’re cursing or whatever.” Ward said he did not think
+
+it was anything serious—he assumed it was “some of her little
+
+friends”—but he decided he would drive over to the common area,
+
+“see what’s going on,” and try to diffuse the situation. Ward testified
+
+that he got in his car and “went to the parking lot” by the common
+
+area, where he thought “it was going to be like a little situation with
+
+the kids that my siblings went to school with or whatever.”
+
+     According to Ward, when he got to the parking lot, the
+
+following occurred:
+
+     I went and I got out of the car and walked up the path—
+     and started walking up the path and then I seen Mr. Belin
+     and Ms. Rutledge and then I was just like—like, basically,
+     I just asked him like, What’s going on—or basically,
+     What’s your problem or whatever, and then he didn’t
+     really say nothing. He was like, Who’s that and walked
+     closer, and then he just lunged at me and hit me with the
+     gun.
+                                  18
+ Ward testified that, after “Belin came at [him]” and “hit him with
+
+the gun,” they “tussled for like maybe 15 seconds.” Ward said he
+
+was not armed, but he “took the gun from” Belin, and then Belin
+
+“backed up maybe like five or 6 feet and then he just lunged at
+
+[Ward] again and that’s when [Ward] shot him.” Ward testified that
+
+he did not “have any intentions of fighting anybody,” and he was just
+
+“defending” himself.
+
+     When Ward’s trial counsel asked why several shots were fired,
+
+Ward responded that he was “scared for [his] life,” so he “just shot
+
+until [Belin] dropped.” After shooting Belin, Ward said he “dropped
+
+the gun and ran and hopped in [his] car and left.” Ward testified that
+
+he thought about going back to his house, but he knew his “family
+
+[wa]s not going to be safe,” so he “left the neighborhood” and went to
+
+the “courts at Ben Hill Park.” Ward said he left his Ford Explorer at
+
+the park because he was “too shaken up to drive” and “asked a friend
+
+to drop [him] off” at George’s house. Ward recalled leaving his wallet
+
+
+                                 19
+ and driver’s license inside the Explorer, but testified that he did not
+
+know a gun holster was also in the vehicle.
+
+     On cross examination, Ward testified that he was “justified” in
+
+shooting Belin “because it was self-defense.” Ward insisted that he
+
+was not in “like a heat of passion” nor had he “lost his control or
+
+anything.” Ward said, “[I]t was him or me,” and he “had to” shoot
+
+Belin. According to Ward, he was not sure where he shot Belin
+
+because he “didn’t really look.” Ward believed he shot Belin in the
+
+chest and “didn’t know anything” about the shots to Belin’s back,
+
+stomach, or head. Ward said he just “pulled the trigger” multiple
+
+times, acknowledging that he was responsible for shooting and
+
+killing Belin, but emphasizing that he shot Belin in “self-defense.”
+
+Ward testified that he was aware that—other than his trial
+
+testimony—no other evidence or testimony had been presented to
+
+show that Belin was armed on the night of the shootings.
+
+     As for the second shooting on the night of March 24, Ward
+
+testified that he was not present, he “didn’t shoot at nobody,” and he
+
+                                  20
+ was not the one who shot Porter in the back. Ward admitted that
+
+the video recording from the Scoginses’ house showed a black Ford
+
+Explorer driving towards the common area “right before the second
+
+shots” were heard and that he could hear the “second volley of
+
+gunshots” on the video. However, Ward insisted that he was “not
+
+there at the time of the second shooting.”
+
+     1. On appeal, Ward contends that the trial court erred in
+
+failing to instruct the jury on voluntary manslaughter, see OCGA §
+
+16-5-2 (a), 11 because his trial testimony constituted sufficient
+
+evidence of provocation for the issue of voluntary manslaughter to
+
+have been charged to the jury. We see no merit to this claim because
+
+there was not even slight evidence presented to support this charge.
+
+See Smith v. State, 
+296 Ga. 731
+, 737 (3) (
+770 SE2d 610
+) (2015) (“As
+
+
+    11 OCGA § 16-5-2 (a) states, in pertinent part, that
+
+
+
+     [a] person commits the offense of voluntary manslaughter when he
+     causes the death of another human being under circumstances
+     which would otherwise be murder and if he acts solely as the result
+     of a sudden, violent, and irresistible passion resulting from serious
+     provocation sufficient to excite such passion in a reasonable
+     person[.]
+                                       21
+ the evidence in this case does not rise to a level sufficient to support
+
+a voluntary manslaughter charge, the trial court did not err in
+
+refusing to give the charge requested.”).
+
+     At trial, Ward submitted a written request to charge the jury
+
+on voluntary manslaughter. At the close of the evidence, the trial
+
+court held a charge conference and advised the parties that it would
+
+not give the voluntary manslaughter charge because Ward’s trial
+
+testimony demonstrated that he did not shoot Belin as the result of
+
+“serious provocation which was sufficient to excite [sudden] passion
+
+in a reasonable person.” The trial court did not charge the jury on
+
+voluntary manslaughter, and Ward objected.
+
+     Later, in denying Ward’s motion for new trial alleging that the
+
+trial court’s refusal to give this charge was error, the trial court
+
+rejected this claim, explaining that, to “merit a voluntary
+
+manslaughter charge as a lesser included offense of malice murder
+
+or felony murder,” the evidence “must demonstrate the requisite
+
+provocation.” The trial court determined that Ward failed to
+
+                                  22
+ demonstrate the “requisite provocation” at trial, and thus, the trial
+
+court properly denied Ward’s request for a charge on voluntary
+
+manslaughter. We agree.
+
+     If there is any evidence, however slight, to support a
+     properly requested charge of voluntary manslaughter,
+     then the trial court must give it. But a charge on
+     voluntary manslaughter is warranted only where it can
+     be shown that the accused was so influenced and excited
+     that he reacted passionately rather than simply in an
+     attempt to defend himself. A charge on voluntary
+     manslaughter is not available to a defendant whose own
+     statement unequivocally shows that he was not angered
+     or impassioned when a killing occurred, and when the
+     other evidence does not show otherwise.
+
+Thompson v. State, 
+312 Ga. 254
+, 257-258 (2) (
+862 SE2d 317
+) (2021)
+
+(quoting Beck v. State, 
+310 Ga. 491
+, 496-497 (2) (
+852 SE2d 535
+)
+
+(2020)).
+
+     Here, there was not even slight evidence presented that could
+
+meet this standard. At trial, Ward testified that, on the night of
+
+March 24, 2021, Belin was armed with a gun when Ward
+
+encountered him in the common area, and the two men “tussled”
+
+before the shooting occurred. Ward then testified      that he was
+
+                                 23
+ “justified” in shooting Belin “because it was self-defense,” and when
+
+asked on cross-examination whether he shot Belin in the “heat of
+
+passion” or whether he had “lost his control,” Ward plainly denied
+
+both, insisting that “it was him or me” and that he shot Belin
+
+because he was “scared for [his] life.”
+
+      “This Court has repeatedly held that neither fear that
+
+someone is going to pull a gun nor fighting prior to a homicide are
+
+types of provocation demanding a voluntary manslaughter
+
+charge[,]” Funes v. State, 
+289 Ga. 793
+, 795 (2) (
+716 SE2d 183
+) (2011),
+
+and Ward points to no evidence whatsoever of provocation other
+
+than a tussle between him and Belin. “[A]cting out of fear is not the
+
+same as acting in the heat of a sudden irresistible passion[,]” 
+id.,
+
+
+“and only evidence of the latter supports a voluntary manslaughter
+
+conviction.” Burke v. State, 
+302 Ga. 786
+, 791 (2) (
+809 SE2d 765
+)
+
+(2018). See also Dugger v. State, 
+297 Ga. 120
+, 123-124 (7) (
+772 SE2d
+
+695
+) (2015) (holding that, where the appellant claimed that he shot
+
+the victim in self-defense, “not out of anger or other passion,” and
+
+                                  24
+ there was no other evidence supporting a voluntary manslaughter
+
+charge, such a charge was not warranted). For these reasons, we
+
+conclude there was “no error in the trial court’s failure to instruct
+
+the jury that it might consider voluntary manslaughter.” 
+Thompson,
+
+312
+ Ga. at 258 (2).
+
+     2. Ward next contends that the trial court erred in denying his
+
+motion for a directed verdict on the aggravated assault and
+
+possession of a firearm during the commission of a felony counts
+
+related to the second shooting because the evidence was insufficient
+
+to establish that he was present when that shooting occurred. The
+
+record reflects that Ward did not move for a directed verdict at trial,
+
+so this enumeration is without merit. However, even if Ward had
+
+moved for a directed verdict, we disagree that the evidence was
+
+insufficient to support Ward’s convictions for aggravated assault
+
+and possession of a firearm as a matter of constitutional due process.
+
+     Ward also argues that the verdict was repugnant because he
+
+was acquitted of the other aggravated assault charges related to the
+
+                                  25
+ second shooting. We conclude that the verdict in this case was not
+
+repugnant, see Rutland v. State, 
+315 Ga. 521
+, 522 (1) (
+883 SE2d 730
+)
+
+(2023), and this claim also fails.
+
+     The standard of review for the denial of a motion for a
+     directed verdict of acquittal is the same as for
+     determining the sufficiency of the evidence to support a
+     conviction. Under this review, we leave to the trier of fact
+     the resolution of conflicts or inconsistencies in the
+     evidence, credibility of witnesses, and reasonable
+     inferences to be derived from the facts, we do not reweigh
+     the evidence, and as long as there is some competent
+     evidence, even though contradicted, to support each fact
+     necessary to make out the State’s case, the jury’s verdict
+     will be upheld.
+
+Ellington v. State, 
+314 Ga. 335
+, 339 (2) (
+877 SE2d 221
+) (2022)
+
+(citations and punctuation omitted). See also Jackson v. Virginia,
+
+443 U.S. 307
+, 319 (III) (B) (99 SCt 2781, 61 LE2d 560) (1979)
+
+(emphasis in original) (holding that, when evaluating challenges to
+
+the sufficiency of the evidence as a matter of constitutional due
+
+process, “the relevant question is whether, after viewing the
+
+evidence in the light most favorable to the prosecution, any rational
+
+
+
+                                     26
+ trier of fact could have found the essential elements of the crime
+
+beyond a reasonable doubt”).
+
+     The evidence presented in this case established the following
+
+with respect to Ward’s involvement in the second shooting: (1) Ward
+
+was driving a black Ford Explorer with New York plates on the night
+
+of March 24, 2021, which he later abandoned at a local park; (2)
+
+testimony from Ronnie Scogin and video footage captured from the
+
+Scoginses’ exterior motion-sensitive camera established that, on the
+
+night of March 24—moments before the second shooting—a black
+
+Ford Explorer with New York plates drove past the Scoginses’ house
+
+towards the common area, multiple shots were fired in the vicinity
+
+of the common area, and the Ford Explorer then drove out of the
+
+subdivision; (3) Jones testified that, right after the second shooting
+
+occurred, he carried Porter—who had been grazed by a bullet—back
+
+to the common area, and he saw “Ward “hop into” a car, which went
+
+“peeling off” away from the common area and drove out of the
+
+subdivision; (4) Karim testified that, “during the second shooting,”
+
+                                 27
+ she saw “a dark gray or a black van” in the common area; and (5)
+
+the GPS data from Ward’s cell phone and the Ford Explorer
+
+confirmed that, around 8:30 p.m. on March 24, Ward’s cell phone
+
+and his vehicle were in the crime scene area, moved out of the crime
+
+scene area, returned briefly to the crime scene area, and then left
+
+the subdivision.
+
+     The jury was “entitled to disbelieve” Ward’s testimony that he
+
+was not involved with or present for the second shooting. McKinney
+
+v. State, 
+300 Ga. 562
+, 567 (2) (
+797 SE2d 484
+) (2017) (“It was for the
+
+jury to determine the credibility of the witnesses and to resolve any
+
+conflicts or inconsistencies in the evidence.”) (citation omitted).
+
+Instead, the jury was entitled to believe the testimony from other
+
+eyewitnesses and the other evidence indicating that Ward left the
+
+common area in the Ford Explorer after the first shooting; drove
+
+back to the common area minutes later in the Ford Explorer; shot
+
+multiple times towards the common area where Belin was lying on
+
+the ground and other members of the group had congregated; and
+
+                                 28
+ drove out of the subdivision in his Ford Explorer. See 
+id.
+
+
+     Accordingly, after properly viewing the evidence in the light
+
+most favorable to the verdict, we conclude that the evidence was
+
+sufficient as a matter of constitutional due process for a jury to find
+
+Ward guilty beyond a reasonable doubt of aggravated assault
+
+against Belin and possession of a firearm during the commission of
+
+a felony against Rutledge. See Jackson, 
+443 U.S. at 319
+ (III) (B).
+
+See also Boyd v. State, 
+306 Ga. 204
+, 207 (1) (
+830 SE2d 160
+) (2019).
+
+     Additionally, Ward’s claim that the verdicts rendered in this
+
+case were repugnant is meritless. “‘Repugnant verdicts occur when,
+
+in order to find the defendant not guilty on one count and guilty on
+
+another, the jury must make affirmative findings shown on the
+
+record that cannot logically or legally exist at the same time.”
+
+Rutland, 315 Ga. at 522 (1) (citation and punctuation omitted).
+
+Here, the jury’s verdicts were not repugnant. While the jury found
+
+Ward not guilty of aggravated assault as to Rutledge but guilty of
+
+possession of a firearm during the aggravated assault of Rutledge,
+
+                                  29
+ these verdicts could “legally exist at the same time,” and the not
+
+guilty verdict does not require any specific findings by the jury. Id.
+
+     Instead, the jury’s verdicts were “inconsistent.” Rutland, 315
+
+Ga. at 522 (1). “An example of ‘inconsistent verdicts’ is when a
+
+defendant is convicted of possession of a firearm during the
+
+commission of the crime of aggravated assault but found not guilty
+
+of aggravated assault.”    Id.   “Although this Court once viewed
+
+inconsistent verdicts as impermissible, this Court now allows
+
+inconsistent verdicts to stand,” because “it is not generally within
+
+the court’s power to make inquiries into the jury’s deliberations, or
+
+to speculate about the reasons for any inconsistency between guilty
+
+and not guilty verdicts.” Id. (citation and punctuation omitted). See
+
+also Coleman, 286 Ga. at 295-296 (4) (concluding that, while the
+
+appellant “contends his conviction for possession of a firearm during
+
+the commission of the crime of aggravated assault of [the victim]
+
+cannot stand in light of his acquittal of the underlying felony,”
+
+Georgia has rejected the “inconsistent verdict rule,” and          an
+
+                                  30
+ appellant can no longer “attack as inconsistent a jury verdict of
+
+guilty on one count and not guilty on a different count”). As such,
+
+we conclude that the jury’s verdicts on the aggravated assault of
+
+Rutledge and possession of a firearm during the aggravated assault
+
+of Rutledge counts are permitted to stand.12
+
+         3. In Ward’s final contention, he asserts that his trial counsel
+
+provided ineffective assistance by failing to file a motion under
+
+OCGA § 24-4-404 (b) to present “reverse 404 (b) evidence” related to
+
+Belin’s propensity to carry firearms and by failing to object to the
+
+trial court’s pretrial ruling granting the State’s motion in limine
+
+regarding this issue. This claim of ineffective assistance of counsel
+
+fails.
+
+         “To prevail on a claim of ineffective assistance of counsel, a
+
+defendant generally must show that counsel’s performance was
+
+
+
+         12 We question the continuing validity of our repugnant verdict caselaw
+
+in the wake of the United States Supreme Court’s decision in McElrath v.
+Georgia, 
+601 U.S. 87
+, 95-96 (III) (144 SCt 651) (2024). However, our conclusion
+that the verdicts in this case were not repugnant means we need not reach the
+question here, and additionally, none of the parties raised this issue on appeal.
+                                        31
+ deficient, and that the deficient performance resulted in prejudice to
+
+the defendant.” Moss v. State, 
+311 Ga. 123
+, 126 (2) (
+856 SE2d 280
+)
+
+(2021) (citing Strickland v. Washington, 
+466 U.S. 668
+, 687-695 (104
+
+SCt 2052, 80 LE2d 674) (1984)). “To prove deficient performance,”
+
+a defendant “must show that his counsel performed in an objectively
+
+unreasonable way considering all the circumstances and in light of
+
+prevailing professional norms.” Ward v. State, 
+313 Ga. 265
+, 273 (4)
+
+(
+869 SE2d 470
+) (2022) (citation and punctuation omitted).
+
+     The reasonableness of counsel’s conduct is examined from
+     counsel’s perspective at the time of trial and under the
+     particular circumstances of the case, and decisions
+     regarding trial tactics and strategy may form the basis for
+     an ineffectiveness claim only if they were so patently
+     unreasonable that no competent attorney would have
+     followed such a course.
+
+Taylor v. State, 
+312 Ga. 1
+, 15-16 (6) (
+860 SE2d 470
+) (2021) (citations
+
+and punctuation omitted). See also Robinson v. State, 
+278 Ga. 31
+,
+
+36 (2) (d) (
+597 SE2d 386
+) (2004) (“As a general rule, matters of
+
+reasonable trial tactics and strategy, whether wise or unwise, do not
+
+amount to ineffective assistance of counsel,” and “[a] reviewing court
+
+                                 32
+ evaluates trial counsel’s performance from counsel’s perspective at
+
+the time of trial.”). Our assessment is an objective one, not based on
+
+the subjective views of trial counsel. See Lane v. State, 
+312 Ga. 619
+,
+
+623 (2) (a) (
+864 SE2d 34
+) (2021) (noting that “we are not limited in
+
+our assessment of the objective         reasonableness of      lawyer
+
+performance to the subjective reasons offered by trial counsel for his
+
+conduct”; citation omitted).
+
+     “To satisfy the prejudice prong, a defendant must establish a
+
+reasonable probability that, in the absence of counsel’s deficient
+
+performance, the result of the trial would have been different.”
+
+Moss, 311 Ga. at 126 (2). “If an appellant fails to meet his or her
+
+burden of proving either prong of the Strickland test, the reviewing
+
+court does not have to examine the other prong.” Id. (citation and
+
+punctuation omitted). “In reviewing a trial court’s ruling on an
+
+ineffective-assistance claim, we accept the trial court’s factual
+
+findings and credibility determinations unless they are clearly
+
+erroneous, but we independently apply the relevant legal principles
+
+                                 33
+ to the facts.” Copeland v. State, 
+316 Ga. 452
+, 457 (3) (
+888 SE2d 517
+)
+
+(2023).
+
+     (a) Prior to trial, the State moved to exclude any character
+
+evidence related to the witnesses, victims, and law enforcement
+
+officers in this case. The trial court held a pretrial hearing on the
+
+State’s motions in limine on the first morning of trial. During the
+
+hearing, the prosecutor explained that the primary focus of the
+
+State’s motion in limine was Belin’s incarceration from late 2020
+
+until early 2021, which the State anticipated would be addressed
+
+during trial because Belin’s incarceration “impacted his relationship
+
+with [Rutledge].” The prosecutor indicated that the State would
+
+“affirmatively” discuss the fact that Belin was “locked up,” but
+
+argued that the “general rule” still prevailed—i.e., “the character of
+
+witnesses, including victims, [was] not relevant.” The prosecutor
+
+noted that the defense had not provided any discovery to the State,
+
+such as certified copies of convictions or any other documents that
+
+“could be used for proper impeachment,” so the State believed that
+
+                                 34
+ “any bad character of witnesses, victims, any police officers” was “off
+
+limits.”
+
+     In response, Ward’s trial counsel argued that the defense had
+
+     some [photographs] of [Belin] with guns and [Ward’s]
+     defense [was] that Mr. Belin brought the gun to the party
+     rather than [Ward], and [Ward] would like to use those
+     [photographs] as evidence, not for character, but for
+     propensity to carry a gun, and also the conviction for
+     having a gun on school grounds. We believe it is relevant
+     to our defense.13
+
+The prosecutor responded that there had “not been any reverse
+
+[OCGA § 24-4-404 (b) (“Rule 404 (b)”] notice,” and he believed “that
+
+would be required if [the parties were] going to go into—or there’s
+
+going to be any attempt to make pertinent any specific instances of
+
+alleged prior acts.”
+
+     In ruling on the State’s motion in limine, the trial court agreed
+
+with the State that this “type of evidence would require maybe a 404
+
+
+
+
+     13 The record reflects that Ward’s trial counsel did not show any of the
+
+photographs or documentation pertaining to a gun-possession disposition to
+the trial court or the State during the pretrial hearing.
+                                       35
+ (b) notice, which requires [the defense] to put the State on notice.”14
+
+The trial court also observed that it did not “know what exactly the
+
+relevance of that evidence would be at th[at] point” since Ward had
+
+not included self-defense in the requests to charge he filed before
+
+trial. The trial court granted the motion in limine, advising that,
+
+      [i]f during the course of this case, something comes to
+      light or there does appear to be a reason to revisit this,
+      the court is certainly open to doing so if that becomes
+      necessary, but that needs to be done outside the presence
+      of the jury and [the parties] need to notify the court that
+      [they] intend to do it prior to any attempts or any
+      references to that.
+
+At trial, Ward did not raise the issue of introducing any photographs
+
+or convictions of Belin as evidence.
+
+      In his motion for new trial, Ward contended that his trial
+
+counsel “provided ineffective assistance of counsel when counsel
+
+failed to file a [Rule 404 (b)] motion relating to [Belin’s] propensity
+
+to carry firearms.” 15 In support of this claim, Ward argued that “the
+
+
+      14 We express no opinion as to whether a Rule 404 (b) notice to the State
+
+would have been required under these circumstances.
+     15 Ward did not specify in his motion for new trial what evidence his trial
+
+                                      36
+ heart of [his] defense was self[-]defense,” and thus, his trial
+
+“[c]ounsel’s failure to properly file a motion to introduce the
+
+character of [Mr.] Belin related to the use of firearms under [Rule
+
+404 (b)]” fell below “the standard of what a reasonable attorney
+
+would do under the circumstances and prejudiced Mr. Ward’s ability
+
+to support his self-defense claim” because that evidence was
+
+“probative”    of   “whether     a   reasonable     person   under   the
+
+circumstances would have felt threatened sufficiently to justify the
+
+use of deadly force.”
+
+     At the motion-for-new-trial hearing, evidence was presented to
+
+show that Belin was arrested on May 25, 2018 and October 12, 2020
+
+for, respectively: (1) possession of a firearm on school grounds after
+
+law enforcement discovered a firearm inside a motor vehicle
+
+associated with Belin parked at the local high school; and (2)
+
+possession of a firearm after law enforcement discovered a firearm
+
+inside a motor vehicle associated with Belin parked on a street
+
+
+counsel should have sought to admit under Rule 404 (b).
+                                     37
+ where law enforcement officers were responding to a noise
+
+complaint.16 Ward’s trial counsel testified that, during trial
+
+preparation, investigators in the public defender’s office ran a
+
+criminal history report for Belin and “check[ed] social media for
+
+anything that might be out there.” Ward’s trial counsel stated that,
+
+based on Belin’s criminal history report, he was aware of Belin’s
+
+May 2018 arrest “for firearm on school grounds.” However, trial
+
+counsel indicated that, while he knew Belin had been incarcerated
+
+in late 2020 for a probation violation, he did not know how Belin’s
+
+probation had been violated or that Belin had been arrested again
+
+in October 2020. Ward’s trial counsel testified that he advised Ward
+
+before trial that evidence of Belin’s May 2018 arrest “wasn’t
+
+admissible because the judge had ruled on a motion in limine that it
+
+was not admissible,” and the defense was “not going to be allowed to
+
+
+
+     16 At the motion-for-new-trial hearing, the prosecutor advised the trial
+
+court that the State and Ward—through his motion-for-new-trial counsel—had
+“agreed to stipulate” that Belin was “in custody” for the October 2020 charge
+from October 12, 2020 until February 28, 2021, shortly before the crimes at
+issue occurred.
+                                      38
+ go into it.” When trial counsel was asked whether he thought it
+
+would have been “proper to try and file a 404 (b) motion to try to get
+
+that evidence in” based on Ward’s self-defense claim, trial counsel
+
+responded that he did not consider filing a Rule 404 (b) motion
+
+because he “didn’t think it would do any good in view of [the trial
+
+court’s] ruling on the motion in limine already.” On cross
+
+examination, Ward’s trial counsel confirmed that he argued during
+
+the hearing on the State’s motion in limine that information about
+
+Belin’s incarceration “should come in,” but he “gathered from [the
+
+trial court’s] ruling that [the court] was going to put a very tight
+
+[rein] on what [they] could get into with Mr. Belin,” and “the gun
+
+was not one that I could get into.”
+
+     In the order denying Ward’s motion for new trial, the trial court
+
+noted that, during the motion in limine hearing, Ward’s trial counsel
+
+stated that the defense had “some photographs” of Belin with guns
+
+and “a criminal case disposition for having carried a gun on school
+
+grounds” that the defense wanted to use at trial to show Belin’s
+
+                                 39
+ “propensity to carry a gun,” but Ward’s trial counsel did not show
+
+the trial court any such photographs or documentation. The trial
+
+court observed that, in ruling on the State’s motion in limine, the
+
+trial court advised the parties that it would “revisit the issue” at trial
+
+if “a reason were to arise” for the court to do so, but Ward’s trial
+
+counsel “did not later request [the trial court] to revisit the issue.”
+
+The trial court then noted that, at the motion for new trial hearing,
+
+“evidence was presented about 2 instances in which Mr. Belin had
+
+been arrested for having possessed, constructively, a firearm,” but
+
+concluded that this evidence did not demonstrate that Belin “had a
+
+violent character trait” and would not have been “an essential
+
+element of [Ward’s] self-defense claim.”          The trial court also
+
+concluded that this evidence did not “indicate that Belin had ever
+
+used a firearm offensively against another person” or that Ward
+
+“had been involved in either incident.” The trial court further
+
+determined that evidence of Belin’s arrests and any photographs of
+
+Belin with guns “would not have been admissible under [OCGA §§
+
+                                   40
+ 24-4-404 (a) (2) or 24-4-405] to demonstrate that Mr. Belin had
+
+allegedly possessed a firearm during his fatal encounter with
+
+[Ward].”
+
+     On this basis, the trial court concluded that Ward’s trial
+
+counsel was not deficient for electing not to file a Rule 404 (b) motion
+
+seeking to admit this evidence because “if the [d]efense had filed
+
+such [a] reverse Rule 404 (b) motion solely to try to show Mr. Belin’s
+
+propensity for possessing a firearm, such purpose would have
+
+constituted sheer propensity evidence that [the trial court] would
+
+have been authorized to exclude from trial.” The trial court also
+
+ruled that “any marginal relevance or probative value of that other
+
+act evidence would have been substantially outweighed by the
+
+danger of unfair prejudice” and, thus, “excludable under OCGA § 24-
+
+4-403.” The trial court further determined that, “even pretermitting
+
+any deficiency in this regard, [Ward] ha[d] not established the
+
+prejudice prong” of Strickland.
+
+
+
+                                  41
+       On appeal, Ward contends that his trial counsel was deficient
+
+in conceding to the trial court’s pretrial ruling on the State’s motion
+
+in limine and in failing to file a Rule 404 (b) motion to introduce
+
+evidence of Belin’s prior “gun charge” because this evidence was
+
+admissible to show “the character of Mr. Belin related to the use of
+
+firearms” and Belin’s “propensity to carry firearms” and was
+
+relevant to Ward’s self-defense claim. 17 Ward further argues that
+
+his trial counsel’s failure to seek to admit this evidence prejudiced
+
+Ward’s ability to support his self-defense claim. We see no merit to
+
+
+
+
+      17 In his briefing, Ward does not mention any photographs of Belin “with
+
+guns”—i.e., the photographs referenced by his trial counsel during the motion
+in limine hearing—or argue that those photographs would have been
+admissible under Rule 404 (b) had his trial counsel filed the requisite Rule 404
+(b) motion, so we assume Ward has abandoned any such claim on appeal. See
+Harris v. State, 
+313 Ga. 653
+, 665 (6) n.13 (
+872 SE2d 732
+) (2022) (noting that
+appellant abandoned any claim that a Brady violation occurred with respect to
+records from his prior trial “by failing to make any argument in support of it
+on appeal”) (citing former Supreme Court Rule 22 (“Any enumerated error not
+supported by argument or citation of authority in the brief shall be deemed
+abandoned.”)). Additionally, Ward does not make any argument or cite to any
+legal authority in support of his contention that his trial counsel was
+ineffective by failing to object to the trial court’s pretrial ruling granting the
+State’s motion in limine; thus, we assume this claim is similarly abandoned.
+See 
+id.
+
+                                        42
+ these contentions, as Ward has not shown that this evidence would
+
+have been admissible at trial.
+
+     (b) First, although OCGA § 24-4-404 (a) (2) provides that “an
+
+accused may offer evidence of a pertinent trait of character of the
+
+alleged victim, for the purpose of proving action in conformity
+
+therewith,” that evidence “is generally limited [by OCGA § 24-4-405
+
+(a)] to testimony as to reputation or by testimony in the form of an
+
+opinion.” Copeland, 316 Ga. at 458 (3) (b) (citing OCGA §§ 24-4-404
+
+(a) (2) and 24-4-405 (a); punctuation omitted). See also Wofford v.
+
+State, 
+305 Ga. 694
+, 698 (2) (c) (
+827 SE2d 652
+) (2019) (“Character
+
+about a victim generally is limited to reputation or opinion, not
+
+specific bad acts.”). And, in cases where an accused is arguing self-
+
+defense, the accused may only seek to introduce evidence of the
+
+victim’s violent character through the admission of “reputation and
+
+opinion testimony.” Strong v. State, 
+309 Ga. 295
+, 313-314 (3) (
+845
+
+SE2d 653
+) (2020).    We have held that “‘specific instances’ of a
+
+victim’s conduct,” Copeland, 316 Ga. at 458 (3) (b) (quoting OCGA §
+
+                                 43
+ 24-4-405 (b)), are not admissible where the accused is arguing self-
+
+defense because “a victim’s violent character is not an essential
+
+element of a self-defense claim.” Strong, 390 Ga. at 313-314 (3)
+
+(holding that OCGA § 24-4-404 (a) “allowed [an a]ppellant to offer
+
+evidence of [the victim’s] violent character, as that trait was
+
+pertinent to [the a]ppellant’s claim of self-defense,” but OCGA § 24-
+
+4-405 (a) required that this trait be “proved only with reputation and
+
+opinion testimony”; emphasis in original).
+
+     Here, to the extent Belin’s purportedly violent character was
+
+pertinent to Ward’s claim of self-defense at trial, Ward could only
+
+prove this character trait “by reputation and opinion testimony,”
+
+which Ward never sought to do and does not argue his trial counsel
+
+should have done. Strong, 309 Ga. at 313-314 (3). See also Beck,
+
+310 Ga. at 498 (3). Instead, Ward argues that his trial counsel
+
+should have sought to prove Belin’s purportedly violent character
+
+through the admission of his prior gun charge, which was not
+
+admissible for this purpose. See Strong, 309 Ga. at 313-314 (3).
+
+                                 44
+ And, because Belin’s prior gun charge was not admissible for this
+
+purpose, Ward’s trial counsel was not deficient in failing to introduce
+
+evidence of this prior conviction at trial. See Wofford, 
+305 Ga. at 699
+
+
+(2) (c) (“Absent a showing that these prior convictions would have
+
+been admissible at trial, [the appellant] cannot prove that his lawyer
+
+rendered ineffective assistance when he failed to present evidence of
+
+the prior convictions.”).
+
+     (c) Additionally, we have held that “[s]pecific instances of a
+
+victim’s past conduct may also be admitted, not to show the victim’s
+
+action in conformity therewith, but rather [to] establish the
+
+defendant’s state of mind and the reasonableness of the defendant’s
+
+use of force.” Copeland, 316 Ga. at 458 (3) (b) (citation and
+
+punctuation omitted). See also OCGA § 24-4-404 (b) (allowing
+
+evidence of “other crimes, wrongs, or acts” to be “offered to prove the
+
+circumstances immediately surrounding the charged crime, motive,
+
+or prior difficulties between the accused and the alleged victim”).18
+
+
+     18 As we did in Roberts v. State, 
+305 Ga. 257
+, 260 (3) (
+824 SE2d 326
+)
+
+                                   45
+ However, “[b]ecause such evidence is offered as proof of the
+
+defendant’s state of mind at the time of the charged crime, it is only
+
+admissible if there is proof that the defendant actually knew about
+
+the victim’s prior acts at that time.” Copeland, 316 Ga. at 458-459
+
+(3) (b).
+
+      Here, there is no evidence that Ward “was aware at the time of
+
+the shooting[]” of Belin’s 2018 conviction, “so the conviction[] would
+
+not have been admissible to show” Ward’s “state of mind or the
+
+reasonableness of his conduct” when he shot Belin in March 2021.
+
+Wofford, 
+305 Ga. at 698
+ (2) (c) (citing OCGA § 24-4-404 (b)). Given
+
+that nothing in the record shows that Ward “actually knew” about
+
+Belin’s prior conviction, Copeland, 316 Ga. at 459 (3) (b), or had
+
+“personal knowledge” of “any specific acts of violence” by Belin at the
+
+time the shooting occurred, Ward’s claim of ineffective assistance
+
+based on his counsel’s alleged failure to seek to introduce evidence
+
+
+
+
+(2019), we again assume without deciding that Rule 404 applies to evidence
+regarding the other acts of a victim or third party.
+                                       46
+ of this conviction fails. Beck, 310 Ga. at 498 (3) (concluding that,
+
+only where “the defendant had personal knowledge” of “a victim’s
+
+specific acts of violence,” will those acts potentially “be admissible to
+
+show the defendant’s state of mind with respect to self-defense”).
+
+     For the reasons set forth above, we conclude that, because
+
+Ward failed to establish that “his counsel performed in an objectively
+
+unreasonable way considering all the circumstances and in light of
+
+prevailing professional norms,” Ward has failed to prove that his
+
+counsel performed deficiently. Ward, 313 Ga. at 273 (4). See also
+
+Copeland, 316 Ga. at 456 (3) (“To overcome the strong presumption
+
+that counsel performed reasonably, the defendant must show that
+
+no reasonable lawyer would have done what his lawyer did, or would
+
+have failed to do what his lawyer did not.”) (quotation and
+
+punctuation omitted). Thus, Ward’s claim of ineffective assistance
+
+of counsel fails.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+                                   47
+ 

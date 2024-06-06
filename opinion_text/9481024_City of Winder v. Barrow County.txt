@@ -1,0 +1,1537 @@
+ NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+ Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+ opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+ prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+ official text of the opinion.
+
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: March 5, 2024
+
+
+         S23G0341. CITY OF WINDER v. BARROW COUNTY.
+
+
+        MCMILLIAN, Justice.
+
+        This case addresses three issues of first impression involving
+
+the interpretation and application of the Services Delivery Strategy
+
+(“SDS”) Act (the “Act”), OCGA § 36-70-20 et seq.,1 in connection with
+
+disputes between the City of Winder (the “City”) and Barrow County
+
+(the “County”) about the delivery of services to County and City
+
+residents and property owners and how those services are to be
+
+funded.2 As we explain below, we conclude that whether the
+
+
+        1 OCGA § 36-70-20 explains that the Act is intended “to provide a flexible
+
+framework within which local governments in each county can develop a
+service delivery system that is both efficient and responsive to citizens in their
+county;” “to minimize inefficiencies resulting from duplication of services and
+competition between local governments[;] and to provide a mechanism to
+resolve disputes over local government service delivery, funding equity, and
+land use.”
+      2 The Court thanks the Georgia Municipal Association, Inc.; the Cities of
+
+Stockbridge and Valdosta; the Association County Commissioners of Georgia
+ maintenance of county roads primarily benefits the unincorporated
+
+area of a county requires consideration of the totality of the
+
+circumstances involved and cannot be resolved as a matter of law;
+
+that services that primarily benefit the unincorporated area of the
+
+county must be funded through the mechanisms delineated in the
+
+Act; and that the proceeding set out in the Act for resolution of SDS
+
+disputes does not permit the County to challenge whether water
+
+rates charged by the City are an illegal tax and whether the City
+
+may transfer profits from providing water service into its general
+
+fund.
+
+     In 1999, Barrow County and the municipalities located within
+
+the County—the cities of Winder, Auburn, and Statham and the
+
+towns of Bethlehem, Braselton, and Carl—entered into a
+
+comprehensive SDS Agreement for the provision of a number of
+
+services to County and municipal residents and property owners
+
+
+
+(“ACCG”); and Bulloch, Cherokee, Dawson, Forsyth, Greene, Gwinnett, Henry,
+Lowndes, Lumpkin, Newton, Rabun, Screven, and Walker Counties for their
+amici curiae briefs, which greatly assisted us in our consideration of these
+important questions of Georgia law. This case was orally argued before this
+Court on October 17, 2023.
+                                     2
+ including road maintenance and water utility service. That
+
+Agreement was extended several times and was set to expire on
+
+February 28, 2019. In advance of that deadline and in an effort to
+
+avoid sanctions under the Act,3 the parties attempted to come to a
+
+consensus on a new SDS Agreement, but the negotiations between
+
+the parties did not successfully resolve all of their issues. As a result,
+
+in 2018 and 2019, the County, City, and other municipalities within
+
+the County participated in voluntary mediation under the Act. See
+
+OCGA § 36-70-25.1 (c).4 The parties were able to settle all but two of
+
+forty-one service issues in dispute through mediation.
+
+
+
+
+      3 Because the parties failed to agree to an updated SDS Agreement by
+
+the February 28, 2019 deadline, sanctions under OCGA § 36-70-27 (a) were
+imposed on the County and each municipality. However, after the County filed
+a petition seeking resolution of these issues, the superior court ordered that
+the sanctions be held in abeyance during the pendency of the litigation. See
+OCGA § 36-70-25.1 (d) (2) (“It shall be in the discretion of the judge to hold the
+sanctions specified in Code Section 36-70-27 against one or more of the parties
+in abeyance pending the disposition of the action.”).
+      4 OCGA § 36-70-25.1 (c) provides for the use of alternative dispute
+
+resolution, as follows:
+      If a county and the affected municipalities in the county are unable
+      to reach an agreement on the strategy prior to the imposition of
+      the sanctions provided in Code Section 36-70-27, a means for
+      facilitating an agreement through some form of alternative dispute
+      resolution shall be employed.
+                                        3
+      To resolve the remaining conflicts, the County filed a three-
+
+count petition pursuant to OCGA § 36-70-25.1 (d)5 seeking court-
+
+ordered mediation and/or a judicial resolution of the disputes. The
+
+petition identified the remaining service issues as relating to (1) the
+
+funding for the County’s road maintenance and (2) the water utility
+
+service, including “(a) the arbitrariness of the water rate
+
+differentials charged by [the City] to customers located inside and
+
+outside of [the] city limits and (b) [the] County’s authority to provide
+
+water service to all customers located in the unincorporated area of
+
+the County.”
+
+     The County later amended its petition to add another count
+
+
+
+
+     5 OCGA § 36-70-25.1 (d) (1) (A) allows the parties to seek resolution of
+
+their disputes in superior court:
+      In the event that the county and the affected municipalities in the
+      county fail to reach an agreement after the imposition of sanctions
+      provided in Code Section 36-70-27, then the following process is
+      available to the parties: . . . [t]he county or any affected
+      municipality located within the county may file a petition in [the]
+      superior court of the county seeking mandatory mediation.
+If the court-ordered mediation does not resolve the disputes, “any aggrieved
+party may petition the superior court and seek resolution of the items
+remaining in dispute. The . . . judge shall conduct an evidentiary hearing or
+hearings as such judge deems necessary and render a decision with regard to
+the disputed items.” OCGA § 36-70-25.1 (d) (2).
+                                     4
+ (“Count IV”) alleging that the City’s water service charges for
+
+residents in unincorporated areas of the County or in another
+
+municipality (the “Outside Customers”) amounted to an illegal tax
+
+on such residents based on the differential in the rates the City
+
+charged its own residents and those it charged the Outside
+
+Customers. Under the previous SDS Agreement between the County
+
+and the City, the City provided exclusive water service to an area
+
+that included the City but also the Outside Customers. The County
+
+alleged that, between 2012 and 2017, the City overcharged the
+
+Outside Customers to generate a total of over $13 million in profit
+
+above the actual cost of providing the service through what it
+
+characterized as arbitrary, excessive, and abusive water rates and
+
+that the City transferred these profits to its general fund. The
+
+County also alleged that throughout the SDS mediation process, the
+
+County demanded that the City discontinue monetary transfers out
+
+of its water fund into the general fund. Count IV “requests that the
+
+Court enter an order finding that the establishment of Outside
+
+Customer water rates and fees at a level designed to generate a
+
+                                 5
+ profit from Outside Customers constitutes an illegal tax on Outside
+
+Customers and that the City [] does not have the legal authority to
+
+transfer profits collected from the sale of water to Outside
+
+Customers out of its Water Fund and into its General Fund except
+
+to recover the cost of bona fide support provided to the Water Fund
+
+by other governmental funds.”
+
+     After the parties participated in court-ordered mediation,
+
+which again failed to resolve the outstanding service delivery issues,
+
+they began to engage in discovery. Prior to the completion of that
+
+process, the County and the City filed cross-motions for partial
+
+summary judgment on the legal issue of what standard should be
+
+used under OCGA § 36-70-24 (3) (A) 6 to determine whether
+
+residents, individuals, and property owners of the incorporated
+
+areas of the County could be charged for the costs of road
+
+maintenance for county roads located in unincorporated areas of the
+
+
+     6 OCGA § 36-70-24 (3) (A) provides in relevant part: “The strategy shall
+
+ensure that the cost of any service which a county provides primarily for the
+benefit of the unincorporated area of the county shall be borne by the
+unincorporated area residents, individuals, and property owners who receive
+the service.”
+                                     6
+ County. The City argued that under OCGA § 36-70-24 (3) (A), the
+
+geographic location of the roads, which necessarily is where the
+
+money would be spent to perform maintenance on the roads
+
+determined which County residents, individuals, and property
+
+owners could be charged for the maintenance,7 while the County
+
+argued that road maintenance funding depended, instead, on who
+
+had access to and used the roads. Thus, the County contended that
+
+municipal residents could also be charged for maintenance of county
+
+roads. The City later filed a second motion for partial summary
+
+judgment, contending that the County’s source of revenue to fund
+
+services for the unincorporated areas was limited to the mechanisms
+
+spelled out in OCGA § 36-70-24 (3) (B): “property taxes, insurance
+
+premium taxes, assessments, or user fees.”8 In addition, the City
+
+
+      7 The City contemporaneously moved to dismiss Count II of the petition,
+
+asserting that the County failed to fulfill the statutory requirements for
+bringing such a claim, which the City contended should have been brought in
+a separate proceeding. The superior court denied that motion, but the City does
+not appeal that ruling.
+      8 Under OCGA § 36-70-24 (3) (B),
+
+      [s]uch funding shall be derived from special service districts
+      created by the county in which property taxes, insurance premium
+      taxes, assessments, or user fees are levied or imposed or through
+
+                                      7
+ filed a motion to dismiss Count IV, arguing that the issues of
+
+whether the City’s water rate charges to Outside Customers
+
+amounted to an illegal tax and whether the City could transfer any
+
+profits gleaned from the excess charges to its general fund were
+
+beyond the scope of the statutory proceeding prescribed in OCGA §
+
+36-70-25.1 (d).
+
+     Following a hearing, the superior court granted the County’s
+
+cross-motion      for   partial   summary    judgment      on   the      road
+
+maintenance funding issue and denied the City’s motion, concluding
+
+as a matter of law that road maintenance funding “is focused solely
+
+on those ‘that receive the service.’” The court also denied the City’s
+
+second motion for partial summary judgment that sought to limit
+
+the sources of revenue for funding services primarily for the benefit
+
+of the unincorporated areas to property taxes, insurance premium
+
+taxes, assessments, or user fees under OCGA § 36-70-24 (3) (B). In
+
+addition, the court denied the City’s motion to dismiss Count IV of
+
+
+
+     such other mechanism agreed upon by the affected parties which
+     complies with the intent of subparagraph (A) of this paragraph[.]
+                                     8
+ the petition.
+
+     The City appealed the superior court’s orders to the Court of
+
+Appeals, which affirmed the superior court’s rulings in a split
+
+decision. See City of Winder v. Barrow County, 
+365 Ga. App. 832
+ (
+880
+
+SE2d 323
+) (2022).
+
+     We granted the City’s petition for certiorari to consider the
+
+Court of Appeals’s rulings on three questions:
+
+     (1) Is the maintenance of county roads in an unincorporated
+
+area of the County, which connect to roads within the City,
+
+“primarily for the benefit of the unincorporated area” as that phrase
+
+is used in OCGA § 36-70-24 (3) (A)?
+
+     (2) Does OCGA § 36-70-24 (3) (B) require that funding for
+
+services provided primarily for the benefit of unincorporated areas
+
+come from “property taxes, insurance premium taxes, assessments,
+
+or user fees” levied or imposed with a special service district, or does
+
+it authorize the County to use other sources of revenue?
+
+     (3) Is a superior court that is adjudicating a petition under
+
+OCGA § 36-70-25.1 (d) (2) authorized to determine whether the
+
+                                   9
+ City’s usage rates charged to water customers in unincorporated
+
+areas of the County are an illegal tax?
+
+     1. Addressing each of these issues in turn, we begin with the
+
+parties’ dispute over who should bear the cost of county road
+
+maintenance in the unincorporated area of the County. Our review
+
+of the Court of Appeals’s rulings on the parties’ cross-motions for
+
+partial summary judgment is de novo because this appeal involves
+
+only legal issues, not questions of fact.9 See Raffensperger v.
+
+Jackson, 
+316 Ga. 383
+, 387 (2) (
+888 SE2d 483
+) (2023).
+
+     The parties agree that the resolution of this issue is governed
+
+by OCGA § 36-70-24 (3) (A), which provides:
+
+     The [service delivery] strategy shall ensure that the cost
+     of any service which a county provides primarily for the
+     benefit of the unincorporated area of the county shall be
+     borne by the unincorporated area residents, individuals,
+     and property owners who receive the service.
+
+However, the parties disagree on the standard for determining
+
+
+
+
+     9 The parties did not submit evidence in the trial court in support of their
+
+summary judgment motions on the issues of where the county roads are located
+or who was actually using the roads and focused their arguments on the legal
+issue of the standard to be used under OCGA § 36-70-24 (3) (A).
+                                      10
+ whether maintenance of county roads is “primarily for the benefit of
+
+the unincorporated area.” The County argues that if the county
+
+roads are available to anyone in the county to use, then the road
+
+maintenance is not primarily for the benefit of the unincorporated
+
+area; in contrast, the City argues that as a matter of law, if the
+
+county roads are located primarily in the unincorporated area, then
+
+maintenance of those roads is primarily for the benefit of the
+
+unincorporated area.
+
+     On cross-motions for partial summary judgment, the superior
+
+court agreed with the County and determined that the inquiry for
+
+determining who should bear the costs of road maintenance in this
+
+case, “[should be] focused solely on those ‘that receive the service,’”
+
+citing the text at the end of the first sentence of OCGA § 36-70-24
+
+(3) (A), reasoning that the statute makes “no mention of where the
+
+services are located.” In affirming the superior court’s ruling, the
+
+Court of Appeals viewed the text of OCGA § 36-70-24 (3) (A)
+
+differently, determining that the concepts of road usage and
+
+“benefit,” as used in the statute, are “inextricably intertwined,” and
+
+                                  11
+ “the focus of the Act is not on the geographical location of the public
+
+service, but on who uses (and thus benefits) from the service.”10
+
+Winder, 365 Ga. App. at 835-36 (1). The Court of Appeals further
+
+determined as a matter of law that county roads, “regardless of their
+
+specific geographic location, benefit all residents of the county — as
+
+does their upkeep.” Id. at 836 (citing generally DeKalb County v. City
+
+of Decatur, 
+247 Ga. 695
+, 697 (2) (
+279 SE2d 427
+) (1981) (“County
+
+taxpayers residing in municipalities enjoy the use of DeKalb County
+
+parks, roads and other facilities, and the protection of the DeKalb
+
+County police, while they are going about their business or enjoying
+
+their leisure time outside the boundaries of the municipalities in
+
+which they reside.”)).
+
+      We begin our analysis by setting out first principles. “When we
+
+consider the meaning of a statute, we must presume that the
+
+General Assembly meant what it said and said what it meant.” Deal
+
+v. Coleman, 
+294 Ga. 170
+, 172 (1) (a) (
+751 SE2d 337
+) (2013) (citation
+
+
+
+      10 The court noted that it was affirming the superior court under the
+
+“right for any reason” doctrine. Winder, 365 Ga. App. at 836 n. 6.
+                                      12
+ and punctuation omitted). And “[a]s in all cases of statutory
+
+construction, we remain mindful that we must give the language its
+
+plain and ordinary meaning, view it in the context in which it
+
+appears, and read it in its most natural and reasonable way.” State
+
+v. Cook, 
+317 Ga. 659
+, 660 (1) (
+893 SE2d 670
+) (2023) (citation and
+
+punctuation omitted). We determine the ordinary public meaning of
+
+legal text by considering the meaning the text had at the time it was
+
+enacted. See Seals v. State, 
+311 Ga. 739
+, 740 (1) (
+860 SE2d 419
+)
+
+(2021), disapproved of on other grounds by Gonzales v. State, 
+315
+
+Ga. 661
+ (
+884 SE2d 339
+) (2023). Dictionaries are often helpful “[i]n
+
+ascertaining the ordinary meaning of a word that is not defined in a
+
+statute,” but they “cannot be the definitive source of ordinary
+
+meaning in questions of textual interpretation because they are
+
+acontextual, and context is a critical determinant of meaning.”
+
+McBrayer v. Scarbrough, 
+317 Ga. 387
+, 394 (2) (d) (
+893 SE2d 660
+)
+
+(2023).
+
+     Turning to the text, OCGA § 36-70-24 (3) (A) explains that the
+
+“cost of any service”—in this case, road maintenance—“which a
+
+                                 13
+ county provides primarily for the benefit of the unincorporated area
+
+of the county” shall be borne by persons in the unincorporated area
+
+“who receive the service.” Thus, the question is whether
+
+maintenance of the County roads is a service that the County
+
+“provides primarily for the benefit of the unincorporated area.” The
+
+key terms in that phrase are “primarily” and “benefit,” so we begin
+
+by construing those terms according to their meaning at the time of
+
+their enactment.
+
+     At the time the Act went into effect in 1997, the term
+
+“primarily” was defined for ordinary usage in this context as “for the
+
+most part[,] chiefly.” Merriam Webster’s Collegiate Dictionary 925
+
+(10th ed. 1995). Black’s Law Dictionary defined “primary,” the
+
+adjectival form of the adverb “primarily,” as “[f]irst; principal; chief;
+
+leading.” Black’s Law Dictionary (Abridged) 826 (6th ed. 1991). See
+
+Zaldivar v. Prickett, 
+297 Ga. 589
+, 596 (1) (
+774 SE2d 688
+) (2015)
+
+(looking to Black’s Law Dictionary for “the usual and customary
+
+meaning of [a] term as used in a legal context”). Moreover, in
+
+construing an ordinance that was enacted nine years after the Act,
+
+                                   14
+ this Court determined that the word “primarily" is not ambiguous
+
+and means “for the most part,” (citing Merriam-Webster’s dictionary
+
+and also referencing the definition of the word “primarily” as
+
+“mainly; principally” in Webster’s New World College Dictionary
+
+(2007). Rockdale County v. U. S. Enterprises, Inc., 
+312 Ga. 752
+, 767
+
+(3) (b) (
+865 SE2d 135
+) (2021), (citing United States v. Gibson, 998
+
+F3d 415, 419-420 (III) (A) (9th Cir. 2021) (“The phrase ‘primarily
+
+used by children’ is not indeterminate.”); In re Kelly, 841 F2d 908,
+
+916 (III) (A) (3) (9th Cir. 1988) (“[T]he modifier ‘primarily’ is not a
+
+word that is ambiguous or difficult to understand.”); Pizza di Joey,
+
+LLC v. Mayor of Baltimore, 235 A3d 873, 907 (III) (C) (2) (a) (Md.
+
+2020) (holding that “primarily engaged in” has a “generally accepted
+
+meaning”)).11 “Benefit” was defined in 1997 as “something that
+
+promotes well-being” or “useful aid.” Merriam-Webster at 106, and
+
+“[a]dvantage; profit; fruit; privilege; gain; interest . . . [;] [b]enefits
+
+
+      11 We note that the county ordinance at issue in Rockdale expressly
+provided that all words not otherwise defined in the ordinance “are intended
+to have the commonly accepted definitions contained in a recent edition of the
+Merriam-Webster Dictionary.” Rockdale County, 312 Ga. at 755 (1). No such
+direction appears in the Act.
+                                     15
+ are something to advantage of, or profit to, [the] recipient.” Black’s
+
+Law Dictionary at 108.
+
+      Applying these definitions and considering the context and
+
+syntax of the sentence in which these words appear in the statute,
+
+we view the phrase “any service which a county provides primarily
+
+for the benefit of the unincorporated area of the county” to mean any
+
+service a county provides for the chief advantage, privilege, or
+
+interest of, or chiefly and principally for the unincorporated area.
+
+And it is only if it is determined that the unincorporated area is the
+
+primary beneficiary of the service that the “unincorporated area
+
+residents, individuals, and property owners who receive the service”
+
+bear the costs of that service.
+
+     We see nothing in the text of OCGA § 36-70-24 (3) (A) that
+
+supports the County’s argument that the correct standard for
+
+determining the primary beneficiary of a service turns solely on who
+
+uses the service. As we understand it, the County argues that the
+
+phrase “who receive the service” at the end of the first sentence of
+
+OCGA § 36-70-24 (3) (A) means that those who have access to and
+
+                                  16
+ may use the service—in this case, maintenance of county roads—
+
+are, as a matter of law, those who primarily benefit from it under
+
+the meaning of the statute. But this construction ignores the syntax
+
+and structure of OCGA § 36-70-24 (3) (A) and improperly links two
+
+grammatically unrelated phrases in the text—the phrase “primarily
+
+for the benefit of” and the phrase “who receive the service” at the
+
+end of the sentence—while ignoring the phrase “the unincorporated
+
+area of the county” that comes between them. Courts often rely on
+
+the rules of grammar to provide a structure for discerning the
+
+ordinary meaning of legal text, and we see no reason to depart from
+
+those rules here. See State v. SASS Group, LLC, 
+315 Ga. 893
+, 900-
+
+01 (2) (b) (
+885 SE2d 761
+) (2023) (“We may also refer to the rules of
+
+English grammar, inasmuch as those rules are the guideposts by
+
+which ordinary speakers of the English language commonly
+
+structure their words[.]”) (citation and punctuation omitted).
+
+     Nevertheless, the County argues that any construction of
+
+OCGA § 36-70-24 (3) (A) not based strictly on who uses the county
+
+roads would violate the Uniformity Clause of the Georgia
+
+                                 17
+ Constitution, Ga. Const. Art. VII, Sec. 1, Para. III (a) (“[A]ll taxation
+
+shall be uniform upon the same class of subjects within the
+
+territorial limits of the authority levying the tax.”). However, to the
+
+extent that the County is challenging the constitutionality of OCGA
+
+§ 36-70-24 (3) (A), we need not address that argument in this appeal
+
+because, even though the County raised the issue before the superior
+
+court, the court did not issue a ruling on it. See Franzen v.
+
+Downtown Dev. Auth. of Atlanta, 
+309 Ga. 411
+, 425 (3) (d) n.27 (
+845
+
+SE2d 539
+) (2020) (“This Court does not reach the constitutionality
+
+of a statute unless it clearly appears in the record that the
+
+constitutional issue was directly and properly raised in the trial
+
+court and distinctly ruled on by the trial judge.”) (emphasis omitted).
+
+Moreover, to the extent that the County is asserting that under the
+
+canon of constitutional doubt we should construe OCGA § 36-70-24
+
+(3) (A) to avoid a potential conflict with the Uniformity Clause, that
+
+canon does not apply to a statute that we have determined to be
+
+unambiguous. See Domingue v. Ford Motor Co., 
+314 Ga. 59
+, 68 (2)
+
+(c) (
+875 SE2d 720
+) (2022) (courts cannot rely on the canon of
+
+                                   18
+ constitutional doubt where the legal text “is clear and is not
+
+susceptible of more than one meaning”); Crowder v. State, 
+309 Ga.
+
+66
+, 73 (2) (d) n.8 (
+844 SE2d 806
+) (2020) (explaining that the canon
+
+of constitutional doubt cannot be relied upon to avoid a “potential
+
+constitutional issue” when “we can identify only one plausible
+
+interpretation of [a] statute” (citation and punctuation omitted)).
+
+     The County also argues against our plain reading of the text
+
+of OCGA § 36-70-24 (3) (A), which requires an analysis of whether
+
+the service primarily benefits the unincorporated area of the
+
+county–not simply a consideration of who uses the service–because
+
+it contradicts the interpretation of the Act set out in the publication
+
+Charting a Course for Cooperation and Collaboration – An
+
+Introduction to the Service Delivery Strategy Act for Local
+
+Governments. This document was published in 1997, after the date
+
+of the Act’s enactment, by the Georgia Department of Community
+
+Affairs, the department charged with implementing the Act, and
+
+several organizations involved in drafting the Act—the Association
+
+County    Commissioners     of   Georgia,   the   Georgia   Municipal
+
+                                  19
+ Association, and the Carl Vinson Institute of Government at the
+
+University of Georgia. The publication describes itself as a
+
+“guidebook” for city and county officials for implementation of the
+
+Act and does not purport to be binding legal authority. With respect
+
+to county road maintenance, this guidebook stated that, under the
+
+Act, county road maintenance is not provided primarily for the
+
+benefit of the unincorporated area within the meaning of OCGA §
+
+36-70-24 (3) (A) because county roads are “available” to all county
+
+residents, thus purporting to dictate that the only factor to be
+
+considered on the question of whether county road maintenance
+
+primarily benefits the unincorporated area is who uses the roads,
+
+despite the express language in the statute.
+
+     However, even in the unlikely event that this guidebook could
+
+constitute an agency’s interpretation of a statute on par with duly
+
+adopted regulations, 12 we defer “to an agency’s interpretation [of
+
+
+     12 Compare Pruitt Corp. v. Ga. Dept. of Community Health, 
+284 Ga. 158
+,
+
+159-60 (1) (
+664 SE2d 223
+) (2008) (Court of Appeals erred in giving
+interpretation in agency manual deference due a statute, rule or regulation
+where manual “had not undergone the scrutiny afforded a statute during the
+
+                                    20
+ legal text] only when we are unable to determine the meaning of the
+
+legal text at issue.” City of Guyton v. Barrow, 
+305 Ga. 799
+, 802 (2)
+
+(
+828 SE2d 366
+) (2019). In other words, we only defer to an agency’s
+
+interpretation, if at all, when the text is ambiguous. Because we
+
+discern no ambiguity in the text of OCGA § 36-70-24 (3) (A), we need
+
+not consider the interpretation set forth in the guidebook. See id. at
+
+803 (2) (“A statute or regulation is not ambiguous merely because
+
+interpreting it is hard.”) .
+
+     Accordingly, the Court of Appeals erred in affirming the
+
+superior court’s grant of partial summary judgment to the County
+
+and denial of partial summary judgment to the City on this issue, so
+
+we reverse and remand for further proceedings consistent with this
+
+opinion. To that end, we note that despite the arguments of the
+
+parties, the determination of whether county roads and their
+
+maintenance are provided primarily for the benefit of the
+
+unincorporated area of the County does not depend just on one factor
+
+
+legislative process or the adoption process through which all rules and
+regulations must pass”).
+
+                                  21
+ such as geography or usage, and we decline to determine as a matter
+
+of law whether county roads located mostly in the unincorporated
+
+area of the County are primarily for the benefit of the
+
+unincorporated area. Instead, whether road maintenance is
+
+primarily for the benefit of the unincorporated area of the County is
+
+a determination the superior court is authorized to make on remand
+
+after an evidentiary hearing and after considering the totality of the
+
+circumstances, including geographic location               and usage of the
+
+roads.13 See OCGA § 36-70-25.1 (d) (2) (“The visiting or senior judge
+
+shall conduct an evidentiary hearing or hearings as such judge
+
+deems necessary and render a decision with regard to the disputed
+
+items.”). 14
+
+      2. We next address whether OCGA § 36-70-24 (3) (B) requires
+
+
+
+      13 We emphasize that geographic location and usage of roads are only
+
+two factors that the superior court may consider depending on the evidence
+presented by the parties, which could also include traffic studies and other
+expert analysis, and we decline to delineate or limit other factors that the
+superior court may consider to make this determination.
+      14 The Act provides that proceedings seeking resolution of SDS disputes
+
+“shall be assigned to a judge . . . who is not a judge in the circuit in which the
+county is located. The judge selected may also be a senior judge . . . who resides
+in another circuit.” OCGA § 36-70-25.1 (d) (1) A).
+                                       22
+ that funding for services provided primarily for the benefit of the
+
+unincorporated area come from “property taxes, insurance premium
+
+taxes, assessments, or user fees” levied or imposed within a special
+
+service district, or, in contrast, it authorizes the County to use other
+
+sources of revenue from within that special service district.
+
+     OCGA § 36-70-24 (3) (B) states that the funding for services
+
+provided primarily for the benefit of an unincorporated area
+
+     shall be derived from special service districts created by
+     the county in which property taxes, insurance premium
+     taxes, assessments, or user fees are levied or imposed or
+     through such other mechanism agreed upon by the
+     affected parties which complies with the intent of
+     subparagraph (A) of this paragraph[.]
+
+     The County argues that “property taxes” and “assessments”
+
+refer to general categories of funding and therefore the County is
+
+allowed to use any funding source within the special service district
+
+to pay for services intended primarily for the benefit of the
+
+unincorporated area. 15 The City argues, on the other hand, that the
+
+
+     15   Specifically, the County argues that “property taxes” and
+“assessments” include cable franchise taxes, alcohol excise taxes, financial
+institution taxes, hotel/motel taxes, occupation taxes, and railroad equipment
+taxes.
+                                     23
+ statutory list is intended to be exhaustive, that the term
+
+“assessments” means “special assessments” because “assessments”
+
+must be read consistently with the other revenue sources listed,
+
+which are specific and not general terms, and that “property taxes”
+
+refer only to ad valorem property taxes. 16
+
+     First, neither the term “property taxes” nor the term
+
+“assessments” is defined in the Act, so we must construe these terms
+
+using the rules of statutory construction, some of which we have
+
+already discussed in Division 1. The County somewhat simplistically
+
+argues that because “property” can refer to intangible, personal, or
+
+real property, “property taxes” as used in the statute means any
+
+kind of tax on any kind of property. However, the County cites no
+
+authority for that proposition.
+
+     In determining the original public meaning of the term
+
+“property taxes,” we first note that at the time of the statute’s
+
+enactment, Merriam-Webster defined property tax as “a tax levied
+
+
+     16 The City and County do not appear to dispute the meaning of the terms
+
+“insurance premium taxes” and “user fees,” so our analysis will focus on the
+meaning of “property taxes” and “assessments.”
+                                    24
+ on real or personal property,” Merriam-Webster at 935, and Black’s
+
+defined “property tax” in the legal context as “[a]n ad valorem tax,
+
+usually levied by a city or county government, on the value of real
+
+or personal property that the taxpayer owns on a specified date.”
+
+Black’s Law Dictionary at 847. As we have made clear, dictionaries
+
+are only a starting point for determining the original meaning of
+
+text, particularly where, as here, the definitions are in tension. See
+
+McBrayer, 317 Ga. at 394 (2) (d).
+
+     In determining the meaning of a term, “we may [also] look to
+
+other provisions of the same statute, the structure and history of the
+
+whole statute, and the other law—constitutional, statutory, and
+
+common law alike—that forms the legal background of the statutory
+
+provision in question.” Langley v. State, 
+313 Ga. 141
+, 143 (2) (
+868
+
+SE2d 759
+) (2022) (citation and punctuation omitted). In addition to
+
+“property taxes,” OCGA § 36-70-24 (3) (B) lists “insurance premium
+
+taxes” as a potential source for revenue, which cuts against the
+
+County’s argument that the term property taxes refers to taxes of
+
+any kind because such an interpretation would improperly make the
+
+                                    25
+ term “insurance premium taxes” superfluous. See Camden County
+
+v. Sweatt, 
+315 Ga. 498
+, 509 (2) (b) (
+883 SE2d 827
+) (2023) (noting
+
+fundamental rule of statutory construction that courts should “avoid
+
+a construction that makes some language mere surplusage” (citation
+
+and punctuation omitted)).
+
+     Also, OCGA § 36-70-24 (3) (B) refers to “special service
+
+districts” and makes clear that the listed mechanisms for funding
+
+are to be levied or imposed within a special service district. Thus, in
+
+the legal background of OCGA § 36-70-24 (3) (B) is the Special
+
+Districts Paragraph of the Georgia Constitution, which enables the
+
+creation of special service districts “for the provision of local
+
+government services within such districts,” and provides that “fees,
+
+assessments, and taxes may be levied and collected within such
+
+districts to pay, wholly or partially, the cost of providing such
+
+services therein and to construct and maintain facilities therefor.”
+
+Ga. Const. of 1983, Art. IX, Sec. 2, Par. VI. That the Special Districts
+
+Paragraph lists the categories of funding sources for county services
+
+as “fees, assessments, and taxes” further supports that when the
+
+                                  26
+ General Assembly used the term “property taxes” instead of “taxes”
+
+in OCGA § 36-70-24 (3) (B), it intended to specify a subcategory of
+
+taxes—ad valorem taxes levied on real or personal property—to the
+
+exclusion of other taxes, including the non-ad valorem taxes on
+
+property that the County claims it can use as funding sources. See
+
+Pandora Franchising, LLC v. Kingdom Retail Group, LLLP, 
+299 Ga.
+
+723
+, 728 (1) (b) (
+791 SE2d 786
+) (2016) (“Where the legislature uses
+
+certain language in one part of the statute and different language in
+
+another, the Court assumes different meanings were intended.”
+
+(citation and punctuation omitted)).
+
+     The County also argues that the term “assessments” in OCGA
+
+§ 36-70-24 (3) (B) refers to any kind of revenue measure. On the
+
+other hand, the City asserts that “assessments” refer only to “special
+
+assessments.” The statute provides no qualifier for the term
+
+“assessments,” and, at the time the statute was enacted, Merriam-
+
+Webster defined assessments as “the action or an instance of
+
+assessing” or “the amount assessed.” Merriam-Webster at 69. That
+
+dictionary defined “assess” in this context as “to determine the rate
+
+                                 27
+ or amount of (as a tax);” “to impose (as a tax) according to an
+
+established rate;” “to subject to a tax, charge, or levy;” and “to make
+
+an official valuation of (property) for the purpose of taxation.” Id.
+
+Black’s defined “assessments” “[i]n a general sense” as “the process
+
+of ascertaining and adjusting the shares respectively to be
+
+contributed by several persons towards a common beneficial object
+
+according to the benefit received,” which “is often used in connection
+
+with assessing property taxes or levying of property taxes.” Black’s
+
+Law Dictionary at 77. Thus, these definitions support the County’s
+
+broad reading of the term “assessments.”
+
+     However, if the General Assembly intended the term
+
+“assessments” to refer broadly to any kind of tax, the legislators’
+
+inclusion of the other specific items in the list in OCGA § 36-70-24
+
+(3) (B) would be surplusage, and, again, courts generally strive to
+
+avoid a construction that “makes some language mere surplusage.”
+
+Camden County, 315 Ga. at 509 (2) (b) (citation and punctuation
+
+omitted)). Moreover, the text adopted in the Special Districts
+
+Paragraph of the Georgia Constitution supports that “assessments”
+
+                                  28
+ are different in kind from “taxes” and “fees,” as, otherwise, there
+
+would have been no need to list “fees, assessments, and taxes”
+
+separately and on equal terms in the constitutional text. Likewise,
+
+this Court has recognized that, as a general matter, assessments are
+
+different in kind from taxes. See Hayden v. City of Atlanta, 
+70 Ga.
+
+817
+, 822-23 (1884) (“Taxes are different from assessments for local
+
+improvements, taxes being burdens upon all persons and property
+
+alike, and compensated for by equal protection to all, while
+
+assessments are not burdens but equivalents, and are laid for local
+
+purposes upon local objects, and are compensated for to some extent
+
+in local benefits and improvements, enhancing the value of the
+
+property assessed. Taxes are imposed on the person, assessments
+
+are imposed on the property.”). Accordingly, we construe the term
+
+“assessments” in OCGA § 36-70-24 (3) (B) as the act of charging a
+
+special payment but not to include fees and taxes. This construction
+
+would include “special assessments,” but it is not limited to special
+
+assessments, as it could also include other assessments not
+
+classified as taxes or fees.
+
+                                 29
+      Therefore, we conclude that absent an agreement by the
+
+parties, OCGA § 36-70-24 (3) (B) limits the sources within a special
+
+district that can be used to fund services provided for the primary
+
+benefit of the unincorporated area of the county, that “property
+
+taxes” means ad valorem property taxes, and that “assessments”
+
+refer to any assessment that is not otherwise classified as a tax or
+
+fee, and we reverse the Court of Appeals on this ground.
+
+     3. Finally, we consider whether the superior court, which is
+
+conducting this proceeding under OCGA § 36-70-25.1 (d), has the
+
+authority in such a proceeding to determine whether the City’s
+
+usage rates charged to the Outside Customers constitute an illegal
+
+tax and whether the City is permitted to transfer profits from the
+
+excess fees collected from water service to Outside Customers into
+
+its general fund. We conclude that the superior court is not so
+
+authorized, and that it should have granted the City’s motion to
+
+dismiss Count IV on this ground.
+
+     Our review of a trial court’s decision on a motion to dismiss is
+
+de novo. See Southern States Chem., Inc. v. Tampa Tank & Welding,
+
+                                 30
+ Inc., 
+316 Ga. 701
+, 706 (1) (
+888 SE2d 553
+) (2023). The Act provides a
+
+detailed framework for local governments to use in negotiating and
+
+crafting their SDS Agreements and the processes and procedures
+
+that may be used in resolving any disputes. OCGA § 36-70-23 lists
+
+the four items that need to be included in every service delivery
+
+strategy,17 while OCGA § 36-70-24 describes the criteria that must
+
+
+     17 Under, OCGA § 36-70-23,
+
+     Each local government service delivery strategy shall include the
+     following components:
+            (1) An identification of all local government services
+     presently provided or primarily funded by each general purpose
+     local government and each authority within the county, or
+     providing services within the county, and a description of the
+     geographic area in which the identified services are provided by
+     each jurisdiction;
+            (2) An assignment of which local government or authority,
+     pursuant to the requirements of this article, will provide each
+     service, the geographic areas of the county in which such services
+     are to be provided, and a description of any services to be provided
+     by any local government to any geographic area outside its
+     geographical boundaries. In the event two or more local
+     governments within the county are assigned responsibility for
+     providing identical services within the same geographic area, the
+     strategy shall include an explanation of such arrangement;
+            (3) A description of the source of the funding for each service
+     identified pursuant to paragraph (2) of this Code section; and
+            (4) An identification of the mechanisms to be utilized to
+     facilitate the implementation of the services and funding
+     responsibilities identified pursuant to paragraphs (2) and (3) of
+     this Code section.
+
+
+                                      31
+ be met in the development of a service delivery strategy.
+
+Specifically, OCGA § 36-70-24 (2) sets out requirements and
+
+procedures for strategies involving water or sewer services.
+
+Subsection (2) (A) of that statute provides “that water or sewer fees
+
+charged to customers located outside the geographic boundaries of a
+
+service provider shall not be arbitrarily higher than the fees charged
+
+to customers receiving such service which are located within the
+
+geographic boundaries of the service provider.” Subsection (2) (B) of
+
+the statute sets out a dispute resolution procedure for local
+
+governments to follow to challenge any alleged arbitrary rate
+
+differentials. That provision allows the contesting governing
+
+authority to hold a public hearing for the purpose of reviewing the
+
+rate differential. See OCGA § 36-70-24 (2) (B). And should the
+
+governing authority wish to pursue a challenge, it must have a
+
+qualified engineer prepare a rate study and engage in alternative
+
+dispute resolution before taking its challenge “to a court of
+
+competent jurisdiction.” See id. As discussed above, OCGA § 36-70-
+
+25.1 (d) sets out the procedure for an aggrieved party to follow to
+
+                                 32
+ petition the superior court for resolution of items “remaining in
+
+dispute.”
+
+     Here, after presumably following the procedure laid out in
+
+OCGA § 36-70-24 (2) (B), the County filed its petition in this case
+
+pursuant to OCGA § 36-70-25.1 (d) (2) to resolve the parties’
+
+remaining disputes. Count II of the amended petition requests
+
+judicial resolution of the arbitrariness of the water rate differential
+
+charged by the City to the Outside Customers, and Count III seeks
+
+a determination of whether the County had the authority to provide
+
+water service to all customers located in the unincorporated area of
+
+the County. These issues are clearly matters that must be addressed
+
+in negotiating a new SDS Agreement for the provision of water and
+
+sewage services, and thus disputes about such matters are
+
+considered issues “remaining in dispute” under the Act. See OCGA
+
+§§ 36-70-23; 36-70-24; 36-70-25.1 (d) 2).
+
+     However, Count IV seeks a determination as to whether the
+
+City’s water charges constitute an illegal tax on the Outside
+
+Customers and whether the City could transfer profits collected
+
+                                  33
+ from those customers to its general fund. These are not items that
+
+must be negotiated as part of an SDS Agreement, see OCGA §§ 36-
+
+70-23 and 36-70-24 (2), and thus cannot be considered items
+
+“remaining in dispute” under the statutory process outlined in
+
+OCGA § 36-70-25.1 (d). Because Count IV seeks a judicial
+
+determination that is beyond the scope of the Act, its requested relief
+
+falls outside the statutory dispute process contemplated by § 36-70-
+
+25.1 (d) (2). See City of Union Point v. Greene, 
+303 Ga. 449
+, 459 (2)
+
+(
+812 SE2d 278
+) (2018) (superior court “is not authorized to grant
+
+relief pursuant to OCGA § 36-70-25.1 beyond the scope of the
+
+remedies made available in that Code section”), disapproved of on
+
+other grounds by City of College Park v. Clayton County, 
+306 Ga. 301
+
+
+(
+830 SE2d 179
+) (2019).
+
+      Accordingly, the superior court should have dismissed Count
+
+IV, and we reverse the portion of the Court of Appeals’s judgment
+
+affirming the trial court’s order denying the City’s motion to
+
+
+
+
+                                  34
+ dismiss. 18
+
+     Judgment reversed and case remanded. All the Justices concur,
+except Boggs, C.J., not participating.
+
+
+
+
+      18 However, we note nothing in this opinion prevents the County from
+
+seeking declaratory, or other, relief on these issues in a separate proceeding.
+                                       35
+      BETHEL, Justice, concurring.
+
+     I agree with the analysis and conclusion of the opinion of the
+
+Court and join it in full.
+
+     I write separately to provide additional discussion of the
+
+considerations included in making the factual determination of
+
+whether a particular service is provided “primarily for the benefit”
+
+of an unincorporated area of a county as discussed in Division 1. See
+
+Maj. Op. at 22-23. In assessing the totality of the circumstances
+
+surrounding the service’s provision, a superior court should
+
+contemplate the possibility that the service, though located outside
+
+the municipal limits and most frequently used by residents of the
+
+unincorporated     area,     nevertheless   has   no   evident   primary
+
+beneficiary and, instead, benefits the public broadly. Regardless of
+
+any geographical assessment of the location of the capital
+
+infrastructure of a particular service and without regard to its most
+
+frequent users, many services by their very nature transcend the
+
+assignment of a primary beneficiary.
+
+     Thinking of this question as lying on a spectrum may be
+
+                                    36
+ helpful. On one end of the spectrum, services exist that are easily
+
+identified as being provided for the primary (and perhaps even
+
+exclusive) benefit of unincorporated area(s). These services might
+
+include curbside rubbish collection exclusively from residences
+
+outside incorporated limits or a fire service whose coverage area is
+
+exclusively outside the incorporated limits. On the other end of the
+
+spectrum, however, are services that are rendered to the public
+
+without respect to municipal boundaries. Here, we might find, for
+
+example, a county-wide police department or the core functions of a
+
+county courthouse. Where a service is provided and who it most
+
+frequently serves are clearly relevant factors. But while they may
+
+seem determinative at the extremes of the spectrum, they are not
+
+determinative in a totality of the circumstances analysis.
+
+     Consider, for example, a few hypothetical services provided in
+
+imaginary Georgia counties. The first county provides potable water
+
+service to all residents. The capital infrastructure, excluding
+
+distribution pipes within the municipal boundaries, lies completely
+
+in the unincorporated area of the county while less than ten percent
+
+                                 37
+ of county residents live inside the municipal boundary. Thus, while
+
+consideration of where the capital assets lie and the numerical
+
+utilization of the service might suggest that this service was
+
+primarily for the benefit of the unincorporated area, the very nature
+
+of the service makes clear that the service is delivered to and equally
+
+benefits all county residents. The second county constructs a large
+
+regional recreational facility in an unincorporated area. The park is
+
+far more accessible to county residents of the unincorporated area,
+
+who are the primary local users of its amenities. But the park is
+
+frequently used to host tournaments and festivals that draw visitors
+
+to the community from other counties. These visitors frequent retail
+
+shops, restaurants, and hotels which are almost exclusively located
+
+inside municipal boundaries. Here again, the question of primary
+
+benefit would be incomplete if we considered only the location of the
+
+service and frequency of use as between residents of the
+
+incorporated and unincorporated portions of the county.
+
+In sum, I believe the Court has correctly identified the challenge as
+
+requiring an analysis of the totality of the circumstances. For many
+
+                                  38
+ services, this may be a relatively easy task (but it seems unlikely
+
+that the truly easy ones will evade resolution by the municipal and
+
+county governments prior to judicial consideration). It may well be
+
+that most of these decisions will turn on the location of the service
+
+provision or the frequency of utilization, as seems to be the primary
+
+thrust of the municipality’s argument in this case. Nevertheless, I
+
+view the nature of the service provided as a critical, though not
+
+dispositive, consideration in the primary beneficiary inquiry – a
+
+consideration that may be particularly apt in the context of the case
+
+at hand. A municipality that is logistically cut off from the
+
+surrounding environment at the city limits would not long survive.
+
+Any consideration of the beneficiaries of a transportation system in
+
+and through the unincorporated portions of a county would be
+
+incomplete without an assessment of the value derived by the
+
+municipality from being connected to the larger world.
+
+
+
+
+                                 39
+ 

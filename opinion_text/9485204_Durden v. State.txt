@@ -1,0 +1,696 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                  Decided: March 19, 2024
+
+
+                       S24A0270. DURDEN v. THE STATE.
+
+
+       MCMILLIAN, Justice.
+
+       Appellant Devin Durden was convicted of felony murder and
+
+other crimes in relation to the shooting death of Dewayne
+
+Chronister.1            On appeal, Durden argues that the trial court
+
+
+
+       1 Chronister died on October 17, 2016. On December 19, 2017, a
+Muscogee County grand jury indicted Durden, along with Dontavis Screws and
+Jasmine Thomas, charging them with malice murder (Count 1), felony murder
+predicated on armed robbery (Count 2), armed robbery (Count 3), and
+possession of a firearm during commission of a felony (Count 4). Following
+Screws’s guilty plea to the lesser offenses of voluntary manslaughter and
+robbery and Thomas’s guilty plea to the lesser offense of robbery, Durden was
+tried from February 26 through March 1, 2019, and a jury found him not guilty
+of malice murder but guilty of all the remaining counts. On April 2, 2019, the
+trial court sentenced Durden to life in prison for felony murder, a consecutive
+sentence of ten years to serve for armed robbery, and a consecutive sentence of
+five years to serve for possession of a firearm during the commission of a felony.
+       Durden filed a timely motion for new trial on April 12, 2019, which was
+amended on December 9, 2020. Following a hearing on January 6, 2022, the
+trial court denied Durden’s motion for new trial, as amended, on February 1,
+2022. Durden filed a timely notice of appeal on February 17, 2022, and the
+case was docketed to the term of this Court beginning in December 2023 and
+thereafter submitted for a decision on the briefs.
+ committed plain error by (1) permitting a detective to provide
+
+extensive narrative testimony identifying Durden as the person
+
+depicted in surveillance footage and (2) instructing the jury on
+
+single-witness testimony without also instructing it on accomplice
+
+corroboration. Durden also argues that the cumulative harm caused
+
+by these alleged errors warrants reversal. For the reasons that
+
+follow, we affirm in part and vacate in part.
+
+     Viewed in the light most favorable to the jury’s verdict, the
+
+evidence at trial showed that in the early-morning hours of October
+
+17, 2016, officers from the Columbus Police Department were called
+
+to the Parkwood mobile home park off Farr Road, where the body of
+
+Chronister, a taxi driver, was found in the driver’s seat of his taxi.
+
+Chronister died from a gunshot to the head; the bullet entered the
+
+left side of his head and was recovered from his brain.          Law
+
+enforcement’s investigation—which included a review of the taxi
+
+company’s call logs showing the number that called for the taxi and
+
+where that caller requested to be picked up, a nearby gas station
+
+from which law enforcement was able to obtain and review
+
+                                  2
+ surveillance footage—led them to identify Durden, Screws, and
+
+Thomas as suspects and arrest them for the crimes.
+
+     Co-indictees Screws and Thomas both testified on behalf of the
+
+State as part of their plea bargains. Thomas testified that around
+
+4:00 a.m. on the morning of October 17, 2016, Durden knocked on
+
+the door of her home as she and Screws were asleep inside. She said
+
+that Screws let Durden inside, and Durden asked Screws, “are you
+
+trying to make some money?” After some more discussion, during
+
+which Thomas saw Durden handling a firearm, Thomas called a taxi
+
+for Durden and Screws and told them to go to the nearby gas station,
+
+which was less than a five-minute walk away, to meet the taxi.2
+
+After she called the taxi for the men and they left, Thomas went
+
+back to sleep.    She testified that Durden and Screws returned
+
+around 7:00 a.m., and she heard them talking about how to divide
+
+“the money,” with Durden telling Screws that Screws was not
+
+
+
+
+     2  Call logs from the taxi company showed that Thomas’s cell phone
+number was used to call for a taxi in the early-morning hours of October 17
+and that Thomas’s request for a taxi was the last pick-up Chronister made
+before his death.
+                                    3
+ getting half because “you did not do anything.” Thomas testified
+
+that Durden then told them that he was “fixing to go drop the gun
+
+off because it was hot,” and he left. After Durden left, Screws told
+
+Thomas that when their taxi arrived at Farr Road to drop them off,
+
+Durden “got out and had opened the cab driver’s door and said, it’s
+
+a robbery and shot the man in the head.” Thomas identified Durden
+
+from a photo captured by the gas station’s surveillance camera,
+
+testifying that she recognized Durden from the clothes he had worn
+
+to her home that night and from a speaker that hung from his belt
+
+and that there was not “any doubt in [her] mind” about who he was.
+
+She also identified Durden and Screws from the surveillance video
+
+when it was played for her.
+
+     Screws testified that Durden came to Screws and Thomas’s
+
+house late at night on October 17 while he and Thomas were in bed.
+
+Durden and Screws began talking, and Durden “pulled out his gun
+
+and sat it on the counter,” and told Screws that he wanted to “[g]o
+
+hit a lick” to “get some money,” meaning he wanted to commit a
+
+
+
+                                 4
+ robbery.3 They decided to have Thomas call a taxi for them to rob.
+
+According to Screws, he and Durden then walked to the gas station,
+
+where they got in the taxi, and they had the driver take them to
+
+Parkwood mobile home park on Farr Road, where Durden “held the
+
+gun on the man and then he shot the man and that’s when we took
+
+off running. He got the money and we took off running.” 4 Screws
+
+testified that Durden took the victim’s wallet and cell phone, that
+
+Durden threw the cell phone in a ditch as they ran back to Screws’s
+
+home, 5 and that after they arrived back at Screws’s home, they split
+
+the money and Durden left. Screws also identified Durden from the
+
+gas station’s surveillance video, getting in the taxi with Screws and
+
+wearing the same shoes that law enforcement later recovered from
+
+
+
+     3 Screws recognized the gun to be a .380-caliber High Point.   When law
+enforcement processed the crime scene, they recovered a .380-caliber shell
+casing on the ground near the taxi driver’s door, which a firearms expert
+examined and testified was “consistent with being fired from a high point .380
+semi-automatic pistol.”
+      4 Surveillance footage from the Parkwood mobile home park showed a
+
+taxi enter Parkwood at around 5:00 a.m.; about five minutes later, two men
+are shown fleeing Parkwood on foot down Farr Road; the taxi was never shown
+exiting the mobile home park.
+      5 Law enforcement later recovered Chronister’s cell phone from the ditch
+
+where Screws told them Durden had thrown it.
+                                      5
+ Durden, as well as from a still shot from that video, which Screws
+
+testified showed a Bluetooth speaker that Durden wore hanging
+
+from his belt.
+
+     Columbus Police Detective Stuart Carter testified that he was
+
+the lead investigator’s partner and assisted in the investigation by,
+
+among other things, obtaining and reviewing the surveillance
+
+footage from the gas station, where Chronister’s taxi had been last
+
+dispatched.      As Detective Carter began discussing that footage
+
+during his direct examination, he testified, “we believe this to be the
+
+defendant that’s in the courtroom today and there are several factors
+
+that we relied on.” Detective Carter went on by pointing out that
+
+the individual depicted in the footage wore a particular “style of
+
+sweatpants”; a wristwatch “with a rather large face”; a Bluetooth
+
+speaker hanging from his waist; and “most significant[ly],” a “very
+
+distinctive” yellow, green, and grey pair of shoes, which Detective
+
+Carter determined from his investigatory research to be Nike
+
+Pegasus 32 shoes.       These items ended up being “similar” or
+
+“identical” to clothing items and accessories, including a pair of Nike
+
+                                  6
+ Pegasus 32 shoes, recovered from the residence where Durden told
+
+Detective Carter he had been “staying” upon Durden’s arrest.6
+
+Detective Carter also explained that the individual in the
+
+surveillance footage had a “distinctive” and “almost an identi[cal]
+
+hair style” to Durden’s at the time of his arrest. Detective Carter
+
+also identified Durden from several still shots from the surveillance
+
+footage based on “[t]he clothing that I pointed out, the shoes that we
+
+would later recover, [and] the physical build of the individual.”
+
+According to Detective Carter, the footage showed Durden and
+
+Screws getting into Chronister’s taxi at the gas station at around
+
+5:00 a.m. Within minutes, Chronister was shot and killed at the
+
+nearby Parkwood mobile home park.
+
+      1.    Conceding      that    the       above-described    testimony     of
+
+
+
+      6 We note that Detective Carter testified regarding two portions of the
+
+gas station’s video surveillance footage from the night of the crimes: one from
+earlier that night, and the other from the time the crimes were unfolding. In
+the footage from earlier that night, it is relatively easy to make out the facial
+features of the person whom Detective Carter identified as Durden, but in the
+footage from later that night when the individual (along with Screws)
+approached and got into Chronister’s taxi, it is more difficult to make out the
+identity of the individual, who had his hood pulled up at that point.
+
+                                         7
+ Detective Carter was permitted “[w]ithout meaningful objection or
+
+admonishment,” Durden contends that the trial court plainly erred
+
+in permitting Detective Carter to testify at length that Durden was
+
+the person depicted in the surveillance video and still images, thus
+
+violating the limitation on lay opinion imposed by OCGA § 24-7-701
+
+(a).
+
+       To establish plain error, Durden must meet each prong of a
+
+four-prong test:
+
+       First, there must be an error or defect – some sort of
+       deviation from a legal rule – that has not been
+       intentionally    relinquished    or    abandoned,     i.e.,
+       affirmatively waived, by the appellant. Second, the legal
+       error must be clear or obvious, rather than subject to
+       reasonable dispute. Third, the error must have affected
+       the appellant’s substantial rights, which in the ordinary
+       case means he must demonstrate that it affected the
+       outcome of the trial court proceedings. Fourth and
+       finally, if the above three prongs are satisfied, the
+       appellate court has the discretion to remedy the error –
+       discretion which ought to be exercised only if the error
+       seriously affects the fairness, integrity, or public
+       reputation of judicial proceedings.
+
+Washington v. State, 
+312 Ga. 495
+, 498 (1) (
+863 SE2d 109
+) (2021)
+
+(citation and punctuation omitted). “As we have noted, affirmatively
+
+
+                                   8
+ establishing all four prongs is a difficult standard to satisfy.” 
+Id. at
+
+498-99
+ (1) (citation and punctuation omitted). “This Court does not
+
+have to analyze all elements of the plain-error test where an
+
+appellant fails to establish one of them.” Payne v. State, 
+314 Ga.
+
+322
+, 325 (1) (
+877 SE2d 202
+) (2022).
+
+     Here, Durden hinges his argument on an alleged violation of
+
+OCGA § 24-7-701 (a), which provides:
+
+     (a)   If the witness is not testifying as an expert, the
+           witness’s testimony in the form of opinion or
+           inferences shall be limited to those opinions or
+           inferences which are:
+           (1) Rationally based on the perception of the
+                witness;
+           (2) Helpful to a clear understanding of the
+                witness’s testimony or the determination of a
+                fact in issue; and
+           (3) Not based on scientific, technical, or other
+                specialized knowledge within the scope of Code
+                Section 24-7-702.
+
+We have explained that “where there is ‘some basis for concluding
+
+that a witness is more likely to correctly identify a defendant as the
+
+individual depicted in surveillance [images], then lay opinion
+
+testimony identifying a defendant in surveillance [images] is
+
+
+                                   9
+ admissible under Rule 701.’” Glenn v. State, 
+306 Ga. 550
+, 555 (3)
+
+(
+832 SE2d 433
+) (2019) (quoting Glenn v. State, 
+302 Ga. 276
+, 280 (II)
+
+(
+806 SE2d 564
+) (2017) (citation and punctuation omitted).
+
+     We start by noting that the vast majority of Detective Carter’s
+
+relevant commentary on the surveillance footage was non-opinion,
+
+factual testimony about the attire he personally observed worn by
+
+the individual depicted therein and the attire he personally
+
+recovered from Durden’s residence, and as such, that testimony is
+
+not governed by Rule 701 (a)’s provisions regarding lay opinion
+
+testimony. See Cooper v. State, 
+317 Ga. 676
+, 685 (2) (
+895 SE2d 285
+)
+
+(2023). As for Detective Carter’s identification of Durden from the
+
+surveillance footage, Durden argues that because Detective Carter
+
+was not familiar with him on a personal level and had “no unique
+
+first-hand experience with Durden,” Detective Carter could not be
+
+permitted under Rule 701 (a) to opine that Durden was the
+
+individual depicted therein and that the trial court thus clearly
+
+erred in permitting such testimony.
+
+     Assuming without deciding that the trial court clearly erred in
+
+                                10
+ permitting Detective Carter’s identification testimony, we conclude
+
+that Durden has failed to show that the error affected the outcome
+
+of the proceedings because the identification testimony was
+
+cumulative of Thomas’s and Screws’s identification of him from the
+
+same surveillance footage. Durden makes no argument that either
+
+Thomas’s or Screw’s identification testimony was improper, and
+
+they were more familiar with Durden than Detective Carter, making
+
+their identification testimony more compelling.       Thus, Durden
+
+cannot satisfy the third prong of the plain error test. See Grier v.
+
+State, 
+313 Ga. 236
+, 245 (3) (f) (
+869 SE2d 423
+) (2022) (“Appellant has
+
+not met his burden under the plain error standard to show a
+
+reasonable probability that the outcome would have been different,
+
+as the improperly admitted [testimony] was merely duplicative of
+
+other properly admitted evidence.”). Accordingly, this enumeration
+
+of error fails.
+
+      2.    Conceding that trial counsel neither requested an
+
+accomplice-corroboration charge nor objected to the trial court’s
+
+failure to give such charge, Durden also contends that the trial court
+
+                                 11
+ plainly erred by failing to instruct the jury on accomplice
+
+corroboration despite charging the jury that the testimony of a
+
+single witness is generally sufficient to establish a fact. See OCGA
+
+§ 24-14-8 (“The testimony of a single witness is generally sufficient
+
+to establish a fact. However, in certain cases, including . . . felony
+
+cases where the only witness is an accomplice, the testimony of a
+
+single witness shall not be sufficient. Nevertheless, corroborating
+
+circumstances may dispense with the necessity for the testimony of
+
+a second witness.”); OCGA § 17-8-58 (b) (“Failure to object in
+
+accordance with subsection (a) of this Code section shall preclude
+
+appellate review of such portion of the jury charge, unless such
+
+portion of the jury charge constitutes plain error which affects
+
+substantial rights of the parties. Such plain error may be considered
+
+on appeal even if it was not brought to the court’s attention as
+
+provided in subsection (a) of this Code section.”). Durden’s claim
+
+fails.
+
+         Here, the trial court committed clear and obvious error in
+
+failing to give the accomplice-corroboration charge while giving the
+
+                                  12
+ single-witness charge since Durden’s co-indictees, Screws and
+
+Thomas, testified at trial, see State v. Johnson, 
+305 Ga. 237
+, 240 (1)
+
+(
+824 SE2d 317
+) (2019); Stanbury v. State, 
+299 Ga. 125
+, 130-31 (2)
+
+(
+786 SE2d 672
+) (2016), and Durden did not affirmatively waive the
+
+instructional error. But the record demonstrates that the error
+
+likely did not affect the outcome of Durden’s trial, such that he has
+
+not satisfied the third prong of the plain error test. See Rice v. State,
+
+311 Ga. 620
+, 623 (1) (
+857 SE2d 230
+) (2021). Co-indictees Screws and
+
+Thomas each testified regarding Durden’s involvement in the
+
+crimes; their testimony “substantially corroborated each other’s
+
+testimony”; and “it is well-settled that an accomplice’s testimony
+
+may be corroborated by the testimony of another accomplice.”
+
+Hurston v. State, 
+310 Ga. 818
+, 830 (3) (c) (
+854 SE2d 745
+) (2021)
+
+(citation and punctuation omitted); see also Payne, 314 Ga. at 327
+
+(1) (“[H]ad the jury been given an accomplice-corroboration
+
+instruction, the testimony of any witness the jury concluded was an
+
+accomplice could have been corroborated by [ ] non-accomplice
+
+witnesses or by the testimony of another accomplice.”). Moreover,
+
+                                   13
+ their testimony was also corroborated by other evidence, including
+
+the gas station and mobile home park surveillance footage showing
+
+that Durden and Screws rode in Chronister’s taxi from the store to
+
+the crime scene; the recovery of a .380-caliber shell casing on the
+
+ground near Chronister’s taxi door that was consistent with being
+
+fired from a High Point .380 pistol, corroborating Screws’s testimony
+
+as to the type of gun Durden possessed and where Durden stood
+
+when he shot Chronister; testimony and records from the taxi
+
+service corroborating Screws’s and Thomas’s testimony that Thomas
+
+called for a taxi for Screws and Durden during the early-morning
+
+hours of October 17, 2016; and the recovery of the victim’s cell phone
+
+from the location where Screws told law enforcement that Durden
+
+had thrown it. Had the charge been given, it is highly likely the jury
+
+would have returned the same verdict. See Payne, 314 Ga. at 326-
+
+27 (1) (failure to give accomplice-corroboration charge despite giving
+
+single-witness charge likely did not affect trial outcome where other
+
+evidence and witness testimony, including that of other potential
+
+accomplices, implicated appellant in the crimes); Rice, 311 Ga. at
+
+                                 14
+ 623-24 (1) (clear error in failing to charge jury on accomplice
+
+corroboration despite giving single-witness charge likely did not
+
+affect trial outcome where jury could have found accomplices’
+
+testimony was mutually corroborating and where there was other
+
+substantial and consistent evidence showing appellant participated
+
+in crimes). Cf. Johnson, 
+305 Ga. at 241
+ (holding that trial court’s
+
+failure to give accomplice-corroboration charge likely affected trial’s
+
+outcome where “virtually all of the incriminating evidence flowed
+
+from” accomplice).
+
+      Durden has not shown that the trial court’s clear error in
+
+failing to give an accomplice-corroboration charge likely affected the
+
+outcome of his trial, and therefore he has not satisfied the third
+
+prong of the plain-error test. Accordingly, this enumeration of error
+
+also fails.
+
+      3.      Durden contends that cumulatively, the trial court’s
+
+alleged errors were harmful and merit reversal. “When this Court
+
+has identified or presumed more than one error, although the effect
+
+of each on its own might have been harmless,” we will “consider
+
+                                  15
+ collectively, rather than individually, the prejudicial effect, if any, of
+
+the trial court errors.” Nundra v. State, 
+316 Ga. 1
+, 16 (6) (
+885 SE2d
+
+790
+) (2023) (citations and punctuation omitted). Even considering
+
+the assumed error in permitting Detective Carter’s identification
+
+testimony and the error in failing to give an accomplice-
+
+corroboration instruction, we conclude that Durden has not
+
+demonstrated under the plain-error standard that, but for these
+
+errors, the outcome of the proceeding would have been different. As
+
+noted above, Detective Carter’s identification testimony was
+
+cumulative of other unobjected-to testimony (mainly, that of the
+
+accomplices who also corroborated one another by both identifying
+
+Durden from the same surveillance footage), and there was ample
+
+evidence otherwise corroborating the accomplices’ testimony. Thus,
+
+this claim fails.   See Payne, 314 Ga. at 334 (4) (no cumulative
+
+prejudice from failure to give accomplice-corroboration instruction
+
+and failure to object to hearsay testimony because hearsay
+
+testimony was cumulative and “[t]he jury heard a significant
+
+amount of incriminating testimony”).
+
+                                   16
+      4.     Finally, although Durden does not raise the issue on
+
+appeal, “[w]hen the only murder conviction is for felony murder and
+
+a defendant is convicted of both felony murder and the predicate
+
+felony of the felony murder charge, the conviction for the predicate
+
+felony merges into the felony murder conviction.” Allen v. State, 
+307
+
+Ga. 707
+, 710-11 (5) (
+838 SE2d 301
+) (2020) (citation and punctuation
+
+omitted).    Because Durden’s conviction for felony murder is
+
+predicated on armed robbery, the trial court should not have
+
+separately sentenced Durden on the armed robbery conviction.
+
+Therefore, we exercise our discretion to vacate Durden’s conviction
+
+and sentence for armed robbery. See Dixon v. State, 
+302 Ga. 691
+,
+
+696-97 (4) (
+808 SE2d 696
+) (2017) (appellate court has discretion to
+
+correct merger error that is clear and obvious, particularly when
+
+such error harms the defendant).
+
+     Judgment affirmed in part and vacated in part. All the Justices
+concur.
+
+
+
+
+                                 17
+ 

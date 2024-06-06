@@ -1,0 +1,1290 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                      S24A0139. SCONYERS v. THE STATE.
+
+
+        ELLINGTON, Justice.
+
+        Charles Michael Sconyers appeals his convictions for malice
+
+murder and cruelty to children in the first degree in connection with
+
+the death of Chelsea Finch’s 23-month-old son, Lincoln Davitte,
+
+from blunt-force trauma to his skull. 1 The State presented evidence
+
+
+
+        1 The crimes occurred on May 1, 2019. On November 5, 2020, a Columbia
+
+County grand jury indicted Sconyers for malice murder, two counts of felony
+murder, and one count each of aggravated assault and cruelty to children in
+the first degree. After a jury trial that ended on May 13, 2022, Sconyers was
+found guilty on all counts. On that same day, Sconyers was sentenced to serve
+life in prison for malice murder and concurrent 20-year prison terms for
+aggravated assault and cruelty to children. The felony murder counts were
+vacated by operation of law. The trial court later conducted a resentencing
+hearing and, on May 25, 2022, entered a new sentence that merged the
+aggravated assault count into the malice murder conviction but did not change
+the other sentences. Sconyers filed a timely motion for new trial, which he
+amended on September 12, 2022. After a hearing on February 27, 2023, the
+trial court denied the amended motion for new trial on March 20, 2023.
+Sconyers filed a timely notice of appeal, and the case was docketed in this Court
+to the term beginning in December 2023 and submitted for a decision on the
+briefs.
+ at trial showing that Sconyers and Finch lived together and that
+
+while Lincoln was at home in the sole care of Sconyers, Lincoln
+
+sustained a severe head injury that several medical experts testified
+
+was not consistent with a ground-level fall on the patio as described
+
+by Sconyers. Lincoln died later at the hospital. Sconyers contends
+
+that the trial court erred in four ways: repeatedly permitting the
+
+State to introduce evidence of previous injuries to Lincoln without
+
+cautioning the jury that the parties agreed that Sconyers did not
+
+cause those injuries; instructing the jury about “prior difficulties”
+
+between Sconyers and Lincoln without limiting what evidence
+
+qualified as prior difficulties; admitting hearsay statements
+
+allegedly made by Finch; and permitting the prosecution to impeach
+
+Finch improperly. For the reasons explained below, we affirm.
+
+     Sconyers had moved in with Lincoln and Finch, as well as her
+
+then-four-year-old daughter, near the end of 2018. On May 1, 2019,
+
+Finch had to work until 6:00 p.m. and asked Sconyers, who was not
+
+working his job as a firefighter and EMT because he had recently
+
+been injured, to pick up Lincoln from daycare while she went to the
+
+                                 2
+ grocery store. Surveillance video footage showed Finch at the
+
+grocery store, and other video footage showed Sconyers leaving the
+
+daycare with Lincoln at 6:19 p.m. An investigator testified that he
+
+reviewed surveillance video footage from the daycare for the whole
+
+day and did not observe anything that could have contributed to
+
+Lincoln’s injuries. At some point, Sconyers called a friend and co-
+
+worker who was a paramedic and told him about an unconscious
+
+child with breathing problems. The co-worker told Sconyers to
+
+“[h]ang up and call 911.” Sconyers called 911 at 6:36 p.m. and
+
+subsequently called Finch, screaming that she needed “to get home
+
+now” and that something happened to Lincoln. Sconyers said he did
+
+not know what happened. There was no evidence that anyone other
+
+than Sconyers was at the home with Lincoln at that time. Finch
+
+arrived before emergency responders and ran into the bedroom
+
+where Lincoln was lying on the bed unresponsive with a “bulge” on
+
+the right side of the top of his head, and Sconyers was trying to
+
+assess Lincoln as “an EMT should do” and “get his pupils to react.”
+
+When they heard sirens, Finch picked up Lincoln, ran with him, and
+
+                                3
+ begged Sconyers to take him to the ambulance. Sconyers took
+
+Lincoln the rest of the way and was invited to ride in the ambulance
+
+to the hospital because Sconyers was an EMT.
+
+     The firefighters who first responded to the 911 call testified
+
+that Lincoln was unresponsive and not breathing adequately and
+
+that Sconyers told them Lincoln had a ground-level fall off a ledge
+
+onto concrete and had other bruises on his face and head because he
+
+had a problem with sleepwalking. One of the two paramedics, who
+
+arrived in an ambulance very soon after the firefighters, testified
+
+that Lincoln was “posturing,” which typically happens after a severe
+
+closed-head injury, and that based on her training and expertise the
+
+injury did not appear to be caused by a ground-level fall. The witness
+
+testified that Sconyers told her “two stories” in the back of the
+
+ambulance: first, Lincoln was standing on a porch and fell about two
+
+to three feet off a ledge; and second, he fell on a “wheel chock”; and
+
+Sconyers later told another paramedic that Lincoln slipped on a door
+
+threshold and tripped and fell. The other paramedic also testified
+
+based on her experience that Lincoln’s skull fracture was not
+
+                                  4
+ consistent with a fall of two to three feet. Sconyers kept repeating
+
+that it was his “fault” if anything happened to Lincoln.
+
+     Finch testified that at the hospital, after Lincoln had surgery,
+
+Sconyers told her that after getting home Lincoln wanted to go
+
+outside to play with chalk. Sconyers opened the outside door, went
+
+to the bathroom to take his knee brace off, and told Lincoln to go
+
+outside. Lincoln then “took off running,” and Sconyers heard a loud
+
+thump and a cry and ran to find Lincoln lying out back on the
+
+concrete patio. Finch further testified that no one was at home with
+
+Sconyers and Lincoln at the time, that she did not know of any prior
+
+fracture of Lincoln’s skull, and that she was not aware of anything
+
+prior to the fatal incident that could have resulted in any type of
+
+brain injury to Lincoln.
+
+     Both parties presented medical experts who testified about
+
+Lincoln’s injuries. Extensive testimony from the State’s experts
+
+showed that the nature and severity of Lincoln’s fatal brain injury
+
+made it highly unlikely the injury was caused accidentally by a fall
+
+at ground level or from a low height. One of those experts testified
+
+                                  5
+ that symptoms of that fatal injury would have appeared
+
+immediately after the impact, and Lincoln could not have continued
+
+to move normally after sustaining those injuries. The GBI medical
+
+examiner who performed an autopsy on Lincoln classified Lincoln’s
+
+death as a homicide because her examination and the medical
+
+records indicated that “non-accidental-inflicted trauma” caused the
+
+fatal injury and because the historical account of the incident
+
+provided by Sconyers did not explain Lincoln’s injuries. One of
+
+Sconyers’s medical experts testified that it was reasonably possible
+
+that Lincoln’s fatal injury resulted from an accident, in part because
+
+a prior head injury that caused a subdural hematoma made him
+
+“more prone to get a new one with more serious complications.”
+
+     Sconyers testified in his own defense as follows. He was a
+
+sergeant and advanced EMT with the Augusta Fire Department.
+
+The week before Lincoln’s death, Sconyers and his lieutenant went
+
+into a burning home to search for a little boy who was unaccounted
+
+for at the time, and Sconyers fell through the floor, injuring his knee.
+
+For that reason, Sconyers had a knee brace, was on leave, and was
+
+                                   6
+ able to pick up Lincoln from daycare on May 1, 2019. When they
+
+arrived home, Sconyers told Lincoln he could play outside with chalk
+
+and opened the door for him. Sconyers went to use the bathroom and
+
+adjust his knee brace, and he told Lincoln to go outside. Lincoln
+
+“took off running,” and Sconyers heard a thump and heard Lincoln
+
+“almost scream.” Sconyers strapped his knee brace back on,
+
+“hobbled” outside as fast as he could, and found Lincoln lying
+
+“outside of [the] back patio.” Lincoln turned his head “just a little
+
+bit” and became unresponsive. Sconyers stabilized Lincoln’s neck
+
+and body, took him inside, and immediately called 911.
+
+     1. Sconyers contends that the trial court erred by permitting
+
+the State repeatedly to introduce evidence of Lincoln’s previous
+
+injuries without cautioning the jury that the parties agreed that
+
+Sconyers did not cause those injuries.
+
+     Prior to the presentation of any evidence to the jury, Sconyers
+
+moved under OCGA § 24-4-404 (b) (“Rule 404 (b)”) to exclude any
+
+testimony that Lincoln “had black eyes on two different occasions”
+
+in the months before his death. Rule 404 (b) requires the exclusion
+
+                                 7
+ of “[e]vidence of other crimes, wrongs, or acts” the defendant may
+
+have committed to prove the defendant’s bad character and show he
+
+acted “in conformity therewith” in committing the charged offense.
+
+Sconyers argued that Lincoln’s prior black-eye injuries fell under
+
+Rule 404 (b) because they were extrinsic to Lincoln’s death, and that
+
+they had to be excluded under that rule because the State could not
+
+prove that Sconyers caused the injuries. But the prosecutor argued
+
+that Lincoln’s prior injuries did not fall under Rule 404 (b) at all
+
+because they were intrinsic to the crime. See Roberts v. State, 
+315
+
+Ga. 229
+, 235 (2) (a) (
+880 SE2d 501
+) (2022) (“The limitations and
+
+prohibition on ‘other acts’ evidence set out in [Rule ]404 (b) do not
+
+apply to ‘intrinsic evidence.’” (citation and punctuation omitted)).
+
+Specifically, the prosecutor argued that the State needed to
+
+introduce the prior injuries to explain the circumstances behind
+
+Lincoln’s prior head injuries, because Sconyers’s expected defense
+
+was that Lincoln’s prior head trauma – which caused the presence
+
+of both “old blood and new blood” in Lincoln’s brain, according to a
+
+
+
+                                 8
+ defense expert – could have contributed to his death. 2 The trial court
+
+agreed with the prosecution that the prior injuries were admissible
+
+as intrinsic evidence – not falling under Rule 404 (b) – because they
+
+allowed the State to explain and rebut the testimony of Sconyers’s
+
+expert. See Johnson v. State, 
+312 Ga. 481
+, 491 (4) (
+863 SE2d 137
+)
+
+(2021) (Evidence is intrinsic when it is “necessary to complete the
+
+story of the crime.” (citation and punctuation omitted)). The trial
+
+court also found that the evidence satisfied OCGA § 24-4-403 (“Rule
+
+403”).
+
+      On appeal, Sconyers does not challenge the trial court’s ruling
+
+that the prior injuries were admissible as intrinsic evidence.
+
+Instead, he raises a two-part argument that he did not raise below:
+
+that the trial court allowed testimony about Lincoln’s previous
+
+injuries to be repeatedly introduced3 and did not caution the jury
+
+
+      2 One of the State’s medical experts also testified that surgery on Lincoln
+
+revealed “old clot and new clot,” that is, “blood from a prior injury and blood
+from this injury.”
+      3 Sconyers described the evidence of Lincoln’s prior injuries as going “far
+
+beyond merely providing a medical explanation for ‘old blood’” and having
+“function[ed]” as additional evidence of “prior difficulties” between Sconyers
+and Lincoln “through the State’s associations and inferences created through
+repetition and questioning.”
+                                       9
+ that the parties agreed that Sconyers did not cause those injuries.
+
+But Sconyers never objected on those bases in the trial court, and he
+
+never requested a limiting instruction that the parties had agreed
+
+Sconyers did not cause Lincoln’s prior injuries. This enumeration
+
+therefore can be reviewed only for plain error. See OCGA §§ 17-8-58
+
+(b); 24-1-103 (a) (1); Henderson v. State, 
+317 Ga. 66
+, 78 (4) (c) (
+891
+
+SE2d 884
+) (2023) (The appellant “did not ask for a limiting
+
+instruction at trial, so we review his claim [that allowing certain
+
+evidence was error without an accompanying limiting instruction]
+
+only for plain error.”); Payne v. State, 
+313 Ga. 218
+, 221 (1) (
+869 SE2d
+
+395
+) (2022) (The appellant asserted on appeal that the trial court
+
+erred by admitting testimony about a certain incident because it “did
+
+not qualify as a prior difficulty” under Rule 404 (b), but he “did not
+
+object on the ground” asserted on appeal. “Thus, [he] failed to
+
+preserve [the enumerated] error for ordinary review.”). We see no
+
+plain error.
+
+     To show plain error, an appellant must identify an error that
+
+was not affirmatively waived, was obvious beyond reasonable
+
+                                  10
+ dispute, affected the outcome of his trial or otherwise affected his
+
+substantial rights, and seriously affected the fairness, integrity, or
+
+public reputation of judicial proceedings. See Henderson, 317 Ga. at
+
+78 (4) (c); Payne, 313 Ga. at 222 (1). “For an error to be obvious for
+
+purposes of plain error review, it must be plain under controlling
+
+precedent or in view of the unequivocally clear words of a statute or
+
+rule.” Grier v. State, 
+313 Ga. 236
+, 242 (3) (b) (
+869 SE2d 423
+) (2022)
+
+(citation and punctuation omitted).
+
+     Sconyers’s claim of error relates to testimony from Finch, a
+
+daycare employee, and a DFCS employee addressing Lincoln’s black
+
+eyes. Finch testified that she saw Lincoln with black eyes on two
+
+occasions prior to his death. In February 2019, Lincoln was sleeping,
+
+and she and Sconyers were in the bathroom when they heard
+
+something. Sconyers left and returned “in a couple of seconds” with
+
+Lincoln, who had a big “goose egg” in the middle of his head but was
+
+“grinning,” did not have dilated pupils, continued to act like a
+
+“normal” child the rest of the night, and was not lethargic or fussy.
+
+Finch believed Lincoln was injured a few times from sleepwalking,
+
+                                 11
+ and she discussed the situation with Lincoln’s pediatrician. Finch
+
+testified that on April 29, 2019, while Finch’s mother was
+
+babysitting Lincoln, he was climbing on his highchair when his foot
+
+slipped and he hit his eye on it. The defense later called Finch’s
+
+mother, who confirmed that when she was with Lincoln a day or two
+
+before his fatal injury, he injured himself on a highchair, causing a
+
+little bruise on the right side of his face.
+
+     An employee at the daycare center that Finch’s children
+
+attended, Brenda Warren, testified that in February 2019 she filled
+
+out an incident report when Lincoln arrived with two black eyes and
+
+a bruised face, and Finch said he was jumping on his bed and hit the
+
+top of it, but she did not take him to the doctor because her
+
+“boyfriend was a paramedic” and he did not feel it was necessary.
+
+Because Finch’s comments “just didn’t seem right,” Warren
+
+ultimately called Child Protective Services. Afterwards, Warren
+
+noticed that Sconyers was not picking Lincoln up at the daycare
+
+anymore. Warren also testified to a second incident, on April 29,
+
+2019, two days before Lincoln’s death, when Lincoln had a black eye
+
+                                    12
+ and Warren was told that he had fallen, and a third incident, on May
+
+1, when Lincoln had a cut on his lip. Warren described Lincoln as an
+
+“active” and “happy” child who “napped well,” “ate well,” and played
+
+with his friends on the playground.
+
+     The DFCS employee who investigated the two black-eye
+
+incidents testified that the daycare called DFCS because it was
+
+“concerned about the safety of the child” and felt that the incidents
+
+were “too close” in time. As a result, she talked with Finch and
+
+Sconyers and was told that Lincoln’s pediatrician had diagnosed him
+
+as a sleepwalker, and the first injury occurred when Lincoln fell
+
+while sleepwalking, and that the second injury occurred when
+
+Lincoln fell on a highchair at his grandmother’s home.
+
+     We see no plain error because Sconyers’s claims related to this
+
+testimony about the circumstances surrounding Lincoln’s prior
+
+injuries do not show that the trial court acted contrary to any
+
+controlling authority. Sconyers contends the trial court should have
+
+instructed the jury that the parties had agreed he did not cause
+
+Lincoln’s prior injuries. But we are aware of no authority requiring
+
+                                 13
+ the court to give that limiting instruction. See Salvesen v. State, 
+317
+
+Ga. 314
+, 317 (2) (
+893 SE2d 66
+) (2023) (The State is “not required to
+
+stipulate to . . . the circumstances surrounding the murder.”
+
+(citation and punctuation omitted)); Anderson v. State, 
+313 Ga. 178
+,
+
+183 (3) (a) (
+869 SE2d 401
+) (2022) (“[A] limiting instruction generally
+
+is not warranted for intrinsic evidence.”). Sconyers also contends
+
+that too many witnesses testified about the prior injuries, but again,
+
+no authority required a limit on the number of those witnesses. The
+
+existence of “some overlap” and “substantial prejudicial effect” in the
+
+testimony of multiple witnesses does not necessarily make that
+
+evidence so needlessly cumulative or unfairly prejudicial as to
+
+require its exclusion under Rule 403. Naples v. State, 
+308 Ga. 43
+, 53
+
+(2) (
+838 SE2d 780
+) (2020). Accordingly, it was not obvious either that
+
+some of the testimony about Lincoln’s prior injuries should have
+
+been excluded or that the jury should have been instructed that
+
+Sconyers did not cause those injuries. Sconyers therefore has failed
+
+
+
+
+                                  14
+ to show error that is clear beyond reasonable dispute.4
+
+
+
+      4 Sconyers also argues under this enumeration that certain evidence of
+
+his prior difficulties with Lincoln – which we describe below in Division 3,
+specifically, Lincoln’s jealousy toward Sconyers, Sconyers hitting Lincoln, and
+the arguing and fighting between the two – was improperly admitted under
+Rule 404 (b). As an initial matter, Sconyers’s objection at trial did not extend
+to this evidence, contrary to his contention on appeal. His specific objection in
+the trial court was only to testimony that Lincoln “had black eyes on two
+different occasions several months before the incident,” and Sconyers’s
+subsequent argument was limited to the black-eye injuries. Thus, this claim
+also can be reviewed only for plain error. See Payne, 313 Ga. at 221 (1).
+       Sconyers argues that Lincoln’s jealousy was not admissible as “other act”
+evidence under Rule 404 (b) because it was not an act at all, and also because
+it was not relevant. But even if evidence of jealousy was not an “act” for
+purposes of Rule 404 (b), it could be admissible as relevant evidence of the
+nature of Sconyers’s poor relationship with Lincoln. See Shellman v. State, 
+318
+Ga. 71
+, 77-78 (
+897 SE2d 355
+) (2024) (holding that evidence of the relationship
+between the defendant and the victim, including jealousy, was relevant
+because it shed light on the defendant’s motive in committing the charged
+offenses). Rule 404 (b) is a “rule of inclusion,” State v. Jones, 
+297 Ga. 156
+, 159
+(2) (
+773 SE2d 170
+) (2015), so the fact that evidence may not be admissible
+under that rule does not mean that the rule excludes the evidence.
+       Sconyers also argues generally that none of his prior difficulties with
+Lincoln were relevant except in a generic fashion to show motive. But evidence
+of a defendant’s prior acts is ordinarily admissible in evidence under Rule 404
+(b) “when the defendant is accused of a criminal act against that person, where
+the nature of the relationship between the defendant and the victim sheds light
+on the defendant’s motive in committing the offense charged.” Lowe v. State,
+314 Ga. 788
+, 793 (2) (a) (
+879 SE2d 492
+) (2022) (citation and punctuation
+omitted). Sconyers additionally contends that the prior-act evidence was not
+admissible under Rule 404 (b) because there was insufficient evidence to prove
+that he committed the acts. In his view, all of the evidence that he committed
+the prior acts was inadmissible hearsay from Finch’s co-workers. But as we
+explain more fully in Division 3, Sconyers did not object to the co-workers’
+testimony. By statute, “if a party does not properly object to hearsay, the
+objection shall be deemed waived, and the hearsay evidence shall be legal
+evidence and admissible.” OCGA § 24-8-802. Sconyers has failed to show that
+
+                                       15
+       2. Sconyers contends that the trial court erred when it
+
+instructed the jury about “prior difficulties” between Sconyers and
+
+Lincoln. The trial court instructed the jury as follows:
+
+           Evidence of prior difficulties between the defendant
+      and the alleged victim, Lincoln Davitte, has been
+      admitted for the sole purpose of illustrating, if it does, the
+      state of feeling between the defendant and the alleged
+      victim.
+           Whether this evidence illustrates such matters is a
+      matter solely for you, the jury, to determine, but you are
+      not to consider such evidence for any other purpose.
+
+Sconyers argues that this instruction failed to provide any limitation
+
+as to what evidence was subject to it, that the instruction improperly
+
+assumed there had been evidence of prior difficulties perpetrated by
+
+Sconyers against Lincoln, and that the instruction did not define
+
+“state of feeling” even though that was the only determination the
+
+instruction left to the jury and would naturally be inferred by the
+
+jury. Although Sconyers objected to this instruction during the
+
+charge conference, he did not object to it on any ground after the jury
+
+
+
+it is obvious beyond reasonable dispute that if he had properly objected under
+Rule 404 (b), the trial court would have abused its discretion in finding that
+the prior difficulties evidence met the requirements of that rule. Accordingly,
+admission of the prior difficulties into evidence does not amount to plain error.
+                                       16
+ was charged. Thus, Sconyers did not properly preserve any of his
+
+claims, and, indeed, he acknowledges that the instruction on prior
+
+difficulties is subject to review for plain error only. See OCGA § 17-
+
+8-58 (b); Rawls, 310 Ga. at 217-218 (4). We see no plain error.
+
+      All of the language in the instruction on prior difficulties that
+
+Sconyers now questions “was and is consistent with Georgia’s
+
+pattern jury instructions[,] and [Sconyers] has not otherwise shown
+
+that there was plain error.” Taylor v. State, 
+306 Ga. 277
+, 286-287 (3)
+
+(c) (
+830 SE2d 90
+) (2019).5 Sconyers has pointed to no controlling
+
+precedent holding that a trial court erred in connection with the
+
+pattern charge on prior difficulties. See McKibbins v. State, 
+293 Ga.
+
+843
+, 853 (7) (
+750 SE2d 314
+) (2013) (seeing no plain error where the
+
+
+      5 See also Dyal v. State, 
+297 Ga. 184
+, 188 (5) & n.9 (
+773 SE2d 249
+) (2015)
+
+(similar holding with respect to a previous version of the pattern jury
+instruction on prior difficulties, also setting out the current version that was
+applicable at the time of Sconyers’s trial); Suggested Pattern Jury Instructions,
+Vol. II: Criminal Cases, § 1.34.20 (4th ed. 2007, updated Aug. 2022) (“Evidence
+of prior difficulties (or lack thereof) between the defendant and (the alleged
+victim) (a witness) has been admitted for the sole purpose of illustrating, if it
+does, the state of feeling between the defendant and the (alleged victim)
+(witness); (the reasonableness of any alleged fears by defendant or alleged
+victim). Whether this evidence illustrates such matters is a matter solely for
+you, the jury, to determine, but you are not to consider such evidence for any
+other purpose.”).
+                                       17
+ appellant pointed to no decision that failing to define “accomplice”
+
+in the pattern charge on accomplice testimony was error). More
+
+specifically, there has been no requirement that the trial court
+
+define “state of feeling.” See id. at 854 (7) (“[A] trial court is not
+
+required to instruct on the meaning of all words used in the charge,
+
+particularly words of common understanding.” (citation and
+
+punctuation omitted)). Sconyers has cited no authority that the
+
+instruction at issue improperly recognizes that some evidence of
+
+prior difficulties had been admitted. And there is no authority
+
+requiring a trial court to specify what evidence qualifies as prior
+
+difficulties. See Chester v. State, 
+267 Ga. 9
+, 12 (2) (
+471 SE2d 836
+)
+
+(1996) (holding that a trial court is not required to specifically point
+
+out particular evidence to which an instruction applies and that a
+
+trial court should refuse to give jury charges that “are more adjusted
+
+to the exhortation of counsel than to the impartial clarity which
+
+should characterize the instructions of the court” (citation and
+
+punctuation omitted)); see also Collins v. State, 
+312 Ga. 727
+, 743 (7)
+
+n.15 (
+864 SE2d 85
+) (2021) (same). Because the instruction on prior
+
+                                  18
+ difficulties “did not involve a clear departure from a settled legal
+
+rule,” it did not amount to plain error. McKibbins, 
+293 Ga. at 854
+
+
+(7).
+
+       3. Sconyers contends that the trial court erred by admitting
+
+testimony about alleged hearsay statements made by Finch about
+
+Sconyers’s and Lincoln’s arguing, and about Sconyers hitting
+
+Lincoln. Sconyers argues that the State violated the requirement of
+
+OCGA § 24-6-613 (b) (“Rule 613 (b)”) that, before extrinsic evidence
+
+of a prior inconsistent statement can be admitted into evidence, the
+
+witness must be “first afforded an opportunity to explain or deny the
+
+prior inconsistent statement.” However, because Sconyers failed to
+
+object to the testimony at issue on any ground, he acknowledges that
+
+this enumeration can be reviewed for plain error only. See OCGA §
+
+24-1-103 (a) (1); Payne, 313 Ga. at 221 (1).6 We see no error, much
+
+
+
+
+       6 See also Harvey v. State, 
+300 Ga. 598
+, 603-604 (4) (a) (
+797 SE2d 75
+)
+
+(2017) (Because the appellant did not object to a detective’s testimony about
+the prior inconsistent statements of two witnesses, the appellant’s assertion
+that the trial court erred in admitting it could be examined only for plain
+error.), overruled on other grounds, Nalls v. State, 
+304 Ga. 168
+, 177-178 (3) (a),
+180 (3) (b) (
+815 SE2d 38
+) (2018).
+                                       19
+ less plain error.
+
+     The alleged hearsay statements of Finch about which Sconyers
+
+complains are found in the testimony of two co-workers of Finch’s.
+
+One of those co-workers, Carey Story, testified that Finch told Story
+
+that she took Lincoln to counseling for “jealousy issues” because he
+
+and Sconyers were “arguing a lot” and Lincoln “was telling [Finch]
+
+that [Sconyers] hits him.” According to Story, Finch attributed
+
+Lincoln’s injuries to sleepwalking. Another co-worker of Finch’s,
+
+Sera Druelle, testified that Finch showed Druelle a photo where one
+
+of Lincoln’s eyes was swollen shut and attributed the injury to the
+
+sleepwalking. According to Druelle, Finch had never said anything
+
+about Lincoln having behavioral issues until, about a week or a week
+
+and a half before the fatal incident, Finch said that she thought
+
+Sconyers’s “true colors were starting to come out”; that when he was
+
+trying to pick up Lincoln at the mall, Lincoln “got upset and started
+
+pointing at [Sconyers], and Lincoln started hitting his own face,” and
+
+Finch “turned around and said [to Sconyers] did you hit him?”; and
+
+
+
+                                 20
+ that Lincoln “would have behavioral issues around [Sconyers].” 7
+
+     Finch testified at trial that she took Lincoln to counseling,
+
+which his doctor recommended in December 2018, because he had
+
+developed “jealousy issues” with Sconyers. Finch also testified that
+
+she and Sconyers were engaged at the time of trial and that she did
+
+not believe that he injured Lincoln in any way. She denied that she
+
+remembered ever discussing with any of her co-workers that
+
+Sconyers and Lincoln had been fighting. Finch also denied that there
+
+was ever an incident at a mall when Lincoln indicated Sconyers had
+
+hit him and that she ever asked Sconyers if he had hit Lincoln
+
+because she and Sconyers were “always together.” Finch further
+
+denied that she ever had any apprehensions about her relationship
+
+with Sconyers or that Sconyers had a temper or argued with Lincoln.
+
+Instead, Finch testified, Sconyers and Lincoln “just played like
+
+father and son.” Finch subsequently denied ever discussing with her
+
+co-workers the nature of her relationship with Sconyers. On cross-
+
+
+     7  The DFCS employee also testified about a private interview with
+Lincoln’s sister, who said that Sconyers would spank Lincoln because he was
+crying.
+                                    21
+ examination, Finch also denied ever telling anyone she worked with
+
+that Sconyers “abuses Lincoln or anything like that”; she asserted
+
+that she “wasn’t close with anybody in the office” and that she “really
+
+kept [her] personal stuff to [her]self.”
+
+     “[P]rior inconsistent statements that meet the requirements of
+
+[Rule ]613 (b) are not hearsay if the declarant testifies at trial and
+
+is subject to cross-examination. See OCGA § 24-8-801 (d) (1) (A).”
+
+Neloms v. State, 
+313 Ga. 781
+, 787 (4) (a) (
+873 SE2d 125
+) (2022). “The
+
+failure of a witness to remember making a statement, like the
+
+witness’s flat denial of the statement, may provide the foundation
+
+for calling another witness to prove that the statement was made.”
+
+Id.
+ (citation and punctuation omitted).
+
+     Here, Finch’s denials and alleged lack of memory of her prior
+
+statements and their contents were a sufficient foundation to allow
+
+other witnesses to testify about the content of those statements, that
+
+is, the arguing and the hitting. See Neloms, 313 Ga. at 788 (4) (b);
+
+Bridgewater v. State, 
+309 Ga. 882
+, 886-887 (2) (
+848 SE2d 865
+) (2020)
+
+(One witness’s “unambiguous denial that he had ever spoken with
+
+                                   22
+ [a second witness]—as well as his assertion that he did not recall
+
+ever speaking with him—obviated the need for the prosecutor to ask
+
+[the first witness] about specific statements he made to [the second
+
+witness] and provided sufficient foundation for the State to present
+
+extrinsic evidence of such statements.”); Murdock v. State, 
+299 Ga.
+
+177
+, 179-180 (4) (
+787 SE2d 184
+) (2016) (A witness’s prior
+
+inconsistent statement about a shooting was properly admitted
+
+under Rule 613 (b) after she testified that “she could not recall the
+
+details of the shooting itself or the content of her statement.”).
+
+     Sconyers complains of the State’s failure to confront Finch with
+
+the specific extrinsic evidence of her alleged prior inconsistent
+
+statements. But as Bridgewater and Murdock indicate, Finch’s
+
+failure to recall making any statement at all about fighting, abuse,
+
+or anything like that, as well as her denial of the mall incident and
+
+Sconyers arguing with Lincoln, relieved the prosecutor of the need
+
+to ask about specific statements. Moreover, at the prosecutor’s
+
+request, the trial court directed Finch to remain subject to recall and
+
+the rule of sequestration. See Wammock v. Celotex Corp., 793 F2d
+
+                                  23
+ 1518, 1522-1523 (II) (11th Cir. 1986) (“[I]f the witness is or might be
+
+available for recall and the opposing party simply fails to recall him,
+
+there has been a sufficient opportunity to explain such that the
+
+extrinsic evidence should be admitted under Rule 613 (b). Therefore,
+
+one key to the admissibility of the extrinsic evidence of the prior
+
+inconsistent statement is the availability of the witness for recall.”);
+
+Hood v. State, 
+299 Ga. 95
+, 98-99 (2) (
+786 SE2d 648
+) (2016) (“On the
+
+issue of admitting extrinsic evidence of a witness’s prior inconsistent
+
+statement, OCGA § 24-6-613 (b) substantially adopted the language
+
+of Federal Rule of Evidence 613 (b) as it read in 2011; to the extent
+
+the new Georgia evidence rules borrow from the text of the federal
+
+evidence rules in this way, we look for guidance to the decisions of
+
+federal appellate courts, particularly the Eleventh Circuit,
+
+interpreting the federal rules.”).
+
+     4. Sconyers contends that the trial court erred by permitting
+
+the prosecution to impeach Finch with alleged bias through the
+
+testimony of Leslie Morgan, who was the guardian ad litem
+
+appointed in Finch’s case in juvenile court involving her daughter’s
+
+                                     24
+ custody and visitation. We see no error.
+
+     During her direct examination, Finch testified that her
+
+daughter had not been in her custody since Lincoln’s death and that
+
+she was not offered any opportunity to be able to see her daughter
+
+on a more regular basis, nor any type of visitation by the juvenile
+
+court. Morgan later testified that Finch was offered the opportunity
+
+to have a visitation plan with her daughter, but that it was not ever
+
+accomplished. Morgan explained that she was part of a conference
+
+call with the juvenile court judge and two others, during which an
+
+agreement was reached that the child’s therapist would help
+
+facilitate a supervised visit on the condition that Finch would sign
+
+an affidavit that she is no longer seeing or dating Sconyers, but
+
+Finch never executed the affidavit. On cross-examination, Morgan
+
+agreed that neither Finch nor her attorney was on the conference
+
+call, but she named someone from the office of Finch’s attorney as
+
+being on the call. Although Finch was aware that there was going to
+
+be a conference call addressing visitation, Morgan was not sure what
+
+Finch’s attorney told her after the call.
+
+                                  25
+      Sconyers objects to Morgan’s testimony on two bases. First, he
+
+contends that her testimony was not based on personal knowledge
+
+and therefore was not admissible under OCGA § 24-6-602 (“Rule
+
+602”). Second, he contends that her testimony did not establish a
+
+specific instance of Finch’s conduct showing that she was biased in
+
+favor of Sconyers, and therefore was not admissible to show her
+
+character for untruthfulness under OCGA § 24-6-608 (b) (“Rule 608
+
+(b)”). Because Sconyers raised only the Rule 608 (b) objection at trial,
+
+we review his Rule 602 argument only for plain error. See OCGA §
+
+24-1-103 (a) (1); Henderson, 317 Ga. at 78 (4) (c). 8 We address the
+
+arguments in turn.
+
+     (a) Rule 602 generally prohibits a witness from testifying “to a
+
+matter unless evidence is introduced sufficient to support a finding
+
+that the witness has personal knowledge of such matter. Evidence
+
+to prove personal knowledge may, but need not, consist of the
+
+
+
+
+     8 See also Brown v. State, 
+314 Ga. 193
+, 199 (3) (
+875 SE2d 784
+) (2022)
+
+(Because the appellant did not object to certain testimony on the ground that
+the witnesses lacked personal knowledge so as to preserve ordinary appellate
+review on that issue, it could be reviewed only for plain error.).
+                                     26
+ witness’s own testimony.” Under that rule, as under the
+
+corresponding federal rule, “witnesses may testify about events they
+
+personally observed.” Draughn v. State, 
+311 Ga. 378
+, 385 (4) (
+858
+
+SE2d 8
+) (2021). But “a court should exclude testimony for lack of
+
+personal knowledge if the witness could not have actually perceived
+
+or observed that which he testifies to.” Kirby v. State, 
+304 Ga. 472
+,
+
+478 (3) (b) (
+819 SE2d 468
+) (2018) (citation and punctuation omitted).
+
+     Morgan’s testimony made clear the limit of her personal
+
+knowledge,   i.e., that her knowledge of Finch’s          unfulfilled
+
+opportunity for a visitation plan with her daughter was based
+
+entirely on a conference call in which someone from the office of
+
+Finch’s attorney participated. Morgan did not state an opinion or
+
+inference about Finch’s knowledge or actions. To the contrary,
+
+Morgan’s testimony was “not impermissible opinion testimony” but
+
+was “straightforward factual testimony regarding matters within
+
+[her] personal knowledge,” Cooper v. State, 
+317 Ga. 676
+, 685 (2) (
+895
+
+SE2d 285
+) (2023), only about what she “actually perceived,” Kirby,
+
+304 Ga. at 478
+ (3) (b). Thus, we see no violation of Rule 602, much
+
+                                 27
+ less a violation that is obvious beyond reasonable dispute.
+
+     (b) Rule 608 (b) generally prohibits proof by extrinsic evidence
+
+of “[s]pecific instances of the conduct of a witness, for the purpose of
+
+attacking or supporting the witness’s character for truthfulness,”
+
+except for a conviction of a crime as provided in OCGA § 24-6-609 or
+
+“conduct indicative of the witness’s bias toward a party.” Sconyers’s
+
+argument about what Morgan’s testimony proved goes to its
+
+relevance to meet the exception in Rule 608 (b) for “conduct
+
+indicative of the witness’s bias toward a party.” The value of
+
+Morgan’s testimony lay in its tendency both to disprove Finch’s
+
+testimony denying any offer or opportunity for visitation and to
+
+prove bias on her part in favor of Sconyers. See OCGA § 24-4-401
+
+(“Rule 401”) (defining “relevant evidence” as “evidence having any
+
+tendency to make the existence of any fact that is of consequence to
+
+the determination of the action more probable or less probable than
+
+it would be without the evidence”). Morgan’s testimony – that Finch
+
+knew about the conference call and her attorney had a
+
+representative on the call – permitted the natural, reasonable
+
+                                  28
+ inference that Morgan accurately reported the substance of the
+
+conference call in which she participated in her official role as
+
+guardian ad litem, that Finch’s attorney performed her duty to
+
+ascertain what happened on the call and inform Finch of the
+
+visitation offer, and that Finch therefore was offered and declined a
+
+visitation plan if she stopped seeing Sconyers. In other words,
+
+Morgan’s testimony established that – contrary to Finch’s own
+
+testimony – Finch was offered a visitation plan with her older
+
+daughter, but declined to go along with that plan because it required
+
+her to stop seeing Sconyers. See Fitts v. State, 
+312 Ga. 134
+, 142 (3)
+
+(
+859 SE2d 79
+) (2021) (“When considering circumstantial evidence,
+
+jurors are entitled to draw reasonable inferences based on their own
+
+common-sense understanding of the world that are ordinarily drawn
+
+by ordinary people in the light of their experience in everyday life.”
+
+(citation and punctuation omitted)).
+
+     In its ruling, the trial court properly relied on OCGA § 24-6-
+
+621 (“Rule 621”), which provides that “[a] witness may be impeached
+
+by disproving the facts testified to by the witness.” It is true that
+
+                                 29
+ this statute does not authorize the use of “extrinsic evidence to
+
+impeach a witness by contradiction” on a matter that is “wholly
+
+immaterial” or “purely collateral” to the material issues at trial.
+
+Scott v. State, 
+309 Ga. 764
+, 770-771 (3) (c) (
+848 SE2d 448
+) (2020).9
+
+But the nature and depth of Finch’s relationship with Sconyers was
+
+relevant to the jury’s assessment of the material issue of her
+
+potential bias. See McNabb v. State, 
+313 Ga. 701
+, 715 (2) (b) (i) (
+872
+
+SE2d 251
+) (2020) (“[T]he nature of the relationships between the
+
+witnesses and defendants was relevant, as the jury’s understanding
+
+of a familial relationship between a defendant and a witness could
+
+affect the jury’s assessment of the witness’s credibility or potential
+
+bias    and   provide     context    for   the   witness’s     testimony.”).10
+
+Consequently, it was within the trial court’s discretion to admit
+
+
+       9 Scott properly relied on case law under former OCGA § 24-9-82, in
+
+addition to current Rule 621, because that current rule was carried over from
+the old Evidence Code and has no federal corollary.
+      10 See also OCGA § 24-6-622 (“Rule 622”) (“The state of a witness’s
+
+feelings towards the parties and the witness’s relationship to the parties may
+always be proved for the consideration of the jury.”); Virger v. State, 
+305 Ga.
+281
+, 295 (7) (c) (
+824 SE2d 346
+) (2019) (holding under Rule 622 that evidence of
+a prior statement by a girlfriend of the defendant to a detective was admissible
+to show that her testimony, which was beneficial to the defendant, may have
+been motivated by bias in his favor).
+                                      30
+ Morgan’s testimony “as a relevant contradictory statement.” See
+
+Corley v. State, 
+308 Ga. 321
+, 325 (3) (
+840 SE2d 391
+) (2020) (“[I]t is
+
+within a trial court’s discretion to determine if a party is improperly
+
+attempting to use extrinsic evidence to impeach a witness by
+
+contradiction under [Rule ]621 on a matter collateral to the relevant
+
+issues at trial.”).
+
+     Accordingly, the trial court did not err by allowing the State to
+
+impeach Finch with the extrinsic evidence of Morgan’s testimony
+
+that both contradicted Finch’s testimony about visitation and
+
+showed a bias on the part of Finch in favor of Sconyers.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                  31
+ 

@@ -1,0 +1,1070 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                          S24A0399. PLATT v. THE STATE.
+
+
+        PETERSON, Presiding Justice.
+
+        Rodrigues Platt 1 appeals his convictions related to the shooting
+
+death of David Jones, Jr. 2 On appeal, Platt argues that the trial
+
+
+
+
+        1 Platt’s first name is spelled “Rodriguez” in some court filings and in his
+
+brief, but most of the court filings below use “Rodrigues.”
+       2 The crimes occurred on June 16, 2009. In February 2010, a Liberty
+
+County grand jury indicted Platt, Jedediah Duncan, and Steven Bond for
+malice murder, felony murder predicated on aggravated assault, aggravated
+assault, armed robbery, burglary, and possession of a firearm during the
+commission of a crime. The court severed the co-defendants’ trials, and the
+record does not show the status of those cases. A jury found Platt guilty on all
+counts at an August 2011 trial, and the trial court sentenced him to life in
+prison for malice murder, two concurrent twenty-year terms for armed robbery
+and burglary, and a consecutive five-year term for the firearms offense. The
+other counts were merged or vacated by operation of law. Platt filed a motion
+for new trial in August 2011 and amended it in 2019. The trial court denied
+the motion in September 2023. Platt timely filed a notice of appeal, and the
+case was docketed to this Court’s term beginning in December 2023 and
+submitted for a decision on the briefs.
+       The record does not reveal why it took well over a decade to resolve
+Platt’s motion for new trial. Platt asserts no claim about the post-conviction
+delay, but we nevertheless remind trial courts and attorneys of their duty
+diligently and efficiently to resolve pending motions for new trial.
+ court should have granted a mistrial due to the State’s failure to
+
+disclose the inconclusive test results of a hair sample from a critical
+
+witness against him who was also a possible suspect in the timely
+
+manner required by OCGA § 17-6-4 and Brady v. Maryland, 
+373
+
+U.S. 83
+ (83 SCt 1194, 10LE2d 215) (1963). He also argues that the
+
+court should have granted a mistrial based on the State’s belated
+
+disclosure that Platt’s initial custodial interview had been recorded
+
+despite previously representing otherwise. Platt also argues that the
+
+trial court should have taken some curative action when the
+
+prosecutor improperly identified him for testifying witnesses, and
+
+that the cumulative prejudice of these errors warrants a new trial.
+
+We conclude that Platt has failed to establish that a mistrial was
+
+necessary to preserve his right to a fair trial, that any curative
+
+action was necessary based on the prosecutor’s identification of him,
+
+or that any errors cumulatively prejudiced him. Therefore, we
+
+affirm.
+
+      The evidence at trial showed the following. Jones lived in the
+
+Tapco Mobile Home Park in Liberty County. He sold drugs and kept
+
+                                  2
+ his money in a small, black travel safe. On June 16, 2009, Jones was
+
+shot multiple times in his mobile home, leading to his death. Jarius
+
+Wilson lived in a mobile home close to the victim’s and heard a noise
+
+on the day of the shooting that sounded like firecrackers. After he
+
+heard the sound, Wilson looked out his window and saw “some guys”
+
+wearing masks running from the victim’s home and toward a
+
+“grayish-greenish” SUV.
+
+     Monique Hendry, Platt’s sister, testified that on the day of
+
+Jones’s death, Platt, Steven Bond, and Jedediah Duncan were at
+
+Hendry’s mother’s house. Bond and Duncan were wearing
+
+camouflage, had gas masks, and were playing with a black gun. The
+
+three men left in a “goldish” SUV driven by Duncan.
+
+     Miriam Brown testified that on the day of the shooting, Duncan
+
+picked her up and drove her to Hinesville, driving a tan or gold SUV.
+
+Bond was also in the vehicle, and the two men were wearing army
+
+fatigues, jeans, and black shirts. On the drive to Hinesville, Bond
+
+and Duncan showed her a gas mask and a bulletproof vest, and
+
+Duncan passed a black gun to Bond. Duncan and Bond dropped off
+
+                                 3
+ Brown. When they picked her up later that day, she heard one of
+
+them say, “I can’t believe it,” that they had killed someone, and that
+
+they had shot “him” three times because “he had seen his face.”
+
+Duncan and Bond said that they had gone to the victim’s house to
+
+“kick in the door” and that they took a safe that was full of “eight
+
+balls,” which Brown said meant crack cocaine.
+
+     Bruce Coleman testified that he was at Tapco on the morning
+
+of the shooting and went to the store with Duncan and Bond in
+
+Duncan’s gold SUV. Before dropping Coleman off at the Pineland
+
+Apartment complex where Coleman’s girlfriend lived, Duncan and
+
+Bond talked about “a lick,” which Coleman described as a robbery,
+
+and Coleman declined their invitation to join them. Later that day,
+
+Coleman saw Duncan drop off Platt and Bond at Pineland. Bond
+
+said they had robbed and shot someone, possibly killing the victim.
+
+Coleman did not believe Bond, so he went to ask Platt, who had
+
+walked away. Platt said that “they” probably had killed “him” and
+
+showed Coleman a gun that Platt said was used during the robbery.
+
+     Steve Plair, Bond’s older brother who also lived at Tapco at the
+
+                                  4
+ time of the shooting, said that on the morning of the shooting,
+
+Duncan and Bond were outside the mobile home discussing robbing
+
+someone. Plair said that Platt, Bond, and Duncan were at his mobile
+
+home later that night, and Platt had a revolver. Plair testified that
+
+the three men left, and 35 to 45 minutes later, Plair heard gunshots.
+
+Plair saw Platt a few days later, and Platt admitted to shooting
+
+someone called “Little Dave.” Platt said that when he was in the
+
+victim’s mobile home, Platt’s face covering slipped, so he guessed the
+
+victim saw him. Platt said he shot the victim three times, while
+
+Duncan retrieved the safe. Plair admitted that on the night of the
+
+shooting, he hid from police but later turned himself in. Plair was
+
+arrested because someone identified him as being involved in the
+
+shooting, but he denied being involved and said he knew nothing.
+
+Plair later told police about Platt’s statements, admitting that he
+
+did so only after being charged with murder in this case — charges
+
+that were ultimately dismissed.
+
+     During the investigation, Duncan led police to a field where
+
+they found, among other things, a stocking cap that had hairs inside,
+
+                                  5
+ a camouflage shirt and pants, a gas mask, and a safe that had “3A2”
+
+written on it. The same inscription — “3A2” — was also written on
+
+a key found in the victim’s pocket. Police also found one 9mm shell
+
+casing at the bottom of the steps to the victim’s mobile home and
+
+another in Duncan’s vehicle, and a firearms expert testified that
+
+they were fired from the same weapon.
+
+     Platt was interviewed by police on two different days. During
+
+the second interview, which was recorded and played for the jury at
+
+trial, Platt admitted participating in the armed robbery and that
+
+Jones was shot during the crime. He denied shooting Jones. Platt,
+
+Duncan, and Bond were charged with several crimes, and following
+
+a jury trial, Platt was convicted of malice murder, armed robbery,
+
+burglary, and possession of a firearm during the commission of a
+
+crime.
+
+     1.   Platt argues that the trial court should have granted a
+
+mistrial based on the State’s untimely disclosure that it had
+
+compared the hairs found in the recovered stocking cap against
+
+Plair’s hair and found the results inconclusive. We disagree.
+
+                                 6
+      Platt filed a pretrial discovery motion, requesting, among other
+
+things, the results of all scientific tests and all Brady material. Two
+
+weeks before trial, defense counsel met with the prosecutor, the lead
+
+investigator Detective Snider, and other police officers, to review
+
+every exhibit the State intended to introduce at trial. The State did
+
+not at that time disclose to Platt that it had tested Plair’s hair with
+
+inconclusive results.
+
+     During opening statements, Platt’s counsel told the jury that,
+
+although the State had compared the hair recovered from the
+
+stocking cap to the defendants in the case and did not find a match,
+
+the State never compared those hairs to hair samples from Plair. In
+
+fact, that was not true: unbeknownst to trial counsel, the State had
+
+made that comparison, although the results were inconclusive. After
+
+opening statements and during a recess, the State disclosed to Platt
+
+for the first time that it had tested Plair’s hair with inconclusive
+
+results. Platt moved for a mistrial and called Detective Snider in
+
+support of that motion. Detective Snider testified that a few weeks
+
+before trial, he talked to the GBI agent who conducted the test on
+
+                                  7
+ Plair’s hair, and was told that the initial comparison was
+
+“tentatively” inconclusive, the agent would prepare a final report
+
+after peer review, and the agent would submit samples for DNA
+
+testing, which Detective Snider understood to mean that the agent
+
+had only looked at the hair samples under a microscope. Detective
+
+Snider confirmed that, although testing results for Platt and other
+
+defendants were provided to Platt as part of discovery, no
+
+information about the testing of Plair’s hair was provided. Detective
+
+Snider said he had not talked to the GBI agent since being informed
+
+of the inconclusive results.
+
+     The court denied the mistrial motion, concluding that the
+
+results did not “help or hurt either side.” The court allowed Platt’s
+
+counsel to reopen opening statements. Counsel told the jury that he
+
+made a misstatement about Plair’s hair never having been tested
+
+and this was caused by the State’s failure to disclose this
+
+information. Counsel insisted that the State was “hiding evidence,”
+
+that he had been subjected to “trial by ambush,” that he had been
+
+unable to prepare the defense adequately or conduct independent
+
+                                 8
+ testing of the hair given the last-minute disclosure, and that this
+
+was “all the reasonable doubt” the jury needed.
+
+     On appeal, Platt argues that the untimely disclosure impaired
+
+his defense and that a mistrial was therefore warranted. A trial
+
+court is vested with broad discretion as to whether to grant a
+
+mistrial, and a court’s decision not to grant one will not be disturbed
+
+on appeal unless there is a showing that a mistrial was essential to
+
+preserve a party’s right to a fair trial. See Jordan v. State, 
+305 Ga.
+
+12
+, 15 (2) (
+823 SE2d 336
+) (2019); Ragan v. State, 
+299 Ga. 828
+, 833-
+
+834 (3) (
+792 SE2d 342
+) (2016).
+
+     Platt argues primarily that a mistrial was necessary to remedy
+
+the State’s violation of Brady. Under Brady,
+
+     the suppression by the prosecution of evidence favorable
+     to an accused upon request violates due process where the
+     evidence is material either to guilt or to punishment,
+     irrespective of the good faith or bad faith of the
+     prosecution. This includes the suppression of
+     impeachment evidence that may be used to challenge the
+     credibility of a witness.
+
+Hood v. State, 
+311 Ga. 855
+, 863 (1) (
+860 SE2d 432
+) (2021) (citations
+
+and punctuation omitted); see also Chavez v. State, 
+307 Ga. 804
+, 813
+
+                                  9
+ (3) (
+837 SE2d 766
+) (2020) (to be entitled to a new trial, a defendant
+
+must show that the evidence is “material to his guilt or punishment”
+
+(citation and punctuation omitted)). Evidence is “material” in this
+
+context when “there is a reasonable probability that, had the
+
+evidence been disclosed, the result of the proceeding would have
+
+been different. A ‘reasonable probability’ of a different result is one
+
+in which the suppressed evidence undermines confidence in the
+
+outcome of the trial.” Chavez, 307 Ga. at 813 (3) (citations and
+
+punctuation omitted). “In the case of an untimely disclosure, a
+
+defendant must show that an earlier disclosure would have
+
+benefited the defense and that the delayed disclosure deprived him
+
+of a fair trial.” Anglin v. State, 
+312 Ga. 503
+, 510 (2) (b) (
+863 SE2d
+
+148
+) (2021) (citation and punctuation omitted). Platt has failed to
+
+make this showing.
+
+     Platt first argues that the untimely disclosure affected his
+
+opening statement, and that the entire defense, as reflected by the
+
+opening statement, became “unsupported” by the late disclosure.
+
+Although the untimely disclosure undermined his statement about
+
+                                  10
+ a lack of testing, Platt was able to argue to the jury that the State
+
+was “hiding evidence,” creating doubt as to the thoroughness of the
+
+State’s investigation.
+
+     Platt also argues that the untimely disclosure hampered his
+
+defense, but he does not show how he would have altered his defense
+
+if given the information sooner. Platt claims that he could have
+
+procured independent DNA testing of the hair had he been made
+
+aware of the inconclusive results sooner, and that he could have used
+
+this information to impeach Plair and establish his motive for saying
+
+that Platt confessed to him that Platt shot Jones. Platt’s arguments
+
+are meritless. Platt knew about the hair recovered from the stocking
+
+cap. Although he thought the hair had not been compared to Plair’s
+
+hair, as reflected by his initial opening statement, there is no
+
+evidence in the record that he ever sought to secure independent
+
+DNA testing of the recovered hair prior to trial. And Platt’s claim
+
+about what the DNA testing would reveal is purely speculative, as
+
+there is no evidence of such testing. Platt argues in his appellate
+
+brief that “[i]t could have been [Plair’s] hair in the stocking cap[,]”
+
+                                  11
+ but further testing could have alternatively revealed that the hair
+
+belonged to Platt. In any case, whatever the results of DNA testing
+
+would have revealed, Platt has not shown that any further
+
+impeachment of Plair would have made a meaningful difference.
+
+Moreover, Platt was able to impeach Plair about his motive for
+
+saying that Platt confessed to the crime, suggesting that Plair
+
+named Platt only after Plair himself was charged in the case. See
+
+Hood v. State, 
+311 Ga. 855
+, 864-865 (1) (
+860 SE2d 432
+) (2021)
+
+(although full scope of witness’s “possible incentives to cooperate
+
+with the State was not made known to the jury, the jury was
+
+nonetheless aware there was reason to regard his testimony with
+
+skepticism[,]” and witness’s testimony was largely cumulative of
+
+other evidence, so defendant was unable to establish materiality).
+
+Because Platt has shown only a mere possibility that additional
+
+testing would have been favorable to his defense, he has failed to
+
+show a Brady violation. See Mitchell v. State, 
+307 Ga. 855
+, 862 (2)
+
+(b) (
+838 SE2d 847
+) (2020) (rejecting Brady claim as not establishing
+
+materiality because defendant offered no evidence in support of his
+
+                                12
+ speculation that had he been provided with information about
+
+fingerprints lifted from a taxi where the victim was found dead, he
+
+could have procured independent testing that would have helped his
+
+defense).
+
+     Platt also argues that the State’s failure to disclose the
+
+inconclusive results violated statutory disclosure rules. Specifically,
+
+Platt argues that the State violated OCGA § 17-16-4 (a) (4) by failing
+
+to reduce to writing the GBI agent’s oral report and failing to provide
+
+him with a copy of the same. By its terms, however, the statute
+
+imposes a duty on the State to provide the results of scientific
+
+testing, including if a report is “oral or partially oral,” only “if the
+
+state intends to introduce [the results of the testing] in evidence in
+
+its case-in-chief or in rebuttal[.]” See OCGA § 17-16-4 (a) (4). 3 There
+
+
+     3 The subparagraph provides:
+
+
+
+     The prosecuting attorney shall, no later than ten days prior to
+     trial, or as otherwise ordered by the court, permit the defendant at
+     a time agreed to by the parties or ordered by the court to inspect
+     and copy or photograph a report of any physical or mental
+     examinations and of scientific tests or experiments, including a
+     summary of the basis for the expert opinion rendered in the report,
+     or copies thereof, if the state intends to introduce in evidence in its
+
+                                       13
+ was no indication that the State intended to introduce into evidence
+
+the “inconclusive results” of the testing of Plair’s hair, so Platt has
+
+failed to demonstrate a violation of OCGA § 17-16-4 (a) (4). Because
+
+the untimely disclosure did not violate Brady or OCGA § 17-16-4 (a)
+
+(4), Platt’s claim that the trial court erred in failing to remedy such
+
+violations necessarily fails.
+
+     2.    Platt argues that the trial court should have also granted
+
+a mistrial, or at least a continuance, due to the State’s untimely
+
+disclosure that Platt’s first custodial interview had been recorded
+
+when it had previously represented otherwise. We disagree.
+
+     At a Jackson-Denno 4 hearing before trial, the investigator who
+
+had interviewed Platt, Detective Howard, testified that he
+
+
+
+     case-in-chief or in rebuttal the results of the physical or mental
+     examination or scientific test or experiment. If the report is oral or
+     partially oral, the prosecuting attorney shall reduce all relevant
+     and material oral portions of such report to writing and shall serve
+     opposing counsel with such portions no later than ten days prior to
+     trial. Nothing in this Code section shall require the disclosure of
+     any other material, note, or memorandum relating to the
+     psychiatric or psychological treatment or therapy of any victim or
+     witness.
+
+OCGA § 17-16-4 (a) (4) (emphasis added).
+    4 Jackson v. Denno, 
+378 U.S. 368
+ (84 SCt 1774, 12 LE2d 908) (1964).
+
+                                      14
+ interviewed Platt on two different days, the second interview a full
+
+day after the first. Detective Howard testified that although he
+
+proposed recording the first interview, he did not actually do so. He
+
+testified that the second interview was recorded and that Platt’s
+
+statements during the first interview were consistent with those
+
+given at the second interview.
+
+     Apparently based on this testimony, Platt argued during
+
+opening statements that the jury was not going to hear what
+
+happened during the first interview because it was not recorded; the
+
+jury would hear only what a police officer says happened; and the
+
+jury would hear only Platt’s statements that were recorded after he
+
+had spent a night in a jail where the victim’s father worked, which
+
+would have instilled fear into Platt.
+
+     During the lunch break on the second day of the trial, the State
+
+informed defense counsel that Platt’s first interview had, in fact,
+
+been recorded. Defense counsel listened to the recording once over
+
+the lunch break and asked for a mistrial because the “new evidence
+
+. . . contradicts a good bit of what I’ve been saying and the way I’ve
+
+                                  15
+ tailored the defense in this — you know, during this trial for the past
+
+day and a half.” Defense counsel alternatively asked for a
+
+continuance “at least for the rest of the day” to allow counsel to
+
+review the recording more thoroughly and incorporate the evidence
+
+into Platt’s defense.
+
+     The prosecutor stated that she did not know about the
+
+recording until the second day of trial when Detective Howard
+
+mentioned it during a conversation; the prosecutor said she
+
+immediately let defense counsel know and suggested as a remedy
+
+that the recording not be played. Defense counsel noted in response
+
+that Platt’s statements were not the same during the two interviews,
+
+as he did not inculpate himself in the first interview. Defense
+
+counsel later observed that this was the second piece of evidence
+
+that was not timely disclosed. In response, the prosecutor said she
+
+did not want to “start all over again. But if the Court feels that’s the
+
+thing to do out of fairness, the State’s really not . . . .” The trial court
+
+denied the motion before the prosecutor finished her statement.
+
+     Responding to the continuance request, the prosecutor did not
+
+                                    16
+ object to giving defense counsel the rest of the day to review the
+
+recording, but preferred to break for just three hours because the
+
+prosecutor had planned to call a witness who was travelling that day
+
+and wanted to get her “in and out.” The court asked if the jury
+
+should hear “the truth about all this,” and defense counsel said, “we
+
+have to . . . I don’t see how we can’t tell them, you know, that there’s
+
+two pieces of evidence.” After confirming that counsel had listened
+
+to the recording, the trial court denied a continuance.
+
+     The recordings of both interviews were ultimately played for
+
+the jury during Detective Howard’s testimony. As captured in the
+
+recording of the first interview, Platt admitted to being in Tapco
+
+during the robbery and seeing parts of it from a nearby mobile home,
+
+but he denied being involved or knowing who shot Jones. During
+
+cross-examination, Platt elicited testimony that Detective Howard
+
+had previously testified at the Jackson-Denno hearing that Platt
+
+never denied being involved in the robbery.
+
+     Platt argues on appeal that the State’s failure to advise him
+
+that his first interview was recorded and provide him a copy of that
+
+                                  17
+ recording violated OCGA § 17-16-4 (a) (1), and that a mistrial was
+
+warranted under the remedies available under OCGA § 17-16-6
+
+because he showed that the State acted in bad faith and he was
+
+prejudiced as a result. For its part, the State does not dispute that
+
+it violated OCGA § 17-16-4 (a) (1) by failing to advise Platt that the
+
+first interview was recorded and allow him to inspect or copy it in
+
+advance of trial. Instead, the State argues that the trial court’s
+
+remedial actions were adequate under OCGA § 17-16-6.
+
+     As stated above, a trial court has broad discretion to grant or
+
+deny a mistrial. This discretion also applies to whether to grant a
+
+mistrial as a remedy under OCGA § 17-16-6. See Tubbs v. State, 
+276
+
+Ga. 751
+, 753-754 (3) (
+583 SE2d 853
+) (2003). A court also has the
+
+discretion to grant a continuance as a remedy for a violation of
+
+OCGA § 17-16-6. Id. at 753-753 (2), (3). As explained above, we will
+
+not overturn a trial court’s decision to deny a mistrial unless a
+
+mistrial was essential to preserve the right to a fair trial. And to
+
+obtain a new trial from the improper denial of a continuance request,
+
+a defendant must show harm. See Harris v. State, 
+309 Ga. 599
+, 609
+
+                                 18
+ (3) (
+847 SE2d 563
+) (2020). Platt has failed to make these showings.
+
+     (i)      A mistrial was not essential to preserve Platt’s right to
+     a fair trial.
+
+     Platt argues that he was prejudiced by the late disclosure
+
+because he had referenced the fact that the first interview was not
+
+recorded in his opening statement. But Platt does not show how the
+
+late disclosure harmed him.
+
+     He first argues that he was prejudiced because he referred to
+
+the first interview in his opening statement and it formed the basis
+
+of his defense. But he referred to that interview to suggest that he
+
+did not initially admit participating in the crime and made his
+
+admission during the second interview only as a result of fear after
+
+spending a night in jail. The recording of that first interview only
+
+bolstered this argument. In that recording, Platt admits to being in
+
+Tapco during the robbery and knowing about it, but he denied being
+
+involved or knowing who shot Jones. The recording thus supported,
+
+rather than undermined, Platt’s opening statement where he
+
+suggested that his confession in the second interview was not
+
+
+                                  19
+ truthful.
+
+      Platt next argues that he was prejudiced because Detective
+
+Howard testified at the motions hearing that Platt’s statements in
+
+the two interviews were consistent. But Platt was able to use the
+
+recording to impeach Detective Howard’s credibility by showing that
+
+Detective Howard’s prior testimony was not accurate, and he has
+
+not shown how an earlier disclosure would have made any difference
+
+in this respect.
+
+      Platt also argues that he was prejudiced by the untimely
+
+disclosure because he had to question three of the State’s most
+
+important witnesses without a “correct” version of events as relayed
+
+in the first interview. But this claim is vague and unsupported. Platt
+
+does not identify which witnesses he considers to be “most
+
+important.” But more importantly, he does he show how he would
+
+have examined these witnesses differently had the recording been
+
+disclosed sooner.5
+
+
+      5 In one part of his brief, Platt notes that the State called five witnesses
+
+after lunch (after he listened to the recording), lists four witnesses (“Detective
+
+                                       20
+       Platt contends that he was prejudiced by the trial court’s
+
+failure to “remedy the situation with the jury” despite having
+
+“promised” to do so.6 In support of this argument, Platt relies on Lee
+
+v. State, 
+306 Ga. 663
+ (
+832 SE2d 851
+) (2019), where this Court stated
+
+that a trial court acts within its discretion to deny a motion for
+
+mistrial “when it provides adequate curative instructions to the jury
+
+to cure any prejudice stemming from the introduction of the
+
+improper evidence.” Id. at 669. But as already made clear, Platt has
+
+demonstrated no prejudice resulting from the late disclosure of the
+
+recording; instead, the recording seemed to help his defense and he
+
+has not shown any harm from the delayed disclosure.
+
+      Platt next relies on the State’s apparent lack of opposition to a
+
+mistrial as evidence that the trial court should have granted one.
+
+
+
+Snider, a GBI crime lab tools examiner, Plair, and Detective Howard”), and
+then states “the newly-disclosed recording impacted all three.” Even assuming
+Platt was referring to Detective Snider, Detective Howard, and Plair as the
+“three most important” witnesses, he does not explain what line of questioning
+he would have pursued had he known about the recording sooner. And as
+discussed, he was able to use the recording to impeach Detective Howard.
+       6 In his brief, Platt cites the trial court’s question about whether it should
+
+tell the jury the “truth” about the recording, but there is nothing in this
+exchange to show that it promised some sort of curative instruction.
+                                         21
+ Platt seems to focus on the prosecutor’s response to whether it
+
+requested the court deny the motion for mistrial. The prosecutor did
+
+not finish her sentence before the trial court denied the motion, so it
+
+is not entirely clear what position the prosecutor was taking. But
+
+even if the prosecutor’s statement is read as an apparent lack of
+
+objection, this does not establish that a mistrial was necessary. At
+
+most, the prosecutor’s statements show her acknowledgement of the
+
+fact that the court could grant a mistrial; those statements fell short
+
+of showing that the court was required to grant one. See Hightower
+
+v. State, 
+315 Ga. 399
+, 404 (2) (
+883 SE2d 335
+) (2023) (simply because
+
+“reasonable” minds may differ about whether other alternatives are
+
+proper is not dispositive of whether a trial court abused its discretion
+
+in deciding whether to grant a mistrial). We conclude that Platt has
+
+failed to show that a mistrial was necessary to preserve his right to
+
+a fair trial.
+
+      (ii)    Even if the court abused its discretion in denying Platt
+      a continuance, he has not shown harm to warrant a new trial.
+
+      Platt alternatively argues that the trial court should have at
+
+
+                                  22
+ least granted his unopposed request for a continuance. But even if
+
+the trial court abused its discretion in denying that request, Platt
+
+cannot obtain a new trial unless he shows harm. See Harris v. State,
+
+309 Ga. 599
+, 609 (3) (
+847 SE2d 563
+) (2020). Platt argues that he
+
+needed more time to study the recording and prepare, but he makes
+
+no showing how additional time would have benefitted him. See
+
+Phoenix v. State, 
+304 Ga. 785
+, 789 (2) (
+822 SE2d 195
+) (2018) (“To
+
+show harm, a party is required to specifically identify what other
+
+evidence or witnesses he would have put forth in his defense if his
+
+counsel had been given more time to prepare; speculation and
+
+conjecture are not enough.” (citation and punctuation omitted)).
+
+Moreover, as discussed above, Platt demonstrated no prejudice from
+
+the untimely disclosure of the recording, as the recording seemed to
+
+help, rather than harm, Platt’s defense. Because Platt has failed to
+
+show how any additional time to prepare harmed him, this
+
+argument fails. 7
+
+
+
+      7 Although the claims of untimely disclosure do not warrant reversal, we
+
+do not condone the State’s failure to comply with its legal obligations.
+                                       23
+      3.   Platt argues that the prosecutor violated OCGA § 17-8-75
+
+by “identifying” him for three witnesses, and the trial court erred by
+
+failing to take some curative action. From a review of the record, it
+
+appears that the witnesses had an obstructed view of the defense
+
+table where Platt was sitting, and the prosecutor attempted to point
+
+out Platt’s location in the courtroom. The prosecutor did nothing
+
+more than say where Platt was located.
+
+     OCGA § 17-8-75 provides:
+
+     Where counsel in the hearing of the jury make statements
+     of prejudicial matters which are not in evidence, it is the
+     duty of the court to interpose and prevent the same. On
+     objection made, the court shall also rebuke the counsel
+     and by all needful and proper instructions to the jury
+     endeavor to remove the improper impression from their
+     minds; or, in his discretion, he may order a mistrial if the
+     prosecuting attorney is the offender.
+
+     We are dubious that the prosecutor’s actions were “statements
+
+of prejudicial matters” triggering a requirement for the trial court to
+
+take curative action under OCGA § 17-8-75. The jury was no doubt
+
+well aware that Platt was on trial and was sitting at the defense
+
+table. There is no indication that the prosecutor did anything more
+
+
+                                  24
+ than to make sure witnesses knew where Platt was.
+
+     But even if this amounted to a violation of OCGA § 17-8-75,
+
+any error in failing to prevent the prosecutor from making continued
+
+“identifications” of Platt or issuing a curative instruction was
+
+harmless.
+
+     [A] trial court’s error in not fulfilling its duty under OCGA
+     § 17-8-75 is subject to harmless error analysis. For
+     nonconstitutional harmless error, the State has the
+     burden to show that it was highly probable that the error
+     did not contribute to the verdict.
+
+Caldwell v. State, 
+313 Ga. 640
+, 648 (2) (
+872 SE2d 712
+) (2022)
+
+(citations and punctuation omitted).
+
+     Here, any error was harmless given the strong evidence of
+
+Platt’s guilt. Even setting aside Platt’s second recorded interview in
+
+which he admitted participating in the armed robbery, other
+
+evidence showed that Platt shot Jones or, at the very least,
+
+participated in the armed robbery. Plair testified that Platt said he
+
+shot the victim during a robbery when Platt’s face covering fell off
+
+and allowed him to see Platt. Bruce Coleman also heard Duncan and
+
+Bond talk on the day of the shooting about a planning a “lick,” or
+
+                                  25
+ robbery, and when he saw them afterward, he heard from Platt and
+
+Bond that they carried out the robbery and “probably” killed
+
+someone. Miriam Brown and Platt’s sister testified that on the day
+
+of the shooting, Platt, Duncan, Bond, and Plair were playing with a
+
+gun and wearing clothing that was later recovered from the same
+
+field where a safe appearing to belong to the victim was also found.
+
+Given the strength of the evidence, and the jury’s awareness that
+
+Platt was on trial and was sitting at the defense table, it is highly
+
+probable that the prosecutor’s actions in pointing out Platt as the
+
+defendant to witnesses did not contribute to the jury’s verdict.
+
+     4.   Platt next argues that the cumulative prejudice from the
+
+trial court’s errors warranted a new trial. We disagree.
+
+     To establish cumulative error, Platt must establish that “at
+
+least two errors were committed in the course of the trial and
+
+considered together along with the entire record, the multiple errors
+
+so infected the jury’s deliberation that they denied [him] a
+
+fundamentally fair trial.” Huff v. State, 
+315 Ga. 558
+, 567-568 (6) (
+883
+
+SE2d 773
+) (2023) (citation and punctuation omitted). Above, we
+
+                                  26
+ assume, without deciding, that the trial court may have erred in
+
+failing to grant Platt a continuance related to the State’s untimely
+
+disclosure that Platt’s first custodial interview had been recorded
+
+and in failing to take some curative action with respect to the
+
+prosecutor’s identification of Platt to witnesses. As explained above,
+
+these errors produced very little, if any, harm. Therefore, given the
+
+strength of the evidence, even if these assumed errors could be
+
+considered cumulatively, the cumulative prejudice did not deny
+
+Platt a fair trial.
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                 27
+ 

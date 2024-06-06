@@ -1,0 +1,1862 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: March 5, 2024
+
+
+                     S23A1201. SINKFIELD v. THE STATE.
+
+
+        BOGGS, Chief Justice.
+
+        Appellant Remond Sinkfield challenges his convictions for
+
+felony murder and other crimes in connection with the death of Levi
+
+Atkinson, who either was pushed or jumped out of a moving vehicle
+
+after an altercation with Appellant, was struck by another car, and
+
+died from his injuries five days later. Appellant contends that the
+
+evidence was insufficient to support his convictions for felony
+
+murder and theft by taking; that the trial court erred in denying his
+
+motion to suppress a pretrial interview by police; that the trial court
+
+committed plain error in several ways; and that the trial court
+
+abused its discretion in various evidentiary rulings. He also
+
+contends that he was denied effective assistance of counsel due to
+
+his trial counsel’s deficiencies, including by failing to retain a
+ medical expert to testify as to the cause of Atkinson’s death. For the
+
+reasons that follow, we affirm.1
+
+      1.    The evidence presented at trial showed the following. 2
+
+Appellant and Atkinson were acquaintances, and Appellant
+
+supplied Atkinson with drugs and prostitutes. Atkinson owned a
+
+business and was generous with his money, occasionally paying
+
+bills, such as for rent and cell phone service, for Appellant and
+
+
+
+      1 The crimes occurred on January 24, 2012. It appears that Appellant
+
+was first indicted in 2012, but the record does not contain that indictment. On
+October 14, 2014, a Fulton County grand jury re-indicted Appellant for felony
+murder, involuntary manslaughter, aggravated assault with intent to rob,
+theft by taking (auto), and giving false information to a law enforcement
+officer. At a trial from October 20-24, 2014, the jury acquitted Appellant of
+involuntary manslaughter and convicted him on all other counts. The trial
+court sentenced Appellant to life in prison with the possibility of parole for
+felony murder, a ten-year consecutive sentence for theft by taking, and a
+twelve-month consecutive sentence for giving false information. The
+aggravated assault count merged into the felony murder conviction. Appellant
+filed a premature motion for new trial, and that motion ripened upon the entry
+of the final judgment on October 28, 2014. See Southall v. State, 
+300 Ga. 462
+,
+464-468 (
+796 SE2d 261
+) (2017). Appellant amended the motion for new trial
+with new counsel on June 15, 2021, and February 6, 2023. After an evidentiary
+hearing on February 22, 2023, the trial court entered an order denying the
+motion on April 28, 2023. Appellant filed a timely notice of appeal, and the case
+was docketed in this Court to the August 2023 term and submitted for a
+decision on the briefs.
+       2 Because this case involves questions of harmless error and prejudice
+
+stemming from ineffectiveness of counsel, we set out the evidence in detail
+rather than in the light most favorable to the jury’s verdict. See Wood v. State,
+316 Ga. 811
+, 812 n.2 (
+890 SE2d 716
+) (2023).
+                                       2
+ others, and also sometimes lent his car to Appellant and others. Late
+
+in the evening on January 23, 2012, Atkinson was at his home in
+
+Douglas County celebrating his birthday with Deshanqueanna
+
+Lundy, who was Appellant’s girlfriend. Early the next morning, on
+
+January 24, Appellant was driven to Atkinson’s home by Cleo
+
+Simmons; Lisa Johnson was with them. Appellant delivered crack
+
+and powder cocaine to Atkinson, and the four consumed the drugs.
+
+Later that morning, Atkinson gave Appellant his ATM card so
+
+Appellant could withdraw money to pay for the drugs Appellant had
+
+delivered. Appellant and Simmons left the home, drove to an ATM
+
+machine, and used Atkinson’s ATM card to withdraw $300, which
+
+was the daily limit for Atkinson’s ATM card; Appellant also bought
+
+additional drugs. After Appellant and Simmons returned, the group
+
+continued to use drugs.
+
+     In the early afternoon, Appellant and Lundy borrowed
+
+Atkinson’s car and left. After dropping off Lundy, Appellant saw a
+
+police officer who knew him and knew that he did not have a valid
+
+driver’s license. To avoid being arrested for driving with a suspended
+
+                                  3
+ license, Appellant turned into a Travelodge motel in Fulton County
+
+near the intersection of Fulton Industrial Boulevard and I-20, where
+
+he sometimes stayed. Appellant parked Atkinson’s car and left.
+
+     In the early evening, Atkinson received a call from his friend
+
+Charlene Shivers. Shivers told Atkinson that she had seen his car
+
+at the Travelodge. Atkinson asked Shivers for a ride so he could pick
+
+up his car. When Atkinson and Shivers arrived at the Travelodge,
+
+the police were preparing to impound the car, but Atkinson was able
+
+to retrieve it and drive it home. By the time Atkinson arrived back
+
+home, Johnson and Simmons were gone.
+
+     Later that evening, Simmons drove Appellant back to
+
+Atkinson’s home. Appellant demanded payment for Lundy’s time
+
+and for the crack cocaine he had delivered earlier in the day;
+
+however, Atkinson did not have any cash. Atkinson, Appellant, and
+
+Simmons drove away in Atkinson’s car. During the drive, Atkinson
+
+tried to obtain cash by calling Shivers and his two daughters, who
+
+lived in Atlanta. He and Appellant also went to Shivers’s room at
+
+the Skyway Inn, a motel near the intersection of Fulton Industrial
+
+                                 4
+ Boulevard and I-20. Atkinson was unable to obtain any cash, and
+
+after leaving Shivers’s room, Appellant and Atkinson returned to
+
+the car, and they picked up Johnson, who had been at the Skyway.
+
+Shortly thereafter, Atkinson either jumped or was pushed from the
+
+car while it was in the middle of an intersection, and he was hit by
+
+at least one other car.
+
+     Atkinson was seriously injured, but he spoke with several
+
+people at the scene before being transported to the hospital; he died
+
+five days later. Maria Gallo, who was in another car in the
+
+intersection, testified she saw Atkinson in the middle of Fulton
+
+Industrial Boulevard, screaming that he had been kidnapped by
+
+men who wanted to kill him. He came over to her car and tried to
+
+open the door. She saw two men get out of another car that was
+
+stopped in the intersection, walk over to Atkinson, scream at him in
+
+an “ugly” way, and aggressively try to take him away. Atkinson
+
+continued to scream for help, saying that the men were trying to kill
+
+him, and telling the men to leave. When police officers arrived, the
+
+two men returned to their car and drove away quickly.
+
+                                 5
+      Corporal David Jira of the Fulton County Police Department
+
+was the first officer on the scene. Atkinson told him that he had been
+
+kidnapped at gunpoint from his home in Douglas County and that
+
+when he got to the intersection of Fulton Industrial and I-20, he was
+
+pushed from the car. Atkinson told a paramedic at the scene that he
+
+jumped out of a car because someone tried to kill him; the paramedic
+
+testified at trial that Atkinson smelled of alcohol. About an hour
+
+later, Cpl. Jira discovered Atkinson’s car parked by a gas pump at a
+
+gas station about a mile from the intersection where Atkinson had
+
+been injured. Cpl. Jira was familiar with Appellant and knew that
+
+he had been identified as a suspect. He saw Appellant inside the gas
+
+station, and when Appellant came out to Atkinson’s car, Cpl. Jira
+
+detained him and asked his name; Appellant answered by giving his
+
+brother’s name. After being told why he was being detained,
+
+Appellant stated that what was alleged was not true; that he did not
+
+push Atkinson from the car; and that Atkinson owed his girlfriend
+
+approximately $700. When Cpl. Jira confirmed that Appellant had
+
+given him the wrong name, he arrested him. No drugs or weapons
+
+                                  6
+ were found in the car or on Appellant’s person at the time of his
+
+arrest.
+
+     At trial, the State presented evidence showing that the cause
+
+of Atkinson’s death five days after his admission to the hospital was
+
+blood clots, which were a consequence of injuries he received when
+
+he fell out of a moving vehicle; the evidence included the medical
+
+examiner’s testimony, his hospital medical records, and the autopsy
+
+report. Specifically, the medical examiner, who performed the
+
+autopsy, testified that the cause of death was right pulmonary and
+
+bilateral bone thromboembli, or blood clots, due to pelvic, rib, and
+
+vertebral fractures. She explained that blood clots were not
+
+uncommon when a person has a fracture of the thigh or arm or a
+
+pelvic fracture; she also noted that blood clots can take time to
+
+develop. She classified the manner of death as a homicide.
+
+Additionally, the medical records showed that on the morning of
+
+Atkinson’s death, he had developed an altered mental status, which
+
+the medical examiner testified can be caused by blood clots. The
+
+medical examiner acknowledged that Atkinson did not have rib
+
+                                 7
+ fractures upon his admission to the hospital, and she opined that he
+
+may have sustained the rib fractures as a result of having to be
+
+restrained due to his altered mental status or as a result of
+
+resuscitation efforts. She also opined that the large blood clot that
+
+was visible when she did the autopsy would not have come from the
+
+rib fracture because he did not have the rib fracture when he was
+
+admitted to the hospital. On cross-examination, she acknowledged
+
+that the autopsy did not reveal any injury to Atkinson’s neck.
+
+     The State called Johnson and Shivers as witnesses. Johnson’s
+
+pretrial interview with Lieutenant John Cross of the Fulton County
+
+Police Department was audio- and video-recorded and played for the
+
+jury. In that interview, she explained that she was in the car with
+
+Atkinson, Appellant, and Simmons late on the evening of January
+
+24, 2012. Atkinson was driving, Appellant was in the passenger
+
+seat, and Simmons was sitting behind Appellant. Appellant and
+
+Atkinson were having a heated argument about money that
+
+Appellant said Atkinson owed him. Atkinson was talking on the
+
+phone with Shivers and others, trying to get money. Atkinson said
+
+                                 8
+ he would drive back to the Skyway, but Appellant said he did not
+
+want to go that way. Atkinson did not appear to be afraid and told
+
+Appellant that he would get money in the morning. When Atkinson
+
+started to get into a turn lane to turn back toward the Skyway,
+
+Appellant got angry and grabbed the steering wheel, forcing the car
+
+to go in a different direction. At the next intersection, Atkinson
+
+slowed the car, opened the door, and rolled out. The car continued
+
+moving until it hit a barrier, and Appellant got in the driver’s seat
+
+and drove onto I-20. While Atkinson was standing in the
+
+intersection, saying “help me, help me,” Johnson walked back to the
+
+Skyway. Johnson never saw anyone with a gun in the car, although
+
+she had seen Appellant with guns in the past.
+
+     At trial, Johnson’s testimony about what happened on January
+
+24 was largely consistent with her pretrial statement. However, she
+
+testified that Appellant and Atkinson were not having a discussion
+
+but were both on their phones and that Atkinson was trying to get
+
+money so that he could pay her because she was planning to spend
+
+the night with him, and he did not want her to have to wait for her
+
+                                 9
+ money until the morning. She also testified that Appellant told
+
+Atkinson, “You driving crazy, you drunk”; that Appellant asked to
+
+be dropped off; that when Appellant grabbed the steering wheel, he
+
+told Atkinson, “You finna kill us turning into oncoming traffic”; and
+
+that after Atkinson rolled out of the car, Appellant put the car in
+
+park, got out of the car, and she “suppose[d]” he talked to Atkinson.
+
+She testified that she did not see what happened to Atkinson’s car.
+
+     According to Shivers’s trial testimony, Atkinson called her
+
+while he was in the car with Appellant, asked for money, and said
+
+Appellant “was down there with a gun demanding money.” Even
+
+though Shivers told Atkinson she did not have money, he came to
+
+her door at the Skyway; Appellant stood behind him and had his
+
+hands in his jacket. When Shivers said she did not have any money,
+
+Appellant and Atkinson left. About ten minutes later, Atkinson
+
+called her again, but he was interrupted by Appellant “hollering” at
+
+him to “go straight.” Then the call dropped. Shortly thereafter,
+
+Shivers saw Johnson, who told her that Atkinson had been hit by a
+
+car; that Simmons had been choking Atkinson; and that Appellant
+
+                                 10
+ had been hitting him. 3 Shivers ran to the scene and saw Atkinson
+
+being loaded into an ambulance; he told her that Appellant tried to
+
+kill him.
+
+     The State also called Atkinson’s daughter Felicia, and she
+
+testified that her father called her the night of January 24, asking
+
+for money, which was very unusual. She also had a conversation
+
+with him while he was in the hospital. During that conversation, he
+
+said that Appellant, Johnson, and Simmons came to his home
+
+uninvited. Appellant brought drugs that they all shared and then
+
+demanded he pay for everything when they finished. When he said
+
+he would not pay, someone slapped a beer bottle out of his hand,
+
+pulled a gun on him, and made him get in his car to go get money.
+
+The people with him were choking him, poking him with a gun, and
+
+saying they would take him to a hotel off Fulton Industrial
+
+Boulevard to kill him. Felicia testified that she went to her father’s
+
+home after visiting him in the hospital and saw an opened bottle of
+
+
+
+     3 On cross-examination, Shivers admitted that she had not told officers
+
+in her pretrial statements that Johnson said Atkinson had been choked.
+                                    11
+ beer on the living room floor.
+
+     Appellant was interviewed on February 6 by Lt. Cross; that
+
+interview was audio-recorded, and a portion was played for the jury.
+
+In that interview, Appellant said that Atkinson owed him money for
+
+drugs and for prostitutes. He admitted that during the drive on
+
+January 24, he was yelling at Atkinson about the money; he was
+
+planning to take Atkinson to an apartment where Atkinson had
+
+never been and hold him there until after midnight when Atkinson
+
+could withdraw money from an ATM; he was “dead serious” about
+
+not going back to the Skyway; and he grabbed the steering wheel
+
+right before Atkinson jumped out of the car.
+
+     Appellant testified in his own defense as follows. He lived at
+
+the Travelodge and dealt drugs for a living. On January 24, 2012,
+
+Simmons drove him to Atkinson’s home to deliver drugs that Lundy
+
+had requested. He, Atkinson, Simmons, and Lundy shared the
+
+drugs. At the time, Atkinson owed Appellant $300 for Lundy’s
+
+company and $400 for the drugs. Atkinson wanted more crack after
+
+finishing the drugs Appellant brought, so he sent Appellant and
+
+                                 12
+ Simmons in his car with his ATM card to get cash. Appellant
+
+retrieved $300 — the daily limit — and purchased the crack and
+
+returned to Atkinson’s home. At about 1:00 p.m., Appellant and
+
+Lundy left the home, borrowing Atkinson’s car with his permission.
+
+Shortly thereafter, Atkinson called Appellant and asked him to pick
+
+up more drugs. Appellant went to a hotel near the Skyway to pick
+
+up the crack, but a police officer who knew he was driving on a
+
+suspended license saw him. Appellant went upstairs to wait for the
+
+police to leave but left the car running with his cell phone in the car.
+
+The police called a tow truck to impound the car, but Shivers and
+
+Atkinson arrived in time to take the car. Appellant believed that
+
+Atkinson told the police that he stole the car.
+
+     Later, Appellant returned to Atkinson’s home with more crack.
+
+Atkinson and Appellant argued about Atkinson telling the police
+
+Appellant had stolen his car, and Appellant knocked a beer bottle
+
+out of Atkinson’s hand while Atkinson was sitting in a chair.
+
+Appellant told Atkinson the crack he just picked up had to be paid
+
+for. Atkinson and Appellant left in Atkinson’s car to get the money;
+
+                                  13
+ Atkinson was driving, Appellant was in the front passenger seat,
+
+and Simmons was in the back seat. Their first stop was the Skyway
+
+to ask Shivers for money. After that visit was unsuccessful, they saw
+
+Johnson across the street and picked her up. Johnson suggested
+
+they go to the truck stop to ask someone they knew there for money.
+
+They drove to the truck stop, but police officers were there, so they
+
+did not stop and headed back toward the Skyway. Police were also
+
+present at a store near the Skyway. Appellant had become irritated
+
+and saw Atkinson was about to turn toward the Skyway into
+
+oncoming traffic, so Appellant grabbed the steering wheel. The car
+
+continued forward while Atkinson argued with everybody in the car
+
+and someone on the phone about how he “bent over backwards” for
+
+them, but nobody would help him. Atkinson jumped from the car at
+
+the next light, and a car hit him while he stood in the street.
+
+Appellant placed the car in park and got out. Another car then
+
+struck Atkinson, and Atkinson leaned up against that car. Appellant
+
+unsuccessfully attempted to get Atkinson back in the car and noticed
+
+a man calling the police. He decided to leave in Atkinson’s car
+
+                                 14
+ because he had outstanding warrants and because of the drugs in
+
+the car. He told Atkinson he was leaving and that because of the
+
+drugs and cup of liquor in the car, “the police was going to come” and
+
+that Atkinson “was going to go to jail.” He told Simmons to tell
+
+Johnson to stay and tell the police what happened. He drove away
+
+and hid the drugs at a gas station, and then he drove to another gas
+
+station near the scene of the incident.
+
+      During the cross-examination of Appellant, the State
+
+questioned him about seven of his prior convictions — two for theft
+
+by taking a motor vehicle, four for providing false information to law
+
+enforcement, and one for possession of a firearm by a convicted felon.
+
+      2. Appellant raises several contentions in challenging the
+
+constitutional sufficiency of the evidence for his convictions for
+
+felony murder and for theft by taking. 4 In reviewing a challenge to
+
+
+
+
+      4 Because we no longer automatically review sua sponte the sufficiency
+
+of the evidence, except that of murder convictions resulting in the death
+penalty, see Davenport v. State, 
+309 Ga. 385
+, 398-399 (
+846 SE2d 83
+) (2020),
+we limit our consideration to the specific arguments that Appellant makes in
+challenging the sufficiency of the evidence. See Scoggins v. State, 
+317 Ga. 832
+,
+837 n.6 (
+896 SE2d 476
+) (2023).
+                                      15
+ the constitutional sufficiency of the evidence, we review the evidence
+
+in the light most favorable to the verdict. See Jackson v. Virginia,
+
+443 U.S. 307
+, 319 (99 SCt 2781, 61 LE2d 560) (1979). Our review
+
+“leaves to the jury the resolution of conflicts in the evidence, the
+
+weight of the evidence, the credibility of witnesses, and reasonable
+
+inferences to be made from basic facts to ultimate facts.” Wilkerson
+
+v. State, 
+317 Ga. 242
+, 245 (
+892 SE2d 737
+) (2023) (cleaned up).
+
+     (a) Appellant first argues that there was insufficient evidence
+
+that Atkinson’s death was caused by the injuries he received after
+
+he fell out of the car and that the State failed to prove that the
+
+underlying felony of aggravated assault with intent to rob had a
+
+sufficient nexus to Atkinson’s death. These arguments implicate two
+
+elements of felony murder — proximate cause and that the victim’s
+
+death must be caused “in the commission of” the predicate felony.
+
+See OCGA § 16-5-1 (c); Eubanks v. State, 
+317 Ga. 563
+, 569, 571-572
+
+(
+894 SE2d 27
+) (2023). “Proximate cause is satisfied for purposes of
+
+felony murder when the death was a reasonably foreseeable result
+
+of the criminal conduct at issue,” and the proximate cause element
+
+                                 16
+ “is met even if the death had an intervening act, so long as that
+
+intervening act was itself a reasonably foreseeable consequence of
+
+the criminal conduct.” Id. at 571 (cleaned up). The “in the
+
+commission of” element requires that “the predicate felony must be
+
+at least concurrent with the homicide in part, and be a part of it in
+
+an actual or material sense.” Id. at 572 (cleaned up).
+
+     With regard to proximate cause, Appellant points to evidence
+
+that while hospitalized, Atkinson developed an altered mental
+
+status, had to be restrained, and fought against the restraints.
+
+Appellant argues that Atkinson’s rib fractures were likely a result
+
+of these complications and that the blood clots that caused
+
+Atkinson’s death could have resulted from the rib fractures. He
+
+argues that such complications are reasonably foreseeable in a
+
+hospital setting and could have been the proximate cause of
+
+Atkinson’s death.
+
+     These arguments, however, rely on a view of the evidence that
+
+is most favorable to the defense, rather than to the verdict, which is
+
+the proper standard. See Jackson, 
+443 U.S. at 319
+. Moreover, the
+
+                                 17
+ medical records and the testimony of the medical examiner, viewed
+
+in the light most favorable to the verdicts, were sufficient for a
+
+rational trier of fact to find beyond a reasonable doubt that the cause
+
+of death was blood clots resulting from the injuries Atkinson
+
+sustained on January 24. See, e.g., Harris v. State, 
+313 Ga. 653
+, 656-
+
+657 (
+872 SE2d 732
+) (2022) (evidence sufficient to establish nexus
+
+between defendant’s shooting of victim and victim’s death from
+
+blood clots resulting from being shot); Treadaway v. State, 
+308 Ga.
+
+882
+, 884-885 (
+843 SE2d 784
+) (2020) (holding that evidence was
+
+sufficient and “whether [defendant’s] actions were the sole cause of
+
+[her husband’s] death or would have otherwise caused his death
+
+under different circumstances is immaterial,” where evidence
+
+showed defendant beat her highly intoxicated, disabled husband
+
+with a metal broom while he was in the bathtub and cause of death
+
+was drowning and blunt-force trauma (cleaned up)). See also
+
+Eberhart v. State, 
+307 Ga. 254
+, 260-262 (
+835 SE2d 192
+) (2019)
+
+(evidence sufficient to uphold felony murder conviction based on
+
+aggravated assault where medical examiner testified that the victim
+
+                                  18
+ died from hypertensive cardiovascular disease exacerbated by
+
+physical exertion and TASER application).
+
+     With regard to the “in the commission of” element, Appellant
+
+argues that Atkinson voluntarily exited the car; that there was no
+
+physical evidence that Atkinson had been choked; and that Johnson
+
+said that she did not see a gun. Again, these arguments rely on a
+
+view of the evidence that is most favorable to the defense. The
+
+evidence, viewed in the light most favorable to the verdict, was
+
+sufficient to authorize a rational jury to find beyond a reasonable
+
+doubt that just before Atkinson exited the car, Appellant was
+
+threatening Atkinson with bodily harm if he did not pay the money
+
+owed; and that Appellant either pushed Atkinson out of the car, or
+
+Atkinson, in reasonable fear for his life, jumped out of the car. This
+
+evidence was sufficient to support Appellant’s conviction for felony
+
+murder while in the commission of aggravated assault with intent
+
+to rob. See, e.g., Adcock v. State, 
+279 Ga. App. 473
+, 473-474 (
+631
+
+SE2d 494
+) (2006) (evidence was sufficient to support conviction for
+
+aggravated assault with intent to rob where victim testified that
+
+                                 19
+ defendant jumped in car, demanded money, and threatened him
+
+with knife, and where defendant testified that he entered car
+
+because victim owed him money but that he did not threaten victim).
+
+See also Wayne R. LaFave et al., Substantive Criminal Law § 6.4 (h)
+
+(October 2023 online update) (“[i]mpulsive acts of the victim in an
+
+effort to escape being harmed by the defendant’s conduct” are
+
+sufficient to establish causation between defendant’s commission of
+
+felony and victim’s death).
+
+     (b) Appellant also contends that there was insufficient evidence
+
+that he harbored an intent to deprive Atkinson of his car, a required
+
+element of his conviction for theft by taking of Atkinson’s car. See
+
+OCGA § 16-8-2. Appellant points to testimony that Atkinson would
+
+often help his friends financially and would lend them his car, as
+
+well as own testimony that he had no intent to deprive Atkinson of
+
+his car. However, Appellant again fails to view the evidence in the
+
+light most favorable to the verdict. The evidence, viewed in the
+
+proper light, authorized the jury to find that Appellant, either by
+
+force or intimidation, caused Atkinson to exit the car; drove
+
+                                 20
+ Atkinson’s car away while Atkinson was screaming for help; and lied
+
+about his identity when found in possession of the car. This evidence
+
+was sufficient to permit the jury to infer that Appellant intended to
+
+deprive Atkinson of his car, either permanently or temporarily. See
+
+OCGA § 16-8-1 (1) (a) (defining “deprive” as withholding, without
+
+justification, “property of another permanently or temporarily”).
+
+     Moreover, the jury was not required to credit Appellant’s
+
+testimony as to his intent to help Atkinson by taking the car away
+
+because it had drugs in it. In fact, if the jury disbelieved Appellant’s
+
+testimony, such testimony could serve as substantive evidence that
+
+his intent was to deprive Atkinson of his property. See Maynor v.
+
+State, 
+317 Ga. 492
+, 498 (
+893 SE2d 724
+) (2023) (jurors are “authorized
+
+to consider their disbelief in Appellant’s testimony . . . as substantive
+
+evidence of his guilt”). Under the proper standard of review set forth
+
+above, we conclude that the evidence at trial was sufficient to
+
+authorize a rational trier of fact to find that Appellant committed
+
+theft by taking. See, e.g., Jones v. State, 
+303 Ga. 496
+, 497-499 (
+813
+
+SE2d 360
+) (2018) (evidence sufficient to support theft by taking
+
+                                   21
+ conviction where, after shooting his cousin, defendant drove away
+
+from scene in his cousin’s girlfriend’s car, without her permission,
+
+and was still in possession of car when apprehended by police); Shaw
+
+v. State, 
+247 Ga. App. 867
+, 871-872 (
+545 SE2d 399
+) (2001) (evidence
+
+sufficient to support intent element of conviction for theft by taking
+
+where there was evidence suggesting that the victim may have given
+
+the defendant her car keys, but there were also circumstances,
+
+including defendant’s demeanor toward victim and when confronted
+
+by officers, that permitted jury to infer defendant’s criminal intent
+
+to deprive victim of her property).
+
+     3.   Appellant contends the trial court erred in failing to grant
+
+a new trial as a “thirteenth juror” under OCGA §§ 5-5-20 and 5-5-
+
+21. OCGA §§ 5-5-20 and 5-5-21, respectively, allow the trial court to
+
+grant a new trial “[i]n any case when the verdict of a jury is found
+
+contrary to evidence and the principles of justice and equity,” or
+
+when “the verdict may be decidedly and strongly against the weight
+
+of the evidence even though there may appear to be some slight
+
+evidence in favor of the finding.” “Grounds for a new trial under
+
+                                 22
+ these Code sections are commonly known as the ‘general grounds,’”
+
+and these statutes “give the trial court broad discretion to sit as a
+
+thirteenth juror and weigh the evidence on a motion for new trial
+
+alleging these general grounds.” Allen v. State, 
+315 Ga. 524
+, 531 n.5
+
+(
+883 SE2d 746
+) (2023) (cleaned up).
+
+      Appellant’s claim is not subject to our review because the
+
+decision to grant or deny a new trial under these statutes is vested
+
+solely within the discretion of the trial court and is not subject to
+
+review on appeal. See Ridley v. State, 
+315 Ga. 452
+, 456 (
+883 SE2d
+
+357
+) (2023).5 To the extent that Appellant contends that the trial
+
+court failed to exercise its discretion as a “thirteenth juror” by his
+
+argument that the trial court failed “to address the specific issues
+
+raised in the amended motion for new trial,” the record clearly
+
+demonstrates otherwise. The trial court’s order on the motion for
+
+new trial stated that it “has reviewed the evidence of record,
+
+
+
+
+      5 See also King v. State, 
+316 Ga. 611
+, 616 n.8 (
+889 SE2d 851
+) (2023)
+
+(noting many Justices’ skepticism about prior case law that imported an
+analysis of the constitutional sufficiency of the evidence into the consideration
+of a “thirteenth juror” claim).
+                                       23
+ including re-examining such factors as the weight of the evidence
+
+and credibility of the witnesses . . . as an independent fact finder.”6
+
+Thus, the trial court plainly applied the proper standard under
+
+OCGA §§ 5-5-20 and 5-5-21, and this claim fails.
+
+      4.    Appellant challenges the admission of his post-arrest
+
+interview by police on the sole ground that he was not advised of his
+
+rights under Miranda v. Arizona, 
+384 U.S. 436
+ (86 SCt 1602, 16
+
+LE2d 694) (1966). “To use a defendant’s custodial statements in its
+
+case-in-chief, the State must show that the defendant was advised
+
+of his Miranda rights and that he voluntarily, knowingly, and
+
+intelligently waived them.” Huffman v. State, 
+311 Ga. 891
+, 893 (
+860
+
+SE2d 721
+) (2021) (cleaned up). A written waiver of rights is not
+
+necessary; a suspect advised of his rights orally can waive them. See
+
+id. at 895
+. In ruling upon the admissibility of a custodial statement,
+
+a trial court must consider the totality of the circumstances. See 
+id.
+
+at 893
+. We review a trial court’s factual findings and credibility
+
+
+      6 The trial court’s order stated that Appellant’s second amended motion
+
+for new trial raised “in a scattershot manner” “hosts of evidentiary complaints”;
+the trial court overruled the claims “en bloc.”
+                                       24
+ determinations for clear error and apply the law de novo. White v.
+
+State, 
+307 Ga. 601
+, 602 (
+837 SE2d 838
+) (2020).
+
+      On February 6, 2012, Lt. Cross spoke to Appellant at the
+
+Fulton County Jail and notified him that he was being charged with
+
+murder in connection with Atkinson’s death. At trial, Lt. Cross
+
+testified outside the presence of the jury that he explained to
+
+Appellant that he did not have to speak with him and held up a
+
+waiver-of-rights form so Appellant could see it. There was no pen for
+
+Appellant to sign the form, but Appellant said, “I understand” and
+
+that he wanted to speak with Lt. Cross. Additionally, Appellant
+
+testified at trial that when Lt. Cross spoke with him, he understood
+
+his Miranda rights and spoke with the officer willingly. Under these
+
+circumstances, we conclude that this claim fails.
+
+      5.    Appellant also contends the trial court committed plain
+
+error in several ways. 7 To show plain error, Appellant must identify
+
+
+      7  We review assertions of plain error related to the admission or
+exclusion of evidence under OCGA § 24-1-103 (a), (d), which together provide
+that “[e]rror shall not be predicated upon a ruling which admits or excludes
+evidence unless a substantial right of the party is affected,” and that “[n]othing
+
+                                       25
+ an error that was not affirmatively waived; that was clear and
+
+obvious beyond reasonable dispute; that affected his substantial
+
+rights, which generally requires an “affirmative showing” that the
+
+error probably did affect the outcome below; and that the error
+
+seriously affected the fairness, integrity, or public reputation of
+
+judicial proceedings. See Ruthenberg v. State, 
+317 Ga. 227
+, 230-231
+
+(
+892 SE2d 728
+) (2023). “Satisfying all four prongs of this standard is
+
+difficult, as it should be.” Id. at 231 (cleaned up).
+
+      (a) First, Appellant challenges the admission of certain
+
+evidence during the testimony of Gallo, who testified with the
+
+assistance of an interpreter, as hearsay, see OCGA § 24-8-802, and
+
+as a violation of his right of confrontation under the Sixth
+
+Amendment to the United States Constitution. Toward the
+
+conclusion of Gallo’s direct examination, she commented that her
+
+sister-in-law, who was in the car with her, was translating
+
+Atkinson’s statements from English into Spanish. Appellant’s trial
+
+
+in this Code section shall preclude a court from taking notice of plain errors
+affecting substantial rights although such errors were not brought to the
+attention of the court.”
+                                     26
+ counsel objected, arguing that Gallo’s testimony about Atkinson’s
+
+statements was hearsay, because she was relying on her sister-in-
+
+law’s translation. The trial court asked the State for a response, and
+
+following a bench conference, the State asked Gallo about her ability
+
+to understand English. Gallo testified that she understands some
+
+English; that she had an independent understanding of what
+
+Atkinson was saying; and that she understood that Atkinson was
+
+screaming, “They’re trying to kill me.” She also testified that her
+
+sister-in-law was translating because someone else in the car with
+
+them did not understand any English. Following this testimony,
+
+Appellant did not ask for a ruling on his objection and did not renew
+
+it.
+
+      Appellant contends that Gallo’s reliance on her sister-in-law as
+
+an    interpreter   constituted   hearsay.   Pretermitting   whether
+
+Appellant affirmatively waived this objection, we conclude that the
+
+trial court did not err, much less make a clear or obvious error in
+
+admitting Gallo’s testimony, given the particular hearsay objection
+
+made below and given Gallo’s clarification that her testimony was
+
+                                  27
+ based on her independent understanding of Atkinson’s statement
+
+that “they’re trying to kill me.” Thus, Appellant has failed to show
+
+plain error.
+
+     Appellant also asserts, in a single sentence, that the admission
+
+of the testimony of Gallo’s sister-in-law violated his right of
+
+confrontation under the Sixth Amendment to the United States
+
+Constitution. See Crawford v. Washington, 
+541 U. S. 36
+ (124 SCt
+
+1354, 158 LE2d 177) (2004). A confrontation clause violation under
+
+Crawford occurs when the out-of-court statement is “testimonial.”
+
+Id.
+ See also Munn v. State, 
+313 Ga. 716
+, 724 (
+873 SE2d 166
+) (2022)
+
+(statement is “testimonial” where “its primary purpose is to
+
+establish evidence that could be used in a future prosecution”
+
+(cleaned up)). Here, however, Gallo’s sister-in-law’s translation of
+
+Atkinson’s cries to bystanders for help is not testimonial. See
+
+Bulloch v. State, 
+293 Ga. 179
+, 182-183 & n.3, 186 (
+744 SE2d 763
+)
+
+(2013) (rejecting argument that victim’s statement to brother
+
+identifying defendant as person who should be suspected if
+
+“anything out of the ordinary happens” victim was testimonial
+
+                                 28
+ within meaning of Crawford). Therefore, this claim of plain error
+
+fails.
+
+         (b) Second, Appellant contends that the trial court plainly
+
+erred in allowing the prosecutor to use leading questions in
+
+examining Gallo and to repeat questions to several witnesses that
+
+had been asked and answered. However, Appellant has not set forth
+
+any of the allegedly improper questions or answers, instead, simply
+
+including string cites to pages of the trial transcript. With respect to
+
+the allegedly leading questions, our review of the record shows that
+
+they easily could have been rephrased in an unobjectionable way to
+
+elicit the same testimony. With respect to the questions that
+
+allegedly had previously been asked and answered, we conclude that
+
+the answers given were cumulative of testimony that Appellant has
+
+not challenged on appeal. Moreover, Appellant has failed to explain
+
+how any of the alleged errors were of a nature to have “seriously
+
+affected the fairness, integrity, or public reputation of judicial
+
+proceedings.” Ruthenberg, 317 Ga. at 230. Thus, Appellant has
+
+failed to meet his burden of showing that the allegedly improper
+
+                                   29
+ questions likely affected the outcome of the trial. See McCalop v.
+
+State, 
+316 Ga. 363
+, 375 (
+887 SE2d 292
+) (2023) (plain error claim fails
+
+when appellant cannot establish that allegedly improper testimony
+
+likely affected outcome of trial); United States v. Coleman, 914 F3d
+
+508, 512 (7th Cir. 2019) (“even when they are improper, leading
+
+questions rarely give rise to plain error”). See also Davis v. State,
+
+306 Ga. 140
+, 149 (
+829 SE2d 321
+) (2019) (holding that appellant
+
+failed to establish prejudice stemming from counsel’s failure to
+
+object to leading questions because an objection was unlikely to have
+
+prevented the admission of the testimony); Grier v. State, 
+313 Ga.
+
+236
+, 246 (
+869 SE2d 423
+) (2022) (equating the prejudice prong of the
+
+plain-error test with the prejudice prong for an ineffective-
+
+assistance claim).
+
+     (c) Third, Appellant contends that the trial court committed
+
+plain error in allowing the prosecutor to repeat Appellant’s
+
+testimony in cross-examining Appellant. However, there is no error,
+
+much less a clear and obvious one, in a party exercising its right to
+
+“a thorough and sifting cross-examination,” OCGA § 24-6-611 (b),
+
+                                 30
+ and using leading questions to reiterate the witness’s testimony on
+
+direct in doing so. See OCGA § 24-6-611 (c) (leading questions “shall
+
+be permitted on cross-examination”).
+
+     (d) Fourth, Appellant contends that the trial court plainly
+
+erred by admitting facts underlying Appellant’s prior convictions.
+
+Outside the presence of the jury, the parties discussed the State’s
+
+ability to impeach Appellant with proof of his prior convictions.
+
+When the trial court ruled that seven of Appellant’s prior convictions
+
+— including four for giving false information to law enforcement —
+
+would be admissible, it also advised the parties that the State would
+
+not be permitted to go into the details of the convictions. On cross-
+
+examination, Appellant admitted he had been convicted of the prior
+
+offenses, and the State introduced, without objection, exhibits
+
+supporting each conviction.8 The prosecutor also asked Appellant a
+
+few questions about why he lied to law enforcement, whether he had
+
+
+
+
+     8  These exhibits included two indictments that contained counts for
+which Appellant was not convicted. In this appeal, Appellant does not cite the
+exhibits or make any argument related to their admission, and thus any issue
+regarding them is not properly before us.
+                                     31
+ experience trying to avoid arrest by giving a false name to officers,
+
+and referred to Appellant’s testimony on direct examination
+
+admitting that he gave Cpl. Jira his brother’s name when he was
+
+arrested.
+
+     OCGA § 24-6-609 (a) (1) (“Rule 609”) states that “evidence that
+
+an accused has been convicted of [a felony] shall be admitted if the
+
+court determines that the probative value of admitting the evidence
+
+outweighs its prejudicial effect to the accused.” Rule 609 (a) (1) is
+
+identical in all relevant respects to the corresponding federal rule,
+
+and in such circumstances, we look for guidance to federal case law,
+
+especially case law from the United States Supreme Court and
+
+federal appellate courts, including particularly the Eleventh Circuit
+
+Court of Appeals. See Almanza v. State, 
+304 Ga. 553
+, 556-558 (
+820
+
+SE2d 1
+) (2018) (when Georgia courts consider the meaning of the
+
+current Evidence Code, they should be guided by federal case law,
+
+particularly the decisions of the Eleventh Circuit, prior to its
+
+adoption, until a Georgia appellate court decides the issue under the
+
+new Code). Under Federal Rule of Evidence 609 (a), while the fact of
+
+                                 32
+ the conviction, the nature of the conviction, and the punishment are
+
+all properly admitted, the specific facts and circumstances of the
+
+prior convictions generally are not admissible. See United States v.
+
+Morrow, 537 F2d 120, 141 n.31 (5th Cir. 1976);9 United States v.
+
+Lopez-Medina, 596 F3d 716, 738 (10th Cir. 2010). 10
+
+      Pretermitting     whether     the    prosecutor’s    few    additional
+
+questions about the false-information convictions were improper,
+
+Appellant has not made an affirmative showing that any such error
+
+probably affected the outcome below, as required to prevail on his
+
+plain error claim. See Ruthenberg, 317 Ga. at 230-231. There was
+
+overwhelming evidence, including Appellant’s own testimony, that
+
+Atkinson exited the car because he reasonably feared for his life, as
+
+well as substantial medical testimony that the injuries Atkinson
+
+
+
+      9  Decisions of the former Fifth Circuit rendered before the close of
+business on September 30, 1981, are binding in the Eleventh Circuit. See
+Bonner v. City of Prichard, 661 F2d 1206, 1209 (11th Cir. 1981) (en banc).
+      10 Appellant cited only cases decided under our former Code, and we have
+
+found none addressing the specific issue under our current Code. Therefore, we
+rely on federal case law. See Brown v. State, 
+307 Ga. 24
+, 30 n.2 (
+834 SE2d 40
+)
+(2019) (looking to federal case law to address harmless error in relation to
+argument about the use of a conviction to impeach a witness other than the
+accused).
+                                     33
+ sustained on January 24 were the proximate cause of his death.
+
+Additionally, Appellant admitted in his trial testimony that after
+
+being found in possession of Atkinson’s car, he provided a false name
+
+to Cpl. Jira, and the State’s closing argument made only a brief
+
+reference to Appellant’s prior convictions. See id. at 231 (holding
+
+that any error in admitting evidence of prior convictions did not
+
+constitute plain error where appellant failed to make affirmative
+
+showing that admission likely affected outcome of trial).
+
+     (e) Finally, Appellant argues plain error based on his appellate
+
+counsel’s inability to obtain transcripts for four pretrial hearings
+
+that occurred under his first indictment, which was later
+
+superseded, and on the trial court’s limiting his time for questioning
+
+his trial counsel at the hearing on the motion for new trial. However,
+
+these alleged errors are not subject to plain-error review. See Keller
+
+v. State, 
+308 Ga. 492
+, 497 (
+842 SE2d 22
+) (2020) (listing limited
+
+categories of alleged errors for which plain-error review is available).
+
+     For all these reasons, Appellant’s claims of plain error fail.
+
+     6.    Next, we address Appellant’s contention that the trial
+
+                                  34
+ court abused its discretion in overruling several evidentiary
+
+objections. We review a trial court’s rulings admitting or excluding
+
+evidence for an abuse of discretion. See Anglin v. State, 
+302 Ga. 333
+,
+
+335 (
+806 SE2d 573
+) (2017). We will reverse a conviction for a trial
+
+court’s evidentiary error only if it was harmful. See 
+id. at 336
+; OCGA
+
+§ 24-1-103 (a) (“Error shall not be predicated upon a ruling which
+
+admits or excludes evidence unless a substantial right of the party
+
+is affected.”). The test for determining nonconstitutional harmless
+
+error is whether “it is highly probable that the error did not
+
+contribute to the verdicts,” and in conducting that analysis, “we
+
+review the record de novo and weigh the evidence as we would expect
+
+reasonable jurors to have done.” Brock v. State, 
+316 Ga. 256
+, 260
+
+(
+886 SE2d 786
+) (2023) (cleaned up).
+
+     (a) Appellant contends that the trial court erred in overruling
+
+several objections during Lt. Cross’s testimony. First, he contends
+
+that the trial court abused its discretion in overruling his hearsay
+
+objection when Lt. Cross testified that Johnson said during her
+
+pretrial interview that Appellant and Atkinson were having a
+
+                                 35
+ heated argument in the car. However, OCGA § 24-8-801 (d) (1) (A)
+
+provides, in part, “[a]n out-of-court statement shall not be hearsay
+
+if the declarant testifies at the trial or hearing, is subject to cross-
+
+examination concerning the statement, and the statement is
+
+admissible as a prior inconsistent statement . . . under Code Section
+
+24-6-613 or is otherwise admissible under this chapter.” OCGA § 24-
+
+6-613 (b) provides, in relevant part, that “extrinsic evidence of a
+
+prior inconsistent statement by a witness shall not be admissible
+
+unless the witness is first afforded an opportunity to explain or deny
+
+the prior inconsistent statement and the opposite party is afforded
+
+an opportunity to interrogate the witness on the prior inconsistent
+
+statement or the interests of justice otherwise require.” Here, the
+
+recording of Johnson’s pretrial interview was played for the jury,
+
+and Appellant cross-examined her about alleged inconsistencies
+
+between her pretrial statement and her trial testimony. Thus, Lt.
+
+Cross’s testimony about Johnson’s statement was not inadmissible
+
+hearsay. See Neloms v. State, 
+313 Ga. 781
+, 788-789 (
+873 SE2d 125
+)
+
+(2022) (investigator’s testimony about witness’s prior statements
+
+                                  36
+ was admissible as prior inconsistent statements where witness was
+
+present at trial, was asked about statements to investigator, and
+
+was subject to cross-examination).
+
+     Second, Appellant contends that the trial court abused its
+
+discretion in overruling his objection to the prosecutor asking Lt.
+
+Cross whether Appellant’s pretrial statement was consistent with
+
+facts uncovered by the investigation, to which Lt. Cross responded,
+
+“There were some discrepancies.” On appeal, Appellant argues that
+
+a witness may not give opinion testimony on the “ultimate issue,”
+
+citing case law decided under the former Evidence Code. However,
+
+at trial Appellant provided no basis for his objection, stating merely
+
+“objection.” See OCGA § 24-1-103 (a) (1). We pretermit whether the
+
+trial court abused its discretion in overruling Appellant’s objection.
+
+Compare OCGA § 24-7-701 (a) (1)-(2) (authorizing the admission of
+
+witness testimony in the form of a lay opinion where it is
+
+“[r]ationally based on the perception of the witness [and] [h]elpful to
+
+a   clear   understanding   of   the   witness’s   testimony   or   the
+
+determination of a fact in issue”); Jones v. State, 
+299 Ga. 40
+, 44 (785
+
+                                  37
+SE2d 886
+) (2016) (no plain error in eliciting, on redirect, testimony
+
+from officer that evidence from eyewitness was more consistent with
+
+other facts uncovered in investigation than information provided by
+
+defendant, where officer had been cross-examined about the manner
+
+in which she conducted investigation). We conclude that any error
+
+was harmless because the jury ultimately heard, without objection,
+
+testimony from multiple witnesses that contradicted Appellant’s
+
+pretrial statement, and Lt. Cross’s response — that there were some
+
+discrepancies — was merely cumulative of that testimony.
+
+     Third, Appellant asserts that the trial court abused its
+
+discretion in overruling a single “leading” objection when the
+
+prosecutor asked Lt. Cross if Appellant admitted in his pretrial
+
+interview that he tried to get money from Atkinson. However,
+
+Appellant has failed to demonstrate harm given that the jury heard
+
+Appellant’s pretrial interview in which he admitted that he wanted
+
+Atkinson to pay him for the drugs. Thus, regardless of whether the
+
+trial court abused its discretion in overruling the objection,
+
+Appellant has failed to demonstrate harm. See Merrit v. State, 310
+
+                                 38
+Ga. 433
+, 438-439 (
+851 SE2d 555
+) (2020) (any error in allowing State
+
+to ask leading questions was harmless, in part, because much of
+
+testimony elicited with leading questions was cumulative of other
+
+evidence).
+
+     (b) Appellant also contends that the trial court abused its
+
+discretion in overruling his hearsay objection to testimony by
+
+Atkinson’s daughter Felicia about the conversation she had with her
+
+father the day after he was admitted to the hospital. Regardless of
+
+whether the trial court abused its discretion in overruling
+
+Appellant’s hearsay objection, any error was harmless because
+
+Felicia’s testimony was cumulative of the testimony of multiple
+
+other witnesses. See Leonard v. State, 
+316 Ga. 827
+, 834 (
+889 SE2d
+
+837
+) (2023) (pretermitting whether trial court erred in admitting
+
+statements victim made before his death and holding that any error
+
+was harmless where substance of statements was cumulative of
+
+other properly admitted testimony). See also Anglin, 
+302 Ga. at 336
+
+
+(“The   erroneous   admission   of    hearsay   is   harmless   where
+
+substantial, cumulative, legally admissible evidence of the same fact
+
+                                 39
+ is introduced.”).
+
+      For these reasons, Appellant’s claims that the trial court
+
+abused its discretion in overruling his evidentiary objections do not
+
+require reversal.
+
+      7.    Finally, Appellant contends that he was denied effective
+
+assistance of counsel due to his trial counsel’s decision to call the
+
+paramedic as a witness; failure to object to Cpl. Jira’s testimony that
+
+criminal activity was frequent in the neighborhoods where Atkinson
+
+was injured and Appellant was apprehended; and failure to retain
+
+an expert witness to address proximate cause.11 To establish his
+
+claim of ineffectiveness of counsel, Appellant must prove both
+
+deficient performance by his trial counsel and resulting prejudice.
+
+See Strickland v. Washington, 
+466 U.S. 668
+, 687 (104 SCt 2052, 80
+
+
+
+      11  In the “plain error” enumerations addressed in Division 5 above,
+Appellant asserts “alternatively” that trial counsel was ineffective. However,
+he makes no substantive argument regarding trial counsel’s alleged
+deficiencies in these matters. Accordingly, we do not address these claims of
+ineffectiveness. See Former Supreme Court Rule 22 (“Any enumerated error
+not supported by argument or citation of authority in the brief shall be deemed
+abandoned.”). Our Rule 22 (1) now provides, “Any enumerated error or subpart
+of an enumerated error not supported by argument, citations to authority, and
+citations to the record shall be deemed abandoned.”
+                                      40
+ LE2d 674) (1984). To establish deficient performance, Appellant
+
+must show that his attorney’s acts or omissions were “objectively
+
+unreasonable . . . considering all the circumstances and in the light
+
+of prevailing professional norms.” Davis v. State, 
+299 Ga. 180
+, 182-
+
+183 (
+787 SE2d 221
+) (2016). The law recognizes a “strong
+
+presumption” that counsel performed reasonably, which the
+
+defendant bears the burden of overcoming. Strickland, 
+466 U.S. at
+
+689
+. To establish the required prejudice, Appellant must show that
+
+but for his attorney’s objectively unreasonable errors, there is a
+
+reasonable probability that the result of the proceeding would have
+
+been different. See 
+id. at 694
+. “A reasonable probability is a
+
+probability sufficient to undermine confidence in the outcome.” 
+Id.
+
+
+We “need not address both components of the inquiry if the
+
+defendant makes an insufficient showing on one.” Davis, 
+299 Ga. at
+
+183
+. (cleaned up).
+
+     (a) Appellant asserts that trial counsel was deficient in calling
+
+the paramedic as a witness because her testimony — that Atkinson
+
+said he jumped out of the car because people were trying to kill him
+
+                                 41
+ — corroborated the State’s theory of the case. At the hearing on the
+
+motion for new trial, trial counsel testified that he called the
+
+paramedic because her report indicated that Atkinson told her a
+
+different version of events than he had told his daughter. He also
+
+testified that he tried to interview the paramedic before trial, but
+
+she was “hesitant” to talk to him. At trial, trial counsel did not
+
+attempt to impeach the paramedic with her report, and the report
+
+was not admitted into evidence.
+
+     However, assuming that trial counsel was professionally
+
+deficient in calling the paramedic to testify, Appellant has failed to
+
+demonstrate that there is a reasonable probability that the
+
+paramedic’s testimony affected the outcome of the case, given that
+
+the paramedic’s testimony was cumulative of Gallo’s testimony that
+
+she heard Atkinson yelling that he had been kidnapped and that
+
+men were trying to kill him. See generally Payne v. State, 
+314 Ga.
+
+322
+, 330 (
+877 SE2d 202
+) (2022) (any deficiency in counsel’s failure
+
+to object to alleged hearsay was not prejudicial where the testimony
+
+was cumulative); Koonce v. State, 
+305 Ga. 671
+, 675 (
+827 SE2d 633
+)
+
+                                  42
+ (2019) (appellant failed to show prejudice from trial counsel’s failure
+
+to object to certain testimony that was largely cumulative of other
+
+evidence).
+
+     (b) Cpl. Jira testified that he was frequently called to respond
+
+to reports of criminal activity around the accident scene and around
+
+the location where Appellant was apprehended. Appellant contends
+
+that his trial counsel was professionally deficient in failing to object
+
+to this testimony because it was irrelevant and served only to
+
+inflame the jury. However, even assuming that the evidence was
+
+irrelevant and properly subject to an objection under OCGA § 24-4-
+
+402 (“Evidence which is not relevant shall not be admissible.”),
+
+Appellant has not shown that his trial counsel’s failure to object was
+
+patently unreasonable, given that the testimony was cumulative of
+
+the testimony of several other witnesses and consistent with
+
+Appellant’s own testimony that he was involved in criminal activity
+
+and frequented those areas. Thus, Appellant has not shown that his
+
+counsel was deficient in failing to object to Cpl. Jira’s testimony. See
+
+Sawyer v. State, 
+308 Ga. 375
+, 384 (
+839 SE2d 582
+) (2020) (trial
+
+                                  43
+ counsel not deficient in failing to object to cumulative testimony).
+
+     (c) Appellant asserts that trial counsel was deficient in failing
+
+to utilize an expert witness to counter the testimony of the medical
+
+examiner as to the cause of Atkinson’s death. Trial counsel testified
+
+that causation is a difficult issue for a defense attorney given
+
+existing case law. He also explained that his strategy was to show
+
+that Appellant’s actions did not cause Atkinson to jump out of the
+
+car and that Atkinson instead jumped out of the car due to the
+
+intoxicating effects of cocaine and alcohol. Even assuming that trial
+
+counsel was deficient in not retaining a medical expert on proximate
+
+cause, Appellant has failed to establish prejudice. At the hearing on
+
+the motion for new trial, Appellant did not present the testimony of,
+
+or an affidavit from, an expert witness that countered the State’s
+
+medical expert. Accordingly, Appellant has failed to show Strickland
+
+prejudice. See Pauldo v. State, 
+317 Ga. 433
+, 437 (
+893 SE2d 633
+)
+
+(2023) (“It is well established that a defendant fails to establish
+
+prejudice under Strickland when he merely contends that trial
+
+counsel was deficient for failing to present an expert, without also
+
+                                  44
+ presenting evidence at the motion-for-new-trial hearing about what
+
+the potential expert would have testified to at trial.”).
+
+      Accordingly, Appellant’s claims that he was denied effective
+
+assistance of counsel fail. 12
+
+      Judgment affirmed. All the Justices concur.
+
+
+
+
+      12 Appellant states in passing that the collective prejudice from trial
+counsel’s deficiencies “has the potential” to establish prejudice under
+Strickland, but he fails to make any argument as to how he was prejudiced by
+the cumulative effect of the alleged deficiencies. He also states in the final
+sentence of his brief that the claims raised on appeal “individually and
+collectively” require reversal. However, he again fails to make any argument
+that the collective prejudice from the alleged deficiencies of his trial counsel
+and from the alleged trial court errors requires reversal. See State v. Lane, 
+308
+Ga. 10
+, 18 (
+838 SE2d 808
+) (2020) (“A defendant who wishes to take advantage
+of the [cumulative error rule] should explain to the reviewing court just how
+he was prejudiced by the cumulative effect of multiple errors.” (cleaned up)).
+In any event, we conclude that Appellant has failed to establish that the
+combined prejudicial effect of the five assumed trial court errors of an
+evidentiary nature, which we address in Divisions 5 and 6, and the three
+assumed instances of deficient performance of trial counsel denied him a
+fundamentally fair trial. See, e.g., Huff v. State, 
+315 Ga. 558
+, 568 (
+883 SE2d
+773
+) (2023) (rejecting cumulative error claim “because Appellant has not
+demonstrated that the prejudicial effect of the assumed trial court errors and
+ineffective assistance denied him a fundamentally fair trial”).
+                                       45
+ 

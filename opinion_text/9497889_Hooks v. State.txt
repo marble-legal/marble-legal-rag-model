@@ -1,0 +1,438 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: April 30, 2024
+
+
+                         S24A0037. HOOKS v. THE STATE.
+
+
+        PINSON, Justice.
+
+        Appellant Kiervon Armani Hooks was convicted of felony mur-
+
+der and possession of a firearm during the commission of a felony,
+
+both arising from the shooting death of Brandon Ray Foster.1 On
+
+appeal, Hooks contends the evidence was not sufficient to sustain
+
+
+
+        1 Foster was shot in the late hours of September 26, 2017, and died early
+
+the next morning. On December 18, 2017, a grand jury returned an indictment
+charging Hooks with aggravated assault (Count 1), felony murder predicated
+on aggravated assault (Count 2), and possession of a firearm during the com-
+mission of a felony (Count 3). At a jury trial from February 4-6, 2019, the jury
+found Hooks guilty of all counts. On February 6, 2019, the trial court sentenced
+Hooks to life without parole for felony murder (Count 2) and merged the ag-
+gravated assault count into the felony murder conviction. Hooks was also sen-
+tenced to serve five years in prison consecutive to his felony-murder sentence
+for possession of a firearm during the commission of a felony. Hooks, through
+trial counsel, filed a timely motion for new trial on February 11, 2019, which
+he amended through new counsel on April 13, 2023. Hooks waived hearing on
+the motion for new trial, and the trial court denied the motion on April 25,
+2023. Hooks timely filed a notice of appeal on May 23, 2023. His appeal was
+docketed to the term of court beginning in December 2023 and submitted for a
+decision on the briefs.
+ his convictions because no physical evidence or eyewitness testi-
+
+mony linked him to the crime scene and the State did not present
+
+enough evidence to exclude the possibility that someone else shot
+
+Foster. But the evidence, which we recount in detail below, was con-
+
+stitutionally sufficient, so we affirm his convictions.
+
+     1. Near midnight on September 26, 2017, Dawn McCorkel was
+
+inside her apartment at the Garlington Heights apartment complex
+
+when she heard a gunshot “right next to [her] window.” She went
+
+outside five-to-ten minutes later, stepped off her porch, and saw
+
+someone was lying on the ground four-to-five feet away, on the left
+
+side of Building 60. She walked over to the person, Foster, whom she
+
+recognized because he had been her neighbor for several years. Fos-
+
+ter had been shot, but he was still alive, and McCorkel called 911.
+
+     Foster told McCorkel that “Buddha” shot him. McCorkel knew
+
+Hooks as “Buddha.” She did not know anyone else who went by the
+
+nickname “Buddha,” although she said she had “heard of other peo-
+
+ple in town with that nickname.” When Lieutenant Kylie Carter ar-
+
+rived at the scene, Foster was lying on the ground between
+
+                                   2
+ McCorkel’s apartment and Building 90 and had a gunshot wound to
+
+his abdomen. Police found a spent .40-caliber shell casing near
+
+Building 90. McCorkel’s apartment was at the end of Building 60,
+
+which backed up to the rear of Building 90. Building 90 could be seen
+
+from McCorkel’s side window.
+
+     Lieutenant Carter asked Foster who shot him, and Foster said
+
+“Buddha.” Carter asked again, and Foster again said “Buddha” shot
+
+him. The lead detective, Larry Hill, did not know who “Buddha” was
+
+at first. Another officer at the scene, Officer Matthew Brooks, knew
+
+that Hooks, who used to be Officer Brooks’s neighbor at a different
+
+apartment complex, now lived in Garlington Heights and went by
+
+the nickname “Buddha.” Officer Brooks knew Hooks and his family
+
+and did not know anyone other than Hooks who went by the nick-
+
+name “Buddha.”
+
+     Although Officer Brooks did not know Hooks’s apartment num-
+
+ber, he knew that Hooks’s sister lived in an apartment in Building
+
+90, which was the building the spent shell casing was found next to.
+
+Officer Brooks went to that apartment, found the door was cracked
+
+                                 3
+ open, and knocked. Hooks answered the door and briefly spoke with
+
+Brooks. Hooks said that he had been inside his sister’s apartment
+
+all night, except for when he had stepped out to smoke a cigarette.
+
+Police then searched the apartment but found no weapon.
+
+     Foster died from the gunshot wound to his abdomen later that
+
+night. The medical examiner recovered a bullet that went through
+
+Foster’s abdomen and liver, then lodged in his right kidney and
+
+killed him.
+
+     Brian Lepper, a GBI firearms and tool mark examiner, exam-
+
+ined the shell casing collected at the scene and the bullet recovered
+
+during Foster’s autopsy. Lepper determined that both were .40-cal-
+
+iber and consistent with having been fired from a High Point .40-
+
+caliber pistol or another brand of .40-caliber gun.
+
+     At trial, Detective Hill testified that Hooks was arrested for the
+
+shooting after investigators had exhausted other possible leads.
+
+McCorkel, the neighbor who found Foster, identified Hooks in the
+
+courtroom as the only person she personally knew as “Buddha” and
+
+testified that it would have only taken “a second” to go from the
+
+                                  4
+ location where Foster was found to Building 90, where Hooks was
+
+that night. Officer Brooks also identified Hooks in the courtroom as
+
+the person he knew as “Buddha.” Also at trial, the State introduced
+
+a to-scale computer-generated diagram of the crime scene, which
+
+had been created based on measurements and photographs taken at
+
+the crime scene. The photographs and diagram were admitted into
+
+evidence and an officer referenced them to point out the locations of
+
+Buildings 60 and 90, Foster, and the spent shell and their proximity
+
+to one another.
+
+     2. Hooks contends that the evidence was not sufficient to con-
+
+vict him of Foster’s murder because no physical evidence connected
+
+him to the crime, and although Hooks went by the nickname “Bud-
+
+dha,” there was evidence that more than one person went by that
+
+nickname, and there was no evidence describing the shooter to es-
+
+tablish that Hooks—and not another “Buddha”—shot Foster.
+
+     (a) We review the constitutional sufficiency of the evidence by
+
+reviewing the evidence at trial in the light most favorable to the ver-
+
+dicts to determine whether a rational trier of fact could have found
+
+                                  5
+ the defendant guilty beyond a reasonable doubt, without weighing
+
+the evidence or resolving conflicts in testimony. See Weems v. State,
+
+318 Ga. 98, 101 (2) (a) (897 SE2d 368) (2024) (citing Jackson v. Vir-
+
+ginia, 443 U.S. 307, 319 (III) (B) (99 SCt 2781, 61 LE2d 560) (1979);
+
+Byers v. State, 311 Ga. 259, 266 (2) (857 SE2d 447) (2021)). To meet
+
+its burden, the State was “not required to produce any physical evi-
+
+dence,” so long as there was “competent evidence” to prove each ele-
+
+ment of the crime. See Johnson v. State, 296 Ga. 504, 505 (1) (769
+
+SE2d 87) (2015). We defer to the jury’s resolution of any conflicts in
+
+the evidence, the credibility of witnesses, and the drawing of reason-
+
+able inferences from the facts. See Perkins v. State, 313 Ga. 885, 891
+
+(2) (a) (873 SE2d 185) (2022).
+
+     A person commits felony murder when, “in the commission of
+
+a felony, he or she causes the death of another human being irre-
+
+spective of malice.” OCGA § 16-5-1 (c). Here, the predicate felony
+
+was aggravated assault with a deadly weapon, which occurs when
+
+someone “[a]ttempts to commit a violent injury” to another or “[c]om-
+
+mits an act which places another in reasonable apprehension of
+
+                                  6
+ immediately receiving a violent injury” by use of a “deadly weapon.”
+
+OCGA §§ 16-5-20 (a), 16-5-21 (a) (2).
+
+     The evidence here, although largely circumstantial, authorized
+
+the jury to convict Hooks of these offenses. Hooks points out that the
+
+murder weapon was not found, and no witnesses saw Hooks outside
+
+Buildings 60 or 90 at the time of the shooting. But circumstantial
+
+evidence alone can be constitutionally sufficient, see, e.g., Weems,
+
+318 Ga. at 101 (2) (a)-(b), and the evidence here meets that standard.
+
+That evidence showed that Foster was shot and killed with a .40-
+
+caliber bullet when he was just outside McCorkel’s apartment,
+
+which was at the end of Building 60 and next to Building 90. A spent
+
+.40-caliber shell casing was found near Building 90, and Hooks an-
+
+swered the door of his sister’s apartment in that building and said
+
+he had been there all night, except for when he went out for a ciga-
+
+rette. The jury viewed photographs and a to-scale diagram showing
+
+the short distance between all the apartments in Building 90, in-
+
+cluding Hooks’s sister’s apartment, and the location of Foster and
+
+the spent shell. Before he died, Foster said multiple times that
+
+                                  7
+ “Buddha” shot him, and multiple witnesses identified Hooks—who
+
+was at his sister’s apartment a short distance away from where the
+
+shooting occurred and next to where the spent shell casing was
+
+found—as the only person they knew who went by the nickname
+
+“Buddha.” Viewed in the light most favorable to the verdicts, this
+
+evidence authorized the jury to conclude that Hooks was the “Bud-
+
+dha” who shot Foster and to find him guilty of the felony murder of
+
+Foster predicated on the aggravated assault of shooting him, and for
+
+possession of a firearm during the commission of that crime. See Ro-
+
+driquez v. State, 309 Ga. 542, 546 (1) (847 SE2d 303) (2020) (con-
+
+cluding that sufficient evidence supported the felony murder convic-
+
+tion where circumstantial evidence, including cell phone records
+
+placing the defendant at or near the crime scene, which was within
+
+walking distance of his apartment, and a prior altercation between
+
+the defendant and victim, authorized the jury to find that the de-
+
+fendant, and not another person, shot the victim). See also Hill v.
+
+State, 276 Ga. 220, 221 (3) (576 SE2d 886) (2003) (“Evidence that
+
+the defendant or an accomplice either carried or was within arm’s
+
+                                 8
+ length of a weapon during the commission of a crime authorizes a
+
+finding of guilt of violating OCGA § 16-11-106 (b).”).
+
+     (b) When a conviction is based on circumstantial evidence, the
+
+State must present sufficient evidence to “exclude every other rea-
+
+sonable hypothesis save that of the guilt of the accused.” OCGA §
+
+24-14-6. But “not every hypothesis is reasonable,” and whether a
+
+given hypothesis is reasonable is a determination for the jury that
+
+we do not disturb “unless it is insufficient as a matter of law.” See
+
+Drennon v. State, 314 Ga. 854, 861-862 (3) (880 SE2d 139) (2022)
+
+(cleaned up).
+
+      Hooks contends that the evidence against him was entirely cir-
+
+cumstantial and that the State did not exclude beyond a reasonable
+
+doubt the possibility that Foster’s identification of “Buddha” as the
+
+shooter could have referred to someone other than Hooks. See OCGA
+
+§ 24-14-6. Even if we assume that the evidence was entirely circum-
+
+stantial,2 Hooks’s nickname, which Foster gave to identify his
+
+
+     2 Generally, an eyewitness’s identification of a defendant is direct evi-
+
+dence of guilt. See Bates v. State, 317 Ga. 809, 814 (2) n.3 (896 SE2d 851)
+
+                                     9
+ shooter, was not the only evidence linking him to the crime. As we
+
+just discussed, Foster was shot with a .40-caliber bullet when he was
+
+between Building 60 and Building 90, a spent .40-caliber shell cas-
+
+ing was found next to Building 90, and Hooks—whose nickname is
+
+“Buddha”—was at his sister’s apartment in Building 90 on the night
+
+of the shooting. In support of his hypothesis that another “Buddha”
+
+was the shooter, Hooks points only to McCorkel’s testimony that she
+
+had “heard of other people in town” going by the nickname “Bud-
+
+dha.” But McCorkel, who lived in the same apartment complex as
+
+Hooks and Foster, clarified that Hooks was the only person she knew
+
+who went by the name “Buddha,” and Officer Brooks, who had been
+
+Hooks’s neighbor at a different apartment complex, testified that
+
+Hooks was the only “Buddha” he knew. Also, the lead detective tes-
+
+tified that after learning that Foster had identified “Buddha” as the
+
+
+
+(2023). See also Gittens v. State, 307 Ga. 841, 843 (1) n.2 (838 SE2d 888) (2020).
+(“Eyewitness testimony based on the witness’s firsthand observations of the
+crime is direct, not circumstantial, evidence.”). For purposes of addressing
+Hook’s argument, we assume without deciding that Foster’s identification of
+his shooter by the nickname “Buddha” was circumstantial evidence because
+police then used that information and additional inferences to identify Hooks
+as the “Buddha” Foster had referred to.
+                                       10
+ shooter and that Hooks went by that nickname, he exhausted other
+
+leads before arresting Hooks for the murder. These identifications
+
+of Hooks as “Buddha,” combined with the close proximity between
+
+the location of the spent shell casing that matched the fatal bullet
+
+and the apartment where Hooks was that night, authorized the jury
+
+to reject as unreasonable the hypothesis that another “Buddha” with
+
+no connection to the crime scene was the shooter. See Drennon, 314
+
+Ga. at 861-862 (3). Given this evidence, the jury was authorized to
+
+reject Hooks’s theory that some other person with the same nick-
+
+name shot Foster. See Graves v. State, 306 Ga. 485, 486-487 (1)
+
+(2019) (concluding that circumstantial evidence, including video
+
+showing the defendant alone exit a taxi after the taxi crashed and
+
+on the night the taxi’s driver was shot, was sufficient for the jury to
+
+reject his contention that there was another passenger in the same
+
+taxi but not shown in the video who had shot the taxi driver). Cf.
+
+Moulder v. State, 317 Ga. 43, 44-47 (1)-(2) (891 SE2d 903) (2023)
+
+(even without any physical evidence linking the defendant to the
+
+crime scene or evidence that the defendant went by the nickname
+
+                                  11
+ “Youngster,” whom the victim said he was with before he was found
+
+dead, other evidence—including that the defendant knew the victim,
+
+used to live and had a family member who lived near where the vic-
+
+tim’s car was found, and had been in Georgia on the day of the shoot-
+
+ing—was sufficient to authorize the jury to reject the defendant’s
+
+hypothesis that an unidentified person who went by the nickname
+
+“Youngster,” and not the defendant, was the shooter).
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                 12
+ 

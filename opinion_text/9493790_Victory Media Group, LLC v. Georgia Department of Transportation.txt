@@ -1,0 +1,423 @@
+  NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+  Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+  opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+  prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+  official text of the opinion.
+
+
+
+                 SUPREME COURT OF GEORGIA
+                 Case No. S24C0144
+
+
+                                                                           April 16, 2024
+
+
+      The Honorable Supreme Court met pursuant to adjournment.
+
+The following order was passed:
+
+VICTORY MEDIA GROUP, LLC v. GEORGIA DEPARTMENT OF
+                TRANSPORTATION
+
+      The Supreme Court today denied the petition for certiorari in
+this case.
+
+      All the Justices concur.
+
+
+Court of Appeals Case No. A24D0007
+                                       SUPREME COURT OF THE STATE OF GEORGIA
+                                                  Clerk’s Office, Atlanta
+
+                                         I certify that the above is a true extract from the
+                                  minutes of the Supreme Court of Georgia.
+                                         Witness my signature and the seal of said court hereto
+                                  affixed the day and year last above written.
+
+
+
+                                                                                            , Clerk
+      PETERSON, Presiding Justice, concurring.
+
+     Plaintiff Victory Media Group LLC argues that the state law
+
+regulating billboards violates their right to free speech. The trial
+
+court ruled for the State without meaningfully addressing Victory
+
+Media’s free speech argument, and the Court of Appeals denied
+
+Victory Media’s application for discretionary appeal. The State
+
+argues that our Court had resolved this claim in its favor 40 years
+
+ago. The State is wrong; our decision from 1984 could not and did
+
+not address Victory Media’s central argument, which focuses on
+
+later developments in the United States Supreme Court’s treatment
+
+of content-based speech restrictions. But this is not a proper case to
+
+consider those developments. Even if Victory Media’s legal
+
+arguments are correct, they still lose; the parts of the law that may
+
+violate the First Amendment are not the parts of the law that
+
+harmed Victory Media. Accordingly, I concur in the denial of the
+
+petition for a writ of certiorari, but write to flag this important issue
+
+for future litigants and courts.
+
+     This case centers on Victory Media’s attempt to obtain a
+
+                                   2
+ multiple     message        sign   permit      from     the    Department        of
+
+Transportation.       The     Department        approved      Victory     Media’s
+
+application but later revoked the permit because another sign,
+
+which was already established pursuant to a permit, was located
+
+less than 5,000 feet from the requested location for Victory Media’s
+
+multiple message sign. See OCGA § 32-6-75 (c) (1) (C) (“No . . .
+
+multiple message sign shall be placed within 5,000 feet of another
+
+multiple message sign on the same side of the highway[.]”). In
+
+appealing the Department’s decision, Victory Media challenges
+
+among other things the constitutionality of the Outdoor Advertising
+
+Control Act (“the Act”), which governs the permit application process
+
+for outdoor advertising signs. Victory Media contends the Act is
+
+unconstitutional because it imposes content-based restrictions on
+
+speech.1
+
+
+
+      1  For instance, Victory Media points to the Act’s direction that “[n]o
+outdoor advertising shall be erected or maintained within 660 feet of the
+nearest edge of the right of way and visible from the main traveled way of the
+interstate or primary highways in this state, except the following: (1)
+[d]irectional and other official signs and notices; (2) [s]igns advertising the sale
+or lease of the property upon which they are located; (3) [s]igns advertising
+
+                                         3
+       In defense of the Act, the State relied below on our decision in
+
+DOT v. Shiflett, where this Court rejected a claim that the Act
+
+violated the right to free speech and held that it did “not violate the
+
+freedom of expression.” 2 
+251 Ga. 873
+, 876 (1) (
+310 SE2d 509
+) (1984).
+
+Because the case involved commercial speech and we concluded that
+
+the Act indirectly controlled expression, we applied the four-part
+
+analysis from Central Hudson Gas v. Pub. Serv. Comm’n, 447 U.S.
+
+
+
+
+activities conducted or maintained within 100 feet of the nearest part of the
+activity . . . ; (4) [s]igns located in areas zoned commercial or industrial, which
+signs provide information in the specific interest of the traveling public; (5)
+[s]igns located in unzoned commercial or industrial areas, which signs provide
+information in the specific interest of the traveling public; and (6) [d]irectional
+signs, displays, and devices about goods and services in the specific interest of
+the traveling public[.]” See OCGA § 32-6-72. Appellant contends that the “Act
+further restricts permissible signs based on the type of message contained in
+the sign[,]” and in support Appellant points to the “spacing, location, and
+configuration requirements” and various exemptions in the Act.
+       2 We did not specify whether the free speech claim was brought only
+
+under the U.S. Constitution or was also brought under a similar provision of
+the Georgia Constitution. Our analysis cited only federal caselaw decided
+under the First Amendment. Accordingly, I do not understand Shiflett to have
+decided anything about the Georgia Constitution’s speech protections, and note
+further that there’s ample reason to think those protections may be different
+from their federal equivalent. See, e.g., Maxim Cabaret, Inc. v. City of Sandy
+Springs, 
+304 Ga. 187
+, 196-197 (
+816 SE2d 31
+) (2018) (Peterson, J., concurring)
+(noting textual differences between federal and state provisions).
+                                        4
+ 557 (100 SCt 2343, 65 LE2d 341) (1980).3 See Shiflett, 
+251 Ga. at
+
+874-875
+ (1).
+
+     But the State’s reliance on Shiflett is misplaced. To begin, we
+
+did not consider there whether the Act contained content-based
+
+restrictions on speech, which United States Supreme Court
+
+precedent now makes clear is a critical consideration. See Nat. Inst.
+
+of Fam. and Life Advocs. v. Becerra (“NIFLA”), 
+585 U.S. 755
+, 766 (II)
+
+(A) (138 SCt 2361, 201 LE2d 835) (2018) (“When enforcing [the First
+
+Amendment’s] prohibition [on laws that abridge the freedom of
+
+speech], precedents distinguish between content-based and content-
+
+neutral regulations of speech.”).
+
+     “Content-based laws — those that target speech based on its
+
+communicative content — are presumptively unconstitutional and
+
+may be justified only if the government proves that they are
+
+
+     3   That analysis considers whether (1) the commercial speech was
+misleading or concerned an unlawful activity, (2) the governmental interest
+was substantial, (3) the regulation directly advanced the government interest,
+and (4) the regulation was more extensive than necessary to serve that
+interest. See Shiflett, 
+251 Ga. at 874
+ (1); H&H Operations, Inc. v. City of
+Peachtree City, 
+248 Ga. 500
+, 502 (2) (
+283 SE2d 867
+) (1981) (striking down sign
+ordinance because we found “no substantial governmental interest in
+permitting commercial signs yet prohibiting the posting of prices”).
+                                      5
+ narrowly tailored to serve compelling state interests.” Reed v. Town
+
+of Gilbert, 
+576 U.S. 155
+, 163 (II) (A) (135 SCt 2218, 192 LE2d 236)
+
+(2015). Strict scrutiny applies “when a law is content based on its
+
+face or when the purpose and justification for the law are content
+
+based[.]” Id. at 166 (II) (C) (1) (striking down content-based
+
+regulations of speech in sign code that failed to survive strict
+
+scrutiny); see also Alvarez, 567 U.S. at 724 (IV) (content-based
+
+restriction on speech failed to satisfy the “most exacting scrutiny”).
+
+“This stringent standard reflects the fundamental principle that
+
+governments have no power to restrict expression because of its
+
+message, its ideas, its subject matter, or its content.” NIFLA, 585
+
+U.S. at 766 (II) (A) (cleaned up; emphasis added). 4 “Laws that are
+
+content neutral are instead subject to lesser scrutiny.” Reed, 
+576 U.S.
+
+
+
+4
+ In City of Austin v. Reagan National Advertising of Austin, LLC, the
+
+United States Supreme Court indicated that “restrictions on speech may
+require some evaluation of the speech and nonetheless remain content neutral”
+and held that a regulation’s distinction between on-premise and off-premise
+signs was content neutral because it did not turn on the substantive message
+of the sign. 
+596 U.S. 61
+, 72-74 (II) (B) (142 SCt 1464, 212 LE2d 418) (2022).
+But the statute here purports to distinguish permissible off-premise signs from
+impermissible off-premise signs based in part on content, which creates
+different issues than the ordinance at issue in City of Austin.
+                                      6
+ at 172 (IV).
+
+     At the time that Shiflett was decided, it had “[o]nly recently . .
+
+. been recognized that commercial speech is afforded protection
+
+under the First Amendment.” Shiflett, 
+251 Ga. at 874
+ (1). See
+
+NIFLA, 585 U.S. at 767 (II) (B) (“professional speech” is not exempt
+
+from the normal prohibition on content-based restrictions); see also
+
+Sorrell v. IMS Health Inc., 
+564 U.S. 552
+, 566 (II) (A) (1) (131 SCt
+
+2653, 180 LE2d 544) (2011) (“[c]ommercial speech is no exception”
+
+to the general rule that content-based restrictions of speech warrant
+
+heightened judicial scrutiny). To satisfy its burden to justify that a
+
+content-based restriction on commercial speech is consistent with
+
+the First Amendment, the State must show “at least that the
+
+[burden] directly advances a substantial governmental interest and
+
+that the measure is drawn to achieve that interest.” Sorrell, 
+564 U.S.
+
+at 571-572
+ (II) (B). This standard requires a proportional fit
+
+“between the legislature’s ends and the means chosen to accomplish
+
+those ends.” 
+Id.
+
+
+     In the light of this precedent, this Court has since struck down
+
+                                  7
+ local sign ordinances that contained such content-based distinctions.
+
+See Fulton County v. Galberaith, 
+282 Ga. 314
+, 317-319 (3) (
+647 SE2d
+
+24
+) (2007) (affirming trial court’s ruling that sign ordinance that
+
+banned all signs, including commercial ones, but exempted signs
+
+from the ban on a case-by-case basis was the “the antithesis of the
+
+narrow tailoring that is required under the First Amendment, even
+
+in the context of commercial speech”); Union City Bd. of Zoning
+
+Appeals v. Justice Outdoor Displays, Inc., 
+266 Ga. 393
+, 394-398 (
+467
+
+SE2d 875
+) (1996) (striking down sign ordinances because they
+
+imposed content-based restrictions on speech). But we have yet to
+
+address whether the Outdoor Advertising Control Act contains such
+
+content-based restrictions, and that important question remains
+
+open in our precedent. See State v. Cafe Erotica, Inc., 
+270 Ga. 97
+, 97
+
+(
+507 SE2d 732
+) (1998) (resolving challenge to the Act under Central
+
+Hudson test without reaching whether the “legislation [was]
+
+content-based and therefore . . . subject to strict scrutiny”).
+
+     Victory Media points to provisions of the Act and regulations
+
+promulgated under the Act that may well be content-based. See, e.g.,
+
+                                   8
+ OCGA § 32-6-71 (defining among other things categories of signs
+
+referenced in the Act); OCGA § 32-6-72 (limiting outdoor advertising
+
+visible from the main traveled way of the state’s interstate or
+
+primary highways to specific categories of signs); OCGA § 32-6-75
+
+(a) (establishing additional conditions associated with certain
+
+categories of permissible signs); Ga. Comp. R. & Regs., r. 672-6-.03
+
+(requiring a permit before the construction of certain categories of
+
+signs). But none of those provisions were actually enforced against
+
+Victory Media. Instead, Victory Media’s permit was revoked because
+
+OCGA § 32-6-75 (c) (1) (C) directs that “[n]o multiple message sign .
+
+. . be placed within 5,000 feet of another multiple message sign on
+
+the same side of the highway[,]” and the Department had already
+
+approved the permit of another multiple message sign located less
+
+than 5,000 feet from the location that Victory Media requested.
+
+     Our caselaw requires a party challenging a state statute as
+
+unconstitutional to show that the unconstitutional provision
+
+harmed the party. See Parker v. Leeuwenburg, 
+300 Ga. 789
+, 790 (
+797
+
+SE2d 908
+)   (2017)   (“As   a   prerequisite   to   attacking   the
+
+                                  9
+ constitutionality of a statute, the complaining party must show that
+
+it is hurtful to the attacker.”); Black Voters Matter Fund, Inc. v.
+
+Kemp, 
+313 Ga. 375
+, 393 (
+870 SE2d 430
+) (2022) (Peterson, J.,
+
+concurring) (“One clear line of case law . . . holds that persons
+
+seeking to challenge a state statute as unconstitutional may do so
+
+only if that statute has injured them in some specific way.”).5 Victory
+
+Media has failed to make that showing, and so we cannot reach the
+
+open constitutional question they raise.
+
+
+
+
+     5 Victory Media did not challenge the Act on overbreadth grounds. See
+
+Bo Fancy Prods., Inc. v. Rabun County Bd. of Comm’rs, 
+267 Ga. 341
+, 344-345
+(2) (a) (
+478 SE2d 373
+) (1996) (adopting a “more relaxed standard of ‘standing’
+applicable to a First Amendment challenge of an allegedly overbroad statute”).
+                                     10
+ 

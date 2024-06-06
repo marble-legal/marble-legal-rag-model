@@ -1,0 +1,553 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                  Decided: March 19, 2024
+
+
+                   S24A0179. RICHARDSON v. THE STATE.
+
+
+       LAGRUA, Justice.
+
+       Appellant Matthew Richardson appeals his convictions for
+
+felony murder and other crimes related to the shooting death of
+
+Julius Aderhold, III. 1 Richardson contends that (1) the trial court
+
+committed plain error when it admitted testimony of a detective that
+
+
+
+
+       1 The crimes occurred in Atlanta on January 30, 2018. On May 1, 2018,
+
+a Fulton County grand jury indicted Richardson for felony murder predicated
+on aggravated assault with a deadly weapon (Count 1), two counts of
+aggravated assault with a deadly weapon upon Jabari Johnson and Airieon
+Young (Counts 2 and 3), terroristic threats (Count 4), and possession of a
+firearm during the commission of a felony (Count 5). Richardson was tried in
+November 2019, and the jury found him guilty of all counts. The trial court
+sentenced Richardson to serve life in prison with the possibility of parole on
+Count 1, a consecutive five-year term in prison on Count 5, and 20 years in
+prison to run concurrent on Counts 2, 3, and 4. Richardson filed a timely
+motion for new trial, which was amended through new counsel. After holding
+an evidentiary hearing, the trial court denied the motion for new trial on June
+6, 2023. Richardson filed a timely notice of appeal, and his case was docketed
+to this Court’s term beginning in December 2023 and submitted for a decision
+on the briefs.
+ improperly     bolstered     out-of-court    statements      by   two    other
+
+witnesses; and (2) his trial counsel provided constitutionally
+
+ineffective assistance by failing to object to that same testimony.2
+
+For the reasons explained below, we affirm.
+
+      1. This case involves a drive-by shooting on January 30, 2018,
+
+during which Richardson’s friend and passenger Aderhold was shot
+
+and killed. The evidence presented at trial showed that Richardson
+
+was upset with Jabari Johnson for his alleged involvement in
+
+stealing a gun belonging to Richardson’s cousin. Johnson testified
+
+that, on January 29, Richardson called Johnson’s girlfriend and
+
+asked about the stolen gun. The next day, January 30, Richardson
+
+visited Johnson’s house. Discovering that only Johnson’s two sisters
+
+were home, Richardson called Johnson on the phone while standing
+
+
+
+      2 Richardson also challenges the sufficiency of the evidence supporting
+
+his conviction for terroristic threats. However, although he lists that claim as
+one of his enumerated errors, he presents no legal argument or citation of
+authority in support. Thus, this contention is deemed abandoned. See former
+Supreme Court Rule 22 (2023) (“Any enumerated error not supported by
+argument or citation of authority in the brief shall be deemed abandoned. . .
+.”). See also Smith v. State, 315 Ga. 357, 358 n.2 (882 SE2d 289) (2022)
+(deeming abandoned under former Rule 22 an unsupported claim of error
+pertaining to the sufficiency of the evidence).
+                                       2
+ by the front door. Johnson and his two sisters testified that
+
+Richardson threatened Johnson during the call, telling him,
+
+“Somebody about to die about this gun today. I could kill your sister
+
+right now.” All three also testified that Richardson said he was going
+
+to go to the house of Johnson’s friend Aireon Young to “shoot it up.”
+
+After ten minutes of arguing with Johnson over the phone,
+
+Richardson left Johnson’s house.
+
+     At another point that afternoon at Young’s house, the mother
+
+of Young’s child was upstairs and saw a man standing outside the
+
+front door holding a gun. She did not answer the door, but she called
+
+Young and said a man was there with a gun. The man left by the
+
+end of this phone call. Young later told investigators that this man
+
+was Richardson based on what his child’s mother told him, but at
+
+trial, both Young and his child’s mother testified that they did not
+
+know if the man was Richardson.
+
+     During these phone calls to Young and Johnson, Young was
+
+driving Johnson and their friend Marquise Arnold to pick up
+
+Arnold’s paycheck. In response to Richardson’s threats against
+
+                                   3
+ Johnson and Young, Young called Richardson to see what the
+
+problem was. After that phone call, Young changed course and drove
+
+home. Young’s mother, his young child, and his child’s mother were
+
+present at the house. After Young, Johnson, and Arnold arrived,
+
+Young’s family and Arnold went upstairs because Young told them
+
+Richardson was coming with a gun. Johnson went to the kitchen,
+
+and Young stood in front of the house talking on the phone with
+
+Richardson. Within minutes, Richardson drove an SUV into Young’s
+
+neighborhood. Aderhold was in the front passenger seat of the SUV,
+
+facing the side of the street Young’s house was on.
+
+     Testimony at trial diverged about what happened next.
+
+Johnson testified that he heard approximately three gunshots while
+
+inside the house, grabbed a pistol, exited through the back door, and
+
+ran along the side of the house to the front. On the street in front of
+
+the house, Johnson saw Richardson leaning out of an SUV shooting
+
+a handgun at him and Young. Johnson also witnessed Young
+
+shooting at Richardson, and Johnson began shooting at Richardson
+
+as well until his gun jammed, at which point he ran inside the house,
+
+                                  4
+ reloaded, and then ran back outside through the front door. Johnson
+
+testified that he did not see who started shooting first because he
+
+was inside; he did not know whether it was Richardson or Young.
+
+     Young testified that, while he was standing in front of his
+
+house, he saw Richardson driving up in an SUV and heard gunshots
+
+coming from the direction of the street where the SUV was driving.
+
+Young assumed Richardson was shooting at him, although he could
+
+not see whether Richardson had a gun. Young began shooting at the
+
+SUV. At that moment, Young could not see Johnson, but believed he
+
+was outside by the side of the house when the shooting began,
+
+explaining that he thought so “because [Johnson was] still over
+
+there, like, spazzing out and stuff, pacing back and forth . . . . talking
+
+to himself and stuff.” Young testified that, two months later,
+
+Johnson told him that he was the one who started shooting first, not
+
+Richardson. Johnson testified that he never told Young that he shot
+
+first and noted that he and Young were no longer friends due to a
+
+
+
+
+                                    5
+ later incident.3
+
+      According to testimony from Young, Johnson, and others in the
+
+neighborhood, Richardson stopped the SUV a few houses away,
+
+exited, and ran to a neighbor’s house to find help. Young and
+
+Johnson went back inside Young’s house and waited for police to
+
+arrive. Richardson got back in the SUV, but a police officer
+
+responding to the scene stopped and apprehended him before he
+
+could leave the neighborhood. The officer found Aderhold dead in the
+
+passenger seat, bleeding from a gunshot wound.
+
+      Investigators retrieved a .38-caliber revolver from behind the
+
+driver’s seat in the SUV and a .40-caliber pistol underneath
+
+Aderhold’s body. The gun behind the driver’s seat contained five
+
+spent shell casings, but the gun underneath Aderhold was fully
+
+loaded. Investigators also retrieved a 9mm pistol from Young and a
+
+.45-caliber pistol from Johnson. Several 9mm and .45-caliber casings
+
+were recovered from the scene. The medical examiner testified that
+
+
+      3 During trial, Young testified that he faced murder charges for a later,
+
+unrelated shooting. Johnson testified that he was also involved in that shooting
+but was not charged.
+                                       6
+ Aderhold’s cause of death was a .45-caliber bullet that entered
+
+through his right shoulder and penetrated his head. Of the three
+
+shooters, only Johnson used a .45-caliber pistol.
+
+     That evening, Young and Johnson were taken to the police
+
+station where Detective Nikita Moss interviewed them separately
+
+after they waived their Miranda 4 rights. 5 During his interview,
+
+Johnson said that he heard gunshots while inside Young’s house,
+
+ran outside through the back door, and began shooting back.
+
+Additionally, Johnson told Detective Moss during his interview that
+
+the initial “three shots didn’t come from [Young’s] gun.” At trial,
+
+Johnson gave a similar account and admitted that he implicated
+
+Richardson, but he testified that he did not know who shot first.
+
+     During Young’s interview, he told Detective Moss that he saw
+
+Richardson driving down the street “flashing” a handgun and that
+
+he saw Richardson shoot first. At trial, Young admitted he told
+
+
+
+
+     4 Miranda v. Arizona, 384 U.S. 436 (86 SCt 1602, 16 LE2d 694) (1966).
+     5 Young, Johnson, and Detective Moss testified regarding Young’s and
+
+Johnson’s out-of-court interview statements, and a video of Young’s interview
+was played for the jury. «T10 1166-67, 1234, 1248, 1257»
+                                     7
+ Detective Moss that Richardson shot first, but he repeatedly
+
+testified that he lied during that interview and did not actually see
+
+who shot first.
+
+     While under direct examination at trial, Detective Moss
+
+testified as follows regarding her interviews of Young and Johnson:
+
+     STATE:       What about Dominique Young, while you
+                  talked to him, did he talk freely to you?
+     MOSS:        Yes.
+     STATE:       Did he speak as if what he said was rehearsed?
+     MOSS:        No.
+     STATE:       Did every detail that he gave to you, did it
+                  sound from talking with both Jabari Johnson
+                  and Dominique Young as if they were
+                  attempting to give you the same story?
+     MOSS:        No, ma’am.
+     STATE:       And why do you say that?
+     MOSS:        From details that Dominique gave, some were
+                  not the same as Jabari’s. For instance,
+                  Dominique stated that Jabari was outside with
+                  him and ran to the side of the house, but Jabari
+                  said he walked outside when he heard the
+                  shots, ran back through the house to the side of
+                  the house.
+     STATE:       And were both of them talking about various
+                  times? Like, in other words, as they are talking
+                  to you, are they talking conversationally?
+     MOSS:        Yes.
+     STATE:       Okay. And did they seem as if they were
+                  searching for what the truth was while they
+                  were talking to you?
+
+                                    8
+      MOSS:      Yes.
+     STATE:     Did they seem to have trouble figuring out or
+                telling you what the truth was?
+     MOSS:      What do you mean?
+     STATE:     What I mean is, did they seem to have any
+                trouble telling you what they were recounting?
+     MOSS:      No.
+     STATE:     And was the information that they were
+                recounting coming freely?
+     MOSS:      Yes.
+
+Richardson’s trial counsel did not object to this testimony.
+
+     2. On appeal, Richardson contends that—when Detective Moss
+
+answered “yes” to the prosecutor’s question, “Did they seem as if
+
+they were searching for what the truth was while they were talking
+
+to you?”—Detective Moss improperly bolstered Young’s and
+
+Johnson’s interview statements that Richardson shot at them first
+
+and they only returned fire in self-defense. Richardson argues that
+
+the trial court committed plain error by admitting Detective Moss’s
+
+testimony at trial and that his trial counsel was ineffective for not
+
+objecting to the testimony. We hold that Richardson has failed to
+
+show plain error or ineffective assistance of counsel.
+
+     We have explained that, pursuant to OCGA § 24-6-620,
+
+
+                                  9
+      a witness, even an expert, can never bolster the credibility
+     of another witness as to whether the witness is telling the
+     truth. Credibility of a witness is not beyond the ken of the
+     jurors but, to the contrary, is a matter solely within the
+     province of the jury. When a witness’s statement does not
+     directly address the credibility of another witness,
+     however, there is no improper bolstering. And when we
+     evaluate whether testimony constitutes improper
+     bolstering, we consider the disputed testimony in context.
+
+Brown v. State, 302 Ga. 454, 460-461 (2) (b) (807 SE2d 369) (2017)
+
+(citations and punctuation omitted).
+
+     (a) We apply the plain-error standard to evidentiary rulings to
+
+which the appellant did not object at trial. Pender v. State, 311 Ga.
+
+98, 111 (3) (856 SE2d 302) (2021); OCGA § 24-1-103 (d). To establish
+
+plain error, Richardson “must point to a legal error that was not
+
+affirmatively waived, was clear and obvious beyond reasonable
+
+dispute, affected his substantial rights, and seriously affected the
+
+fairness, integrity, or public reputation of judicial proceedings.”
+
+Carter v. State, 317 Ga. 689, 693 (2) (895 SE2d 295) (2023) (citations
+
+and punctuation omitted). However, if Richardson fails to show just
+
+one of these elements, we need not analyze the rest. Id.
+
+     Any error here was not clear and obvious beyond reasonable
+
+                                 10
+ dispute. “For an error to be obvious for purposes of plain-error
+
+review, it must be plain under controlling precedent or in view of the
+
+unequivocally clear words of a statute or rule.” Grier v. State, 313
+
+Ga. 236, 242 (2) (b) (869 SE2d 423) (2022). We have interpreted
+
+OCGA § 24-6-620 to mean that a witness may not “directly address
+
+the credibility of another. . . .” Brown, 302 Ga. at 460-461 (2) (b)
+
+(emphasis supplied). But our precedents permit a witness to still
+
+testify about another witness’s statements in ways that do not
+
+directly comment on that witness’s credibility. See, e.g., Pender, 311
+
+Ga. at 113 (3) (“While it would have been improper for the detective
+
+to testify about whether he believed [the witness] was telling the
+
+truth, it was permissible for the detective to discuss whether [the
+
+witness’s] statements to him . . . were consistent with other
+
+information. . . .”); Ivey v. State, 305 Ga. 156, 161-162 (2) (c) (824
+
+SE2d 242) (2019) (holding that a detective’s testimony that the
+
+defendant’s “demeanor changed . . . you could tell that the wheels
+
+were turning” was not a “direct comment on [the defendant’s]
+
+veracity”); Harris v. State, 304 Ga. 652, 657 (2) (c) (821 SE2d 346)
+
+                                 11
+ (2018) (holding that a detective’s testimony that shooting victims
+
+“tell you the whole story about what happened” and “that is basically
+
+the pattern that [I] saw here” was not a direct comment on the victim
+
+witness’s credibility). 6
+
+      Here, we consider the “disputed testimony in context.” Brown,
+
+302 Ga. at 461 (2) (b). Considering the other questions asked of
+
+Detective Moss, it appears her testimony only explained how Young
+
+and Johnson said what they said, which is not necessarily a direct
+
+comment on their credibility. Indeed, the next question from the
+
+prosecutor was whether Young and Johnson had “trouble figuring
+
+out or telling you what the truth was,” which the prosecutor
+
+rephrased to, “What I mean is, did they seem to have any trouble
+
+telling you what they were recounting?” Depending on context, a
+
+mere reference to “the truth” does not necessarily indicate direct
+
+
+
+      6 We note that this   Court has often used the words “credibility” and
+“veracity” interchangeably in analyzing OCGA § 24-6-620. See, e.g., Harris,
+304 Ga. at 657 (2) (c) (“Viewed in context, Detective Puhala’s testimony was
+not a direct comment on Ellison’s veracity. When a witness’s statement does
+not directly address the credibility of another witness, there is no improper
+bolstering.” (citation and punctuation omitted)). In so doing, we have not
+ascribed different meanings to those words, and we likewise ascribe none here.
+                                     12
+ testimony on whether one is telling the truth. See Bedford v. State,
+
+311 Ga. 329, 335-336 (4) (857 SE2d 708) (2021) (holding that, in
+
+context, a witness’s testimony that “the truth stays very similar”
+
+was not improper bolstering because it only addressed whether
+
+another witness’s statements were consistent with other evidence),
+
+disapproved of on other grounds in Clark v. State, 315 Ga. 423, 436
+
+(3) (b) n.16 (883 SE2d 317) (2023). In context here, Detective Moss’s
+
+use of the phrase “searching for what the truth was” did not directly
+
+address the credibility of Young and Johnson but instead focused on
+
+their demeanors. See Ivey, 305 Ga. at 162 (2) (c). Accordingly, we
+
+hold that Detective Moss’s testimony was not a clear and obvious
+
+case of improper bolstering, so Richardson has failed to establish
+
+plain error from the admission of this testimony. See Jones v. State,
+
+299 Ga. 40, 44 (3) (785 SE2d 886) (2016).
+
+     (b) To show ineffective assistance of counsel for his trial
+
+counsel’s failure to object to Detective Moss’s testimony, Richardson
+
+“must prove both that his trial counsel’s performance was deficient
+
+and that there is a reasonable probability that the trial result would
+
+                                 13
+ have been different if not for the deficient performance.” Harris, 304
+
+Ga. at 654 (2) (citing Strickland v. Washington, 466 U.S. 668 (104
+
+SCt 2052, 80 LE2d 674) (1984)). As with plain error, if Richardson
+
+fails to meet the requirements of one element of the Strickland test,
+
+we need not analyze the other. Harris, 304 Ga. at 654 (2).
+
+      We hold that Richardson has failed to show that his trial
+
+counsel’s performance was deficient. “To satisfy the deficiency
+
+prong, [Richardson] must demonstrate that his attorney performed
+
+at trial in an objectively unreasonable way considering all the
+
+circumstances and in the light of prevailing professional norms.”
+
+Harris v. State, 310 Ga. 372, 384 (4) (850 SE2d 77) (2020) (citation
+
+and punctuation omitted). We have already held that this testimony
+
+was not a clear case of improper bolstering. Accordingly, we cannot
+
+say that no reasonable lawyer would have failed to object to such
+
+testimony on the grounds of improper bolstering.7 See Ivey, 305 Ga.
+
+
+      7 That Richardson’s trial counsel testified at the motion-for-new-trial
+hearing that she now understood the statement to be bolstering and had no
+strategy behind failing to object does not change our analysis. Our standard is
+objective reasonableness and we are not constrained to “the subjective reasons
+
+                                      14
+ at 162 (2) (c) (“Because [the detective’s] testimony was not a direct
+
+comment on Ivey’s veracity . . . Ivey has not shown that no
+
+reasonable lawyer would have failed to object to [the detective’s]
+
+testimony.”)     (citation   and     punctuation      omitted).    Therefore,
+
+Richardson’s claims fail.
+
+      Judgment affirmed. All the Justices concur.
+
+
+
+
+offered by trial counsel for [her] conduct.” Lane v. State, 312 Ga. 619, 623 (2)
+(a) (864 SE2d 34) (2021); Jones, 292 Ga. at 600 (6) (d) & n.7 (explaining that
+“hindsight has no place in an assessment of the performance of trial counsel”
+when rejecting trial counsel’s subjective belief whether testimony was
+improper bolstering).
+                                      15
+ 

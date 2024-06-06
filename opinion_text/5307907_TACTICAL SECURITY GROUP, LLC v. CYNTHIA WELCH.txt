@@ -1,0 +1,854 @@
+                                FIRST DIVISION
+                                 BARNES, P. J.,
+                             GOBEIL and MARKLE, JJ.
+
+                     NOTICE: Motions for reconsideration must be
+                     physically received in our clerk’s office within ten
+                     days of the date of decision to be deemed timely filed.
+                                https://www.gaappeals.us/rules
+
+                     DEADLINES ARE NO LONGER TOLLED IN THIS
+                     COURT. ALL FILINGS MUST BE SUBMITTED WITHIN
+                     THE TIMES SET BY OUR COURT RULES.
+
+
+                                                                   December 14, 2021
+
+
+
+In the Court of Appeals of Georgia
+ A21A1341. PAPPAS RESTAURANT, INC. v. WELCH et al.
+ A21A1342. TACTICAL SECURITY GROUP, LLC v. WELCH et
+     al.
+
+      MARKLE, Judge.
+
+      After Cynthia Welch was injured and her husband Anthony was killed in a
+
+shooting in the parking lot of Pappadeaux Restaurant, she sued Pappas Restaurant
+
+Group, which owned the property, and Tactical Security Group, LLC, which provided
+
+the on-site security guards.1 The trial court denied Pappas’s and Tactical’s motions
+
+for summary judgment, and certified its order for immediate review. We granted the
+
+interlocutory applications, and these appeals followed. After a thorough review of the
+
+record, and with the benefit of oral argument, we reverse.
+
+
+
+      1
+          Welch filed suit individually and as administratrix of her husband’s estate.
+       To prevail at summary judgment under OCGA § 9-11-56, the moving
+      party must demonstrate that there is no genuine issue of material fact
+      and that the undisputed facts, viewed in the light most favorable to the
+      nonmoving party, warrant judgment as a matter of law. On appeal from
+      the grant of summary judgment this Court conducts a de novo review of
+      the evidence to determine whether there is a genuine issue of material
+      fact and whether the undisputed facts, viewed in the light most favorable
+      to the nonmoving party, warrant judgment as a matter of law.
+
+
+(Citation omitted.) Little-Thomas v. Select Specialty Hosp.-Augusta, 
+333 Ga. App.
+
+362
+, 363 (773 SE2d 480) (2015).
+
+      So viewed, the record shows that Pappas owns Pappadeaux and another
+
+restaurant on the same property on Windy Hill Road, with parking lots for each and
+
+a lower lot for overflow parking. The parking lots are well-lit, and there are
+
+surveillance cameras throughout the area. To patrol the grounds, Pappas hired
+
+Tactical to provide unarmed, uniformed security guards to deter crime such as
+
+automobile break-ins and loitering, and to assist with traffic issues. On Friday nights,
+
+two guards were assigned to patrol the lots, and a third guard was stationed in the fire
+
+lane in front of Pappadeaux to monitor traffic. The guards patrolled the lots on foot
+
+or in marked security cars with flashing lights.
+
+
+
+
+                                           2
+       On Friday, October 7, 2016, Welch and her husband went to dinner at
+
+Pappadeaux and parked in the lower lot. Because the restaurants were extremely
+
+crowded that night, with customers waiting over an hour to be seated, there were
+
+many people in the parking lot area. Although there were three guards on site most
+
+of that evening, one guard left at 10 p.m. After that, one of Tactical’s guards patrolled
+
+the parking lot while the second guard remained stationed in the fire lane. Shortly
+
+after 10 p.m., as the Welches walked through the parking lot back to their car, a man
+
+stepped in front of them, demanded their belongings, and then shot both of them.
+
+Anthony was killed. The shooter and his accomplices were later captured and
+
+convicted of murder.
+
+      Security footage from the surveillance cameras showed the assailants driving
+
+into the lot shortly after 10 p.m. and lingering around their car before the attack. The
+
+footage also confirms that, 60 seconds before the shooting, a guard in a marked
+
+security vehicle with the lights flashing patrolled the area where the assailants were
+
+lingering and where the attack would occur moments later.
+
+
+
+
+                                           3
+       Cynthia Welch sued Pappas and Tactical for premises liability, negligence, and
+
+wrongful death.2 Pappas and Tactical moved for summary judgment, which the trial
+
+court denied. We granted the applications for interlocutory review, and these appeals
+
+followed.
+
+                                  Case No. A21A1341
+
+      1. In this appeal, Pappas contends that the trial court erred in denying its
+
+summary judgment motion because Welch failed to show that there were substantially
+
+similar crimes that made the instant attack foreseeable. It further asserts that the trial
+
+court erred in relying on expert testimony because the expert stated outright that he
+
+had no opinion on foreseeability. We agree that Pappas was entitled to summary
+
+judgment.
+
+      Under Georgia law, to state a claim for negligence,
+
+      the following elements are essential: (1) A legal duty to conform to a
+      standard of conduct raised by the law for the protection of others against
+      unreasonable risk of harm; (2) a breach of this standard; (3) a legally
+      attributable causal connection between the conduct and the resulting
+
+
+
+
+      2
+        Welch’s claims of ordinary negligence are subsumed by her premises liability
+claim. See Tomsic v. Marriott Intl., 
+321 Ga. App. 374
+, 385 (4) (739 SE2d 521)
+(2013).
+
+                                            4
+       injury; and, (4) some loss or damage flowing to the plaintiff’s legally
+      protected interest as a result of the alleged breach of the legal duty.
+
+
+(Citation omitted.) Brown v. All-Tech Investment Group, 
+265 Ga. App. 889
+, 893 (1)
+
+(595 SE2d 517) (2003). In Georgia, it is well settled that a proprietor owes its invitees
+
+a duty “to exercise ordinary care in keeping the premises and approaches safe.”3
+
+OCGA § 51-3-1. But, “the landowner is not an insurer of an invitee’s safety. An
+
+intervening criminal act by a third party generally insulates a landowner from liability
+
+unless such criminal act was reasonably foreseeable.” (Citation omitted.) Rautenberg
+
+v. Pope, 
+351 Ga. App. 503
+, 505 (1) (831 SE2d 209) (2019).
+
+      Our case law has set forth the way in which a plaintiff can show that the
+
+criminal activity was foreseeable. First, a plaintiff may point to previous crimes that
+
+are substantially similar to the one at issue. As our Supreme Court explained,
+
+      if the proprietor has reason to anticipate a criminal act, he or she then
+      has a duty to exercise ordinary care to guard against injury from
+      dangerous characters. Accordingly, the incident causing the injury must
+      be substantially similar in type to the previous criminal activities
+
+
+      3
+         Because the duty to keep the premises safe is non-delegable, Pappas would
+be vicariously liable for Tactical’s alleged negligent acts if the criminal activity was
+foreseeable. See Camelot Club Condo. Assn. v. Afari-Opoku, 
+340 Ga. App. 618
+, 627
+(2) (b) (798 SE2d 241) (2017); see also OCGA § 51-2-5.
+
+                                           5
+       occurring on or near the premises so that a reasonable person would take
+      ordinary precautions to protect his or her customers . . . against the risk
+      posed by that type of activity.
+
+
+(Citations and punctuation omitted.) Sturbridge Partners v. Walker, 
+267 Ga. 785
+, 786
+
+(482 SE2d 339) (1997); see also River Place at Port Royal Condo. Assn. v. Sapp, 
+358
+
+Ga. App. 632
+, 634-635 (856 SE2d 28) (2021); Doe v. Prudential-Bache/A. G. Spanos
+
+Realty Partners, 
+268 Ga. 604
+, 605 (492 SE2d 865) (1997); Rautenberg, 351 Ga. App.
+
+at 505 (1).
+
+      In the absence of a substantially similar prior crime, a plaintiff can show
+
+foreseeability and avoid summary judgment by proffering other evidence that the
+
+proprietor knew of the danger. See Med. Center Hosp. Auth. v. Cavender, 
+331 Ga.
+
+App. 469
+, 480 (6), n. 13 (771 SE2d 153) (2015); see also Piggly Wiggly Southern v.
+
+Snowden, 
+219 Ga. App. 148
+, 149 (1) (b) (464 SE2d 220) (1995) (crime foreseeable
+
+where property owner knew of danger); Matt v. Days Inns of America, 
+212 Ga. App.
+
+792
+, 795 (443 SE2d 290) (1994) (numerous crimes in hotel parking lot, as well as in
+
+surrounding areas, many of which were violent crimes, raised question for jury on
+
+issue of foreseeability). The touchstone of the inquiry is whether the defendant had
+
+knowledge of the risk of criminal activity. Piggly Wiggly Southern, 219 Ga. App. at
+
+
+                                          6
+ 149 (1) (b). Nevertheless, there remains no “duty to anticipate unlikely, remote, or
+
+slightly possible events.” (Citation omitted.) Traicoff v. Withers, 
+247 Ga. App. 428
+,
+
+430 (544 SE2d 177) (2000).
+
+      Here, the trial court focused on evidence of the frequency of prior property
+
+crimes, and it relied on e-mails from Pappas’s employees and expert testimony
+
+proffered by Welch. We consider whether this evidence creates a factual question
+
+under these methods of establishing foreseeability, concluding that it does not.
+
+      (a) Substantially similar crimes.
+
+      In determining whether previous criminal acts are substantially similar
+      to the occurrence causing harm, thereby establishing the foreseeability
+      of risk, the court must inquire into the location, nature and extent of the
+      prior criminal activities and their likeness, proximity or other
+      relationship to the crime in question. While the prior criminal activity
+      must be substantially similar to the particular crime in question, that
+      does not mean identical. What is required is that the prior incident be
+      sufficient to attract the [proprietor’s] attention to the dangerous
+      condition which resulted in the litigated incident. Further, the question
+      of reasonable foreseeability of a criminal attack is generally for a jury’s
+      determination rather than summary adjudication by the courts.
+
+
+(Citations and punctuation omitted.) Sturbridge Partners, 
+267 Ga. at 786
+; see also
+
+Rautenberg, 351 Ga. App. at 505 (1); Cavender, 331 Ga. App. at 475 (1) (a)
+
+
+                                          7
+ (“Foreseeable consequences are those which, because they happen so frequently, may
+
+be expected to happen again.”) (citation and punctuation omitted; emphasis in
+
+original).
+
+      To establish foreseeability based on similar crimes, Welch submitted police
+
+reports, testimony of Pappas’s and Tactical’s representatives, and the opinion of a
+
+security expert. However, none of this evidence is sufficient to create a factual
+
+question on foreseeability.
+
+      First, Welch submitted evidence of police reports detailing automobile break-
+
+ins and thefts on the property from 2011 through 2016, and e-mails between Pappas
+
+and Tactical about crime in the general area. It is undisputed that Pappas knew that
+
+there were a large number of break-ins in its lot prior to the shooting. It is also
+
+undisputed that the police gave Pappas’s representative a copy of the 2014 crime
+
+reports when they met with Pappas that year to discuss the property crime in their lot.
+
+However, there is no evidence in the record to show that Pappas was aware of the
+
+police reports from 2015 and 2016 that Welch submitted to establish foreseeability.4
+
+Nor was there evidence that Pappas was aware of any crimes occurring on their lot
+
+      4
+        “There is no authority in this State imposing a duty upon a property owner to
+investigate police files to determine whether criminal activities have occurred on its
+premises.” Sun Trust Banks v. Killebrew, 
+266 Ga. 109
+ (464 SE2d 207) (1995).
+
+                                          8
+ in 2015 and 2016, other than the break-ins of unattended vehicles. Bolton v. Golden
+
+Business, 
+348 Ga. App. 761
+, 762 (1) (823 SE2d 371) (2019) (plaintiff must show that
+
+owner was aware of similar crimes); Cavender, 331 Ga. App. at 474 (1) (plaintiff has
+
+burden to show owner’s knowledge).
+
+      Moreover, pretermitting whether the police reports would be admissible, these
+
+records show that some of the incidents were not similar in nature, likeness, or even
+
+location to the instant attack. Sturbridge Partners, 
+267 Ga. at 786
+. There were crimes
+
+that occurred inside the restaurant, rather than the parking lot, or were between
+
+employees. Id.; see also Vega v. La Movida, 
+294 Ga. App. 311
+, 314 (1) (a) (670 SE2d
+
+116) (2008) (in general, crimes that occur in different locations are not substantially
+
+similar, and incidents occurring in a parking lot cannot show there is a risk of danger
+
+inside the restaurant).
+
+      Next, Welch submitted depositions from Pappas and Tactical employees.
+
+Pappas’s security head, Scott Heenan, testified that the guards were there to provide
+
+a visible deterrent to crime by patrolling, which they had done a minute before the
+
+attack. Heenan’s testimony confirmed that Pappas was aware of, and took action to
+
+stop, property crimes such as break-ins of unattended cars, and that they had been
+
+successful in deterring property crimes in the parking lot. None of Heenan’s
+
+                                          9
+ testimony shows any knowledge of similar crimes in the lot or that an attack such as
+
+this one was possible. Bolton, 348 Ga. App. at 762 (1); Vega, 294 Ga. App. at 314 (1)
+
+(a).
+
+       Joann Altman, one of Pappas’s security managers, acknowledged that Pappas
+
+had a responsibility to oversee the security company and guards used at the property.
+
+Her comments confirmed that guards were sometimes on site at the restaurants to
+
+escort employees who had parked in remote lots to protect them from crime; however,
+
+her comments about the risks of any such criminal activity were not specific to the
+
+Windy Hill location of Pappas’s restaurants where the Welches were attacked. Thus,
+
+these comments cannot establish Pappas’s knowledge that such an attack was
+
+foreseeable at this location. See Raines v. Maughan, 
+312 Ga. App. 303
+, 305-306 (2)
+
+(a) (718 SE2d 135) (2011) (evidence of carjacking in a location of unknown
+
+proximity did not make murder foreseeable); see also Sturbridge Partners, 
+267 Ga.
+
+at 786
+ (noting that the court must consider the proximity of the prior crimes in
+
+evaluating whether they are similar).
+
+       Nor does the testimony from Tactical’s owners create a factual question on the
+
+foreseeability of the attack. In e-mails about a year before the shooting, one of
+
+Tactical’s owners informed Altman its guards and patrols had been a “great deterrent”
+
+                                         10
+ and that there had “not been a single break in at the Windy Hill location” despite
+
+news reports of break-ins with armed suspects in surrounding complexes. Altman
+
+responded that they should continue having a second guard on site, and added,
+
+“[l]ooks like things are really scary over there.” The week before the shooting
+
+occurred, Tactical advised Pappas of an increase in crime in the “area.” And, a few
+
+days before the incident, Tactical notified Altman that there had been 69 car break-ins
+
+in “the Atlanta area” in the past week, and that it was “a professional crew that [had]
+
+the police baffled.” Tactical’s owners suggested adding additional guards Monday
+
+through Thursday nights. Altman responded, “I know it can get crazy out there, but
+
+we have to balance this with our budget[.]”
+
+      Nothing about these comments alters the nature of the prior crimes or makes
+
+the shooting foreseeable. Although Altman wrote that the situation was “scary” and
+
+“crazy,” such comments do not turn property crimes into a precursor for a bold
+
+shooting to occur in the lot during a busy weekend evening. See St. Jude’s Recovery
+
+Center v. Vaughn, 
+354 Ga. App. 593
+, 596 (2) (841 SE2d 108) (2020). Additionally,
+
+information that other crimes occurred in the “area” or the “Atlanta area” as opposed
+
+to Pappas’s parking lot, or even the street Pappas’s restaurant is on, does not meet the
+
+location or proximity requirement. See Sturbridge Partners, 
+267 Ga. at 786
+; Raines,
+
+                                          11
+ 312 Ga. App. at 305-306 (2) (a); compare Woodall v. Rivermont Apartments Ltd.
+
+Partnership, 
+239 Ga. App. 36
+, 40-41 (1) (520 SE2d 741) (1999) (physical precedent
+
+only) (extent of the prior crimes, owner’s concern over crimes, and location of
+
+property in high crime area raised jury question on foreseeability).
+
+      Finally, Welch submitted testimony from security expert John Villines to create
+
+a link between the property crimes and the tragic shooting. Villines identified other
+
+altercations on the property that evolved into physical confrontations, and he opined
+
+that the security was deficient in numerous ways. With regard to the similarity of the
+
+prior crimes, Villines explained that he focused on the similarity of the opportunities
+
+for criminal activity and not the similarities in the nature of the crimes or the
+
+outcomes. In other words, Villines stated that the prior car break-ins were similar to
+
+the shooting because, in both cases, he concluded that the lack of sufficient security
+
+measures made it possible for criminals to enter the lot, avoid detection, commit the
+
+crime, and flee. Villines admitted, however, that he was not asked to, and in fact
+
+could not, render an opinion on the foreseeability of the shooting.
+
+      We cannot conclude that Villines’s testimony is sufficient to defeat summary
+
+judgment. In evaluating whether the prior instances are substantially similar, we
+
+consider the nature of the crimes; that is, “we consider the key to sufficient similarity
+
+                                           12
+ to be not in the details of the crime or even in the degree of force used, but rather in
+
+the nature of the offense: was the prior incident also an offense against a person, or
+
+was it an offense against property[.]” (Citation and punctuation omitted; emphasis in
+
+original.) Wade v. Findlay Mgmt., 
+253 Ga. App. 688
+, 690 (560 SE2d 283) (2002).
+
+Villines specifically stated that he was not focusing on the nature of the crimes or on
+
+whether the shooting was foreseeable. As a result, his testimony cannot create a
+
+factual question that would preclude summary judgment.
+
+      In reaching our conclusion here that the evidence in the record is insufficient
+
+to establish that the shooting was foreseeable, the Supreme Court of Georgia’s
+
+reasoning in Doe is instructive. See Doe, 
+268 Ga. at 606
+. In that case, our Supreme
+
+Court explained that prior property crimes that occurred in an apartment building
+
+parking deck did not make a subsequent sexual assault foreseeable because “the ‘very
+
+nature’ of the thefts and acts of vandalism committed in this case do not suggest that
+
+personal injury may occur.” (Emphasis supplied.) Doe, 
+268 Ga. at 606
+.
+
+      In this case, the shooting occurred in a well-lit and busy parking lot. The prior
+
+crimes committed on Pappas’s property, of which it had knowledge, were limited to
+
+vehicle break-ins. The very brazen nature of the shooting — in a busy lot; under a
+
+streetlight; with security patrolling the area — is the complete opposite of the nature
+
+                                          13
+ of the break-in of unattended cars. As such, those prior break-ins of unattended
+
+vehicles could not have put Pappas on notice that a shooting might occur. Doe, 
+268
+
+Ga. at 606
+; see also Agnes Scott College v. Clark, 
+273 Ga. App. 619
+ (616 SE2d 468)
+
+(2005) (break-ins of unoccupied cars without personal contact did not make
+
+subsequent abduction foreseeable); Baker v. Simon Property Group, 
+273 Ga. App.
+
+406
+, 407-408 (1) (614 SE2d 793) (2005) (summary judgment proper where prior
+
+crimes in parking lot, including thefts from unoccupied cars, and stolen vehicles, did
+
+not make carjacking and shooting foreseeable); Ritz Carlton Hotel Co. v. Revel, 
+216
+
+Ga. App. 300
+, 303 (1) (454 SE2d 183) (1995) (rape and robbery of a hotel guest in
+
+her room was not foreseeable where there were only prior incidents of theft and no
+
+violent assaults); compare Wal-Mart Stores v. Lee, 
+290 Ga. App. 541
+, 548 (3) (a) (659
+
+SE2d 905) (2008) (finding instances of robberies and assaults with a weapon, along
+
+with property stolen from cars in the parking lot, made carjacking foreseeable because
+
+it was “reasonable to anticipate that an unauthorized entry into a vehicle might occur
+
+when the driver was nearby and that personal harm to the driver would result.”). In
+
+fact, the only similarity between this crime and the prior activity is that the crimes
+
+occurred in Pappas’s parking lot. But that is not enough to make the shooting
+
+foreseeable. See Retail Property Trust v. McPhaul, 
+359 Ga. App. 345
+, 349 (1) (a)
+
+                                         14
+ (857 SE2d 521, 526 (1) (a)) (2021); Wade, 253 Ga. App. at 689 (explaining the
+
+necessity that the “prior incident be sufficient to attract the landlord’s attention to the
+
+dangerous condition which resulted in the litigated incident.” (citation omitted); see
+
+also St. Jude’s Recovery Center, 354 Ga. App. at 596 (2) (proprietor could not have
+
+foreseen rape of resident even though it was aware that other residents had been
+
+harassed and were vulnerable to attack); Cavender, 331 Ga. App. at 475 (1) (a);
+
+Drayton v. Kroger Co., 
+297 Ga. App. 484
+, 486 (677 SE2d 316) (2009) (evidence of
+
+prior nonviolent property crimes and robbery of store employee were not substantially
+
+similar to robbery and assault of customer to make it reasonably foreseeable).
+
+       Moreover, these prior crimes would not put Pappas on notice of the possibility
+
+of a shooting because that is not the type of injury one would expect to follow from
+
+the break-in of unoccupied cars in a busy, well-lit parking lot. McAfee v. ETS
+
+Payphones, 
+283 Ga. App. 756
+, 759 (642 SE2d 422) (2007) (owner was not liable for
+
+injuries resulting from criminal acts because “the prior criminal acts here do not
+
+suggest that personal injury would occur in the manner that it did in this case.”)
+
+(citation and punctuation omitted); Wojcik v. Windmill Lake Apartments, 
+284 Ga.
+
+App. 766
+, 768-770 (645 SE2d 1) (2007) (physical precedent only) (vehicle break-ins
+
+and other suspicious activity, such as drug activity or prostitution, did not alert
+
+                                            15
+ property owner to foreseeability of a murder); compare Rautenberg, 351 Ga. App. at
+
+506 (prior property crimes in tractor-trailer parking lot made subsequent attack
+
+foreseeable because security company was hired to prevent such crimes and the
+
+plaintiff’s injuries arose from those crimes “as opposed to . . . a sudden intentional
+
+assault performed in an area known for minor theft.”). As a result, when we inquire
+
+into the nature, location, and extent of the prior thefts from unoccupied cars, we
+
+conclude that these crimes are not substantially similar to the shooting such that they
+
+would have alerted Pappas to the risk of the instant attack, and thus they do not
+
+establish that the shooting was foreseeable.
+
+      (b) Alternate means of showing foreseeability.
+
+      Welch also asserted that she could show that the shooting was foreseeable by
+
+pointing to Pappas’s knowledge of the danger or the fact that the extent of the prior
+
+crimes is so great that it would put Pappas on notice.5 See Shoney’s v. Hudson, 
+218
+
+Ga. App. 171
+, 173 (460 SE2d 809) (1995), overruled in part on other grounds by,
+
+
+      5
+         We have described this as two different methods for showing foreseeability
+in the absence of a substantially similar prior crime: (1) “a danger could be so obvious
+that an issue for jury determination could exist regarding notice and/or foreseeability
+despite the absence of a prior similar incident on those premises;” and (2) a
+defendant’s acknowledgment of the danger. (Citation and punctuation omitted.)
+Cavender, 331 Ga. App. at 480 (6) & n. 13.
+
+                                          16
+ Brown v. State, 
+274 Ga. 31
+, 34 (1) (549 SE2d 107) (2001). To establish this
+
+knowledge, Welch points to the e-mails between Pappas and Tactical as well as
+
+Altman’s testimony that Pappas had guards present to protect employees from a
+
+possible robbery as they walked to their cars. But the mere acknowledgment that a
+
+robbery could happen does not make it “probable, according to ordinary and usual
+
+experience.” (Citation and punctuation omitted). Goldstein, Garber & Salama v. J.
+
+B., 
+300 Ga. 840
+, 842 (1) (797 SE2d 87) (2017); see also Traicoff, 247 Ga. App. at 430
+
+(there is no duty “to anticipate unlikely, remote, or slightly possible events.”) (citation
+
+omitted ). The e-mails and testimony do not rise to that level of probability.
+
+       As noted, the e-mails reference incidents in the “area” and not specifically
+
+Pappas’s property. General crime statistics are insufficient to raise a question of fact
+
+on the foreseeability of risk. See Agnes Scott College, 273 Ga. App. at 622-623 (1).
+
+Nor do the references to an undefined “area” establish that Pappas knew the Windy
+
+Hill location was a high crime area.
+
+       Welch contends that the extent of the prior property crimes showed that there
+
+were problems with security, thus making the shooting foreseeable. See Woodall, 239
+
+Ga. App. at 40 (1). But “[o]ne is not bound to anticipate or foresee and provide
+
+against that which is unusual or that which is only remotely and slightly probable.”
+
+                                            17
+ (Citation omitted.) Brown, 265 Ga. App. at 894 (1). Here, there was no evidence of
+
+violence occurring in the parking lot or the use of firearms, only break-ins of
+
+unoccupied cars. This is insufficient to establish Pappas’s knowledge of a risk. See
+
+Boone v. Udoto, 
+323 Ga. App. 482
+, 485-486 (1) (747 SE2d 76) (2013) (victim injured
+
+when struck with gun failed to show conduct was foreseeable where there was no
+
+knowledge of likelihood of crime, no prior incidents involving guns, and no other
+
+altercations involving weapons); see also Johnson v. MARTA, 
+230 Ga. App. 105
+, 106
+
+(1) (495 SE2d 583) (1998) (number of prior crimes, none of which were violent, did
+
+not put MARTA on notice of a violent knife assault). As a result, we must conclude
+
+that the trial court erred in denying Pappas’s motion for summary judgment because
+
+Welch failed to raise a question of fact as to whether the shooting was foreseeable.6
+
+                               Case No. A21A1342.
+
+      2. In its appeal, Tactical argues that it was entitled to summary judgment
+
+because it had no duty towards the Welches as either third-party beneficiaries to its
+
+contract with Pappas, or under Restatement (Second) of Torts § 324A.7 It contends
+
+      6
+        In light of this conclusion, we need not address Pappas’s argument that Welch
+failed to establish causation.
+      7
+          Restatement (Second) of Torts § 324A provides:
+
+
+                                         18
+ there was no evidence to show the crime was foreseeable, and it urges this Court to
+
+engage in a public policy analysis to prevent holding it to a higher standard – that of
+
+preventing all harm. We agree that Tactical was entitled to summary judgment.
+
+      First, Welch was not a third party beneficiary of the security contract. As we
+
+have explained,
+
+      [i]n personal injury cases, an injured party may not recover as a
+      third-party beneficiary for failure to perform a duty imposed by a
+      contract unless it is apparent from the language of the agreement that the
+      contracting parties intended to confer a direct benefit upon the plaintiff
+      to protect him from physical injury. Furthermore, [a]lthough the
+      third-party beneficiary need not be specifically named in the contract,
+
+
+      One who undertakes, gratuitously or for consideration, to render
+      services to another which he should recognize as necessary for the
+      protection of a third person or his things, is subject to liability to the
+      third person for physical harm resulting from his failure to exercise
+      reasonable care to protect his undertaking, if (a) his failure to exercise
+      reasonable care increases the risk of such harm, or (b) he has undertaken
+      to perform a duty owed by the other to the third person, or (c) the harm
+      is suffered because of reliance of the other or the third person upon the
+      undertaking.
+
+
+Georgia adopted the rule regarding liability to third persons for the negligent
+performance of an undertaking under § 324A in Huggins v. Aetna Casualty & Surety
+Co., 
+245 Ga. 248
+, 249 (264 SE2d 191) (1980).
+
+                                          19
+       the contracting parties’ intention to benefit the third party must be
+      shown on the face of the contract. The mere fact that the third party
+      would benefit from performance of the agreement is not alone sufficient.
+      And as we have stated before, we recognize that whenever a premises
+      owner contracts with a private security company the parties may expect
+      the security services provided to benefit invitees who visit the property.
+      As we have held, however, an injured invitee may not recover against
+      the security company for negligent performance if the contract is silent
+      as to the parties’ intent to confer that benefit.
+
+
+(Citations and punctuation omitted.) Cavender, 331 Ga. App. at 478 (4); see also Fair
+
+v. C V Underground, 
+340 Ga. App. 790
+, 794-795 (2) (798 SE2d 358) (2017). Here,
+
+pretermitting whether the unsigned contract was even in effect, nothing in the
+
+language of the contract indicated an intent to confer a benefit to third parties.
+
+      To the extent that Welch argues that the Restatement creates a duty to the
+
+Welches irrespective of the contract or Pappas’s duty, we are not convinced.8 We
+
+have never applied the Restatement in this manner. See Brown, 265 Ga. App. at 898
+
+(2) (a) (ii) (explaining that our courts have applied Restatement § 324A to cases
+
+      8
+        Welch points to the copy of “Pappas Parking lot Guard Expectations,” which
+instructed that guards were to deter criminal activities, look for any suspicious
+activity in the lot, including loitering, and watch to be sure any individuals walking
+alone safely enter their cars. But the parties point to no evidence in the record, and
+we have found none, showing that Pappas ever gave this document to Tactical or any
+of the guards.
+
+                                          20
+ involving an insurer’s performance of an undertaking to inspect or the failure to warn
+
+against workplace hazards, and other states have applied it to the maintenance of
+
+traffic signals). Even if we were to extend the Restatement to these types of premises
+
+liability claims, because the crime was not foreseeable, as discussed in Division 1,
+
+Tactical would be entitled to summary judgment. Wright v. Osmose Wood Preserving,
+
+206 Ga. App. 685
+, 687 (1) (426 SE2d 214) (1992) (physical precedent only) (in a case
+
+involving negligent inspection of a utility pole, noting that the “common element” in
+
+cases applying Restatement (Second) of Torts § 324A is foreseeability).9
+
+      For the foregoing reasons, the trial court erred in denying the motions for
+
+summary judgment. We therefore reverse the trial court’s order.
+
+      Judgments reversed. Barnes, P. J., and Gobeil, J., concur.
+
+
+
+
+      9
+       Having found the issue of foreseeability determinative in this appeal as well,
+we do not reach Tactical’s argument as to causation.
+
+                                         21
+ 

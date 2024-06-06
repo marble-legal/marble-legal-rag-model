@@ -1,0 +1,453 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                   Decided: May 14, 2024
+
+
+                      S24A0382. JACKSON v. THE STATE.
+
+
+       WARREN, Justice.
+
+       Appellant Derylmyaize Jackson was convicted of felony murder
+
+and a firearm offense in connection with the shooting death of
+
+Tazavia Cooper. 1 In his sole claim on appeal, Jackson contends that
+
+his trial counsel provided ineffective assistance by failing to object
+
+to statements that the prosecutor made during her closing
+
+argument. As explained below, we affirm.
+
+
+       1 Cooper was killed on July 5, 2019.   In October 2020, a Thomas County
+grand jury indicted Jackson for felony murder based on aggravated assault,
+aggravated assault, and possession of a firearm during the commission of a
+felony. At a trial from June 28 to 30, 2021, a jury found him guilty of all counts.
+The trial court sentenced Jackson to serve life in prison without the possibility
+of parole for felony murder and five consecutive years for the firearm offense;
+the aggravated-assault count merged for sentencing purposes. Jackson filed a
+timely motion for new trial, which he later amended through new counsel.
+After an evidentiary hearing, the trial court denied the motion in August 2023.
+Jackson then filed a timely notice of appeal, and the case was docketed to the
+term of this Court beginning in December 2023 and submitted for a decision
+on the briefs.
+      1. The evidence presented at Jackson’s trial showed the
+
+following. On July 5, 2019, Jackson and Cooper exchanged text
+
+messages in which Jackson offered to trade his “[G]lock” handgun
+
+for Cooper’s “[K]el [T]ec” gun. Around 1:15 p.m., Cooper arrived on
+
+Feinberg Street in Thomasville, where he and Jackson had arranged
+
+to meet.
+
+     According to Tahrik Anderson, he and Jackson were hanging
+
+out on Feinberg Street when two men, whom Anderson did not know
+
+but whom investigators later identified as David McNair and
+
+Cooper, arrived in a car. Jackson began “acting weird”; he walked
+
+to the driver-side window and discussed “exchang[ing] guns” with
+
+Cooper, who pulled out a Kel-Tec handgun. Jackson pulled out a
+
+black handgun, which Cooper examined. McNair then got out of the
+
+passenger seat, urinated on the ground, got back in the car, and
+
+reached down toward the floorboard. Jackson fired shots toward
+
+Cooper, grabbed the Kel-Tec handgun from Cooper’s lap, and ran
+
+away. Anderson fled with Jackson. Although Anderson testified
+
+that he was “in fear of [his] life” because he thought McNair was
+
+                                2
+ reaching for a gun, Anderson also testified that he did not hear
+
+Cooper or McNair threaten Jackson and he did not see McNair with
+
+a weapon.2
+
+     McNair called 911. Investigators who responded to the scene
+
+found Cooper, who had been shot once on the left side of his head,
+
+slumped over the center console of the car, dead. McNair was sitting
+
+on a nearby curb, crying. Investigators did not find any weapons at
+
+the scene, and they did not see any weapons on McNair.3 A crime
+
+scene investigator found three Luger 9mm shell casings on the
+
+ground near the car, which she testified indicated that one gun was
+
+fired three times. Based on the location of two bullet holes in the
+
+back driver-side window and the position of Cooper’s body on the
+
+center console, the investigator concluded that the first shot was
+
+fired through the open driver-side window, hitting Cooper, who was
+
+likely sitting upright (rather than leaning toward the driver-side
+
+
+     2 On direct examination, Anderson testified that during an interview
+
+with investigators on the day after the shooting, he untruthfully said that
+Jackson shot because McNair “pulled a gun.”
+
+     3 McNair did not testify at trial.
+
+                                          3
+ window), and causing him to slump over the console; the second and
+
+third shots were then fired through the back driver-side window,
+
+indicating that the shooter moved from the driver-side window
+
+toward the back of the car as he shot.
+
+     After the shooting, a friend picked up Jackson and Anderson
+
+and drove them to a nearby apartment complex. A woman who was
+
+at the complex testified that Jackson looked “scared” and said that
+
+he “need[ed] some bleach, [he] just killed someone.” According to
+
+Anderson, someone then drove him and Jackson to a friend’s house.
+
+Jackson had the Kel-Tec handgun there, but Anderson did know
+
+what ultimately happened to that gun or the gun Jackson used to
+
+shoot Cooper. Investigators never recovered the guns. Jackson
+
+turned himself in at a police station later that evening.
+
+     Jackson did not testify at trial. His theory of defense was that
+
+the State could not meet its burden of proving that he did not act in
+
+self-defense.
+
+     2.   Jackson   contends    that   his   trial   counsel   provided
+
+constitutionally ineffective assistance by failing to object during the
+
+                                  4
+ prosecutor’s closing argument. Specifically, Jackson points to the
+
+prosecutor’s following statements to the jury, while discussing the
+
+State’s burden of proof: “[W]hat it all boils down to, is what your
+
+heart and your mind tell you about the evidence. If you find in your
+
+heart and your mind that you believe Derylmyaize Jackson
+
+committed these offenses, then you are authorized to return a
+
+verdict of guilty.” Relying primarily on Debelbot v. State, 308 Ga.
+
+165 (839 SE2d 513) (2020), in which we held that the appellants’
+
+trial counsel provided ineffective assistance by failing to object to the
+
+prosecutor’s “‘egregious misstatement of the law’” “that proof beyond
+
+a reasonable doubt requires something less than proof that leaves a
+
+jury with 51 percent certainty,” Jackson claims that the prosecutor’s
+
+statements here similarly reduced the State’s burden to prove the
+
+charged crimes beyond a reasonable doubt.          Id. at 167 (citation
+
+omitted).
+
+     To prevail on his claim of ineffective assistance, Jackson must
+
+establish that his counsel’s performance was constitutionally
+
+deficient and that he suffered prejudice as a result. See Strickland
+
+                                   5
+ v. Washington, 466 U.S. 668, 687 (104 SCt 2052, 80 LE2d 674)
+
+(1984); Scott v. State, 317 Ga. 218, 221 (892 SE2d 744) (2023). To
+
+prove deficient performance, Jackson must show that his lawyer
+
+“‘performed his duties in an objectively unreasonable way,
+
+considering all the circumstances and in the light of prevailing
+
+professional norms.’” Id. (citation omitted). To prove prejudice,
+
+Jackson must demonstrate “‘that there is a reasonable probability
+
+that, but for counsel’s deficiency, the result of the trial would have
+
+been different.’” Id. at 221-222 (citation omitted). “A reasonable
+
+probability is a probability sufficient to undermine confidence in the
+
+outcome.” Strickland, 466 U.S. at 694.
+
+     Assuming (without deciding) that Jackson’s trial counsel
+
+performed deficiently by failing to object to the prosecutor’s
+
+statements about reasonable doubt, Jackson has not established a
+
+reasonable probability that the outcome of his trial would have been
+
+different if counsel had objected, so he has not shown prejudice. See
+
+Scott, 317 Ga. at 222 (explaining that if a defendant fails to make a
+
+sufficient showing on one part of the Strickland test, we need not
+
+                                  6
+ address the other part).
+
+           As we have explained in decisions after Debelbot,
+     that case involved a specific set of circumstances that
+     made the prosecutor’s comments about reasonable doubt
+     uniquely prejudicial. It was already a close question
+     whether the underwhelming and almost entirely
+     circumstantial evidence was legally sufficient. That
+     evidence was unusual in that it showed that the two
+     defendants had essentially equal opportunities—and no
+     one else had any opportunity at all—to inflict the fatal
+     injuries, so the logical probability that either [defendant]
+     inflicted the fatal trauma would be 50 percent. And, given
+     that peculiarity, the prosecutor’s suggestion that the jury
+     could convict a defendant even if it was less than 51
+     percent sure about the defendants’ guilt was uniquely
+     harmful. Finally, the trial court’s instruction in Debelbot
+     that the State is not required to prove its case to “a
+     mathematical certainty,” a phrase which the State
+     repeated twice, may well have been understood by the
+     jury not as correcting the State’s error, but as reinforcing
+     it.   Absent those unique circumstances, defendants
+     seeking to establish prejudice from a prosecutor’s
+     comments that do not accurately characterize reasonable
+     doubt cannot simply rest on Debelbot.             Instead, a
+     defendant asserting an ineffective-assistance claim like
+     the one here must show how a prosecutor’s particular
+     mischaracterization of reasonable doubt likely affected
+     how a jury weighed the evidence of his guilt under the
+     circumstances of his case (and in doing so, show how
+     objecting to the comments would have created a
+     reasonable probability of a different outcome).
+
+Scott, 317 Ga. 225-226 (cleaned up).
+
+
+                                  7
+      Here, although the statements that Jackson points to, if viewed
+
+in isolation, may have misinformed the jurors that they would be
+
+authorized to find Jackson guilty if they believed in their “heart[s]”
+
+and their “mind[s]” that he was guilty—rather than if the State
+
+proved beyond a reasonable doubt each essential element of the
+
+charged crimes—Jackson makes no specific argument as to how
+
+these statements affected the outcome of his trial, in light of the
+
+evidence of his guilt, other statements that the prosecutor made
+
+during closing, and the trial court’s instructions to the jury. Given
+
+the facts of his case, however, we have no difficulty concluding that
+
+this case is distinguishable from Debelbot. To begin, unlike the
+
+evidence in Debelbot, the evidence of Jackson’s guilt was not
+
+“underwhelming,” because the State presented significant proof to
+
+rebut his claim of self-defense. In this respect, Anderson testified
+
+that Jackson shot Cooper and then stole his gun, Anderson did not
+
+hear Cooper or McNair threaten Jackson, and McNair did not have
+
+a gun. Investigators did not find any weapons at the scene or see
+
+any weapons on McNair, and the ballistics evidence suggested that
+
+                                  8
+ only one gun was fired at the time of the shooting, indicating that
+
+neither Cooper nor McNair shot toward Jackson. And although
+
+Jackson eventually turned himself in to law enforcement officials,
+
+he fled the crime scene just after the shooting and told a witness
+
+that he needed “bleach” because he had “just killed someone.” See,
+
+e.g., Scoggins v. State, 317 Ga. 832, 838 (896 SE2d 476) (2023)
+
+(noting that flight from the scene of a crime generally can be viewed
+
+as circumstantial evidence of guilt).
+
+     Moreover, before the prosecutor made the statements at issue
+
+here, she accurately explained that “[t]he burden of proof is always
+
+on the State to prove each element beyond a reasonable doubt.” She
+
+also correctly characterized reasonable doubt as “not arbitrary or
+
+capricious doubt. It’s not a far[-]flung doubt. It’s not a doubt for
+
+which you can give a mathematical certainty, but it is a doubt of a
+
+fair and impartial minded juror honestly seeking the truth. It is a
+
+doubt for which you can give a reason.” In addition, she told the
+
+jurors that the trial court would instruct them on the law that
+
+applied to the case, and the trial court did so. To that end, during
+
+                                  9
+ the final jury charge, the trial court thoroughly and properly
+
+instructed the jury on the presumption of innocence, the State’s
+
+burden to prove beyond a reasonable doubt every essential element
+
+of the crimes charged, and the definition of reasonable doubt.4 The
+
+court then stated, among other things, that it was the court’s duty
+
+to instruct the jury on the law, that the jury was bound by such
+
+instructions, that the jury had the responsibility to determine the
+
+facts from the evidence presented and to apply the law to the facts,
+
+and that the lawyers’ closing arguments were not evidence.
+
+     Thus, to the extent that the prosecutor mischaracterized the
+
+
+
+
+     4 As to the definition of reasonable doubt, the court said:
+
+            A reasonable doubt means just what it says. A reasonable
+     doubt is a doubt of a fair-minded, impartial juror honestly seeking
+     the truth. A reasonable doubt is a doubt based upon common sense
+     and reason. It does not mean a vague or arbitrary doubt but is a
+     doubt for which a reason can be given, arising from a consideration
+     of evidence, a lack of evidence, or a conflict in the evidence.
+            Now, after giving consideration to all of the facts and
+     circumstances of this case, if your minds are wavering, unsettled,
+     or unsatisfied, then that is a doubt of the law, and you must acquit
+     the defendant. But, if that doubt does not exist in your minds as
+     to the guilt of the accused, then you would be authorized to convict
+     the defendant. If the State fails to prove the defendant’s guilt
+     beyond a reasonable doubt, it would be your duty to acquit the
+     defendant.
+                                      10
+ reasonable doubt standard, we cannot say that it was as egregious
+
+as the characterization in Debelbot and, unlike in that case, the
+
+statements here were corrected by the trial court’s jury instructions.
+
+Especially given that the evidence of guilt was stronger in this case
+
+than in Debelbot, Jackson has not shown a reasonable probability
+
+that his lawyer’s failure to object to the prosecutor’s statements
+
+affected the outcome of his trial, and this claim fails. See, e.g., Scott,
+
+317 Ga. 225-226 (assuming that the appellant’s trial counsel
+
+performed deficiently by failing to object to the prosecutor’s
+
+statement during closing argument that “[o]nce you believe that the
+
+defendant is guilty, that is guilt beyond a reasonable doubt,” among
+
+other things, and holding that the appellant failed to show prejudice
+
+because the evidence of his guilt was strong, the prosecutor told the
+
+jury that the trial court would instruct on the law, and the court
+
+thoroughly instructed the jury on the burden of proof, the
+
+presumption of innocence, and reasonable doubt); Warren v. State,
+
+314 Ga. 598, 602-603 (878 SE2d 438) (2022) (assuming that the
+
+appellant’s trial counsel performed deficiently by failing to object to
+
+                                   11
+ the prosecutor’s comment that proof beyond a reasonable doubt was
+
+not “‘95 percent, 85 percent’” and holding that the appellant had not
+
+proved prejudice because he had “not pointed to anything in this
+
+case like the circumstances in Debelbot that made the prosecutor’s
+
+more egregious remark ‘uniquely harmful’ there, and the trial court
+
+. . . ‘explained presumption of innocence, burden of proof, and
+
+reasonable doubt accurately and at length’”) (citation omitted);
+
+Draughn v. State, 311 Ga. 378, 382-384 & n.5 (858 SE2d 8) (2021)
+
+(assuming that the appellant’s trial counsel performed deficiently by
+
+failing to object to the prosecutor’s “inadvisable” statements about
+
+reasonable doubt, and holding that the appellant failed to show
+
+prejudice because the evidence of his guilt was “plainly sufficient”
+
+and the trial court accurately instructed on the presumption of
+
+innocence, the State’s burden of proof, and reasonable doubt).
+
+     Judgment affirmed. All the Justices concur.
+
+
+
+
+                                 12
+ 

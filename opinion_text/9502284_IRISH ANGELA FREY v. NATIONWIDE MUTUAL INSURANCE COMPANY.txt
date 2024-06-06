@@ -1,0 +1,653 @@
+                                  FIRST DIVISION
+                                  BARNES, P. J.,
+                               GOBEIL and PIPKIN, JJ.
+
+                      NOTICE: Motions for reconsideration must be
+                      physically received in our clerk’s office within ten
+                      days of the date of decision to be deemed timely filed.
+                                 https://www.gaappeals.us/rules
+
+
+
+                                                                         May 15, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0284. FREY et al. v. NATIONWIDE MUTUAL
+     INSURANCE COMPANY.
+
+      BARNES, Presiding Judge.
+
+      William Michael Frey was fatally injured in an automobile accident when his
+
+motorcycle was struck by another vehicle. His widow, Irish Angela Frey, individually
+
+and as executrix of his estate, sued Nationwide Mutual Insurance Company,
+
+contending that a commercial general liability insurance policy that Nationwide issued
+
+to the other driver provided coverage for the accident.1 Nationwide moved for
+
+judgment on the pleadings, contending that the insurance policy clearly and
+
+unambiguously excluded coverage for the automobile accident. The trial court agreed
+
+with Nationwide and entered a final order granting the motion. Irish now appeals,
+
+
+      1
+          For clarity, we will refer to the Freys by their first names.
+ asserting that the trial court misconstrued the insurance policy’s automobile
+
+exclusion. For the reasons discussed below, we affirm.
+
+             On appeal from a grant of judgment on the pleadings, we conduct
+      a de novo review of the trial court’s order to determine whether the
+      undisputed facts appearing from the pleadings entitle the movant to
+      judgment as a matter of law. The grant of a motion for judgment on the
+      pleadings under OCGA § 9-11-12 (c) is proper only where there is a
+      complete failure to state a cause of action or defense. For purposes of the
+      motion, all well-pleaded material allegations by the nonmovant are taken
+      as true, and all denials by the movant are taken as false. But the trial
+      court need not adopt a party’s legal conclusions based on these facts.
+      Moreover, in considering a motion for judgment on the pleadings, a trial
+      court may consider exhibits attached to and incorporated into the
+      pleadings, including exhibits attached to the complaint or the answer.
+
+
+(Citation and punctuation omitted.) Schumacher v. City of Roswell, 
+344 Ga. App. 135
+,
+
+138 (
+809 SE2d 262
+) (2017).
+
+      Guided by the aforementioned principles, we turn to the facts alleged in Irish’s
+
+complaint as amended and in the exhibits attached thereto and to the answer. On the
+
+evening of June 4, 2017, Michael C. Jesperson, who allegedly had been drinking, was
+
+driving his pickup truck down a state highway when he attempted to make a left turn
+
+into the path of a funeral procession. While attempting the left turn, Jesperson struck
+
+                                          2
+ a motorcycle driven by William, who died as a result of the injuries he sustained.
+
+Following the accident, Irish, individually and as executrix of William’s estate,
+
+brought a personal injury and wrongful death action against Jesperson. After a trial,
+
+the jury returned a verdict finding Jesperson liable for the accident and awarding
+
+$1,655,647 in damages to Irish. Based on a limited liability release agreement, the
+
+judgment entered on the verdict specified that it was “only enforceable against any
+
+remaining liability insurance and/or underinsured motorist insurance coverage which
+
+provide[d] coverage for the claims contained within [the] case.”
+
+      At the time of the accident, Jesperson had an automobile insurance policy with
+
+State Farm Mutual Automobile Insurance, and he had a commercial general liability
+
+insurance policy with Nationwide (the “CGL Policy”). William had insurance
+
+policies with Liberty Mutual Fire Insurance Company and Progressive Insurance
+
+Company that provided uninsured motorist (“UM”) coverage. Irish received
+
+insurance proceeds from William’s two UM carriers2 and from Jesperson’s
+
+automobile insurance carrier, State Farm. However, Nationwide disputed whether
+
+      2
+        A dispute between Irish and Liberty Mutual over the amount of UM coverage
+was the subject of this Court’s opinion in Frey v. Jesperson, 
+366 Ga. App. 488
+ (
+883
+SE2d 419
+) (2023). The issues addressed in that opinion are not pertinent to this
+appeal.
+                                          3
+ there was coverage for the automobile accident under Jesperson’s CGL Policy and
+
+declined to pay out any insurance proceeds.
+
+      Jesperson assigned any rights he might have under his CGL Policy to Irish.
+
+Based on that assignment, Irish commenced the present suit against Nationwide,
+
+seeking a declaratory judgment that the CGL Policy covered the automobile accident
+
+and that no policy exclusions applied. Irish also sought to recover damages from
+
+Nationwide for the remaining unpaid amount of the judgment entered against
+
+Jesperson in the wrongful death suit, plus interest. Nationwide answered, denying that
+
+there was insurance coverage for the automobile accident, and attached a copy of the
+
+CGL Policy as an exhibit.
+
+      Nationwide subsequently moved for judgment on the pleadings, contending
+
+that the CGL Policy excluded coverage for any bodily injury that arose out of use of
+
+the insured’s (i.e., Jesperson’s) automobile, such that all of Irish’s claims failed as a
+
+matter of law. In response to the motion, Irish argued that the automobile exclusion
+
+reasonably could be construed more narrowly as only applying when the insured’s
+
+automobile was used by or entrusted to a third party, and that any ambiguity in the
+
+contractual language should be construed in her favor. The trial court rejected Irish’s
+
+
+                                           4
+ argument, concluding that the CGL Policy unambiguously excluded coverage under
+
+the facts as alleged in this case. As a result, the trial court granted Nationwide’s
+
+motion for judgment on the pleadings, and this appeal followed in which Irish
+
+contends that the court misconstrued the automobile exclusion.
+
+      “Under Georgia law, insurance companies are generally free to set the terms
+
+of their policies as they see fit so long as they do not violate the law or judicially
+
+cognizable public policy,” and “a carrier may agree to insure against certain risks
+
+while declining to insure against others.” (Citation and punctuation omitted.) H. J.
+
+Russell & Co. v. Landmark American Ins. Co., 
+369 Ga. App. 6
+, 7 (
+891 SE2d 531
+) (2023).
+
+It is well-established that
+
+      insurance is a matter of contract, and the parties to an insurance policy
+      are bound by its plain and unambiguous terms. Thus, when faced with
+      a conflict over coverage, a trial court must first determine, as a matter of
+      law, whether the relevant policy language is ambiguous. As this Court
+      has explained, an ambiguity is duplicity, indistinctness, or an uncertainty
+      of meaning or expression, and a word or phrase is ambiguous when it is
+      of uncertain meaning and may be fairly understood in more ways than
+      one. Where a term of a policy of insurance is susceptible to two or more
+      reasonable constructions, and the resulting ambiguity cannot be resolved,
+      the term will be strictly construed against the insurer as the drafter and
+      in favor of the insured. If a policy exclusion is unambiguous, however, it
+
+                                           5
+       must be given effect even if beneficial to the insurer and detrimental to
+      the insured. We will not strain to extend coverage where none was
+      contracted or intended. Whether ambiguity exists in a contract is a
+      question of law for a trial court.
+
+
+(Citations and punctuation omitted.) Sharma v. City of Alpharetta, 
+361 Ga. App. 692
+,
+
+695 (
+865 SE2d 287
+) (2021). Guided by these principles, we turn to the CGL Policy.
+
+       The CGL Policy attached to Nationwide’s answer identifies the named insured
+
+as Jesperson “dba Mike the Glass Guy,” lists his business as “custom glass work,”
+
+and provides $1,000,000 in insurance coverage per occurrence. The CGL Policy
+
+specifies that Nationwide “will pay those sums that the insured becomes legally
+
+obligated to pay as damages because of ‘bodily injury’ or ‘property damage’ to which
+
+this insurance applies,” but it includes an exclusion for “Aircraft, Auto or
+
+Watercraft” that provides in part:
+
+      This insurance does not apply to: . . . “Bodily injury” or “property
+      damage” arising out of the ownership, maintenance, use or entrustment
+      to others of any aircraft, “auto” or watercraft owned or operated by or
+      rented or loaned to any insured. Use includes operation[.]
+
+
+(the “Automobile Exclusion”). “Auto” is defined in part as “[a] land motor vehicle
+
+. . . designed for travel on public roads.”
+
+                                              6
+        The parties’ interpretive dispute centers on the circumstances under which use
+
+of the insured’s automobile excludes coverage under the CGL Policy. Nationwide
+
+argues that the Automobile Exclusion unambiguously excludes coverage for bodily
+
+injury arising out of the use of the insured’s automobile, irrespective of whether the
+
+automobile is used by the insured or someone else. In contrast, Irish argues that the
+
+Automobile Exclusion is ambiguous and reasonably can be construed in her favor as
+
+excluding coverage only when the insured’s automobile is used by or entrusted to
+
+someone other than the insured.
+
+       We conclude that the Automobile Exclusion is susceptible of only one
+
+reasonable construction, and it is the one advanced by Nationwide. By its plain
+
+language, the Automobile Exclusion excludes coverage under the CGL Policy for
+
+bodily injury “arising out of the . . . use . . . of any . . . auto . . . owned . . . by . . . any
+
+insured.” (Internal punctuation omitted.) And the Automobile Exclusion does not
+
+contain any language limiting or qualifying who must be using the insured’s automobile
+
+when the bodily injury occurs. “Because the words in this contract are plain and
+
+obvious, they must be given their literal meaning and no new terms can be inserted.”
+
+Wilbanks v. Mai, 
+232 Ga. App. 198
+, 199 (
+501 SE2d 513
+) (1998). “Where the
+
+
+                                                7
+ contractual language is explicit and unambiguous, the court’s job is simply to apply
+
+the terms of the contract as written[.]” (Citation and punctuation omitted.) Ga. Farm
+
+Bureau Mut. Ins. Co. v. Smith, 
+298 Ga. 716
+, 719 (
+784 SE2d 422
+) (2016). Accordingly,
+
+based on the unambiguous language of the Automobile Exclusion, the CGL Policy
+
+does not provide coverage where the bodily injury arose out of use of the insured’s
+
+automobile, regardless of whether the automobile was used by the insured or someone
+
+else. See Strickland v. Auto-Owners Ins. Co., 
+273 Ga. App. 662
+, 666 (2) (
+615 SE2d 808
+)
+
+(2005) (concluding, in case involving the identical automobile exclusion, that the
+
+language of the exclusion was “clear” and applied broadly to automobile accidents
+
+involving the insured’s equipment or drivers); Grain Dealers Mut. Ins. Co. v. Pat’s
+
+Rentals, 
+228 Ga. App. 854
+, 855-856 (a) (
+492 SE2d 702
+) (1997) (concluding that the
+
+identical automobile exclusion was “clear and unambiguous” and applied to the
+
+“negligent operation and use of the motor vehicle of the insured by its employee for
+
+general and special damages”), rev’d in part on other grounds by 
+269 Ga. 691
+ (
+505
+
+SE2d 729
+) (1998). See also McKeel v. Auto-Owners Ins. Co., No. CV413-211, 
+2015 U.S.
+
+Dist. LEXIS 36924
+, at *7, 
+2015 WL 1333998
+, at *3 (S.D. Ga. Mar. 24, 2015)
+
+(determining in case involving the identical automobile exclusion that “[b]ased on
+
+
+                                          8
+ [its] clear and unambiguous language, the policy does not provide coverage for any
+
+bodily injury that is based on the use of a vehicle operated by an insured”).3
+
+      Irish, however, argues that the absence of a serial comma4 in the series “the
+
+ownership, maintenance, use or entrustment to others” creates an ambiguity in the
+
+Automobile Exclusion that should be construed in her favor. See Sharma, 361 Ga.
+
+App. at 695 (reciting that when an ambiguity in an insurance contract cannot be
+
+
+      3
+         As reflected in the cases cited above, the language of the Automobile
+Exclusion is not unique to the CGL Policy. According to one pertinent treatise,
+language identical to that found in the Automobile Exclusion is “often included in a
+[commercial general liability] policy to avoid overlapping coverage with an automobile
+insurance policy.” J. Stephen Berry, Georgia Property & Liability Insurance Law §
+5:17 (August 2023 update). See generally 9A Couch on Insurance § 129:32 (November
+2023 update) (noting that “commercial general liability policies typically exclude auto
+coverage”); Crider v. Zurich Ins. Co., 
+222 Ga. App. 177
+, 179 (2) (
+474 SE2d 89
+) (1996)
+(explaining that “[g]eneral liability policies are purchased primarily to provide
+coverage for incidents other than those covered under automobile liability policies”).
+Accord Strickland, 
+273 Ga. App. at 664
+ (1) (noting that under the standard practice
+of the trucking industry, where the insured trucking company purchases separate
+commercial general liability insurance and automobile insurance policies, the general
+expectation of the insured and insureds is “that there would be two policies of
+insurance without overlapping coverage”) (citation and punctuation omitted).
+      4
+         “[T]he serial comma is the comma used before the conjunction joining the
+final term in a series.” (Citation omitted.) Christian v. Christian, 
+300 Ga. 263
+, 265 (2),
+n. 2 (
+794 SE2d 51
+) (2016). See Antonin Scalia & Bryan A. Garner, Reading Law: The
+Interpretation of Legal Texts 165 (2012) (explaining that the “serial comma” is “the
+comma after the penultimate item in a series just before the conjunction (a, b, and
+c)”).
+                                            9
+ resolved, the contract “will be strictly construed against the insurer as the drafter and
+
+in favor of the insured”) (citation and punctuation omitted). Specifically, she asserts
+
+that, without a comma between “use” and “or entrustment,” the Automobile
+
+Exclusion lacks clarity, and one reasonable construction of the Exclusion is that it
+
+excludes coverage only when the insured’s automobile is used by or entrusted to
+
+someone else. Put another way, Irish maintains that in the absence of a comma
+
+between “use” and “or entrustment,” the prepositional phrase “to others” that
+
+follows “entrustment” reasonably can be construed as modifying both “use” and
+
+“entrustment.” Irish therefore asserts that the Automobile Exclusion reasonably can
+
+be interpreted as not applying where the insured’s automobile is used by the insured.
+
+      Irish’s argument is unpersuasive. The absence of a serial comma in a series
+
+carries little weight where, as here, the interpretation that is advanced otherwise
+
+conflicts with well-recognized rules of grammar and with standard English usage. See
+
+Christian v. Christian, 
+300 Ga. 263
+, 265-266 (2) (
+794 SE2d 51
+) (2016) (rejecting
+
+interpretation of contract that emphasized the lack of a serial comma, where the
+
+interpretation otherwise was implausible and not supported by the English language).
+
+See Antonin Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal
+
+
+                                           10
+ Texts 166 (2012) (noting that “although the better practice is to use the serial comma,
+
+courts should not rely much if any on its omission”). As our Supreme Court has
+
+emphasized, “contractual terms are construed according to their usual and common
+
+signification, and in construing contracts, the rules of grammatical construction
+
+usually govern.” (Citations, punctuation, and footnote omitted.) L & B Constr. Co. v.
+
+Ragan Enterprises, 
+267 Ga. 809
+, 813 (
+482 SE2d 279
+) (1997). See OCGA § 13-2-2 (6)
+
+(“The rules of grammatical construction usually govern [in the interpretation of
+
+contracts].”). Under one such rule, the rule of the last antecedent, “[r]eferential and
+
+qualifying words and phrases, where no contrary intention appears, refer solely to the
+
+last antecedent.” Deal v. Coleman, 
+294 Ga. 170
+, 174 (1) (a) (
+751 SE2d 337
+) (2013),
+
+quoting 2A Singer, Statutes and Statutory Construction § 47:33, p. 369 (6th ed. 2000).
+
+In the Automobile Exclusion, the limiting phrase “to others” immediately follows the
+
+word “entrustment,” and under the last antecedent rule, the limiting phrase is
+
+reasonably understood to refer to that word and no others. See id. Irish’s proposed
+
+construction of the Automobile Exclusion, however, ignores the rule of the last
+
+antecedent. See Key v. Ga. Dept. of Administrative Svcs., 
+340 Ga. App. 534
+, 537 (1) (b)
+
+
+
+
+                                          11
+ (
+798 SE2d 37
+) (2017) (rejecting appellant’s construction of contract that ignored the
+
+rule of the last antecedent).
+
+      “[I]t is true that the rule of the last antecedent is not an absolute and can
+
+assuredly be overcome by other indicia of meaning.” (Citation and punctuation
+
+omitted.) OB-GYN Assocs. v. Brown, 
+357 Ga. App. 655
+, 659 (1) (
+849 SE2d 257
+) (2020).
+
+But there is no contrary indicia of meaning in the Automobile Exclusion that suggests
+
+that the limiting phrase “to others” should be construed as also modifying “use.”
+
+Indeed, the phrase “use . . . to others” would be non-idiomatic, and we must avoid
+
+constructions of an insurance contract that are strained and conflict with standard
+
+English usage. See Ga. Farm Bureau Mut. Ins. Co. v. Smith, 
+298 Ga. 716
+, 719, 721 (
+784
+
+SE2d 422
+) (2016) (noting that courts should avoid a “strained construction” of an
+
+insurance policy, that “[w]ords used in [a] policy are given their usual and common
+
+meaning,” and that “the policy should be read as a layman would read it”) (citations
+
+and punctuation omitted); Kushner v. Southern Adventist Health & Hosp. Sys., 
+151 Ga.
+
+App. 425
+, 427 (1) (
+260 SE2d 381
+) (1979) (rejecting construction of contractual
+
+provision that would be “unreasonable and unnatural”). Moreover, given that the
+
+word “to” immediately follows the word “entrustment” in the Automobile
+
+
+                                         12
+ Exclusion, “to” can only be reasonably construed as a “function word . . . to indicate
+
+the receiver of an action or the one for which something is done,”5 and thus its pairing
+
+with the word “use” would be nonsensical in this context. Instead, for Irish’s
+
+proposed construction to make grammatical sense and comport with standard English
+
+usage, the word “by” would need to be inserted after the word “use,” so that the
+
+pertinent phrase would read “arising out of the . . . use by or entrustment to others,”
+
+but that would require us “to rewrite or revise the contract under the guise of
+
+construing it, which, of course, we are not at liberty to do.” (Citation and punctuation
+
+omitted.) Brazeal v. Newpoint Media Group, 
+331 Ga. App. 49
+, 56-57 (
+769 SE2d 763
+)
+
+(2015). See OCGA § 13-2-2 (6) (specifying that “words may be supplied” to a
+
+contract “[i]n extreme cases of ambiguity, where the instrument as it stands is without
+
+meaning”); Carrier Corp. v. Rollins, Inc., 
+316 Ga. App. 630
+, 635 (2) (
+730 SE2d 103
+)
+
+(2012) (“Where a contract’s terms are plain and unambiguous, we are precluded from
+
+inserting new terms or provisions.”). Hence, contrary to Irish’s assertion, the limiting
+
+phrase “to others” can only be reasonably and naturally read as modifying
+
+“entrustment.” Cf. Cajun Contractors v. Peachtree Property Sub, LLC, 
+360 Ga. App.
+
+5
+
+       Merriam-Webster’s Online Dictionary, https://www.merriam-webster.com/
+dictionary/to (website last visited April 18, 2024).
+                                           13
+ 390, 414 (3) (a) (
+861 SE2d 222
+) (2021) (concluding that limiting phrase applied to
+
+both antecedents “based on the separation of the [limiting phrase] from both
+
+antecedents by a comma”).
+
+      Lastly, Irish emphasizes that the CGL Policy contains an excess insurance
+
+provision that states in part:
+
+      This insurance is excess over[ ] . . . [a]ny of the other insurance, whether
+      primary, excess, contingent or on any other basis[ ] . . . [i]f the loss arises
+      out of the maintenance or use of aircraft, “autos” or watercraft to the
+      extent not subject to [the Automobile Exclusion].”
+
+
+(the “Excess Insurance Provision”). Irish asserts that inclusion of the Excess
+
+Insurance Provision in the CGL Policy demonstrates that there must be some
+
+automobile-related claims that are not subject to the Automobile Exclusion and that
+
+are covered by the CGL Policy, and she maintains that the Excess Insurance Provision
+
+therefore supports her narrow construction of the “use” language in the Automobile
+
+Exclusion.
+
+
+
+
+                                            14
+       Irish’s reliance on the Excess Insurance Provision is misplaced. Notably, the
+
+Automobile Exclusion expressly sets out several exceptions to its application,6 and the
+
+Excess Insurance Provision is most reasonably and naturally construed as referring to
+
+those enumerated circumstances. See American Strategic Ins. Corp. v. Helm, 
+327 Ga.
+
+App. 482
+, 487 (
+759 SE2d 563
+) (2014) (noting that under the rules of construction,
+
+“each provision [of an insurance policy] is to be . . . interpreted so as to harmonize
+
+
+      6
+        The Automobile Exclusion provides in relevant part:
+      [The Automobile Exclusion] does not apply to:
+      (1) A watercraft while ashore on premises you own or rent;
+      (2) A watercraft you do not own that is:
+             (a) Less than 26 feet long; and
+             (b) Not being used to carry persons or property for a charge;
+      (3) Parking an “auto” on, or on the ways next to, premises you own or
+      rent, provided the “auto” is not owned by or rented or loaned to you or
+      the insured;
+      (4) Liability assumed under any “insured contract” for the ownership,
+      maintenance or use of aircraft or watercraft; or
+      (5) “Bodily injury” or “property damage” arising out of:
+             (a) The operation of machinery or equipment that is attached to,
+      or part of, a land vehicle that would qualify under the definition of
+      “mobile equipment” if it were not subject to a compulsory or financial
+      responsibility law or other motor vehicle insurance law where it is
+      licensed or principally garaged; or
+             (b) The operation of any of the machinery or equipment listed in
+      Paragraph f.(2) or f.(3) of the definition of “mobile equipment”.
+
+
+
+                                          15
+ with the others”). Thus, the Excess Insurance Provision offers no support for Irish’s
+
+narrow reading of the Automobile Exclusion as applying only when the insured’s
+
+automobile is used by someone else.
+
+      For all of the preceding reasons, we conclude that because William’s bodily
+
+injuries arose out of the use of the insured’s (i.e., Jesperson’s) automobile, the
+
+Automobile Exclusion excluded coverage under the CGL Policy for the automobile
+
+accident. Therefore, Irish’s claims failed as a matter of law, and the trial court
+
+committed no error in granting Nationwide’s motion for judgment on the pleadings.
+
+      Judgment affirmed. Gobeil and Pipkin, JJ., concur.
+
+
+
+
+                                         16
+ 

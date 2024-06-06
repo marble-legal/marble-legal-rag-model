@@ -1,0 +1,2618 @@
+NOTICE: This opinion is subject to modification resulting from motions for reconsideration under Supreme Court
+Rule 27, the Court’s reconsideration, and editorial revisions by the Reporter of Decisions. The version of the
+opinion published in the Advance Sheets for the Georgia Reports, designated as the “Final Copy,” will replace any
+prior version on the Court’s website and docket. A bound volume of the Georgia Reports will contain the final and
+official text of the opinion.
+
+In the Supreme Court of Georgia
+
+
+
+                                                  Decided: March 5, 2024
+
+
+                   S23A0900. THE STATE v. LEDBETTER.
+                   S23X0901. LEDBETTER v. THE STATE.
+
+       WARREN, Justice.
+
+       In October 2018, John Ledbetter was indicted for murder and
+
+other crimes associated with the January 2016 shooting death of
+
+Jeremy Miller and the unrelated February 2015 shooting death of
+
+Damian Stinchcomb. Before trial, Ledbetter filed two motions to
+
+suppress evidence. One motion sought to suppress evidence related
+
+to Miller’s shooting provided to Detective Kevin Leonpacher by
+
+Ledbetter’s previous attorney, Dennis Scheib, on the ground that the
+
+information was protected by attorney-client privilege. The other
+
+motion sought to suppress cell phone records related to Miller’s
+
+shooting and cell phone records related Stinchcomb’s shooting on the
+
+ground that the two warrants authorizing the search of his cell
+
+phone records were defective in several respects, including not being
+ supported by probable cause.          The trial court granted the first
+
+motion to suppress, and the State appeals. See OCGA § 5-7-1 (a) (5)
+
+(permitting the State to appeal from a pretrial order excluding
+
+evidence under certain conditions).          The trial court denied the
+
+second motion to suppress, and Ledbetter cross-appeals. See OCGA
+
+§ 5-7-1 (b) (“In any instances in which any appeal is taken by and on
+
+behalf of the State of Georgia in a criminal case, the defendant shall
+
+have the right to cross appeal.”). For the reasons explained below,
+
+we affirm both orders. Because each appeal has its own relevant
+
+facts and legal issues, we discuss them separately, addressing the
+
+State’s pretrial appeal first.
+
+      1. The State’s Appeal, Case No. S23A0900
+
+      (a) Miller was shot during a drug transaction on January 19,
+
+2016, and later died in the hospital. 1 During the investigation into
+
+the shooting, Scheib, Ledbetter’s attorney at the time, contacted law
+
+enforcement, and on February 5, 2016, he met with Detective
+
+
+
+      1 Stinchcomb’s murder is not at issue in the State’s appeal and will be
+
+discussed below in Division 2, which pertains to Ledbetter’s cross-appeal.
+                                      2
+ Leonpacher about the investigation and gave the detective
+
+information about the shooting, as well as physical evidence related
+
+to the shooting. Ledbetter was later arrested for Miller’s murder.
+
+      After Ledbetter changed attorneys, his new trial counsel
+
+moved to suppress “all evidence provided to law enforcement” by
+
+Scheib based on attorney-client privilege. 2 At a hearing on this
+
+motion, the following evidence about Scheib’s meeting with
+
+Detective Leonpacher was presented.
+
+      Detective Leonpacher testified that Scheib contacted him
+
+shortly after Miller’s shooting, “essentially gauging what the police
+
+knew about the incident.” Scheib was “very clear about having some
+
+limited information from his client and he proffered some
+
+generalized details of the incident . . . in somewhat hypothetical
+
+terms.” In a second call later that day, Scheib stated that Ledbetter
+
+was his client. The detective then met with Scheib at Scheib’s office.
+
+
+
+
+      2 Ledbetter also argued to the trial court that the evidence should be
+
+suppressed based on Scheib’s providing ineffective assistance of counsel, but
+that is not the ground on which the trial court relied in granting Ledbetter’s
+motion to suppress, and Ledbetter does not pursue that argument on appeal.
+                                      3
+      The meeting at Scheib’s office was audio-recorded by the
+
+detective, and the recording was played at the hearing. Scheib first
+
+gave the detective information about the vehicle involved in the
+
+shooting.   He explained that it was a rental car and gave the
+
+detective the name and number of the person at the rental car
+
+company to contact about the car.            Scheib then provided the
+
+following account of the shooting. 3 Ledbetter knew Miller “from
+
+before,” and he and Miller arranged to meet each other in the
+
+parking lot to “talk about” a marijuana transaction. In the parking
+
+lot, Miller got into the passenger’s side of Ledbetter’s car and then
+
+pulled out a “chrome and black automatic pistol.” Ledbetter put his
+
+hands up in the air and then reached out and grabbed the gun. They
+
+struggled. As Ledbetter pushed the gun away, it went off. Miller
+
+told Ledbetter that he had another gun. Ledbetter threw himself
+
+over Miller, and as soon as Ledbetter had control over the gun, he
+
+“fired twice.”
+
+
+     3 During this account, Scheib repeatedly prefaced statements about the
+
+shooting with “he said” or “he told me,” indicating that Ledbetter had given
+him this information.
+                                     4
+       Scheib also gave the detective physical evidence, including a
+
+backpack that Ledbetter said Miller was carrying when he entered
+
+the vehicle, the clothes Ledbetter was wearing on the night of the
+
+shooting, and two guns, at least one of which Scheib indicated
+
+Ledbetter had taken from Miller. 4 At the end of the meeting, Scheib
+
+told Detective Leonpacher that Ledbetter had said that if the
+
+detective secured an arrest warrant for Ledbetter, Ledbetter would
+
+turn himself in within 24 hours because he did not want the “fugitive
+
+squad” looking for him. Scheib further explained that Ledbetter had
+
+said, “I’m not gonna run,” and “I gotta deal with this.” Scheib never
+
+stated that Ledbetter had waived attorney-client privilege or given
+
+Scheib permission to share any of this information.
+
+      Detective Leonpacher testified that when talking to Scheib, he
+
+was under the impression that Scheib was acting as an agent for
+
+
+
+
+      4 When describing the incident to the detective, Scheib said Ledbetter
+
+described the gun Miller had as a “chrome and black automatic pistol,” and
+then said, “I’ll show you the gun that my client gave me.” After Scheib gave
+the detective the gun, he said, “He’s given you the weapon, and he’s described
+it as a silver and black weapon.” Scheib also gave the detective socks, a cap, a
+necklace, a receipt, and a shell casing.
+                                       5
+ Ledbetter, noting that Scheib used Ledbetter’s and Miller’s names
+
+in his description of the incident, rather than using hypothetical
+
+names. The detective also recalled that as Scheib was providing
+
+details, Scheib referred to his notes, leading the detective to
+
+“presume[] . . . that [Scheib] had spoken with his client and made
+
+some notes and was trying to reproduce to me the information
+
+provided by his client to him.”         Scheib did not provide and the
+
+detective never saw “anything that said that there was some sort of
+
+waiver of attorney-client privilege” allowing Scheib to provide this
+
+proffer.
+
+     Scheib testified that he was trying to use “hypotheticals” to
+
+“guide [Detective Leonpacher] toward looking into Mr. Miller as a
+
+robber” who had a weapon.            Scheib explained, “I was using
+
+hypotheticals because I knew I couldn’t say my client has actually
+
+said this without my client giving up the attorney-client privilege.”5
+
+Scheib testified that Ledbetter had not waived attorney-client
+
+
+     5 The recording of the interview does not reflect that Scheib spoke in
+hypotheticals.
+
+                                    6
+ privilege or given him permission to share what Ledbetter told
+
+Scheib with “the police, the prosecution, or anybody else”; Scheib
+
+also did not have authority from Ledbetter to say that any of the
+
+items he gave the detective came from Ledbetter. Scheib further
+
+testified that Ledbetter wrote him a letter with specific information
+
+about what he wanted to do “as far as turning himself in.” 6
+
+      Ledbetter testified that he never gave Scheib permission to
+
+reveal private communications or share physical evidence. When he
+
+learned in 2018 that Scheib had given information to Detective
+
+Leonpacher, he “contact[ed] the fee arbitration people” because he
+
+“felt like [Scheib] needed to be disbarred and I needed my money
+
+
+
+
+      6  During cross-examination, the prosecutor asked Scheib if he
+remembered telling the prosecutor that Ledbetter had “signed a document that
+was in [Scheib’s] file that allowed [Scheib] to say certain things to Detective
+Leonpacher about the case.” Scheib did not state whether he recalled making
+that statement, but testified that he “may have misspoken” and clarified that
+Ledbetter wrote him “several letters as to what to do and what not to do,” but
+Scheib did not have any letters allowing him “to go in and give certain things.”
+
+                                       7
+ returned.”7 And Ledbetter hired a different attorney to represent
+
+him going forward.
+
+     (b) On December 6, 2021, the trial court granted Ledbetter’s
+
+motion to suppress evidence provided by Scheib, finding, based on
+
+the evidence presented at the hearing that:
+
+     Scheib obtained privileged information from Defendant
+     Ledbetter during the course of legal representation. This
+     information included statements as well as physical
+     evidence. Attorney Scheib, unilaterally and without
+     knowledge or permission of Defendant Ledbetter, and in
+     violation of the attorney-client privilege, violated this
+     statutory privilege and unlawfully shared this privileged
+     information/evidence with law enforcement. This was
+     error.
+
+Citing OCGA § 24-5-501 (a) (2) and several cases, the trial court
+
+therefore ruled that “[i]n order to cure this error, the prosecution as
+
+well as all of its witnesses are hereby notified that they are not to
+
+use, directly or indirectly, any privileged evidence obtained from
+
+Attorney Scheib which includes, but is not limited to, Defendant’s
+
+statements as well as physical evidence provided by Attorney Scheib
+
+
+     7 It is not clear from the record whether Ledbetter was referencing the
+
+fee arbitration program at the State Bar, the General Counsel’s office at the
+State Bar, or some other person or entity.
+                                     8
+ to Homicide Detective Leonpacher.” The order further held that “it
+
+cannot be mentioned that Attorney Scheib ever met with the police
+
+. . . and Attorney Scheib cannot be called as a witness at trial by the
+
+State.”
+
+     The State appeals the trial court’s grant of Ledbetter’s motion
+
+to suppress, arguing that Ledbetter has not shown a violation of
+
+attorney-client privilege through any of Scheib’s communications.
+
+The State further argues that, even if there was a violation of
+
+Ledbetter’s attorney-client privilege, the physical evidence provided
+
+by Scheib to Detective Leonpacher should not be suppressed, and
+
+the State should be permitted to present evidence of the source of
+
+the physical evidence, i.e., that it came from Scheib, Ledbetter’s
+
+attorney. Finally, the State argues that the trial court erred by
+
+suppressing “derivative evidence”—that is, evidence derived from
+
+Scheib’s statements to Detective Leonpacher.
+
+     For the reasons discussed below, we agree with the trial court
+
+that Ledbetter has shown that his attorney-client privilege was
+
+violated through Scheib’s disclosures to Detective Leonpacher. And
+
+                                  9
+ because Ledbetter concedes that physical evidence is not suppressed
+
+by the trial court order at issue in this appeal, we need not decide
+
+whether the trial court could have suppressed the physical evidence
+
+Ledbetter gave to Scheib based on attorney-client privilege.
+
+However, we conclude that the trial court’s order properly prohibits
+
+the State from presenting evidence to the jury that Scheib,
+
+Ledbetter’s attorney, was the source of the physical evidence given
+
+to law enforcement. Finally, we conclude that the trial court order
+
+does not suppress “derivative evidence” as protected by attorney-
+
+client privilege. We therefore affirm the trial court’s order granting
+
+Ledbetter’s motion to suppress the evidence provided by Scheib.8
+
+
+
+
+      8 The State and Ledbetter both mention certain videos of interviews with
+
+potential witnesses that Scheib allegedly gave to Detective Leonpacher.
+Evidence in the record indicates that Scheib provided these videos to the
+detective at some point after his recorded meeting with the detective. These
+videos were briefly mentioned by Detective Leonpacher at the motion to
+suppress hearing, but no clear evidence was presented about their contents or
+when and how they were given to the detective. Ledbetter now argues that
+these recordings must be suppressed as protected attorney work product. We
+do not address that argument, however, because it appears that it was not
+raised by Ledbetter in the trial court, and it was not ruled on in the suppression
+order at issue in this appeal.
+
+                                       10
+       (c) “The attorney-client privilege is ‘the oldest of the privileges
+
+for confidential communications known to the common law,’” and
+
+“has long been recognized in Georgia.” St. Simons Waterfront, LLC
+
+v. Hunter, Maclean, Exley & Dunn, P.C., 
+293 Ga. 419
+, 421 (
+746 SE2d
+
+98
+) (2013) (citing Upjohn Co. v. United States, 
+449 U.S. 383
+, 389 (101
+
+SCt 677, 66 LEd2d 584) (1981)). To that end, OCGA § 24-5-501 (a)
+
+(2) prevents evidence protected by the attorney-client privilege from
+
+being introduced as evidence: “There are certain admissions and
+
+communications excluded from evidence on grounds of public policy,
+
+including, but not limited to, the following: . . . Communications
+
+between attorney and client.” See also St. Simons Waterfront, 
+293
+
+Ga. at 421
+ (explaining that the “attorney-client privilege” is
+
+“currently codified” in OCGA § 24-5-501 (a) (2)).9
+
+
+      9 As noted in St. Simons Waterfront, “[p]rior to the adoption of the 2013
+
+Georgia Evidence Code, there were four different statutes in our evidence code
+addressing the attorney-client privilege.” Id. at 421 n.1. The current Evidence
+Code “greatly simplified the statutory language constituting the privilege and
+eliminated certain awkward language in the prior statutes,” but “the rules
+governing the privilege in Georgia generally remain the same.” Id. (citation
+and punctuation omitted). Neither party has argued that any aspect of
+attorney-client privilege at issue in this case changed with the introduction of
+the current Evidence Code, and we conclude that at least as to the issues raised
+
+                                      11
+       “The [attorney-client] privilege generally attaches when legal
+
+advice is sought from an attorney, and operates to protect from
+
+compelled disclosure any communications, made in confidence,
+
+relating to the matter on which the client seeks advice.” St. Simons
+
+Waterfront, 
+293 Ga. at 421-422
+. See also Rogers v. State, 
+290 Ga. 18
+,
+
+20 (
+717 SE2d 629
+) (2011) (“[T]he attorney-client privilege protects
+
+communications between the client and the attorney that are
+
+intended to be confidential[.]”) (citation and punctuation omitted).
+
+Ledbetter, as “the proponent of the privilege,” has the burden “to
+
+establish that the privilege exists.” St. Simons Waterfront, 
+293 Ga.
+
+at 429
+. “[T]he privilege belongs to the client, not the attorney,”
+
+Moclaire v. State, 
+215 Ga. App. 360
+, 363 (
+451 SE2d 68
+) (1994)
+
+(citation and punctuation omitted), and the client can waive the
+
+
+
+
+here, Georgia cases decided before the enactment of our current evidence code
+remain applicable law. Compare Volkova v. State, 
+311 Ga. 187
+, 194 (
+855 SE2d
+616
+) (2021) (treating the rule about when attorney-client privilege is waived as
+to communications with “an expert engaged by the attorney” as a “judicially
+created exclusionary rule[] based on an interpretation of Georgia’s old
+Evidence Code” that has been “statutorily abrogated by the enactment of our
+current Evidence Code”).
+                                      12
+ privilege explicitly or implicitly, see Hill, Kertscher & Wharton, LLP
+
+v. Moody, 
+308 Ga. 74
+, 79 (
+839 SE2d 535
+) (2020).
+
+     (i) Attorney-Client Communications
+
+     In granting Ledbetter’s motion to suppress evidence that was
+
+shared in violation of Ledbetter’s attorney-client privilege, the trial
+
+court found that Scheib “obtained privileged information from
+
+Defendant Ledbetter during the course of legal representation,” and
+
+that Scheib shared this information “unilaterally and without
+
+knowledge or permission of Defendant Ledbetter.” We review these
+
+fact-findings for clear error. See State v. Wilson, 
+315 Ga. 613
+, 613
+
+(
+884 SE2d 298
+) (2023) (“In reviewing the trial court’s grant of the
+
+motion to suppress, we apply the well-established principles that the
+
+trial court’s findings as to disputed facts will be upheld unless
+
+clearly erroneous and the trial court’s application of the law to
+
+undisputed facts is subject to de novo review.”) (punctuation and
+
+citation omitted).
+
+     The State does not dispute that Scheib obtained information
+
+from Ledbetter as part of his representation of Ledbetter and that
+
+                                  13
+ Scheib then conveyed that information to Detective Leonpacher.
+
+And the trial court’s findings that Scheib acted “unilaterally” and
+
+“without knowledge or permission” of Ledbetter were supported by
+
+ample evidence that Ledbetter did not waive his attorney-client
+
+privilege, including Scheib’s testimony that he did not have any
+
+waiver or permission to share information from Ledbetter and
+
+Ledbetter’s testimony that he never gave Scheib permission to share
+
+any information with the detective and did not learn about Scheib’s
+
+disclosures until 2018.
+
+     The State argues, however, that Scheib did not share the
+
+information “unilaterally” and without Ledbetter’s “knowledge or
+
+permission” because, in fact, Ledbetter intended for Scheib to share
+
+the information he provided with Detective Leonpacher and thereby
+
+implicitly waived his attorney-client privilege. In support of this
+
+contention, the State points to “[t]he fact that Scheib disclosed this
+
+information while pursuing [a] favorable outcome for Ledbetter.”
+
+But in the absence of any evidence that the client knew about and
+
+approved of the disclosure, an attorney’s disclosure alone, even if it
+
+                                 14
+ was intended to benefit the client, does not establish that such
+
+disclosure was authorized. See Moclaire, 
+215 Ga. App. at 363
+ (“The
+
+mere fact that the attorney discussed the communications with
+
+others, without evidence that [the client] authorized those
+
+discussions, does not prove that [the client] waived the attorney-
+
+client privilege.”) (citation and punctuation omitted); McKie v. State,
+
+165 Ga. 210
+, 210 (
+140 SE 625
+) (1927) (“Communications between
+
+client and attorney are excluded from public policy and are
+
+incompetent as evidence against the client upon her trial for the
+
+homicide of her husband; and this is so, whether such letters
+
+[written by the client to her attorney] were voluntarily produced by
+
+the attorney to be used against the client, or were surreptitiously or
+
+otherwise taken from the possession of the attorney.”). See also
+
+Rouse v. State, 
+275 Ga. 605
+, 607 & n.12 (
+571 SE2d 353
+) (2002)
+
+(affirming the trial court’s denial of admission into evidence a tape
+
+recording of a witness talking to his attorney, where the “record
+
+fail[ed] to establish conclusively” how the defendant obtained the
+
+recording but where the attorney “apparently . . . inadvertently
+
+                                  15
+ disclosed” the recording and the record was “devoid of any evidence
+
+that shows that [the witness] authorized the release of this tape to
+
+anyone”). 10
+
+      The State further argues that Scheib’s testimony that
+
+Ledbetter said, “I gotta deal with this” and indicated that he would
+
+turn himself in if he heard that there was an arrest warrant is
+
+evidence that Ledbetter knew about and implicitly authorized
+
+Scheib’s meeting with and disclosures to Detective Leonpacher.
+
+This argument—that Ledbetter saying he wanted to “deal with this”
+
+and avoid pursuit from the “fugitive squad” is an implicit waiver of
+
+attorney-client privilege—is strained at best. See Kennestone Hosp.
+
+v. Hopson, 
+273 Ga. 145
+, 148 (
+538 SE2d 742
+) (2000) (explaining that
+
+
+      10 In support of this argument, the State cites United States v. Tyerman,
+
+701 F3d 552, 559 (8th Cir. 2012), and United States v. Beltramea, 
+2015 U.S.
+Dist. LEXIS 121195
+ (N.D. Iowa Sep. 11, 2015). Even assuming we would follow
+these federal cases in deciding an issue about attorney-client privilege, both
+cases are distinguishable: there was evidence in both that the defendants knew
+about their attorneys’ disclosures. See Tyerman, 701 F3d at 559 (explaining
+that during plea negotiations, Tyerman helped his attorney find the gun “[a]t
+the Court’s request” and “the County Attorney’s request,” and concluding that
+Tyerman implicitly waived the attorney-client privilege as to that
+information); Beltramea, 2015 U.S. Dist. LEXIS at *17-24 (concluding that the
+defendant waived attorney-client privilege with respect to information that his
+attorney shared in open court at his sentencing hearing).
+                                      16
+ “[a]n implied waiver is one shown by a party’s decisive, unequivocal
+
+conduct reasonably inferring the intent to waive,” and concluding
+
+that there was no implicit waiver in that case) (punctuation and
+
+citation omitted). We cannot say that the trial court’s finding that
+
+Scheib acted without Ledbetter’s knowledge or permission was
+
+clearly erroneous. 11 We therefore affirm the trial court’s holding
+
+that Ledbetter’s communications with Scheib were protected by the
+
+
+
+      11  The State also argues in its reply brief that the statement of
+Ledbetter’s new attorney at an August 2020 bond hearing that Ledbetter “had
+engaged the services of an attorney, Dennis Scheib, and in fact was cooperating
+and providing information and physical evidence to Detective Leonpacher”
+shows that Ledbetter authorized the disclosures Scheib made to the detective.
+First, we note that it does not appear the State made this argument to the trial
+court, and evidence about what was said during the bond hearing was not
+introduced into evidence at the hearing on the motion to suppress. See
+Middleton v. State, 
+316 Ga. 808
+, 810 n.3 (
+890 SE2d 713
+) (2023) (declining to
+consider an argument that was “never raised in proceedings below”). Even if
+we did consider this argument, however, we would reject it. This statement
+from Ledbetter’s counsel was not a clear representation on Ledbetter’s behalf
+that he had waived his attorney-client privilege in relation to Scheib’s earlier
+meeting with Detective Leonpacher, and later in the bond hearing, Ledbetter’s
+counsel indicated to the court that Scheib’s disclosure of evidence to law
+enforcement was “among some of the things” that Ledbetter would be raising
+before the trial court. Even if counsel’s assertion that Ledbetter “was
+cooperating” with the State through Scheib was inconsistent with Ledbetter’s
+assertion that he did not authorize Scheib to make any disclosures to law
+enforcement, it does not constitute a sufficiently clear statement that
+Ledbetter authorized Scheib’s disclosures to cause us to conclude that the trial
+court’s fact-finding was clearly erroneous.
+
+                                      17
+ attorney-client privilege and should be suppressed under OCGA
+
+§ 24-5-501 (a) (2).
+
+      (ii) Physical Evidence
+
+      The State also argues that even if evidence about the
+
+communications between Ledbetter and Scheib that Scheib shared
+
+with Detective Leonpacher should be suppressed based on attorney-
+
+client privilege, the trial court order should be reversed to the extent
+
+it also suppresses physical evidence Scheib gave the detective, such
+
+as guns. Notably, however, in his brief and at oral argument before
+
+this Court, Ledbetter asserted that the trial court’s order does not
+
+categorically suppress physical evidence itself and has conceded that
+
+the physical evidence is not covered by attorney-client privilege and
+
+may be admissible.12 In other words, the State and Ledbetter agree
+
+
+
+      12 Specifically, in one of his appellate briefs before this Court, Ledbetter
+
+asserted: “The trial court did not exclude the physical evidence from being
+introduced at trial but it did exclude all privileged evidence that was obtained
+by the prosecution in violation of Appellee’s rights. Thus, if the prosecution
+can find a lawful way to introduce the physical evidence at trial, same would
+not violate the trial court’s Order.” And at oral argument, Ledbetter’s counsel
+was asked: “[I]t seems like you concede that the physical evidence is not
+covered by attorney-client privilege or any other privilege. Is that your
+position?” And counsel answered, “In this particular case, yes.”
+                                       18
+ on this point. We accept Ledbetter’s interpretation of the trial court
+
+order and hold that the order does not suppress the physical
+
+evidence Scheib provided to Detective Leonpacher. 13
+
+      However, if the physical evidence is admitted at trial, it should
+
+not be linked to Scheib as Ledbetter’s attorney. 14                 Ledbetter
+
+asserts—and we agree—that although the trial court’s order does
+
+not suppress the physical evidence itself, the trial court order does
+
+prohibit    the   State    from    identifying     Scheib—as      Ledbetter’s
+
+attorney—as the source of any physical evidence the State might
+
+seek to introduce. Specifically, the trial court’s order prohibits “the
+
+prosecution as well as all of its witnesses” from using “directly, or
+
+
+
+      13 To the extent language in the order could be read to suppress the
+
+physical evidence itself, we reject that reading. And because this Court’s
+interpretation of the trial court’s order is now law of the case, Ledbetter may
+not later attempt to rely on that order in an effort to suppress the physical
+evidence at issue in this appeal. See Cartwright v. Caldwell, 
+305 Ga. 371
+, 382
+(
+825 SE2d 168
+) (2019) (“Under [the law of the case] doctrine, ‘any ruling by the
+Supreme Court or the Court of Appeals in a case shall be binding in all
+subsequent proceedings in that case in the lower court and in the Supreme
+Court or the Court of Appeals.’ OCGA § 9-11-60 (h). It is well-established that
+the law of the case doctrine applies to holdings by appellate courts in criminal
+cases.”) (citation and punctuation omitted).
+
+      14 We do not evaluate how the State may be able to admit this physical
+
+evidence, such as through a different theory of authentication.
+                                      19
+ indirectly, any privileged evidence obtained from Attorney Scheib
+
+which includes . . . physical evidence provided by Attorney Scheib.”
+
+The State would violate this prohibition if it introduced at trial the
+
+physical evidence Ledbetter gave to Scheib accompanied by
+
+testimony or other evidence that the items originated from Scheib
+
+(who was serving as Ledbetter’s attorney). This is so because the
+
+evidence presented at the motion to suppress hearing indicated that
+
+Ledbetter (as a client) gave the physical evidence to Scheib
+
+(Ledbetter’s attorney) as part of his attorney-client communications
+
+with Scheib.
+
+     Scheib’s explanation of the “chrome and black” gun he gave
+
+Detective Ledbetter, which is reflected in the recording of the
+
+meeting played at the motion to suppress hearing, helps illustrate
+
+this point. Scheib’s statements to Detective Leonpacher indicate
+
+that when Ledbetter gave Scheib this gun, Ledbetter told Scheib it
+
+was the gun Miller had when he arrived at the drug transaction and
+
+that Miller and Ledbetter struggled over it, eventually resulting in
+
+Miller’s shooting and death. If the State sought to introduce that
+
+                                 20
+ gun into evidence at trial and mentioned that law enforcement
+
+officials obtained the gun through Ledbetter’s attorney, Scheib, that
+
+would constitute an indirect use of “privileged evidence obtained
+
+from Attorney Scheib” and would violate the trial court’s order. That
+
+would be so even if neither Ledbetter’s nor Scheib’s statements
+
+about the gun were repeated to the jury and even if the fact of
+
+Scheib’s conversations with Ledbetter and Detective Leonpacher
+
+were not otherwise made known to the jury.                   Evidence that
+
+Ledbetter’s attorney gave law enforcement a gun that was linked to
+
+the shooting would be indirect evidence of the communications
+
+Ledbetter had with Scheib (his attorney) when he gave Scheib this
+
+gun, thereby constituting the type of indirect use of “privileged
+
+evidence obtained from Attorney Scheib” the trial court prohibited
+
+in its order.15
+
+
+
+
+      15We note that it likely would be difficult to present evidence that
+Ledbetter’s attorney Scheib gave any physical evidence to Detective
+Leonpacher without running afoul of the trial court’s directive that “it cannot
+be mentioned that Attorney Scheib ever met with the police.”
+                                      21
+      The State argues that it should be allowed to present evidence
+
+that the gun and other physical evidence came from Scheib and the
+
+trial court erred in deciding otherwise. Responding to the State’s
+
+argument, Ledbetter points to Williams v. State, 
+258 Ga. 281
+ (
+368
+
+SE2d 742
+) (1988), and maintains that the trial court’s suppression
+
+of any mention of his attorney as the source of any physical evidence
+
+is proper.   We agree with Ledbetter.        In Williams, the State
+
+presented evidence to the jury that the attorney of Williams, a
+
+criminal defendant, revealed the location of a murder victim’s body
+
+to law enforcement. See 
+258 Ga. at 284
+. This Court explained that
+
+the attorney, Flanagan, likely learned this information from
+
+Williams and reasoned that “if the state was not trying to create an
+
+inference that the victim’s body was discovered because Williams
+
+had revealed its location to his attorney, it was not necessary to tell
+
+the jury that Flanagan was Williams’ attorney.” 
+Id.
+ We therefore
+
+disapproved of the State’s presenting evidence that the defendant’s
+
+attorney was the source of the evidence used against the defendant.
+
+See 
+id.
+
+
+                                  22
+      It is true, as the State points out, that this Court in Williams
+
+ultimately held that evidence of Williams’s attorney’s involvement
+
+was harmless in light of the strength of the evidence against
+
+Williams. See 
+258 Ga. at 285
+. But the reasoning in Williams is
+
+nonetheless persuasive here. As with admitting evidence of the
+
+attorney’s knowledge of the body’s location in Williams, admitting
+
+evidence that Ledbetter’s attorney was the source of the physical
+
+evidence given to Detective Leonpacher would allow the jury to draw
+
+inferences about Ledbetter’s communications with his attorney
+
+Scheib that should not be permitted because of the attorney-client
+
+privilege.   To put it another way, the only reason Scheib gave
+
+Detective Leonpacher the physical items was because of their
+
+connection to the shooting, and the only reason Scheib was aware of
+
+the items’ connection to the shooting was through his privileged
+
+communications with his client. And the information discussed in
+
+those privileged communications—whether presented directly
+
+through Scheib’s statements about what Ledbetter said or presented
+
+indirectly through inferences that can be drawn from the fact that
+
+                                 23
+ Ledbetter shared physical evidence of the crimes with his attorney—
+
+is what the attorney-client privilege protects from the jury’s view.16
+
+Thus, we affirm the trial court’s suppression of evidence that Scheib
+
+(as Ledbetter’s attorney) was the source of the physical evidence.17
+
+      (iii) Derivative Evidence
+
+
+
+
+      16 Other states have reached a similar conclusion.   For example, in State
+v. Olwell, 
+64 Wash.2d 828
+ (
+394 P2d 681
+) (1964), which Williams cited with
+approval, the Supreme Court of Washington held that when an attorney
+surrenders physical “evidence he has in his possession,” the prosecution
+“should be well aware of the existence of the attorney-client privilege” and
+“when attempting to introduce such evidence at the trial, should take extreme
+precautions to make certain that the source of the evidence is not disclosed in
+the presence of the jury.” 
+Id. at 834
+. That court reasoned that by “allowing
+the prosecution to recover such evidence, the public interest is served, and by
+refusing the prosecution an opportunity to disclose the source of the evidence,
+the client’s privilege is preserved and a balance is reached between these
+conflicting interests.” 
+Id.
+ See also Sanford v. State, 
+21 SW3d 337
+, 344 (Tex.
+App. 2000) (explaining that “several other jurisdictions hold that the State may
+not, when introducing the evidence received from counsel, reveal the source of
+the evidence in the presence of the jury because it would violate the attorney-
+client privilege” and concluding that “this balancing of interests is the correct
+approach”); State v. Abdullah, 348 P3d 1, 103-104 (
+158 Idaho 386
+) (2015)
+(collecting cases prohibiting presenting the defendant’s attorney as the source
+of physical evidence, but also explaining that if the location of physical
+evidence “was revealed to defense counsel by a non-client third party, then the
+attorney-client privilege does not prohibit the State from proving . . . where
+and how the evidence was located”).
+
+      17 We take no position, however, on the question of whether Ledbetter
+
+could open the door to such evidence by raising a chain-of-custody or similar
+challenge at trial.
+                                       24
+      The State also argues that the trial court erred by suppressing
+
+“derivative evidence related to Scheib’s disclosures,” such as
+
+testimony from witnesses later located with information Scheib
+
+provided to Detective Leonpacher. See Black’s Law Dictionary (11th
+
+ed. 2019) (defining “derivative evidence” as “[e]vidence that is later
+
+discovered by using evidence that was illegally obtained”).       We
+
+disagree, however, with the premise of the State’s argument in this
+
+regard, because the trial court’s order does not suppress such
+
+evidence.
+
+     As discussed in subdivision (ii) above, the trial court’s order
+
+prohibits “the prosecution as well as all of its witnesses” from
+
+“indirectly” using “privileged information obtained from Attorney
+
+Scheib.” But the order does not otherwise restrict law enforcement’s
+
+use of the privileged information to aid further investigation.
+
+Moreover, the text of the order does not mention “derivative
+
+evidence” and neither OCGA § 24-5-501 (a) (2) nor any of the cases
+
+the trial court cited in the order expressly suppress derivative
+
+
+
+                                 25
+ evidence on the basis of attorney-client privilege.18 The order also
+
+does not hold that Ledbetter’s constitutional rights were violated,
+
+which is often a pre-requisite for the suppression of derivative
+
+evidence. See State v. Chulpayev, 
+296 Ga. 764
+, 776 (
+770 SE2d 808
+)
+
+(2015) (“The broad exclusionary rule, with its fruit of the poisonous
+
+tree extension, operates only in limited circumstances, usually only
+
+where a defendant’s constitutional rights have been violated.”).
+
+Finally, at oral argument before this Court, Ledbetter’s counsel
+
+appeared to acknowledge that the trial court’s order does not
+
+suppress “derivative evidence,” while emphasizing the court’s
+
+prohibition on the indirect use of the privileged information
+
+discussed in subdivision (ii) above.19 We accordingly conclude that
+
+
+      18  We acknowledge that the title of the order broadly describes its
+contents as an order “GRANTING THE SUPPRESSION OF ANY AND ALL
+EVIDENCE, AS WELL AS DERIVATIVE EVIDENCE.” However, for the
+reasons explained in this subdivision, we do not view the nomenclature in the
+title of the order as prevailing over the substance of the order. See Sotter v.
+Stephens, 
+291 Ga. 79
+, 82 (
+727 SE2d 484
+) (2012) (explaining that although it
+was titled “Final Order and Judgment,” the order was not final because the
+substance of the order indicated that it was interlocutory).
+
+      19 Specifically, when counsel was asked at oral argument about what
+
+derivative evidence was suppressed by the trial court’s order, he answered: “I
+
+                                      26
+ the trial court’s order does not prohibit the State from seeking to
+
+introduce evidence that may be obtained from the use of privileged
+
+information Scheib disclosed to Detective Leonpacher, so long as
+
+that evidence does not reveal communications protected by the
+
+attorney-client privilege and so long as the State does not identify
+
+Scheib as the original source of any such evidence.
+
+                                       *
+
+      In light of the discussion above, we affirm the trial court’s order
+
+granting Ledbetter’s motion to suppress any evidence that attorney
+
+Scheib gave to Detective Leonpacher that is protected by Ledbetter’s
+
+attorney-client privilege.
+
+      2. The Cross-Appeal, Case No. S23X0901
+
+      As part of the investigation into the murders, law enforcement
+
+officers completed two search warrants for Ledbetter’s cell phone
+
+
+
+didn’t take derivative the way . . . I thought it was indirect or direct. And by
+that I meant, OK, we’ll exclude all the statements the trial court is saying. So
+you can’t say what appellee said to the lawyer. But you can say that the lawyer
+turned it over to us. And I thought that’s the indirect evidence. . . . And . . .
+Williams says exactly what to do. Omit everything directly and indirectly that
+came from the lawyer for the client, and then the prosecution has to figure out
+a way to get it in. And that’s how I look at it.”
+                                       27
+ records.   A February 2016 search warrant obtained cell phone
+
+records related to Miller’s murder, and a February 2020 search
+
+warrant obtained cell phone records related to Stinchcomb’s
+
+murder.20 Ledbetter moved to suppress these cell phone records,
+
+arguing, among other things, that the search warrants were not
+
+supported by probable cause. The trial court held a hearing on the
+
+motion to suppress, during which the search warrant affidavits and
+
+applications were admitted into evidence. 21 The trial court then
+
+
+     20  The phone records related to Stinchcomb’s murder were first obtained
+with an “Order Releasing Cellular Telephone Records” issued in March 2015.
+The State’s attorney explained to the trial court that law enforcement
+completed a search warrant for the same phone records in February 2020 due
+to the United States Supreme Court’s issuing Carpenter v. United States, 138
+SCt 2206 (201 LE2d 507) (2018). Ledbetter raised objections to the March 2015
+order in the trial court and again on appeal, but we need not address those
+because we conclude that Ledbetter’s challenges to the February 2020 warrant
+fail. Ledbetter does not allege that the March 2015 order supplied any
+information different from the information gathered with the February 2020
+search warrant. Thus, we would still conclude that the trial court properly
+denied Ledbetter’s motion to suppress these records even if we conclude that
+the March 2015 order was invalid. See, e.g., McKinney v. State, 
+307 Ga. 129
+,
+138 (
+834 SE2d 741
+) (2019) (explaining that we did not need to decide whether
+admitting evidence to prove other purposes under OCGA § 24-4-404 (b) was
+proper, when we had determined that the evidence was admissible to prove
+identity).
+
+     21 There is no evidence in the record that the magistrates who granted
+
+the warrants were presented with anything more than the applications and
+
+                                     28
+ denied Ledbetter’s motion to suppress, concluding, among other
+
+things, that the search warrants were supported by probable cause.
+
+Ledbetter appeals this order. As explained more below, we rely on
+
+well-settled precedent applying the Fourth Amendment to the
+
+United States Constitution to conclude the warrants were supported
+
+by probable cause, and we also reject Ledbetter’s other challenges to
+
+the warrants.
+
+     A search warrant will issue only based upon an oath or
+
+affirmation stating “facts sufficient to show probable cause that a
+
+crime is being committed or has been committed.” OCGA § 17-5-21
+
+(a). See U.S. CONST. amend. IV (stating, in pertinent part, that “no
+
+Warrants shall issue, but upon probable cause, supported by Oath
+
+or affirmation, and particularly describing the place to be searched,
+
+and the persons or things to be seized”).
+
+
+
+
+affidavits in support of the requested warrants, and Ledbetter and the State
+agreed that the issues presented in Ledbetter’s motion to suppress should be
+decided based only on the warrant application and affidavit.             See
+Messerschmidt v. Millender, 
+565 U.S. 535
+, 568 (132 SCt 1235, 182 LE2d 47)
+(2012) (explaining that a court reviewing the validity of a warrant should
+consider “only information brought to the magistrate’s attention”).
+                                    29
+      An affidavit supporting a search warrant generally “should
+
+establish a connection between the defendant and the property to be
+
+searched and a link between the property and any criminal activity.”
+
+United States v. Mathis, 767 F3d 1264, 1276 (11th Cir. 2014)
+
+(citation and punctuation omitted). In determining if a warrant is
+
+supported by probable cause, the magistrate must “make a practical,
+
+common-sense decision whether, given all the circumstances set
+
+forth in the affidavit” supporting the warrant “there is a fair
+
+probability that contraband or evidence of a crime will be found” in
+
+the place requested to be searched. Perez v. State, 
+316 Ga. 433
+, 440
+
+(
+888 SE2d 526
+) (2023) (citation and punctuation omitted).          A
+
+magistrate may “draw such reasonable inferences as he will from
+
+the material supplied to him by applicants for a warrant.” Illinois
+
+v. Gates, 
+462 U.S. 213
+, 236 (103 SCt 2317, 76 LE2d 527) (1983). See
+
+also State v. Britton, 
+316 Ga. 283
+, 286 (
+888 SE2d 157
+) (2023).
+
+     “On appellate review, our duty is to determine if the magistrate
+
+had a substantial basis for concluding that probable cause existed to
+
+issue the search warrant.” Perez, 316 Ga. at 440. “[I]n passing on
+
+                                 30
+ the validity of a warrant, the reviewing court may consider only
+
+information brought to the magistrate’s attention.” Messerschmidt
+
+v. Millender, 
+565 U.S. 535
+, 568 (132 SCt 1235, 182 LE2d 47) (2012).
+
+The magistrate’s determination of probable cause is “entitled to
+
+substantial deference.” Perez, 316 Ga. at 440. “[E]ven doubtful
+
+cases should be resolved in favor of upholding a magistrate’s
+
+determination that a warrant is proper.” Id.
+
+     (a) February 2016 Search Warrant Related to Miller’s Murder
+
+     With the February 2016 search warrant, the State sought
+
+subscriber information, call detail records, cell tower locations, and
+
+other information related to three phone numbers from January 1
+
+through February 3, 2016, to find evidence of murder. Detective
+
+Leonpacher completed the affidavit, providing the following
+
+information under oath. He had been employed by the Atlanta
+
+Police Department since July 2002 and worked in the Homicide
+
+Unit. Miller was shot in Atlanta on January 19, 2016. “A tip from
+
+the Cobb County Police Department indicated that . . . Ledbetter
+
+admitted to a third-party that he shot . . . Miller.” After the shooting
+
+                                  31
+ and before he died, Miller called his cousin, Shera Lett, from the
+
+hospital, saying that he wanted to talk to her and did not believe he
+
+would survive his injuries. When Lett came to the hospital, Miller
+
+told her that “he met a man he knows as ‘John B’ or ‘Lil’ John’ to
+
+purchase marijuana,” but then “John” “either shorted or provided
+
+fake marijuana” and shot Miller when Miller confronted him; “John”
+
+then drove away with Miller’s backpack.
+
+      Detective Leonpacher’s affidavit further averred that Scheib,
+
+Ledbetter’s attorney, met with him and “proffered information on
+
+behalf of his client,” including that Ledbetter met with Miller to sell
+
+marijuana, Miller tried to rob him, and Ledbetter grabbed the gun
+
+and “fired two shots at Miller.”       Scheib also “turned over evidence
+
+from his client that was related to the shooting including the firearm
+
+used to shoot the victim and the victim’s light blue Jansport
+
+backpack.”22 Detective Leonpacher then obtained arrest warrants
+
+
+      22  Ledbetter does not argue that law enforcement’s reliance on
+statements and physical evidence gathered from Scheib and detailed in the
+affidavit was improper or is a basis to suppress the cell phone records. We do
+not decide this issue, but note that, as explained above in Divisions 1 (c) (ii)
+
+                                      32
+ for Ledbetter for murder and other crimes, and Ledbetter turned
+
+himself in.
+
+      In light of this information, the application said the following:
+
+      It is now requested that a Search Warrant be issued by
+      the Magistrate Court of Fulton County to compel the
+      wireless phone service provider of:
+
+         • John Ledbetter (accused)
+         • Jeremy Miller (victim)
+         • Shera Lett (dying declaration witness)
+
+      which is T-Mobile/MetroPCS, to produce the call detail
+      records (CDR) associated with those numbers. The
+      records are material, relevant, and evidence in the
+      ongoing criminal investigation into the crime of Murder,
+      which is in violation of OCGA § 16-5-1.
+
+      CDR’s, including the cell towers utilized during each call,
+      can be used to aid in approximating the area from which
+      calls were made and received and it is believed that the
+      CDR’s for these three will illustrate that:
+
+         • John Ledbetter communicated with the victim prior
+           to their meeting during which Ledbetter shot the
+           victim AND that his phone showed activity on cell
+           towers in the same general geographic area as the
+           crime scene at/about the time of the shooting.
+
+
+and (iii), the trial court’s order granting Ledbetter’s motion to suppress
+information given to Detective Leonpacher by Scheib in violation of Ledbetter’s
+attorney-client privilege does not also have the effect of suppressing physical
+or derivative evidence.
+                                      33
+         • Jeremy Miller communicated with Ledbetter prior
+          to the meeting/shooting.
+        • Shera Lett received a call from Grady Hospital prior
+          to hearing the dying declaration from Miller.
+
+     The next paragraph listed the information requested, including
+
+subscriber information and call detail records, for:
+
+     the MetroPCS/T-Mobile wireless telephone numbers of:
+     504-223-4160
+     470-259-8589
+     404-671-5486
+
+These are the only phone numbers, other than 911, mentioned in the
+
+warrant affidavit and application. The affidavit and application
+
+were presented in the magistrate court of Fulton County and were
+
+signed by a judge.
+
+     (i) Ledbetter argues that the warrant was not supported by
+
+probable cause because the affidavit and application failed to
+
+connect any of the target numbers to criminal activity or to
+
+Ledbetter.   Thus, we must determine whether, “given all the
+
+circumstances set forth in the affidavit,” the magistrate had a
+
+“substantial basis” for concluding that there was a fair probability
+
+that evidence of the murder would be found in the records of the
+
+                                 34
+ three phone numbers listed in the warrant. Perez, 316 Ga. at 440.
+
+We conduct this inquiry keeping in mind that the magistrate may
+
+draw “reasonable inferences” from the affidavit, Gates, 
+462 U.S. at
+
+236
+, and that the magistrate’s decision is entitled to “substantial
+
+deference,” Perez, 316 Ga. at 440.
+
+       Here, we have no trouble concluding that the affidavit offered
+
+a substantial basis for the magistrate to conclude that there was a
+
+fair probability that evidence of Miller’s murder would be found on
+
+Ledbetter’s cell phone. According to the affidavit, Miller said that
+
+he met someone named “John” to buy marijuana, and that John shot
+
+him.    Further, Ledbetter told someone that he shot Miller, and
+
+Scheib, Ledbetter’s attorney, said that Ledbetter met Miller to sell
+
+marijuana and fired shots at Miller at this meeting. The affidavit
+
+then said that the requested phone records were expected to show
+
+that Ledbetter “communicated with the victim prior to their
+
+meeting” and was around the crime scene at the time of the shooting.
+
+These circumstances support the common-sense inference that
+
+Ledbetter used his phone to contact Miller to set up the meeting to
+
+                                  35
+ sell Miller drugs, and at that meeting, Ledbetter shot Miller. See
+
+United States v. Eggerson, 999 F3d 1121, 1127 (8th Cir. 2021)
+
+(concluding that “it was not unreasonable for [the state magistrate]
+
+to infer that cell phones were being used in connection with the
+
+alleged drug dealing”) (citation and punctuation omitted).
+
+     We further conclude that, although the affidavit and
+
+application did not state expressly that one of the three numbers for
+
+which records were sought was Ledbetter’s phone number, the
+
+magistrate could reasonably infer from the affidavit that one of the
+
+target numbers belonged to Ledbetter. See Taylor v. State, 
+303 Ga.
+
+57
+, 61 (
+810 SE2d 113
+) (2018) (rejecting Taylor’s argument that the
+
+warrant was not supported by probable cause because it failed to
+
+state expressly that the address to be searched (1751 Bergen Court)
+
+was Taylor’s address; in light of the other information contained in
+
+the affidavit, “the magistrate, making a practical and common-sense
+
+decision, was entitled to infer that there was a ‘fair probability’ that
+
+Taylor lived at 1751 Bergen Court”); United States v. Hunter, 86 F3d
+
+679, 681 (7th Cir. 1996) (“The affidavit’s failure to state explicitly
+
+                                  36
+ that Palace Court was Hunter’s residence, by itself, is not a fatal
+
+flaw.”).
+
+     In particular, the affidavit and application indicated that law
+
+enforcement had opportunities to learn Ledbetter’s phone number
+
+by noting that Scheib “proffered information on behalf of his client”
+
+to Detective Leonpacher and that Ledbetter turned himself in for
+
+arrest. The warrant application then asked the court “to compel the
+
+wireless phone service provider of,” listed three people—Ledbetter,
+
+Miller, and Lett—in separate bullet points, and said their phone
+
+service provider was T-Mobile/MetroPCS. The warrant application
+
+used a similar sequence and format in the next paragraph when
+
+explaining what was expected to be found in the phone records of
+
+“these three.” Again, a bulleted list was used, with one bullet point
+
+corresponding to each person listed above:
+
+           • John Ledbetter communicated with the victim
+             [Miller] prior to their meeting during which
+             Ledbetter shot the victim AND that his phone
+             showed activity on cell towers in the same general
+             geographic area as the crime scene at/about the time
+             of the shooting.
+
+
+                                   37
+         • Jeremy Miller communicated with Ledbetter prior
+          to the meeting/shooting.
+        • Shera Lett received a call from Grady Hospital prior
+          to hearing the dying declaration from Miller.
+
+Importantly, each bullet point listed information that would likely
+
+be found on a particular person’s phone. For example, Ledbetter’s
+
+communication with Miller would be expected to be found on
+
+Ledbetter’s phone, just as Miller’s communication with Ledbetter
+
+would be expected to be found on Miller’s phone. Additionally, the
+
+first bullet point expressly referred to “his phone” in explaining the
+
+expectation that the requested record would show that Ledbetter’s
+
+phone was in the area of the shooting around the time of the
+
+shooting.   That is not surprising, given that the location of
+
+Ledbetter’s phone is something one would expect to find in the
+
+records of Ledbetter’s phone number.
+
+     Finally, the application listed the three “Metro PCS/T-Mobile
+
+wireless telephone numbers” to be searched:
+
+     504-223-4160
+     470-259-8589
+     404-671-5486
+
+
+                                 38
+ This format mirrors the two earlier bulleted paragraphs that listed
+
+three separate people (Ledbetter, Miller, and Lett, each time listed
+
+in that order), and in this way the format of this request ties the
+
+three listed phone numbers (the only non-emergency phone
+
+numbers mentioned in the warrant) to the three listed people (who
+
+were in two separate places listed in the same order) and with the
+
+sets of information law enforcement expected to find associated with
+
+those three listed people. There was nothing in the affidavit and
+
+application to lead the magistrate to believe that the three phone
+
+numbers were associated with people other than the three listed
+
+people, or that law enforcement was mistaken as to which numbers
+
+belonged to the three people.
+
+     In light of “all the circumstances” presented here, the
+
+magistrate could have reasonably inferred that the three target
+
+phone numbers belonged to the three listed individuals, meaning—
+
+as relevant to this case—one of those numbers belonged to
+
+
+
+
+                                39
+ Ledbetter.23    See Taylor, 303 Ga. at 61 (concluding that “the
+
+magistrate could easily have inferred a connection between Taylor
+
+and the residence at 1751 Bergen Court” in light of “all the
+
+circumstances,” including that the affidavit and its attachment
+
+described the location to be searched “as the residence located at
+
+1751 Bergen Court,” described the crimes “as occurring at ‘Taylor’s
+
+residence,’” asserted that “‘there is probable cause to believe that a
+
+crime has been committed . . . at said location,” and requested the
+
+warrant to gather evidence from “the crime scene”) (emphasis in
+
+original); Hunter, 86 F3d at 681 (“Attachment A to the search
+
+warrant and affidavit described the place to be searched as ‘[t]he
+
+residence at 510 Palace Court, Schaumburg, Illinois. . . .’             The
+
+affidavit referred four times to Hunter’s residence; it made no
+
+reference to any other place connected to Hunter. Although Hunter
+
+
+
+     23   Ledbetter does not argue that the warrant was not supported by
+probable cause because it cannot be determined which of the three target
+numbers belonged to him; he argues only that the warrant did not tie him to
+any of the target numbers. We note, however, that given the way the
+information was presented—with Ledbetter coming first in the earlier two sets
+of bullet points—the magistrate could have reasonably inferred that the first
+phone number in the final list belonged to him.
+                                     40
+ correctly notes that the affidavit did not explicitly state that 510
+
+Palace Court was his residence, that is the only logical conclusion
+
+supported by a common-sense reading of the affidavit.”).
+
+      Therefore, “the magistrate, making a practical and common-
+
+sense decision, was entitled to infer that there was a ‘fair
+
+probability’” that one of the target phone numbers belonged to
+
+Ledbetter and that evidence of the alleged murder would be found
+
+in the phone number’s records. Taylor, 303 Ga. at 61. Of course,
+
+Ledbetter’s argument on this point would have been more easily
+
+resolved if the drafter of the warrant had taken the small, but
+
+important, extra step of expressly linking the three listed people
+
+with the three listed phone numbers. 24               But given all of the
+
+
+
+      24 We encourage law enforcement to provide such information on the face
+
+of the warrant application or affidavit to alleviate any doubt that those aspects
+of the warrant comply with the United States Constitution and applicable
+Georgia law. And we emphasize that this case should not be read as a holding
+that an inference connecting a target phone number with a name listed in a
+warrant will always be possible or will always support probable cause,
+particularly when a warrant references multiple phone numbers and multiple
+people. See Taylor, 303 Ga. at 60 (declining to adopt the “broad rule” that when
+an affidavit describes one place connected to a suspect and lists a specific
+address to be searched, a connection between the address and the suspect will
+
+                                       41
+ circumstances, and especially in light of the “substantial deference”
+
+we owe the magistrate’s determination of probable cause, we
+
+conclude that “the magistrate had a substantial basis for concluding
+
+that probable cause existed to issue the search warrant.” Perez, 316
+
+Ga. at 440. 25
+
+
+
+
+always be inferred as “the only logical conclusion supported by a common-sense
+reading of the affidavit”) (citation and punctuation omitted).
+
+      25 The specially concurring opinion argues that this Court should forgo
+
+considering whether this warrant was supported by probable cause, overrule
+Gary v. State, 
+262 Ga. 573
+ (
+422 SE2d 426
+) (1992), and apply a good-faith
+exception to affirm the trial court’s denial of Ledbetter’s motion to suppress the
+cell phone records. We disagree. The specially concurring opinion contends
+that we did something similar in Woodard v. State, 
+296 Ga. 803
+ (
+771 SE2d 362
+)
+(2015), where we overruled Heard v. State, 
+261 Ga. 262
+ (
+402 SE2d 438
+) (1991),
+thereby clarifying that trial counsel’s performance was not deficient, rather
+than attempting to distinguish Heard or resolve the ineffective-assistance-of-
+counsel claim on the prejudice prong. See Woodard, 
+296 Ga. at 810, 814
+ (3) (b)
+& n.5. But Woodard explained that, under the circumstances of the case, it
+was “particularly appropriate” for us to “address whether there was error
+under Heard, which involve[d] deciding whether Heard [was] good law.” 
+Id. at
+810
+ (3) (b) n.5. This was because, as we explained, it would have been a stretch
+“to distinguish th[e] case from Heard,” and whether the appellant suffered
+prejudice from the alleged deficient performance was a “very close” call. 
+Id. at
+810, 814
+ (3) (b) & n.5. Here, by contrast, we can readily resolve the case by
+applying existing precedent. And because the application of this existing
+precedent clearly shows that the warrants in this case were supported by
+probable cause, Ledbetter’s challenges to the warrants fail, and we need not
+consider whether to overrule Gary to make a good-faith exception available for
+warrants that are not supported by probable cause.
+
+                                       42
+      (ii) Ledbetter next argues that the warrant is invalid under
+
+OCGA § 16-11-66.1 (c), which allows the “state-wide application or
+
+application as provided by the laws of the United States” of search
+
+warrants for production of certain communications and records
+
+“when issued by a judge with jurisdiction over the criminal offense
+
+under investigation and to which such records relate.” Ledbetter
+
+points out that this search warrant was signed by a magistrate
+
+judge, the alleged offense is murder, and magistrate judges do not
+
+have jurisdiction over murder trials. Ledbetter did not, however,
+
+raise this argument in his motion to suppress, and instead raises it
+
+for the first time in this pretrial appeal. Because it was not raised
+
+before the trial court, it was not ruled on in the trial court’s order
+
+denying Ledbetter’s motion to suppress that is the subject of this
+
+appeal. We decline to decide this issue in the first instance. See
+
+Middleton v. State, 
+316 Ga. 808
+, 810 n.3 (
+890 SE2d 713
+) (2023)
+
+(declining to consider an argument that was “never raised in
+
+proceedings below” and was raised for the first time in a pretrial
+
+appeal of a motion to suppress).
+
+                                   43
+       (b) February 2020 Search Warrant Related to Stinchcomb’s
+      Murder26
+
+      The February 2020 search warrant sought subscriber
+
+information, call detail logs, cell tower locations, and other
+
+information for the phone number 504-402-6292 (the only non-
+
+emergency phone number mentioned in the warrant) from February
+
+1 through February 28, 2015, to search for evidence related to felony
+
+murder and attempt to sell marijuana.               The warrant requested
+
+information “within the custody and control of Verizon Wireless at
+
+
+      26 The State argues that Ledbetter has not preserved for our review any
+
+of his challenges to the February 2020 search warrant because he did not raise
+them in a “written motion” in the trial court. See OCGA § 17-5-30 (b) (requiring
+motions to suppress illegally seized evidence to “be in writing and state facts
+showing that the search and seizure were unlawful”). However, Ledbetter did
+raise these challenges in writing. Although they were filed in what was titled
+a “post-hearing brief,” rather than an express amendment to his motion to
+suppress, the State raised no objection in the trial court to Ledbetter’s
+apparent use of this brief to amend his motion, and although the trial court did
+not expressly address each challenge in its order denying Ledbetter’s motion
+to suppress, it clearly ruled that the February 2020 warrant was supported by
+probable cause and thus (at least implicitly) addressed Ledbetter’s challenges
+to that warrant. See Cowart v. State, 
+294 Ga. 333
+, 338 (
+751 SE2d 399
+) (2013)
+(explaining that “[a] brief normally does not amend a motion for new trial to
+add new grounds,” but the trial court may “in its discretion” allow the motion
+to be amended “by treating an enumeration of error raised only in the brief as
+if it had been raised in the motion”). In any event, we need not decide this
+question definitively, because these challenges all fail for the reasons discussed
+below.
+
+                                       44
+ 180 Washington Valley Road, Bedminster, NJ 07291,” for the target
+
+phone number, which was described as a “Sprint wireless telephone
+
+number(s).” The warrant, signed by a Fulton County superior court
+
+judge, 27 said that an affidavit was “made before me by Investigator
+
+Bernice Higgins, an officer charged with the duty of enforcing the
+
+Criminal Laws.”        The affidavit was completed under oath by
+
+Investigator Higgins and was based on information she received
+
+“from reports provided by the Atlanta Police Department.”
+
+     In the affidavit, Investigator Higgins averred the following.
+
+Stinchcomb was shot in Atlanta on February 13, 2015.                      After
+
+Stinchcomb     was     shot,    “law     enforcement       officers   received
+
+information” that Ledbetter and Jayvias Lott were involved in a
+
+drug deal. Ledbetter explained that a man to whom he normally
+
+sells marijuana “connected him to a new buyer named ‘Scotty.’”
+
+Ledbetter further “explained that ‘Scotty’ and LEDBETTER began
+
+
+
+
+     27 In the legal analysis that follows, we will refer to the judge who signed
+
+the warrant as a “magistrate,” both because much of our law uses that term
+when discussing the issuance of warrants, and to distinguish the judge who
+signed the warrant from the judge who denied Ledbetter’s motion to suppress.
+                                       45
+ exchanging phone calls” and eventually set up a meeting for the sale
+
+of marijuana. During this drug transaction, Stinchcomb attempted
+
+to rob the men, and Lott shot Stinchcomb. The next paragraph
+
+further explained:
+
+          Over the course of the investigation, specifically
+     when speaking with JOHN LEDBETTER, it was
+     determined that LEDBETTER communicated with
+     JAYVIAS LOTT, AKA “Scotty,” before and after the
+     homicide via cellphone. Furthermore, it was through this
+     communication that LEDBETTER and the two potential
+     purchasers facilitated this attempted purchase of
+     multiple pounds of marijuana.
+          The evidence we expect to obtain from the cell phone
+     dump includes but not limited to: corroborate JOHN
+     LEDBETTER’S version of events, and to identify other
+     dates and times JOHN LEDBETTER would have been in
+     communication with other involved parties.
+
+     (i) Similar to his complaint about the February 2016 search
+
+warrant related to Miller’s shooting, Ledbetter argues that this
+
+search warrant was not supported by probable cause because it
+
+failed to connect the target phone number to the alleged crimes or
+
+Ledbetter.   Thus, we again consider whether, “given all the
+
+circumstances set forth in the affidavit,” the magistrate had a
+
+“substantial basis” for concluding that there was a fair probability
+
+                                46
+ that evidence of the murder would be found in the records of this
+
+phone number. Perez, 316 Ga. at 440.
+
+     Information in the affidavit and application provided the
+
+magistrate a substantial basis for concluding that Ledbetter’s phone
+
+contained evidence of the charged crimes. According to the affidavit,
+
+Ledbetter said that he and Lott “began exchanging phone calls” and
+
+eventually set up a drug transaction. At this meeting, Stinchcomb
+
+attempted to rob the men, and Lott shot Stinchcomb in the head.
+
+This information supports the common-sense inference that
+
+evidence related to the attempted drug sale and shooting could be
+
+located on Ledbetter’s phone. See Eggerson, 999 F3d at 1127.
+
+     Although the February 2020 warrant does not expressly state
+
+that the target number was Ledbetter’s phone number, there was
+
+sufficient information in the affidavit to allow the magistrate to infer
+
+that the number belonged to Ledbetter. Specifically, the application
+
+first listed the target phone number (the only non-emergency phone
+
+number mentioned).        Then the affidavit said that Ledbetter
+
+“explained that [Lott] and LEDBETTER began exchanging phone
+
+                                  47
+ calls” and set up the meeting where the shooting then took place,
+
+showing that law enforcement was interested in Ledbetter’s phone
+
+use and had an opportunity to learn Ledbetter’s phone number when
+
+talking to Ledbetter about his phone calls. The next paragraph then
+
+referenced this information provided by Ledbetter in summarizing
+
+what law enforcement learned from speaking with Ledbetter (that
+
+Ledbetter talked to Lott “before and after the homicide via
+
+cellphone” and set up the drug deal) before explaining what law
+
+enforcement “expected[ed] to obtain from the cell phone dump.” The
+
+anticipated information was information one would expect to find on
+
+Ledbetter’s phone, including information that could “corroborate
+
+JOHN LEDBETTER’S version of the evidence” and “identify other
+
+dates and times JOHN LEDBETTER would have been in
+
+communication with other involved parties.”
+
+     That the affidavit explained that Ledbetter described to law
+
+enforcement his cell phone use around the time of the shooting and
+
+then said that law enforcement expected that “the cell phone dump”
+
+requested   would   corroborate    Ledbetter’s   story   and   reveal
+
+                                  48
+ Ledbetter’s additional contacts further supports the reasonable
+
+inference that the target number belonged to Ledbetter. See Taylor,
+
+303 Ga. at 61 (“[W]hen the attachment says that evidence of the
+
+alleged crimes may be found at “said location,” which was
+
+particularly described as 1751 Bergen Court, and describes Taylor’s
+
+house as the crime scene, we think that the magistrate could have
+
+reasonably inferred the “crime scene” was 1751 Bergen Court.”);
+
+Hunter, 86 F3d at 681.
+
+     Thus, in light of all of the information provided to the
+
+magistrate, and again keeping in mind the substantial deference we
+
+owe to the magistrate’s determination, we conclude that “the
+
+magistrate, making a practical and common-sense decision, was
+
+entitled to infer that there was a ‘fair probability’” that the target
+
+phone number belonged to Ledbetter and that evidence of the
+
+alleged murder would be found in the number’s phone records.
+
+Taylor, 303 Ga. at 61.
+
+     (ii) Ledbetter next argues that the warrant and affidavit failed
+
+to establish probable cause because the target number is identified
+
+                                 49
+ as a “Sprint Wireless Telephone Number” but the records to be
+
+searched are alleged to be “located within the control of Verizon
+
+Wireless.” However, this mismatch of cell phone providers is an
+
+example of a “technical irregularity,” and “[n]o search warrant shall
+
+be quashed or evidence suppressed because of a technical
+
+irregularity not affecting the substantial rights of the accused.”
+
+OCGA § 17-5-31. See also Dent v. State, 
+303 Ga. 110
+, 117 (
+810 SE2d
+
+527
+) (2018) (“Mere typographical or clerical errors do not ordinarily
+
+provide a basis to suppress evidence.”).
+
+     Here, the phone number sought to be searched was clearly
+
+provided, and whether it was a number serviced by Sprint or Verizon
+
+did not affect Ledbetter’s rights. See Carson v. State, 
+314 Ga. App.
+
+515
+, 516 (
+724 SE2d 821
+) (2012) (concluding that the affidavit’s
+
+identification of “another individual as the suspected shooter in a
+
+paragraph summarizing the officer’s findings” did not “destroy the
+
+integrity of the affidavit or the validity of the warrant” where Carson
+
+was correctly identified as the suspected shooter in the remainder of
+
+the six-page affidavit). Thus, Ledbetter’s argument fails.
+
+                                  50
+      (iii)    Ledbetter further argues that the affidavit is faulty
+
+because the “entire substance” of the affidavit is hearsay. However,
+
+hearsay may be used in affidavits in support of search warrants. See
+
+OCGA § 24-1-2 (c) (5) (explaining that generally “[t]he rules of
+
+evidence, except those with respect to privileges” do not apply in
+
+“[p]roceedings for the issuance of . . . search warrants”). It is the
+
+duty of the magistrate in determining if the warrant is supported by
+
+probable cause to consider “the veracity and basis of knowledge of
+
+persons supplying hearsay information.” Britton, 316 Ga. at 286
+
+(citation and punctuation omitted). See also Lewis v. State, 
+255 Ga.
+
+101
+, 105 (
+335 SE2d 560
+) (1985) (“The rule in Georgia has been that
+
+an affidavit supporting a search warrant may be based on hearsay
+
+information as long as there is a substantial basis for crediting the
+
+hearsay.”).    Magistrates may generally presume that “local law
+
+enforcement officials participating in common investigation are
+
+reliable informants and their information may be relied on to
+
+establish probable cause for the issuance of search warrants.”
+
+Pollard v. State, 
+236 Ga. 587
+, 589 (
+224 SE2d 420
+) (1976). See also
+
+                                  51
+ Britton, 316 Ga. at 294 (“[W]hen Detective Jackson’s Affidavit
+
+includes information obtained from another officer working on the
+
+investigation, the magistrate was entitled to consider such hearsay
+
+evidence.”).
+
+       In this case, the affiant explained that she received the
+
+information in the affidavit “from reports provided by the Atlanta
+
+Police Department.” Ledbetter offers no compelling reason for the
+
+magistrate to doubt the reliability of the officer who completed the
+
+affidavit or the police reports on which she relied, and his argument
+
+fails. 28
+
+       (iv)   Finally, Ledbetter argues that the affidavit does not
+
+establish that the affiant, identified as “Investigator Bernice
+
+Higgins, an officer charged with the duty of enforcing the Criminal
+
+Laws,” satisfies OCGA § 17-5-20 (a), which says:
+
+
+       28 Ledbetter also argues in passing that because the affidavit does not
+
+indicate the dates of the reports relied on by the affiant, there is a risk of
+“staleness.” However, Ledbetter offers no reason to believe that the phone
+records sought would no longer contain evidence related to the charged crimes.
+See Rawls v. State, 
+310 Ga. 209
+, 222 (
+850 SE2d 90
+) (2020) (“Staleness as [it]
+relates to probable cause is measured by the probability that the thing to be
+seized is located at the place to be searched.”) (citation and punctuation
+omitted).
+                                      52
+      A search warrant may be issued only upon the application
+     of an officer of this state or its political subdivisions
+     charged with the duty of enforcing the criminal laws or a
+     currently certified peace officer engaged in the course of
+     official duty, whether said officer is employed by a law
+     enforcement unit of:
+     (1) The state or a political subdivision of the state; or
+     (2) A university, college, or school.
+
+Although the affidavit clearly identifies Investigator Higgins as “an
+
+officer charged with the duty of enforcing the Criminal Law,”
+
+Ledbetter argues that the warrant was required to identify her as
+
+an “officer of this state.” However, there was no reason for the
+
+magistrate to believe that Investigator Higgins, who swore out this
+
+affidavit “before” this magistrate in this state about a shooting that
+
+happened in this state, was not an officer of this state. Ledbetter’s
+
+“hypertechnical argument” in this regard fails. See Perez, 316 Ga.
+
+at 440 (“The test for probable cause is not a hypertechnical one to be
+
+employed by legal technicians, but is based on the factual and
+
+practical considerations of everyday life.”) (citation and punctation
+
+omitted).
+
+
+
+
+                                 53
+      Because none of Ledbetter’s challenges to the February 2016
+
+or February 2020 search warrants have merit, we affirm the trial
+
+court’s denial of his motion to suppress.
+
+     Case No. S23A0900 and Case No. S23X0901 affirmed. All the
+Justices concur, except Boggs, C.J., Peterson, P.J., and LaGrua, J.,
+who concur specially in Divisions (2) (a) (i) and (2) (b) (i).
+
+
+
+
+                                 54
+      BETHEL, Justice, concurring.
+
+     Because I believe it represents a faithful application of the law,
+
+I join the majority opinion in full. I write separately to note my
+
+agreement with the concerns raised in Presiding Justice Peterson’s
+
+special concurrence regarding the confused state of our decisional
+
+law brought on by our decision in Gary v. State, 
+262 Ga. 573
+ (
+422
+
+SE2d 426
+) (1992). Like the Presiding Justice, I recognize Gary’s
+
+imperiled and untenable position in our law. While the majority
+
+opinion demonstrates that we need not overrule Gary to decide the
+
+case at hand, the “mess” the Presiding Justice describes is due to be
+
+cleaned up.
+
+     I am authorized to state that Justice Warren, Justice
+
+McMillian, and Justice Pinson join in this concurrence.
+
+
+
+
+                                  55
+      PETERSON, Presiding Justice, concurring specially.
+
+     Over 30 years ago, this Court invented a new version of the
+
+exclusionary rule — a version that excluded more evidence than the
+
+federal version. See Gary v. State, 
+262 Ga. 573
+ (
+422 SE2d 426
+) (1992)
+
+(holding that OCGA § 17-5-30 created a Georgia statutory
+
+exclusionary rule that did not contain the good faith exception to the
+
+federal exclusionary rule recognized in United States v. Leon, 
+468
+
+U.S. 897
+ (104 SCt 3405, 82 LE2d 677) (1984)). Several years ago, we
+
+emphatically determined that Gary was wrongly decided. See
+
+Mobley v. State, 
+307 Ga. 59
+, 72-75 (4) (a) (
+834 SE2d 785
+) (2019). But
+
+we could not overrule Gary’s holding prohibiting Georgia courts from
+
+applying Leon, however, because Mobley did not involve a claim to
+
+which Leon could apply. See id. at 76 (4) (a) n.21.
+
+     Now, after more than three decades of Georgia courts excluding
+
+evidence due only to our misbegotten invention in Gary, such a case
+
+squarely presents itself. But instead of finishing the job we started
+
+in Mobley (and have taken further in other contexts since then), the
+
+majority chooses to leave Gary’s holding — now admittedly wrong
+
+                                  56
+ and based on reasoning no longer followed in any other respect —
+
+binding on all Georgia courts. I cannot and do not agree with that
+
+decision, and so I do not join Divisions (2) (a) (i) and (2) (b) (i). But
+
+because I would overrule whatever vestiges of Gary still remain and
+
+apply Leon’s good faith exception, I concur in the judgment of those
+
+divisions. I join the remainder of the decision of the Court in full.
+
+     The officers who searched the defendant’s phone did so in good
+
+faith reliance on the search warrant. Under federal law, this renders
+
+the exclusionary rule inapplicable even if the warrant was not
+
+supported by probable cause. See Leon, 
+468 U.S. at 919-920
+ (III) (B).
+
+But we held over 30 years ago that OCGA § 17-5-30 requires
+
+exclusion of all evidence seized with a warrant unsupported by
+
+probable cause, regardless of whether a federal good faith exception
+
+might have applied. See Gary, 
+262 Ga. at 574-575
+. Subsection (a) of
+
+that statute provides as follows:
+
+           A defendant aggrieved by an unlawful search and
+     seizure may move the court for the return of property, the
+     possession of which is not otherwise unlawful, and to
+     suppress as evidence anything so obtained on the grounds
+     that:
+
+                                    57
+            (1) The search and seizure without a warrant was
+     illegal; or
+           (2) The search and seizure with a warrant was
+     illegal because the warrant is insufficient on its face,
+     there was not probable cause for the issuance of the
+     warrant, or the warrant was illegally executed.
+
+OCGA § 17-5-30 (a). And subsection (b) provides in relevant part
+
+that “[i]f the motion is granted the property shall be restored, unless
+
+otherwise subject to lawful detention, and it shall not be admissible
+
+in evidence against the movant in any trial.”
+
+     In Gary, this Court interpreted OCGA § 17-5-30 as an
+
+“unequivocal expression of [the Legislature’s] desire that evidence
+
+seized by means of a warrant that is not supported by probable cause
+
+be suppressed.” Gary, 
+262 Ga. at 575
+. This interpretation rejected
+
+the possibility of exceptions to the exclusionary rule and, in doing
+
+so, rejected the good faith exception, which would otherwise permit
+
+the introduction of evidence that officers obtained by acting in
+
+reasonable reliance on a warrant issued by a neutral and detached
+
+magistrate but that ultimately lacked probable cause. See 
+id. at 574
+.
+
+
+
+
+                                  58
+      This reasoning, of course, did not turn on anything specific to
+
+warrants lacking probable cause. The structure of the statute
+
+applies the statute’s provisions equally to each of the four
+
+enumerated ways in which a search and seizure may have been
+
+unlawful: (1) it was done illegally without a warrant, (2) it was done
+
+illegally with a warrant because the warrant was insufficient on its
+
+face, (3) it was done illegally with a warrant because the warrant
+
+was unsupported by probable cause, and (4) it was done illegally
+
+with a warrant because the warrant was illegally executed. See
+
+OCGA § 17-5-30 (a). Under Gary’s reasoning, if any of these four
+
+enumerated bases of unlawfulness is present, the evidence must be
+
+excluded.
+
+     Twenty-seven years later, we repudiated Gary’s interpretation
+
+of the statute. In Mobley, we “disavow[ed] the unsound reasoning of
+
+Gary,” limited its application only to the Leon good faith exception
+
+at issue there, and concluded that OCGA § 17-5-30 meant “what it
+
+most naturally and reasonably is understood in context to mean —
+
+it establishes a procedure for applying the exclusionary rule but does
+
+                                 59
+ not itself require the suppression of any evidence.” 307 Ga. at 75 (4)
+
+(a). But we could not reach the question of overruling the Leon
+
+holding, because the facts of Mobley would not warrant application
+
+of Leon, and so we concluded that overruling that holding was “a
+
+question that [would] have to await a case involving the reliance of
+
+an officer in good faith on the validity of a search warrant.” Id. at 76
+
+(4) (a) n.21.
+
+     Though much of Mobley on this point may have been dicta, we
+
+have since applied its rationale as a holding to admit evidence more
+
+times than we have ever applied Gary to suppress evidence. See
+
+Outlaw v. State, 
+311 Ga. 396
+, 400 (2) (b) n.4 (
+858 SE2d 63
+) (2021)
+
+(applying Mobley to hold that Gary did not foreclose the application
+
+of two other kinds of good faith exception when evidence was
+
+illegally seized without a warrant and to affirm the trial court’s
+
+denial of a motion to suppress evidence); Lofton v. State, 
+310 Ga.
+
+770
+, 782-784 (2) nn.17-18 (
+854 SE2d 690
+) (2021) (same), disapproved
+
+in part on other grounds by Outlaw, 311 Ga. at 401 (2) (b) n.5;
+
+Swinson v. State, 
+311 Ga. 48
+, 54-55 (2) (a) (
+855 SE2d 629
+) (2021)
+
+                                  60
+ (applying Lofton to affirm the trial court’s denial of a motion to
+
+suppress evidence), disapproved in part on other grounds by Outlaw,
+
+311 Ga. at 401 (2) (b) n.5; Gialenios v. State, 
+310 Ga. 869
+, 876-877
+
+(2) (
+855 SE2d 559
+) (2021) (same), disapproved in part on other
+
+grounds by Outlaw, 311 Ga. at 401 (2) (b) n.5.
+
+     We also noted in Mobley that even before Mobley’s repudiation
+
+of Gary’s reasoning, both this Court and the Court of Appeals had
+
+regularly applied other exceptions to the exclusionary rule without
+
+any consideration of Gary or OCGA § 17-5-30. See Mobley, 307 Ga.
+
+at 74 (4) (a) (citing Teal v. State, 
+282 Ga. 319
+, 325 (2) (
+647 SE2d 15
+)
+
+(2007) (inevitable discovery exception); Taylor v. State, 
+274 Ga. 269
+,
+
+274-275 (3) (
+553 SE2d 598
+) (2001) (inevitable discovery exception),
+
+disapproved in part on other grounds by State v. Chulpayev, 
+296 Ga.
+
+764
+, 783 (3) (b) (
+770 SE2d 808
+) (2015); Stephens v. State, 
+346 Ga.
+
+App. 686
+, 691-693 (2) (
+816 SE2d 748
+) (2018) (independent source
+
+exception); Pinkney v. State, 
+332 Ga. App. 727
+, 731 (2) (
+774 SE2d
+
+770
+) (2015) (independent source exception); Ansley v. State, 
+325 Ga.
+
+App. 226
+, 231 (1) (b) (
+750 SE2d 484
+) (2013) (independent source
+
+                                  61
+ exception); Schweitzer v. State, 
+319 Ga. App. 837
+, 840 (
+738 SE2d
+
+669
+) (2013) (inevitable discovery exception); Williams v. State, 
+308
+
+Ga. App. 464
+, 468 (2) (
+708 SE2d 32
+) (2011) (inevitable discovery
+
+exception); Cunningham v. State, 
+284 Ga. App. 739
+, 742 (
+644 SE2d
+
+878
+) (2007) (inevitable discovery exception)).
+
+     In other words, the current state of Georgia law is that the
+
+statutory text “[a] defendant aggrieved by an unlawful search and
+
+seizure may move the court . . . to suppress as evidence anything so
+
+obtained” and “[i]f the motion is granted the . . . [evidence] shall not
+
+be admissible in evidence against the movant in any trial” somehow
+
+singles out the Leon good faith exception to the exclusionary rule —
+
+alone among all the other exceptions — as uniquely inapplicable in
+
+Georgia courts. There is no rational way to read those words to mean
+
+something so strange.
+
+     And unless we take the one final step that Mobley could not,
+
+that bizarre result will remain binding on all other Georgia courts.
+
+Whatever force stare decisis might have had before we started
+
+disassembling Gary, it has vanishingly little now. And while I have
+
+                                  62
+ often urged this Court to adhere to prior holdings as a matter of that
+
+doctrine, the time for that on this issue has come and gone.29
+
+      In short: (1) there is no support in the text of OCGA § 17-5-30
+
+for the idea that the statute permits some exceptions to the
+
+exclusionary rule but excludes others; (2) the current state of the
+
+law is a mess of our own making, and we should clean it up; and (3)
+
+until we do, trial courts will be compelled to exclude evidence that
+
+federal law would admit, and the Court of Appeals will be compelled
+
+to affirm that exclusion. And in the face of all of this, the majority
+
+
+
+      29 The fact that whether the trial court erred in denying the motion to
+
+suppress can be resolved without addressing the Gary issue does not hinder us
+from taking that final step here. Indeed, we did the same thing in Woodard v.
+State, 
+296 Ga. 803
+ (
+771 SE2d 362
+) (2015), where the case could “be resolved
+without reaching [the] issue” of whether Heard v. State, 
+261 Ga. 262
+ (
+402 SE2d
+438
+) (1991) was “good law[.]” Woodard, 
+296 Ga. at 815
+ (1) (Benham, J.,
+concurring specially). Today’s majority overlooks the fact that the Woodard
+majority had options: (1) it could attempt to resolve the ineffective assistance
+of counsel claim on the “very close” question of whether the defendant was
+prejudiced by any deficient performance, 
+id. at 810
+ (3) (b) & n.5; (2) it “could
+endeavor to distinguish [that] case from Heard[,]” 
+id. at 814
+ (3) (b); or (3) it
+could “reconsider and overrule Heard[,]” 
+id. at 811
+ (3) (b). And yet the Woodard
+majority held that “[t]he better course [was] simply to overrule Heard [then],
+before it [became] any more entrenched” and overruled Heard. 
+Id. at 814
+ (3)
+(b). The use of “the better course” itself implies the existence of multiple
+courses the Court could have taken. Further, similar to the special concurrence
+in Woodard, the majority makes no attempt to justify keeping in place the mess
+that we created in Gary.
+                                      63
+ offers no explanation whatsoever for its decision to require all other
+
+Georgia courts to continue applying Gary. I would overrule whatever
+
+traces remain of Gary and affirm the trial court’s denial of his
+
+motion to suppress under the Leon good faith exception to the
+
+exclusionary rule.
+
+     I am authorized to state that Chief Justice Boggs and Justice
+
+LaGrua join in this concurrence.
+
+
+
+
+                                   64
+ 

@@ -1,0 +1,177 @@
+                               SECOND DIVISION
+                                 MILLER, P. J.,
+                              MARKLE and LAND, JJ.
+
+                    NOTICE: Motions for reconsideration must be
+                    physically received in our clerk’s office within ten
+                    days of the date of decision to be deemed timely filed.
+                               https://www.gaappeals.us/rules
+
+
+
+                                                                       May 23, 2024
+
+
+
+
+In the Court of Appeals of Georgia
+ A24A0558. STATE v. JONES.
+
+      LAND, Judge.
+
+      In this case, the State appeals from the trial court’s dismissal of several
+
+misdemeanor traffic offenses as barred by the statutes of limitation, arguing that the
+
+trial court erred by incorrectly calculating the tolling period established by the
+
+Supreme Court of Georgia’s orders establishing and extending a statewide judicial
+
+emergency during the COVID-19 pandemic. We agree and reverse.
+
+      Iqukema Jones was arrested on June 7, 2020 in connection with a traffic
+
+accident in Marietta. On March 21, 2023, more than two years after the incident, the
+
+State filed accusations against Jones for less-safe driving under the influence of alcohol
+ (DUI) and other misdemeanor traffic offenses. The accusations included the following
+
+language regarding the tolling of the statute of limitations:
+
+       [A]s to the offense(s) charged herein, the period in which a prosecution
+       must be commenced under OCGA § 17-3-1 and other applicable statutes
+       does not include the dates beginning March 14, 2020, and ending June
+       30, 2021, pursuant to the Supreme Court of Georgia Order Declaring
+       Statewide Judicial Emergency issued on March 14, 2020, and subsequent
+       Orders Extending Declaration of Statewide Judicial Emergeny issued on
+       April 6, May 11, June 12, July 10, August 11, September 10, October 10,
+       November 9, and December 9, 2020, and January 8, February 7, March
+       9, 2021, April 8, 2021, May 8, 2021, and June 7, 2021.
+
+
+       At a motions hearing before the trial court on September 11, 2023, the trial
+
+court raised a concern about whether the statute of limitations had run prior to the
+
+accusations in this case. Defense counsel did not contest that the case had been
+
+accused within the statute of limitations but stated that the statute of limitations in this
+
+case had been tolled for 474 days due to the Georgia Supreme Court’s orders
+
+establishing and extending a statewide judicial emergency during the COVID-19
+
+pandemic. On September 15, the trial court issued an order dismissing the case for
+
+violating the applicable statute of limitation. Specifically, the trial court’s order cited
+
+to the guidance provided in our Supreme Court’s July 10, 2020 Fourth Order
+
+                                             2
+ Extending Declaration of Statewide Judicial Emergency and concluded that the statute
+
+of limitation in Jones’ case had been extended only 122 days. The trial court further
+
+concluded that the limitation period in Jones’ case began to run on July 14, 2020 and
+
+thus, “the case against this Defendant should have been accused no later than July 14,
+
+2022.” The State appeals, arguing that the trial court erred in its calculation of the
+
+tolling period for the statute of limitation.
+
+      We review legal errors with respect to statute of limitation issues de novo. See
+
+State v. Conzo, 
+293 Ga. App. 72
+, 73 (
+666 SE2d 404
+) (2008).
+
+      Prior to Jones’ arrest in June 2020,
+
+      [o]n March 14, 2020, pursuant to OCGA § 38-3-62 and citing the public
+      health emergency presented by the COVID-19 pandemic, Supreme
+      Court of Georgia Chief Justice Harold Melton issued an order declaring
+      a statewide judicial emergency. Among other things, the judicial
+      emergency declaration suspended, tolled, extended and otherwise
+      granted relief from any deadlines or time schedules in civil and criminal
+      cases.
+
+
+
+
+                                            3
+ Copeland v. Copeland, 
+361 Ga. App. 125
+, 127, n. 3 (
+863 SE2d 509
+) (2021). The COVID-
+
+19 judicial emergency orders were subsequently extended several times.1
+
+      On July 10, 2020, our Supreme Court issued its Fourth Order Extending
+
+Declaration of Statewide Judicial Emergency. The Fourth Order stated that, effective
+
+July 14, 2020, “all deadlines and other time schedules and filing requirements . . . that
+
+have been suspended, tolled, extended, or otherwise relieved by the March 14, 2020
+
+Order” would be reimposed, with certain exceptions and conditions, and that “[t]he
+
+122 days between March 14 and July 14, 2020, or any portion of that period in which
+
+a statute of limitation would have run, shall be excluded from the calculation of that
+
+statute of limitation.” Importantly, however, the Fourth Order also stated that
+
+“[u]ntil grand jury proceedings are generally authorized, statutes of limitation in
+
+criminal cases shall also remain tolled.” Our Supreme Court extended the COVID-19
+
+judicial emergency orders a total of fifteen times, the last of which ended the judicial
+
+emergency as of June 30, 2021. In its 15th Order, our Supreme Court indicated that
+
+the “[u]ntil this Order expires, all Georgia courts shall continue to operate under the
+
+requirements set forth in the Order as extended.” Although “[s]tatutes of limitation
+
+      1
+         The Chief Justice’s Orders are available                                     at
+https://www.gasupreme.us/court-information/court_corona_info/.
+                                           4
+ in criminal cases also remain tolled,” the Court noted that “when this statewide
+
+judicial emergency order expires, all deadlines not already reimposed will immediately
+
+be reimposed (unless tolled by an applicable local judical emergency order).”
+
+      Accordingly, although the statute of limitation for misdemeanor offenses is
+
+generally two years, see OCGA § 17-3-1, the COVID-19 Emergency Orders tolled the
+
+statute of limitation in criminal cases from March 14, 2020, until June 30, 2021.
+
+Because the two year statute of limitation in Jones’ case did not expire until after the
+
+accusations were filed against her on March 21, 2023, the trial court erred in
+
+dismissing the case against her. See Chang v. Bank of Am., 
+251 Ga. App. 577
+, 577 (
+554
+
+SE2d 765
+) (2001) (reversing improper dismissal of RICO charges on statute of
+
+limitation grounds).
+
+      Judgment reversed. Miller, P. J., and Markle, J., concur.
+
+
+
+
+                                           5
+ 
