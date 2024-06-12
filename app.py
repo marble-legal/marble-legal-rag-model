@@ -35,7 +35,7 @@ def chat_scale_ai(query):
 
     PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
     loaded_db = Chroma(persist_directory='./chromadb', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
-    llm = ChatOpenAI(model_name='gpt-4', temperature=0.1)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0.1)
     question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
     doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
     test_retriever = loaded_db.as_retriever()
