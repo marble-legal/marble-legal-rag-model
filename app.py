@@ -37,14 +37,17 @@ def chat_scale_ai(query,history):
         combine_docs_chain=doc_chain,
         retriever=test_retriever,
         question_generator=question_generator,
+        return_source_documents=True
     )
 
     if len(chat_hist_dict_for_llm) > 0:
         payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm})
     else:
         payload = qa({"question": str(query), "chat_history": []})
-
-    return payload['answer']
+    source_urls = []
+    for doc in payload['source_documents']:
+        source_urls.append(doc.metadata['source'])
+    return payload['answer'],source_urls
 
 @app.route('/ask', methods=['POST'])
 def ask():
@@ -58,8 +61,8 @@ def ask():
         return jsonify({"error": "Query parameter is required"}), 400
     if not history:
         history = []
-    answer = chat_scale_ai(query,history)
-    return jsonify({"answer": answer})
+    answer,source_documents = chat_scale_ai(query,history)
+    return jsonify({"answer": answer,"source_documents":source_documents}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
