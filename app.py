@@ -47,6 +47,7 @@ def chat_scale_ai(query,history):
     source_urls = []
     for doc in payload['source_documents']:
         source_urls.append(doc.metadata['source'])
+    source_urls = list(set(source_urls))
     return payload['answer'],source_urls
 
 @app.route('/ask', methods=['POST'])
@@ -65,4 +66,4 @@ def ask():
     return jsonify({"answer": answer,"source_documents":source_documents}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
