@@ -29,10 +29,12 @@ def chat_scale_ai(query,history):
 
     PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
     loaded_db = Chroma(persist_directory='./chromadb', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
+    # docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=4)
+    # print(docs)
     llm = ChatOpenAI(model_name='gpt-4o', temperature=0.1)
     question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
     doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
-    test_retriever = loaded_db.as_retriever()
+    test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
     qa = ConversationalRetrievalChain(
         combine_docs_chain=doc_chain,
         retriever=test_retriever,
@@ -66,4 +68,4 @@ def ask():
     return jsonify({"answer": answer,"source_documents":source_documents}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
