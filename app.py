@@ -48,8 +48,9 @@ def chat_scale_ai(query,history):
         payload = qa({"question": str(query), "chat_history": []})
     source_urls = []
     for doc in payload['source_documents']:
-        source_urls.append(doc.metadata['source'])
-    source_urls = list(set(source_urls))
+        print(doc.metadata['source'])
+        source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
+    # source_urls = list(set(source_urls))
     return payload['answer'],source_urls
 
 @app.route('/ask', methods=['POST'])
@@ -65,7 +66,9 @@ def ask():
     if not history:
         history = []
     answer,source_documents = chat_scale_ai(query,history)
+    
+    print(source_documents)
     return jsonify({"answer": answer,"source_documents":source_documents}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
