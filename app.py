@@ -14,11 +14,12 @@ VALID_API_KEYS = {os.getenv("FLASK_API_KEY")}
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 app = Flask(__name__)
 
-def chat_scale_ai(query,history):
+def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     prompt_template = """
-        Act as an expert lawyer and use the following pieces of context of cases to formulate an answer based on them. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer based on them. If you don't know the answer, just say that you don't know, don't try to make up an answer.
         {context}
         Question: {question}
+        Chat History: {chat_history}
         Helpful Answer:"""
    
     try:
@@ -26,32 +27,39 @@ def chat_scale_ai(query,history):
     except:
         chat_hist_dict_for_llm = []
     
+    PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question","chat_history"])
+    loaded_db = Chroma(persist_directory=f'VDbs/{jurisdiction}', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
+    docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
+    if docs[0][1] >= 0.1 or follow_up_flag:
+        llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
+        doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
+        test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
+        qa = ConversationalRetrievalChain(
+            combine_docs_chain=doc_chain,
+            retriever=test_retriever,
+            question_generator=question_generator,
+            return_source_documents=True
+        )
 
-    PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    loaded_db = Chroma(persist_directory='./chromadb', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
-    # docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=4)
-    # print(docs)
-    llm = ChatOpenAI(model_name='gpt-4o', temperature=0.1)
-    question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
-    doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
-    test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
-    qa = ConversationalRetrievalChain(
-        combine_docs_chain=doc_chain,
-        retriever=test_retriever,
-        question_generator=question_generator,
-        return_source_documents=True
-    )
-
-    if len(chat_hist_dict_for_llm) > 0:
-        payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm})
+        if len(chat_hist_dict_for_llm) > 0:
+            payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm})
+        else:
+            payload = qa({"question": str(query), "chat_history": []})
+        source_urls = []
+        for doc in payload['source_documents']:
+            source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
+        # source_urls = list(set(source_urls))
+        return payload['answer'],source_urls,False
     else:
-        payload = qa({"question": str(query), "chat_history": []})
-    source_urls = []
-    for doc in payload['source_documents']:
-        print(doc.metadata['source'])
-        source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
-    # source_urls = list(set(source_urls))
-    return payload['answer'],source_urls
+        _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and recent query {question}.Identify the main subject of discussion from the chat history. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the generated question in a well laid out text format :-  Q. """
+        SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question"])  
+        question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
+        question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query})
+        return question,[],True
+    
+
 
 @app.route('/ask', methods=['POST'])
 def ask():
@@ -61,14 +69,17 @@ def ask():
     data = request.json
     query = data.get('query')
     history = data.get('history')
+    jurisdiction = data.get('jurisdiction')
+    follow_up_flag = data.get('follow_up_flag',False)
     if not query:
         return jsonify({"error": "Query parameter is required"}), 400
     if not history:
         history = []
-    answer,source_documents = chat_scale_ai(query,history)
-    
-    print(source_documents)
-    return jsonify({"answer": answer,"source_documents":source_documents}), 200
+    if not jurisdiction:
+        return jsonify({"error": "Jurisdiction parameter is required"}), 400
+    answer,source_documents,follow_up = chat_scale_ai(query,history,jurisdiction,follow_up_flag)
+    unique_source_documents = [dict(t) for t in {tuple(d.items()) for d in source_documents}]
+    return jsonify({"answer": answer,"source_documents":unique_source_documents,"follow_up":follow_up}), 200
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001)
