@@ -53,11 +53,11 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         return payload['answer'],source_urls,False
     else:
         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
-        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question}. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the generated question in a well laid out text format :-  Q. """
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question}. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
-        question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query})
-        return question,[],True
+        new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query})
+        return new_question['text'],[],True
     
 
 
