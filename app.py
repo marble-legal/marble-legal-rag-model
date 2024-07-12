@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     prompt_template = """
-        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question - {question} based on them the jurisdiction is US - {jurisdiction} state. If you don't know the answer, just say that you don't know, don't try to make up an answer. Return only answer and nothing else.
+        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question - {question} based on them the jurisdiction is US - {jurisdiction} state. Return only answer and nothing else.
         {context}
         Question: {question}
         Chat History: {chat_history}
