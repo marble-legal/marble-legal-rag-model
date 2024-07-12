@@ -43,7 +43,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         )
 
         if len(chat_hist_dict_for_llm) > 0:
-            payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm})
+            payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm,"jurisdiction":jurisdiction})
         else:
             payload = qa({"question": str(query), "chat_history": [],"jurisdiction":jurisdiction})
         source_urls = []
@@ -82,4 +82,4 @@ def ask():
     return jsonify({"answer": answer,"source_documents":unique_source_documents,"follow_up":follow_up}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
