@@ -56,7 +56,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
-        new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query})
+        new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query,"jurisdiction":jurisdiction})
         return new_question['text'],[],True
     
 
@@ -82,4 +82,4 @@ def ask():
     return jsonify({"answer": answer,"source_documents":unique_source_documents,"follow_up":follow_up}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001)
+    app.run(host='0.0.0.0', port=5000)
