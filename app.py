@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     prompt_template = """
-        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question - {question} based on them the jurisdiction is US - {jurisdiction} state. Return only answer and nothing else.
+        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question or foolow up answer from chat history- {question} based on them the jurisdiction is US - {jurisdiction} state. Return only answer and nothing else.
         {context}
         Question: {question}
         Chat History: {chat_history}
@@ -30,7 +30,12 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question","chat_history","jurisdiction"])
     loaded_db = Chroma(persist_directory=f'VDbs/{jurisdiction}', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
     docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
-    if docs[0][1] >= 0.1 or follow_up_flag:
+    if follow_up_flag:
+         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent answer {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate a final question that can be answered."""
+        SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
+        question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
+        new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query,"jurisdiction":jurisdiction})
         llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
         doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
