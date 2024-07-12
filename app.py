@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     prompt_template = """
-        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question - {question} based on them. If you don't know the answer, just say that you don't know, don't try to make up an answer. Return only answer and nothing else.
+        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question - {question} based on them the jurisdiction is US - {jurisdiction} state. If you don't know the answer, just say that you don't know, don't try to make up an answer. Return only answer and nothing else.
         {context}
         Question: {question}
         Chat History: {chat_history}
@@ -53,8 +53,8 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         return payload['answer'],source_urls,False
     else:
         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
-        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question}. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
-        SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question"])  
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
+        SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
         new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query})
         return new_question['text'],[],True
