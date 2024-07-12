@@ -31,13 +31,14 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     loaded_db = Chroma(persist_directory=f'VDbs/{jurisdiction}', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
     docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
     if follow_up_flag:
-         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
-        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent answer {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate a final question that can be answered."""
+        _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent answer {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate a final question that can be answered.Generate only question and nothing else."""
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
         new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query,"jurisdiction":jurisdiction})
         llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
+        query = new_question['text']
         doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
         test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
         qa = ConversationalRetrievalChain(
@@ -56,6 +57,30 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
             source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
         # source_urls = list(set(source_urls))
         return payload['answer'],source_urls,False
+    
+    elif docs[0][1] >= 0.1:
+        llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
+        query = new_question['text']
+        doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
+        test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
+        qa = ConversationalRetrievalChain(
+            combine_docs_chain=doc_chain,
+            retriever=test_retriever,
+            question_generator=question_generator,
+            return_source_documents=True
+        )
+
+        if len(chat_hist_dict_for_llm) > 0:
+            payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm,"jurisdiction":jurisdiction})
+        else:
+            payload = qa({"question": str(query), "chat_history": [],"jurisdiction":jurisdiction})
+        source_urls = []
+        for doc in payload['source_documents']:
+            source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
+        # source_urls = list(set(source_urls))
+        return payload['answer'],source_urls,False
+    
     else:
         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """ Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
