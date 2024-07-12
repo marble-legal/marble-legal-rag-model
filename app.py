@@ -27,7 +27,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     except:
         chat_hist_dict_for_llm = []
     
-    PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question","chat_history"])
+    PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question","chat_history","jurisdiction"])
     loaded_db = Chroma(persist_directory=f'VDbs/{jurisdiction}', embedding_function=OpenAIEmbeddings(model="text-embedding-3-large"))
     docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
     if docs[0][1] >= 0.1 or follow_up_flag:
@@ -45,7 +45,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         if len(chat_hist_dict_for_llm) > 0:
             payload = qa({"question": str(query), "chat_history": chat_hist_dict_for_llm})
         else:
-            payload = qa({"question": str(query), "chat_history": []})
+            payload = qa({"question": str(query), "chat_history": [],"jurisdiction":jurisdiction})
         source_urls = []
         for doc in payload['source_documents']:
             source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
