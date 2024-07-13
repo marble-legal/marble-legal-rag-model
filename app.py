@@ -56,6 +56,8 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         for doc in payload['source_documents']:
             source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
         # source_urls = list(set(source_urls))
+        if docs[0][1] < 0.1:
+            source_urls = []
         return payload['answer'],source_urls,False
     
     elif docs[0][1] >= 0.1:
@@ -111,4 +113,4 @@ def ask():
     return jsonify({"answer": answer,"source_documents":unique_source_documents,"follow_up":follow_up}), 200
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001)
+    app.run(host='0.0.0.0', port=5000)
