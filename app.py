@@ -61,7 +61,6 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     elif docs[0][1] >= 0.1:
         llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
-        query = new_question['text']
         doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
         test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
         qa = ConversationalRetrievalChain(
