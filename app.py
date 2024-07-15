@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     prompt_template = """
-        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the question or foolow up answer from chat history- {question} based on them the jurisdiction is US - {jurisdiction} state. Return only answer and nothing else.
+        Act as an expert lawyer and use the following pieces of context of cases and chat history to formulate an answer to the latest question or foolow up answer from chat history- {question} based on them the jurisdiction is US - {jurisdiction} state. Return only answer and nothing else.
         {context}
         Question: {question}
         Chat History: {chat_history}
@@ -31,7 +31,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
     docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
     if follow_up_flag:
         _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
-        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """Act as an expert lawyer. Now generate the question based on the last question from {chat_history} and the most recent answer {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate a final question that can be answered. Generate only question and nothing else."""
+        SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """Act as an expert lawyer. Now generate the question based on the latest question from {chat_history} and the most recent answer {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate a final question that can be answered. Generate only question and nothing else."""
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
         new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query,"jurisdiction":jurisdiction})
