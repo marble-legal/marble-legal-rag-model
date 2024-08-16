@@ -53,18 +53,19 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         else:
             payload = qa({"question": str(query), "chat_history": [],"jurisdiction":jurisdiction})
         source_urls = []
-        for doc in payload['source_documents']:
-            source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
+        print("docs: ", docs)
+        if docs[0][1] > 0.15:
+            for doc in payload['source_documents']:
+                source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
         # source_urls = list(set(source_urls))
-        if docs[0][1] < 0.1:
-            source_urls = []
+        
         return payload['answer'],source_urls,False
     
     elif docs[0][1] >= 0.1:
         llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
         doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
-        test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.1})
+        test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.15})
         qa = ConversationalRetrievalChain(
             combine_docs_chain=doc_chain,
             retriever=test_retriever,
