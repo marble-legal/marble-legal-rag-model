@@ -35,7 +35,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
         new_question = question_generator({"chat_history": chat_hist_dict_for_llm,"question":query,"jurisdiction":jurisdiction})
-        llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        llm = ChatOpenAI(model_name='gpt-4o-2024-08-06', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
         query = new_question['text']
         docs = loaded_db.similarity_search_with_relevance_scores(query=query,k=1)
@@ -54,7 +54,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
             payload = qa({"question": str(query), "chat_history": [],"jurisdiction":jurisdiction})
         source_urls = []
         print("docs: ", docs)
-        if docs[0][1] > 0.15:
+        if docs[0][1] > 0.2:
             for doc in payload['source_documents']:
                 source_urls.append(json.loads(doc.metadata['source'].replace('\'','"')))
         # source_urls = list(set(source_urls))
@@ -62,7 +62,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         return payload['answer'],source_urls,False
     
     elif docs[0][1] >= 0.1:
-        llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        llm = ChatOpenAI(model_name='gpt-4o-2024-08-06', temperature=0)
         question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
         doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=PROMPT)
         test_retriever = loaded_db.as_retriever(search_type="similarity_score_threshold",search_kwargs={'score_threshold':0.15})
@@ -84,7 +84,7 @@ def chat_scale_ai(query,history,jurisdiction,follow_up_flag):
         return payload['answer'],source_urls,False
     
     else:
-        _llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+        _llm = ChatOpenAI(model_name='gpt-4o-2024-08-06', temperature=0)
         SECOND_FOLLOW_UP_PROMPT_TEMPLATE = """Act as an expert lawyer. Now generate the question based on the {chat_history} and the most recent query {question} the jurisdiction is US - {jurisdiction} state. Identify the main subject of discussion from the chat history and query. Using this generate one question that you ask for additional information after the question to narrow down the choices or to get more clarity (DON'T paraphrase the question or ask similar question and also don't ask anything already present in this conversation, use this for context if related, and don't ask entirely new question only follow up question). Return only the new generated question in a well laid out text format :-  Q. and nothing else"""
         SECOND_FOLLOW_UP_PROMPT = PromptTemplate(template=SECOND_FOLLOW_UP_PROMPT_TEMPLATE,input_variables=["chat_history","question","jurisdiction"])  
         question_generator = LLMChain(llm=_llm, prompt=SECOND_FOLLOW_UP_PROMPT)
